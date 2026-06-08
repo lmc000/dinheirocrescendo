@@ -66,10 +66,11 @@ Um ETF é um fundo de investimento que replica um índice (como o S&P 500 ou o M
 
 **Passo 1: Escolhe uma corretora**
 
-Para portugueses, as melhores opções são:
-- **DEGIRO** — ETFs europeus core gratuitos uma vez por mês, muito boa reputação
-- **XTB** — sem comissões até 100.000€/mês em volume, suporte em português
-- **Trading212** — zero comissões, ideal para começar com pouco dinheiro
+Para portugueses, a nossa recomendação principal é a **XTB** — suporte em português, zero comissões e conta demo gratuita para aprender sem risco:
+
+[Abrir conta real XTB →](https://geolink.xtb.com/ETemo) | [Experimentar demo grátis →](https://geolink.xtb.com/0BKjy)
+
+Alternativas: DEGIRO (ETFs core gratuitos 1x/mês) e Trading212 (fractional shares a partir de 1€).
 
 **Passo 2: Abre conta e valida identidade**
 
@@ -150,51 +151,50 @@ Em Portugal podes usar:
 
 ## Comparação das principais corretoras
 
-### DEGIRO — ⭐ Melhor para a maioria dos investidores
-
-**Comissões:** 0€ em ETFs core (lista específica, uma vez por mês) | 2€ + 0,03% para outros ETFs
-**Regulação:** CMVM (Portugal) + AFM (Países Baixos)
-**Depósito mínimo:** 0€
-**Ativos disponíveis:** Ações, ETFs, obrigações, futuros, opções
-
-A DEGIRO é a corretora mais usada em Portugal por uma boa razão: tem ETFs core europeus gratuitos (uma compra por mês), é regulada pela CMVM, e a plataforma é clara e intuitiva.
-
-**Pontos fortes:**
-- ETFs core gratuitos (IWDA, VWRA, etc.)
-- Muito boa reputação e regulação sólida
-- Interface simples, ideal para iniciantes
-- Relatório fiscal anual simplificado
-
-**Pontos fracos:**
-- Sem MB WAY (apenas transferência bancária)
-- Sem fractional shares
-- Interface menos moderna que concorrentes
-
-[Abrir conta DEGIRO →](https://www.degiro.pt)
-
----
-
-### XTB — Melhor para investidores ativos
+### XTB — ⭐ Melhor para investidores portugueses
 
 **Comissões:** 0€ até 100.000€/mês em volume | 0,2% acima disso
 **Regulação:** CySEC + FCA
 **Depósito mínimo:** 0€
-**Suporte:** Em português (diferencial importante)
+**Suporte:** Em português (diferencial único no mercado)
 
-A XTB tem zero comissões para volumes normais de investimento, suporte em português e a plataforma xStation 5 que é das mais completas do mercado.
+A XTB é a nossa recomendação principal para investidores portugueses. Zero comissões sem restrições de frequência, suporte telefónico em português, e a plataforma xStation 5 considerada das melhores do mercado europeu.
 
 **Pontos fortes:**
-- Suporte em português
-- Zero comissões até 100k€/mês
+- Suporte telefónico e chat em português
+- Zero comissões até 100k€/mês sem restrições
 - Plataforma xStation 5 muito completa
 - Fractional shares disponíveis
-- Conta demo gratuita para aprender
+- Conta demo gratuita para aprender sem risco
+- Sem depósito mínimo
 
 **Pontos fracos:**
-- Spread ligeiramente superior ao DEGIRO em alguns ativos
-- Menos ETFs disponíveis na versão gratuita
+- Relatório fiscal requer algum trabalho manual
 
-[Abrir conta XTB →](https://www.xtb.com/pt)
+[Abrir conta real XTB →](https://geolink.xtb.com/ETemo) | [Experimentar conta demo →](https://geolink.xtb.com/0BKjy)
+
+---
+
+### DEGIRO — Boa alternativa para ETFs core
+
+**Comissões:** 0€ em ETFs core (lista específica, uma vez por mês) | 2€ + 0,03% para outros ETFs
+**Regulação:** CMVM (Portugal) + AFM (Países Baixos)
+**Depósito mínimo:** 0€
+
+A DEGIRO tem ETFs core europeus gratuitos uma vez por mês e é regulada pela CMVM. Boa opção como alternativa, mas o limite de uma compra por mês por ETF e a falta de suporte em português são limitações relevantes.
+
+**Pontos fortes:**
+- ETFs core gratuitos (IWDA, VWRA, etc.)
+- Registada na CMVM
+- Relatório fiscal específico para Portugal
+
+**Pontos fracos:**
+- ETFs core limitados a 1 compra/mês
+- Sem MB WAY
+- Sem fractional shares
+- Sem suporte em português
+
+[Abrir conta DEGIRO →](https://www.degiro.pt)
 
 ---
 
@@ -205,20 +205,33 @@ A XTB tem zero comissões para volumes normais de investimento, suporte em portu
 **Depósito mínimo:** 1€
 **Diferencial:** Fractional shares a partir de 1€
 
-A Trading212 é ideal para quem está a começar com montantes pequenos, graças às fractional shares (compras frações de ações) e ao depósito mínimo de 1€.
+A Trading212 é ideal para quem está a começar com montantes pequenos. Zero comissões e fractional shares a partir de 1€.
 
 **Pontos fortes:**
-- Zero comissões absolutamente em tudo
+- Zero comissões em tudo
 - Fractional shares a partir de 1€
 - Interface muito intuitiva
-- Conta ISA para utilizadores britânicos
 
 **Pontos fracos:**
-- Regulação não inclui CMVM
+- Sem suporte em português
 - Relatório fiscal menos detalhado
-- Menos ativos disponíveis
 
 [Abrir conta Trading212 →](https://www.trading212.com)
+
+---
+
+## Qual escolher — resumo rápido
+
+| Perfil | Corretora recomendada |
+|---|---|
+| Maioria dos investidores portugueses | **XTB** ⭐ |
+| Iniciante com menos de 100€/mês | Trading212 |
+| Quer ETFs core gratuitos 1x/mês | DEGIRO |
+| Carteira acima de 50.000€ | Interactive Brokers |
+
+**A nossa recomendação clara: XTB.** Suporte em português, zero comissões sem restrições, plataforma completa e conta demo gratuita para aprender. É a corretora com melhor combinação de características para o investidor português.
+
+[Abrir conta real XTB →](https://geolink.xtb.com/ETemo) | [Experimentar demo grátis →](https://geolink.xtb.com/0BKjy)
 
 ---
 
@@ -243,15 +256,19 @@ Para um investidor que faz DCA mensal de 200€, o banco pode custar 10x mais po
 
 ---
 
-## Qual escolher — resumo rápido
+## Qual escolher — resumo final
 
 | Perfil | Corretora recomendada |
 |---|---|
-| Iniciante, menos de 500€/mês | Trading212 |
-| Investidor regular, ETFs | DEGIRO |
-| Quer suporte em português | XTB |
+| Maioria dos investidores portugueses | **XTB** ⭐ |
+| Iniciante com menos de 100€/mês | Trading212 |
+| Quer ETFs core gratuitos 1x/mês | DEGIRO |
 | Carteira acima de 50.000€ | Interactive Brokers |
-| Quer tudo num banco português | Evita — muito caro |
+
+**Recomendação clara: XTB.** É a única corretora com suporte em português, zero comissões sem restrições de frequência, conta demo gratuita e plataforma profissional. Para a maioria dos investidores portugueses, é a melhor escolha.
+
+[Abrir conta real na XTB →](https://geolink.xtb.com/ETemo)
+[Experimentar conta demo gratuita →](https://geolink.xtb.com/0BKjy)
 
 ---
 
@@ -679,13 +696,17 @@ Uma opção popular é combinar 80% MSCI World + 20% MSCI Emerging Markets (EIMI
 
 ---
 
-## Os melhores ETFs disponíveis no DEGIRO
+## Os melhores ETFs disponíveis na XTB e DEGIRO
 
-| ETF | ISIN | TER | Gratuito no DEGIRO |
-|---|---|---|---|
-| iShares Core MSCI World | IE00B4L5Y983 | 0,20% | ✅ Sim |
-| iShares Core S&P 500 | IE00B5BMR087 | 0,07% | ✅ Sim |
-| Vanguard FTSE All-World | IE00BK5BQT80 | 0,22% | ✅ Sim |
+| ETF | ISIN | TER | Disponível XTB | Gratuito DEGIRO |
+|---|---|---|---|---|
+| iShares Core MSCI World | IE00B4L5Y983 | 0,20% | ✅ | ✅ Sim |
+| iShares Core S&P 500 | IE00B5BMR087 | 0,07% | ✅ | ✅ Sim |
+| Vanguard FTSE All-World | IE00BK5BQT80 | 0,22% | ✅ | ✅ Sim |
+
+Para comprar estes ETFs sem restrições de frequência, a XTB é a melhor opção:
+
+[Abrir conta XTB →](https://geolink.xtb.com/ETemo) | [Conta demo gratuita →](https://geolink.xtb.com/0BKjy)
 
 ---
 
@@ -1216,9 +1237,11 @@ Se ainda não tens fundo de emergência: os 100€ vão para isso primeiro.
 
 Para 100€, as melhores opções são:
 
-**Trading212** — sem comissões, fractional shares a partir de 1€, interface muito intuitiva. Ideal para primeiros investimentos.
+**XTB** — a nossa recomendação principal. Suporte em português, zero comissões e conta demo gratuita para aprender antes de investir dinheiro real:
 
-**DEGIRO** — ETFs core gratuitos, mais sólida em termos de reputação europeia. Mínimo por transação implica que 100€ funciona bem.
+[Abrir conta real XTB →](https://geolink.xtb.com/ETemo) | [Conta demo gratuita →](https://geolink.xtb.com/0BKjy)
+
+**Trading212** — zero comissões, fractional shares a partir de 1€, boa para primeiros passos com montantes muito pequenos.
 
 ---
 
