@@ -121,6 +121,16 @@ Pontos importantes:
 
 ---
 
+---
+
+## 📚 Quer aprofundar os teus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, ensinado por um professor universitário certificado (CPA, MBA). Cobre ETFs, ações, obrigações e estratégias de longo prazo em inglês.
+
+[Ver curso na Udemy →](https://trk.udemy.com/rEOV3v)
+
+---
+
 *Este artigo é de caráter informativo e não constitui aconselhamento financeiro. Investe sempre de acordo com o teu perfil de risco e objetivos pessoais.*
     `
   },
@@ -710,6 +720,16 @@ Para comprar estes ETFs sem restrições de frequência, a XTB é a melhor opç�
 
 ---
 
+---
+
+## 📚 Quer aprofundar os teus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy explora em detalhe as diferenças entre índices e como construir uma carteira de ETFs diversificada. Mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](https://trk.udemy.com/rEOV3v)
+
+---
+
 *Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
@@ -999,6 +1019,16 @@ A diferença entre uma taxa de 0,2%/ano (ETF) e 1,5%/ano (fundo ativo) parece pe
 
 ---
 
+---
+
+## 📚 Quer aprofundar os teus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy cobre em detalhe como aplicar os juros compostos na prática através de ETFs e fundos índice. Mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](https://trk.udemy.com/rEOV3v)
+
+---
+
 *Este artigo é de caráter educativo e não constitui aconselhamento financeiro.*
     `
   },
@@ -1092,6 +1122,16 @@ Com taxa de poupança de 50%, uma pessoa que começa a trabalhar aos 25 anos pod
 3. **Abre conta na DEGIRO ou XTB** e começa a investir em ETFs
 4. **Aumenta gradualmente a taxa de poupança** — cada 1% que aumentas adianta meses ou anos a caminho da independência
 5. **Usa ferramentas como o simulador** na página Ferramentas deste site
+
+---
+
+---
+
+## 📚 Quer aprofundar os teus conhecimentos?
+
+Para quem quer perceber melhor como construir a carteira de investimentos que leva à independência financeira, o curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um excelente ponto de partida — 74.000+ alunos e professor certificado.
+
+[Ver curso na Udemy →](https://trk.udemy.com/rEOV3v)
 
 ---
 
@@ -1290,6 +1330,16 @@ Define uma transferência automática para a corretora no dia do salário — me
 - **Não vender porque o mercado caiu** — quedas são normais e temporárias. Em 30 anos de mercado, não há período de 10+ anos com retorno negativo no MSCI World.
 - **Não diversificar demasiado** — com 100€ não precisas de 5 ETFs diferentes. Um ETF global é suficiente.
 - **Não esperar o "momento certo"** — não existe. O melhor momento é agora.
+
+---
+
+---
+
+## 📚 Quer aprender mais antes de investir?
+
+Se quiseres consolidar os teus conhecimentos antes de avançar, o curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é ideal — começa do zero, cobre ETFs e estratégias de longo prazo, e tem mais de 74.000 alunos.
+
+[Ver curso na Udemy →](https://trk.udemy.com/rEOV3v)
 
 ---
 
