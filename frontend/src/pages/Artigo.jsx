@@ -1,111 +1,112 @@
 import { useParams, Link } from "react-router-dom";
-import { ArrowLeft, Clock, Calendar, ExternalLink } from "lucide-react";
+import { ArrowLeft, Clock, Calendar, AlertCircle } from "lucide-react";
+import { Header } from "../components/landing/Header";
+import { FooterSection } from "../components/landing/FooterSection";
 import artigos from "../data/artigos";
-import Header from "@/components/landing/Header";
-import FooterSection from "@/components/landing/FooterSection";
 
-const CAT_LABELS = {
-    carrinho: "Carrinhos", sono: "Sono", alimentacao: "Alimentação",
-    higiene: "Higiene", seguranca: "Segurança", saude: "Saúde",
-    estimulacao: "Estimulação", gravidez: "Gravidez",
-};
+function parseLine(text) {
+    // Bold **texto**
+    const parts = text.split(/(\*\*[^*]+\*\*)/g);
+    return parts.map((part, i) => {
+        if (part.startsWith("**") && part.endsWith("**")) {
+            return <strong key={i} className="font-bold text-[#0A1628]">{part.slice(2, -2)}</strong>;
+        }
+        // Links [texto](url)
+        const linkParts = part.split(/(\[[^\]]+\]\([^)]+\))/g);
+        return linkParts.map((lp, j) => {
+            const match = lp.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+            if (match) {
+                return (
+                    <a key={j} href={match[2]} target="_blank" rel="noopener noreferrer"
+                        className="text-[#1D4ED8] font-semibold hover:underline inline-flex items-center gap-1">
+                        {match[1]} →
+                    </a>
+                );
+            }
+            return lp;
+        });
+    });
+}
 
-function renderContent(text) {
-    const lines = text.trim().split("\n");
+function renderContent(content) {
+    const lines = content.split("\n");
     const elements = [];
-    let i = 0;
     let key = 0;
+    let i = 0;
 
     while (i < lines.length) {
         const line = lines[i];
-        if (line.trim() === "") { i++; continue; }
-        if (line.trim() === "---") {
-            elements.push(<hr key={key++} className="my-6 border-[#E8F5F3]" />);
-            i++; continue;
-        }
-        if (line.trim().startsWith("|")) {
-            const tableLines = [];
-            while (i < lines.length && lines[i].trim().startsWith("|")) {
-                tableLines.push(lines[i]); i++;
+
+        if (line.trim() === "" || line.trim() === "---") {
+            if (line.trim() === "---") {
+                elements.push(<hr key={key++} className="border-slate-200 my-8" />);
             }
-            const headers = tableLines[0].split("|").filter(c => c.trim()).map(c => c.trim());
-            const rows = tableLines.slice(2).map(row => row.split("|").filter(c => c.trim()).map(c => c.trim()));
+            i++;
+            continue;
+        }
+
+        // Tabela
+        if (line.includes("|") && lines[i + 1]?.includes("|---")) {
+            const tableLines = [];
+            while (i < lines.length && lines[i].includes("|")) {
+                tableLines.push(lines[i]);
+                i++;
+            }
+            const headers = tableLines[0].split("|").filter(Boolean).map(h => h.trim());
+            const rows = tableLines.slice(2).map(r => r.split("|").filter(Boolean).map(c => c.trim()));
             elements.push(
-                <div key={key++} className="overflow-x-auto my-6 rounded-2xl border border-[#E8F5F3]">
-                    <table className="w-full border-collapse text-sm">
-                        <thead><tr>{headers.map((h, j) => (
-                            <th key={j} className="px-4 py-3 text-left font-bold text-white text-sm" style={{ backgroundColor: "#2A9D8F" }}>{h}</th>
-                        ))}</tr></thead>
-                        <tbody>{rows.map((row, ri) => (
-                            <tr key={ri} className={ri % 2 === 0 ? "bg-white" : "bg-[#F5FAFA]"}>
-                                {row.map((cell, ci) => (
-                                    <td key={ci} className="px-4 py-3 text-sm text-[#3D6B65] border-b border-[#E8F5F3]">{cell}</td>
-                                ))}
+                <div key={key++} className="overflow-x-auto my-6">
+                    <table className="w-full text-sm border-collapse">
+                        <thead>
+                            <tr className="bg-[#0A1628] text-white">
+                                {headers.map((h, j) => <th key={j} className="px-4 py-3 text-left font-bold">{h}</th>)}
                             </tr>
-                        ))}</tbody>
+                        </thead>
+                        <tbody>
+                            {rows.map((row, j) => (
+                                <tr key={j} className={j % 2 === 0 ? "bg-white" : "bg-slate-50"}>
+                                    {row.map((cell, k) => <td key={k} className="px-4 py-3 border-b border-slate-100 text-slate-700">{parseLine(cell)}</td>)}
+                                </tr>
+                            ))}
+                        </tbody>
                     </table>
                 </div>
             );
             continue;
         }
-        if (line.startsWith("### ")) {
-            elements.push(<h3 key={key++} className="text-xl font-bold text-[#1A3C38] mt-8 mb-3">{parseLine(line.slice(4))}</h3>);
-            i++; continue;
-        }
+
+        // H2
         if (line.startsWith("## ")) {
-            elements.push(<h2 key={key++} className="text-2xl font-bold text-[#1A3C38] mt-10 mb-4 pb-2 border-b border-[#E8F5F3]">{parseLine(line.slice(3))}</h2>);
+            elements.push(<h2 key={key++} className="text-2xl font-extrabold text-[#0A1628] mt-10 mb-4">{line.slice(3)}</h2>);
             i++; continue;
         }
-        if (line.startsWith("# ")) {
-            elements.push(<h1 key={key++} className="text-3xl font-extrabold text-[#1A3C38] mt-6 mb-4">{parseLine(line.slice(2))}</h1>);
+
+        // H3
+        if (line.startsWith("### ")) {
+            elements.push(<h3 key={key++} className="text-xl font-bold text-[#0A1628] mt-8 mb-3">{line.slice(4)}</h3>);
             i++; continue;
         }
+
+        // Lista com - ou *
         if (line.startsWith("- ") || line.startsWith("* ")) {
-            const prefix = line.startsWith("- ") ? "- " : "* ";
             const items = [];
             while (i < lines.length && (lines[i].startsWith("- ") || lines[i].startsWith("* "))) {
                 items.push(lines[i].slice(2)); i++;
             }
-            elements.push(<ul key={key++} className="list-disc list-inside space-y-2 my-4 text-[#3D6B65]">
-                {items.map((item, j) => <li key={j} className="leading-relaxed">{parseLine(item)}</li>)}
-            </ul>);
+            elements.push(
+                <ul key={key++} className="list-disc list-inside space-y-2 my-4 text-slate-600">
+                    {items.map((item, j) => <li key={j} className="leading-relaxed">{parseLine(item)}</li>)}
+                </ul>
+            );
             continue;
         }
-        if (/^\d+\./.test(line)) {
-            const items = [];
-            while (i < lines.length && /^\d+\./.test(lines[i])) { items.push(lines[i].replace(/^\d+\.\s*/, "")); i++; }
-            elements.push(<ol key={key++} className="list-decimal list-inside space-y-2 my-4 text-[#3D6B65]">
-                {items.map((item, j) => <li key={j} className="leading-relaxed">{parseLine(item)}</li>)}
-            </ol>);
-            continue;
-        }
-        elements.push(<p key={key++} className="text-[#3D6B65] leading-relaxed mb-4">{parseLine(line)}</p>);
+
+        // Parágrafo
+        elements.push(<p key={key++} className="text-slate-600 leading-relaxed my-3">{parseLine(line)}</p>);
         i++;
     }
-    return elements;
-}
 
-function parseLine(text) {
-    const parts = [];
-    const regex = /\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|\*([^*]+)\*/g;
-    let lastIndex = 0;
-    let match;
-    let key = 0;
-    while ((match = regex.exec(text)) !== null) {
-        if (match.index > lastIndex) parts.push(text.slice(lastIndex, match.index));
-        if (match[1] && match[2]) {
-            parts.push(<a key={key++} href={match[2]} target="_blank" rel="noopener noreferrer"
-                className="text-[#2A9D8F] font-semibold hover:underline inline-flex items-center gap-1">
-                {match[1]} <ExternalLink className="w-3 h-3 inline" /></a>);
-        } else if (match[3]) {
-            parts.push(<strong key={key++} className="text-[#1A3C38] font-bold">{match[3]}</strong>);
-        } else if (match[4]) {
-            parts.push(<em key={key++} className="italic">{match[4]}</em>);
-        }
-        lastIndex = regex.lastIndex;
-    }
-    if (lastIndex < text.length) parts.push(text.slice(lastIndex));
-    return parts.length === 0 ? text : parts;
+    return elements;
 }
 
 export default function Artigo() {
@@ -114,39 +115,47 @@ export default function Artigo() {
 
     if (!artigo) {
         return (
-            <div className="min-h-screen bg-[#F5FAFA] flex flex-col">
+            <div className="min-h-screen bg-[#F8FAFC]">
                 <Header />
-                <main className="flex-1 flex items-center justify-center flex-col gap-4 text-[#3D6B65] pt-28">
-                    <p className="text-5xl">👶</p>
-                    <p className="text-xl font-bold text-[#1A3C38]">Artigo não encontrado</p>
-                    <Link to="/blog" className="text-[#2A9D8F] font-semibold hover:underline">← Voltar ao blog</Link>
-                </main>
+                <div className="pt-40 text-center text-slate-500">
+                    <p className="text-xl font-bold text-[#0A1628] mb-4">Artigo não encontrado</p>
+                    <Link to="/blog" className="text-[#1D4ED8] font-bold hover:underline">← Voltar ao blog</Link>
+                </div>
                 <FooterSection />
             </div>
         );
     }
 
     return (
-        <div className="min-h-screen bg-[#F5FAFA]">
+        <div className="min-h-screen bg-[#F8FAFC]">
             <Header />
-            <main className="pt-28 pb-20 px-6 md:px-12 lg:px-24">
+            <main className="pt-32 pb-20 px-6 md:px-12 lg:px-24">
                 <div className="max-w-3xl mx-auto">
-                    <Link to="/blog" className="inline-flex items-center gap-2 text-[#2A9D8F] font-semibold mb-8 hover:underline">
+                    <Link to="/blog" className="inline-flex items-center gap-2 text-[#1D4ED8] font-bold mb-8 hover:gap-3 transition-all">
                         <ArrowLeft className="w-4 h-4" /> Voltar ao blog
                     </Link>
-                    <div className="mb-8">
-                        <span className="bg-[#E8F5F3] text-[#2A9D8F] text-xs font-bold px-3 py-1 rounded-full capitalize mb-4 inline-block">
-                            {CAT_LABELS[artigo.categoria] || artigo.categoria}
-                        </span>
-                        <h1 className="text-3xl sm:text-4xl font-extrabold text-[#1A3C38] leading-tight mb-4">{artigo.titulo}</h1>
-                        <p className="text-[#3D6B65] text-lg mb-4">{artigo.descricao}</p>
-                        <div className="flex items-center gap-4 text-[#3D6B65] text-sm">
-                            <span className="flex items-center gap-1"><Clock className="w-4 h-4" /> {artigo.tempoLeitura}</span>
-                            <span className="flex items-center gap-1"><Calendar className="w-4 h-4" /> {artigo.data}</span>
-                        </div>
-                    </div>
-                    <div className="prose max-w-none">{renderContent(artigo.conteudo)}</div>
 
+                    <span className="inline-block bg-blue-50 text-[#1D4ED8] text-sm font-bold px-4 py-1.5 rounded-full mb-4 capitalize">
+                        {artigo.categoria}
+                    </span>
+
+                    <h1 className="text-3xl sm:text-4xl font-extrabold text-[#0A1628] leading-tight mb-6">
+                        {artigo.titulo}
+                    </h1>
+
+                    <div className="flex flex-wrap items-center gap-4 text-sm text-slate-400 mb-8 pb-8 border-b border-slate-200">
+                        <span className="flex items-center gap-1"><Clock className="w-4 h-4" /> {artigo.tempoLeitura}</span>
+                        <span className="flex items-center gap-1"><Calendar className="w-4 h-4" /> {artigo.data}</span>
+                    </div>
+
+                    <div className="bg-amber-50 border border-amber-200 rounded-2xl p-4 mb-8 flex gap-3">
+                        <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
+                        <p className="text-sm text-amber-800">
+                            <strong>Aviso:</strong> Este artigo é de caráter informativo e não constitui aconselhamento financeiro. Investe sempre de acordo com o teu perfil de risco e objetivos pessoais.
+                        </p>
+                    </div>
+
+                    <div className="prose max-w-none">{renderContent(artigo.conteudo)}</div>
                 </div>
             </main>
             <FooterSection />
