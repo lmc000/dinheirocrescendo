@@ -4,11 +4,39 @@ import { FooterSection } from "../components/landing/FooterSection";
 
 const CORRETORAS = [
     {
-        nome: "DEGIRO",
-        tag: "⭐ Mais recomendada",
+        nome: "XTB",
+        tag: "⭐ Recomendada para Portugal",
         tagColor: "#1D4ED8",
-        descricao: "A corretora mais usada em Portugal. ETFs europeus core gratuitos uma vez por mês, regulada pela CMVM e interface simples.",
-        rating: 4.8,
+        descricao: "A nossa recomendação principal para portugueses. Zero comissões sem restrições, suporte telefónico em português e conta demo gratuita para aprender sem risco.",
+        rating: 4.9,
+        link: "https://geolink.xtb.com/ETemo",
+        linkDemo: "https://geolink.xtb.com/0BKjy",
+        pros: [
+            "Suporte telefónico e chat em português",
+            "Zero comissões até 100.000€/mês sem restrições",
+            "Conta demo gratuita para aprender",
+            "Plataforma xStation 5 muito completa",
+            "Fractional shares disponíveis",
+            "Sem depósito mínimo",
+        ],
+        cons: [
+            "Relatório fiscal requer algum trabalho manual",
+            "Não registada na CMVM",
+        ],
+        detalhe: [
+            { label: "Comissão ETFs", value: "0€ (até 100k€/mês)" },
+            { label: "Comissão ações", value: "0€ (até 100k€/mês)" },
+            { label: "Regulação", value: "CySEC + KNF" },
+            { label: "Depósito mínimo", value: "0€" },
+            { label: "Fractional shares", value: "Sim" },
+        ],
+    },
+    {
+        nome: "DEGIRO",
+        tag: "🇵🇹 Regulada pela CMVM",
+        tagColor: "#059669",
+        descricao: "Registada na CMVM portuguesa. ETFs europeus core gratuitos uma vez por mês e relatório fiscal específico para Portugal.",
+        rating: 4.7,
         link: "https://www.degiro.pt",
         pros: [
             "ETFs core gratuitos (IWDA, VWRA, CSPX...)",
@@ -20,8 +48,8 @@ const CORRETORAS = [
         cons: [
             "ETFs core limitados a 1 compra/mês por ETF",
             "Sem fractional shares",
+            "Sem suporte em português",
             "Interface menos moderna",
-            "Securities lending na conta básica",
         ],
         detalhe: [
             { label: "Comissão ETFs", value: "0€ (core, 1x/mês)" },
@@ -32,37 +60,10 @@ const CORRETORAS = [
         ],
     },
     {
-        nome: "XTB",
-        tag: "🏆 Melhor suporte PT",
-        tagColor: "#7C3AED",
-        descricao: "Zero comissões sem restrições de frequência, suporte em português e a plataforma xStation 5 considerada das melhores do mercado.",
-        rating: 4.7,
-        link: "https://www.xtb.com/pt",
-        pros: [
-            "Zero comissões até 100.000€/mês",
-            "Suporte telefónico em português",
-            "Plataforma xStation 5 muito completa",
-            "Fractional shares disponíveis",
-            "Conta demo gratuita",
-        ],
-        cons: [
-            "Não registada na CMVM",
-            "Relatório fiscal menos adaptado a Portugal",
-            "Spread ligeiramente mais alto em alguns ETFs",
-        ],
-        detalhe: [
-            { label: "Comissão ETFs", value: "0€ (até 100k€/mês)" },
-            { label: "Comissão ações PT", value: "0€ (até 100k€/mês)" },
-            { label: "Regulação", value: "CySEC + KNF" },
-            { label: "Depósito mínimo", value: "0€" },
-            { label: "Fractional shares", value: "Sim" },
-        ],
-    },
-    {
         nome: "Trading212",
-        tag: "🆓 Ideal para começar",
-        tagColor: "#059669",
-        descricao: "Zero comissões absolutas e fractional shares a partir de 1€. Perfeito para quem começa com pouco capital.",
+        tag: "🆓 Para começar com pouco",
+        tagColor: "#7C3AED",
+        descricao: "Zero comissões absolutas e fractional shares a partir de 1€. Perfeito para quem começa com capital reduzido.",
         rating: 4.5,
         link: "https://www.trading212.com",
         pros: [
@@ -70,17 +71,15 @@ const CORRETORAS = [
             "Fractional shares a partir de 1€",
             "Interface muito intuitiva",
             "Depósito mínimo de 1€",
-            "MB WAY disponível",
         ],
         cons: [
+            "Sem suporte em português",
             "Não registada na CMVM",
             "Relatório fiscal básico",
-            "Menos ETFs disponíveis",
-            "Securities lending ativo",
         ],
         detalhe: [
             { label: "Comissão ETFs", value: "0€ sempre" },
-            { label: "Comissão ações PT", value: "0€ sempre" },
+            { label: "Comissão ações", value: "0€ sempre" },
             { label: "Regulação", value: "FCA + CySEC" },
             { label: "Depósito mínimo", value: "1€" },
             { label: "Fractional shares", value: "Sim (1€ mín.)" },
@@ -88,22 +87,20 @@ const CORRETORAS = [
     },
     {
         nome: "Interactive Brokers",
-        tag: "🔬 Para avançados",
+        tag: "🔬 Para carteiras grandes",
         tagColor: "#DC2626",
-        descricao: "A corretora dos investidores profissionais. Custos mínimos, acesso a todos os mercados globais, ideal para carteiras acima de 50.000€.",
+        descricao: "A corretora dos investidores profissionais. Custos mínimos e acesso a todos os mercados globais. Ideal para carteiras acima de 50.000€.",
         rating: 4.6,
         link: "https://www.interactivebrokers.com",
         pros: [
             "Custos muito baixos para grandes volumes",
             "Acesso a praticamente todos os mercados",
-            "Muito sólida e regulada (SEC, FCA, etc.)",
-            "Juros competitivos sobre cash",
+            "Muito sólida e regulada",
         ],
         cons: [
             "Interface complexa para iniciantes",
-            "Mínimo de atividade (ou taxa mensal)",
-            "Suporte menos ágil para europeus",
-            "Não adequada para iniciantes",
+            "Sem suporte em português",
+            "Portugal excluído do programa de referral",
         ],
         detalhe: [
             { label: "Comissão ETFs", value: "0,05% (mín. 1$)" },
@@ -194,10 +191,17 @@ export default function Corretoras() {
                                 </div>
 
                                 <a href={c.link} target="_blank" rel="noopener noreferrer"
-                                    className="inline-flex items-center justify-center gap-2 text-white rounded-full px-6 py-3 font-bold text-sm w-full transition-all hover:opacity-90"
+                                    className="inline-flex items-center justify-center gap-2 text-white rounded-full px-6 py-3 font-bold text-sm w-full transition-all hover:opacity-90 mb-2"
                                     style={{ background: c.tagColor }}>
                                     Abrir conta no {c.nome} <ExternalLink className="w-4 h-4" />
                                 </a>
+                                {c.linkDemo && (
+                                    <a href={c.linkDemo} target="_blank" rel="noopener noreferrer"
+                                        className="inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 font-bold text-sm w-full transition-all border-2 hover:opacity-80"
+                                        style={{ borderColor: c.tagColor, color: c.tagColor }}>
+                                        Experimentar conta demo gratuita
+                                    </a>
+                                )}
                             </div>
                         ))}
                     </div>
