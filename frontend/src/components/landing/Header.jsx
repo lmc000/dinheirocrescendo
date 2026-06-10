@@ -29,7 +29,7 @@ export const Header = () => {
                         <TrendingUp className="w-5 h-5 text-white" strokeWidth={2.5} />
                     </span>
                     <span className="font-extrabold text-xl md:text-2xl text-white tracking-tight">
-                        Aprender a Investir
+                        Dinheiro Crescendo
                     </span>
                 </Link>
 

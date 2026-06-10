@@ -1,14 +1,14 @@
 import { BookOpen, CheckCircle, Download, Shield } from "lucide-react";
 
-// 🔧 SUBSTITUI PELO TEU LINK DO GUMROAD
-const GUMROAD_URL = "https://mysticosta4.gumroad.com/l/alimentacao_gatos";
+// 🔧 SUBSTITUA PELO SEU LINK DO GUMROAD
+const GUMROAD_URL = "PLACEHOLDER_GUMROAD_LINK";
 
 const BENEFICIOS = [
-  "Tabelas de quantidades por peso e fase de vida",
-  "Planos semanais dia a dia (gatinho, adulto, sénior)",
-  "Como ler rótulos e comparação de marcas",
-  "Alimentos tóxicos e sinais de alerta",
-  "Suplementos e protocolos veterinários",
+  "Plano passo a passo para o primeiro investimento",
+  "Como montar a reserva de emergência (Tesouro Selic e CDB)",
+  "Carteiras modelo com ETFs da B3 (BOVA11, IVVB11, WRLD11)",
+  "Imposto de Renda sem mistério: isenções e DARF",
+  "Erros de iniciante que custam caro — e como evitar",
 ];
 
 export const EbookSection = () => {
@@ -28,18 +28,18 @@ export const EbookSection = () => {
               style={{ background: "linear-gradient(160deg, #FF6B35, #E55A24)" }}
             >
               <div className="p-5 text-center">
-                <div className="text-3xl mb-2">🐾</div>
+                <div className="text-3xl mb-2">📈</div>
                 <p className="text-white/60 text-[9px] font-bold uppercase tracking-widest">
-                  Plano de Alimentação
+                  Guia para Começar
                 </p>
                 <p className="text-white font-black text-base leading-tight">
-                  PARA GATOS
+                  A INVESTIR
                 </p>
-                <p className="text-white/50 text-[9px] mt-1">28 páginas · PDF</p>
+                <p className="text-white/50 text-[9px] mt-1">PDF · download imediato</p>
               </div>
               <div className="bg-black/20 py-1.5 text-center">
                 <p className="text-white/50 text-[9px] font-bold tracking-wider">
-                  CoisasParaGatos.pt
+                  DinheiroCrescendo.com.br
                 </p>
               </div>
             </div>
@@ -48,7 +48,7 @@ export const EbookSection = () => {
               className="absolute -bottom-3 -right-3 w-16 h-16 rounded-full flex flex-col items-center justify-center shadow-lg border-2 border-white/10 text-center"
               style={{ background: "#FF6B35" }}
             >
-              <span className="text-white font-black text-sm leading-none">2,99€</span>
+              <span className="text-white font-black text-sm leading-none">R$ 19</span>
               <span className="text-white/70 text-[9px] leading-none mt-0.5">ou mais</span>
             </div>
           </div>
@@ -61,12 +61,12 @@ export const EbookSection = () => {
             </span>
 
             <h2 className="text-2xl sm:text-3xl font-extrabold leading-tight mb-2">
-              Guia de Alimentação{" "}
-              <span style={{ color: "#FF9F87" }}>para Gatos</span>
+              Guia para Começar{" "}
+              <span style={{ color: "#FF9F87" }}>a Investir no Brasil</span>
             </h2>
             <p className="text-white/60 text-sm mb-4">
-              28 páginas com tabelas nutricionais, planos semanais e protocolos
-              veterinários — baseado em ciência, adaptado para Portugal.
+              Tudo o que o iniciante precisa: reserva de emergência, Tesouro Direto,
+              ETFs da B3 e Imposto de Renda — explicado de forma simples e direta.
             </p>
 
             <ul className="space-y-2 mb-5">
@@ -87,7 +87,7 @@ export const EbookSection = () => {
                 style={{ background: "#FF6B35" }}
               >
                 <Download className="w-4 h-4" />
-                Descarregar — 2,99€ ou o que quiseres
+                Baixar — R$ 19 ou quanto você quiser
               </a>
               <div className="flex items-center gap-1.5 text-white/30 text-xs">
                 <Shield className="w-3.5 h-3.5" />

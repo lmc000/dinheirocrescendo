@@ -5,1280 +5,1309 @@ const artigos = [
   {
     slug: "o-que-e-a-bolsa-de-valores",
     titulo: "O que é a Bolsa de Valores e Como Funciona? (Guia para Iniciantes 2026)",
-    descricao: "Explica\u00e7\u00e3o simples e clara sobre o que \u00e9 a bolsa de valores, como funciona, quem pode investir e por onde come\u00e7ar em Portugal.",
+    descricao: "Explicação simples e clara sobre o que é a bolsa de valores, como funciona a B3, quem pode investir e por onde começar no Brasil.",
     categoria: "basicos",
     data: "2026-06-01",
     tempoLeitura: "8 min",
     conteudo: `
-A bolsa de valores \u00e9 um mercado organizado onde empresas vendem partes de si pr\u00f3prias (a\u00e7\u00f5es) ao p\u00fablico em troca de capital. Os investidores compram essas partes esperando que o valor aumente ao longo do tempo ou que recebam dividendos.
+A bolsa de valores é um mercado organizado onde empresas vendem partes de si próprias (ações) ao público em troca de capital. Os investidores compram essas partes esperando que o valor aumente ao longo do tempo ou que recebam dividendos.
 
 ---
 
-## O que \u00e9 exatamente a bolsa?
+## O que é exatamente a bolsa?
 
-Imagina um mercado de peixe — mas em vez de peixe, vendem-se partes de empresas. A NYSE (Nova Iorque), o Euronext Lisboa ou a Bolsa de Londres s\u00e3o exemplos de mercados organizados onde esses "peda\u00e7os de empresa" (a\u00e7\u00f5es) s\u00e3o comprados e vendidos todos os dias.
+Imagine uma feira — mas em vez de frutas, vendem-se partes de empresas. A NYSE (Nova York), a B3 (a bolsa brasileira, em São Paulo) ou a Bolsa de Londres são exemplos de mercados organizados onde esses "pedaços de empresa" (ações) são comprados e vendidos todos os dias.
 
-Quando uma empresa quer crescer e precisa de capital — para contratar, desenvolver produtos ou expandir — pode dividir-se em milh\u00f5es de partes iguais (a\u00e7\u00f5es) e vend\u00ea-las ao p\u00fablico. Se comprares uma a\u00e7\u00e3o da Apple, s\u00e3o literalmente donas de uma fra\u00e7\u00e3o da Apple Inc.
-
----
-
-## Como o pre\u00e7o de uma a\u00e7\u00e3o \u00e9 determinado?
-
-O pre\u00e7o resulta da oferta e da procura. Se muita gente quer comprar uma a\u00e7\u00e3o (porque a empresa est\u00e1 a crescer, ou h\u00e1 boas not\u00edcias), o pre\u00e7o sobe. Se muita gente quer vender (maus resultados, crise, incerteza), o pre\u00e7o desce.
-
-A longo prazo, o pre\u00e7o tende a refletir o desempenho real da empresa — os lucros que gera e o crescimento esperado.
+Quando uma empresa quer crescer e precisa de capital — para contratar, desenvolver produtos ou expandir — ela pode se dividir em milhões de partes iguais (ações) e vendê-las ao público. Se você compra uma ação da Petrobras (PETR4), você é literalmente dono de uma fração da Petrobras.
 
 ---
 
-## Quem pode investir em bolsa?
+## Como o preço de uma ação é determinado?
 
-Qualquer pessoa com mais de 18 anos e residente em Portugal pode investir. N\u00e3o precisas de grande capital — plataformas como a XTB ou a Trading212 permitem come\u00e7ar a partir de 1\u20ac.
+O preço resulta da oferta e da demanda. Se muita gente quer comprar uma ação (porque a empresa está crescendo, ou há boas notícias), o preço sobe. Se muita gente quer vender (resultados ruins, crise, incerteza), o preço cai.
 
-O processo \u00e9 simples:
-1. Abres conta numa corretora online
-2. Transferes dinheiro
-3. Compras a\u00e7\u00f5es ou ETFs diretamente pela plataforma
+No longo prazo, o preço tende a refletir o desempenho real da empresa — os lucros que gera e o crescimento esperado.
 
 ---
 
-## A\u00e7\u00f5es vs ETFs — qual a diferen\u00e7a?
+## Quem pode investir na bolsa?
 
-**A\u00e7\u00f5es individuais:** Compras uma parte de uma empresa espec\u00edfica (ex: Galp, EDP, Apple). Risco concentrado — se a empresa correr mal, perdes.
+Qualquer pessoa com mais de 18 anos, CPF e residente no Brasil pode investir. Você não precisa de muito capital — corretoras como XP, Rico e NuInvest têm corretagem zero, e dá para começar com menos de R$ 100 via ETFs e fundos.
 
-**ETFs (Exchange Traded Funds):** Compras um "cesto" com centenas ou milhares de empresas de uma vez. Um \u00fanico ETF global d\u00e1-te exposi\u00e7\u00e3o \u00e0 Apple, Microsoft, Toyota, Nestl\u00e9 e mais 1.496 outras. O risco de uma empresa ir \u00e0 fal\u00eancia desaparece praticamente.
+O processo é simples:
+1. Abra conta em uma corretora online (gratuito, só precisa de CPF e documento)
+2. Transfira dinheiro via PIX ou TED
+3. Compre ações ou ETFs diretamente pelo aplicativo
 
-Para a maioria dos investidores portugueses, os **ETFs s\u00e3o a melhor escolha** — mais simples, mais baratos e historicamente mais eficazes do que escolher a\u00e7\u00f5es individuais.
+---
+
+## Ações vs ETFs — qual a diferença?
+
+**Ações individuais:** você compra uma parte de uma empresa específica (ex: Petrobras PETR4, Vale VALE3, Itaú ITUB4, WEG WEGE3). Risco concentrado — se a empresa for mal, você perde.
+
+**ETFs (Exchange Traded Funds):** você compra uma "cesta" com dezenas ou centenas de empresas de uma vez. O BOVA11, por exemplo, replica o Ibovespa inteiro; o IVVB11 dá exposição às 500 maiores empresas dos EUA. O risco de uma única empresa quebrar praticamente desaparece.
+
+Para a maioria dos investidores brasileiros, os **ETFs são a melhor escolha** — mais simples, mais baratos e historicamente mais eficazes do que escolher ações individuais.
 
 ---
 
 ## Quanto se pode ganhar?
 
-O \u00edndice MSCI World (que representa as 1.500 maiores empresas do mundo desenvolvido) retornou em m\u00e9dia ~10% ao ano nas \u00faltimas d\u00e9cadas. Isso significa que 10.000\u20ac investidos crescem para:
-- ~16.000\u20ac em 5 anos
-- ~67.000\u20ac em 20 anos
-- ~174.000\u20ac em 30 anos
+O índice S&P 500 (as 500 maiores empresas dos EUA, acessível via IVVB11) retornou em média ~10% ao ano em dólar nas últimas décadas. Isso significa que R$ 50.000 investidos crescem para:
+- ~R$ 80.000 em 5 anos
+- ~R$ 335.000 em 20 anos
+- ~R$ 870.000 em 30 anos
 
-Mas aten\u00e7\u00e3o: esses ganhos n\u00e3o s\u00e3o lineares. A bolsa sobe e desce no curto prazo — em 2020 caiu 34% em semanas, e recuperou tudo em menos de 6 meses. Quem n\u00e3o vendeu no p\u00e2nico saiu beneficiado.
-
----
-
-## Riscos que deves conhecer
-
-**Volatilidade:** O valor das a\u00e7\u00f5es oscila diariamente. Num crah grave, podes ver -30% ou -40% temporariamente.
-
-**Risco espec\u00edfico:** Se investires s\u00f3 numa empresa, ela pode ir \u00e0 fal\u00eancia. ETFs diversificados eliminam este risco.
-
-**Risco cambial:** Se investires em ETFs em d\u00f3lares, as flutua\u00e7\u00f5es EUR/USD afetam o teu retorno.
-
-**A regra mais importante:** Investe apenas dinheiro que n\u00e3o precisas nos pr\u00f3ximos 5 anos. A curto prazo, podes perder — a longo prazo, a hist\u00f3ria mostra recupera\u00e7\u00e3o consistente.
+Mas atenção: esses ganhos não são lineares. A bolsa sobe e desce no curto prazo — em 2020 caiu mais de 30% em semanas, e recuperou tudo em menos de um ano. Quem não vendeu no pânico saiu ganhando.
 
 ---
 
-## Por onde come\u00e7ar em Portugal?
+## Riscos que você deve conhecer
 
-O passo mais f\u00e1cil \u00e9 abrir conta numa corretora. A XTB \u00e9 a nossa recomenda\u00e7\u00e3o para portugueses — suporte em portugu\u00eas, zero comiss\u00f5es e conta demo gratuita para aprender sem arriscar dinheiro real:
+**Volatilidade:** o valor das ações oscila diariamente. Em uma crise grave, você pode ver -30% ou -40% temporariamente.
 
-[Abrir conta real XTB \u2192](https://geolink.xtb.com/ETemo) | [Experimentar demo gr\u00e1tis \u2192](https://geolink.xtb.com/0BKjy)
+**Risco específico:** se você investe em uma única empresa, ela pode quebrar. ETFs diversificados eliminam esse risco.
 
----
+**Risco cambial:** se você investe em ETFs ligados ao dólar (como o IVVB11), as flutuações do real afetam seu retorno — para os dois lados.
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
-
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, ensinado por um professor universit\u00e1rio certificado (CPA, MBA).
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+**A regra mais importante:** invista apenas o dinheiro que você não vai precisar nos próximos 5 anos. No curto prazo, você pode perder — no longo prazo, a história mostra recuperação consistente.
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## Por onde começar no Brasil?
+
+O primeiro passo é abrir conta em uma corretora. A XP Investimentos é a nossa recomendação para brasileiros — corretagem zero para ações e ETFs, plataforma completa e conteúdo educativo gratuito:
+
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+
+---
+
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, ensinado por um professor universitário certificado (CPA, MBA).
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
     slug: "conta-demo-vs-conta-real",
-    titulo: "Conta Demo vs Conta Real — Qual Usar Primeiro? (XTB, Trading212)",
-    descricao: "Deves come\u00e7ar com uma conta demo ou avan\u00e7ar logo para a conta real? Explica\u00e7\u00e3o das diferen\u00e7as, vantagens e quando fazer a transi\u00e7\u00e3o.",
+    titulo: "Simulador vs Conta Real — Por Onde Começar a Investir?",
+    descricao: "Você deve começar com um simulador de investimentos ou partir direto para a conta real? Explicação das diferenças, vantagens e quando fazer a transição.",
     categoria: "basicos",
     data: "2026-06-02",
     tempoLeitura: "6 min",
     conteudo: `
-Quando comes\u00e7as a investir, \u00e9 normal sentires inseguran\u00e7a. A conta demo resolve exatamente isso: podes aprender a plataforma, testar estrat\u00e9gias e cometer erros — sem perder dinheiro real.
+Quando você começa a investir, é normal sentir insegurança. Os simuladores resolvem exatamente isso: você pode aprender a plataforma, testar estratégias e cometer erros — sem perder dinheiro real.
 
 ---
 
-## O que \u00e9 uma conta demo?
+## O que é um simulador (conta demo)?
 
-Uma conta demo \u00e9 uma simula\u00e7\u00e3o da plataforma de investimento com dinheiro virtual. Os pre\u00e7os s\u00e3o reais (em tempo real), mas as ordens n\u00e3o t\u00eam impacto financeiro real.
+Um simulador é uma versão da plataforma de investimento com dinheiro virtual. Os preços são reais (em tempo real), mas as ordens não têm impacto financeiro real.
 
-A XTB, por exemplo, oferece uma conta demo gratuita com 100.000\u20ac virtuais, sem prazo de validade e sem obriga\u00e7\u00e3o de abrir conta real.
+Várias corretoras e a própria B3 oferecem simuladores gratuitos. Plataformas de home broker como as da XP e da Rico também têm ambientes de teste e carteiras simuladas para você praticar.
 
-[Abrir conta demo XTB gratuita \u2192](https://geolink.xtb.com/0BKjy)
-
----
-
-## O que aprendes com a conta demo
-
-- Navegar a plataforma sem stress
-- Como pesquisar um ETF pelo nome ou ISIN
-- Como colocar uma ordem de compra (a mercado vs limitada)
-- Como funciona o portefólio e o acompanhamento de ganhos/perdas
-- Como os pre\u00e7os oscilam ao longo do dia
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
 ---
 
-## Limita\u00e7\u00f5es da conta demo
+## O que você aprende com o simulador
 
-A conta demo ensina a mec\u00e2nica, mas n\u00e3o ensina a psicologia. Quando \u00e9 dinheiro virtual, \u00e9 f\u00e1cil ignorar uma queda de 10% — com dinheiro real, a press\u00e3o emocional \u00e9 completamente diferente.
-
-Estudos mostram que a principal causa de perdas em investidores iniciantes n\u00e3o \u00e9 a falta de conhecimento t\u00e9cnico — \u00e9 vender em p\u00e2nico durante quedas tempor\u00e1rias. Isso s\u00f3 se aprende com experi\u00eancia real (e com valores pequenos).
-
----
-
-## Quando fazer a transi\u00e7\u00e3o para conta real?
-
-Considera avan\u00e7ar para conta real quando:
-
-1. Consegues comprar e vender sem dificuldade na demo
-2. Sabes o que \u00e9 um ETF, como pesquis\u00e1-lo e porque o escolheste
-3. Tens o teu fundo de emerg\u00eancia constitu\u00eddo
-4. Tens um valor que n\u00e3o precisas nos pr\u00f3ximos 5 anos
-
-N\u00e3o \u00e9 necess\u00e1rio "dominar" a demo — alguns erros s\u00f3 se aprendem na pr\u00e1tica. Come\u00e7ar com 100-200\u20ac reais enquanto continuas a praticar na demo \u00e9 uma boa estrat\u00e9gia.
+- Navegar na plataforma sem estresse
+- Como pesquisar um ETF pelo ticker (ex: BOVA11, IVVB11)
+- Como enviar uma ordem de compra (a mercado vs limitada)
+- Como funciona a carteira e o acompanhamento de ganhos/perdas
+- Como os preços oscilam ao longo do dia
 
 ---
 
-## Demo e real em simultâneo — uma boa abordagem
+## Limitações do simulador
 
-A XTB permite ter conta demo e conta real ativas ao mesmo tempo. Podes:
-- Usar a demo para testar novas estrat\u00e9gias ou aprender novos instrumentos
-- Usar a real para o teu DCA mensal em ETFs
+O simulador ensina a mecânica, mas não ensina a psicologia. Quando o dinheiro é virtual, é fácil ignorar uma queda de 10% — com dinheiro real, a pressão emocional é completamente diferente.
 
-[Abrir conta real XTB \u2192](https://geolink.xtb.com/ETemo) | [Ou come\u00e7ar pela demo \u2192](https://geolink.xtb.com/0BKjy)
+Estudos mostram que a principal causa de perdas em investidores iniciantes não é a falta de conhecimento técnico — é vender em pânico durante quedas temporárias. Isso só se aprende com experiência real (e com valores pequenos).
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## Quando fazer a transição para a conta real?
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 ideal para consolidar conhecimentos antes de avanares para a conta real \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
+Considere partir para a conta real quando:
 
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+1. Você consegue comprar e vender sem dificuldade no simulador
+2. Sabe o que é um ETF, como pesquisá-lo e por que o escolheu
+3. Tem sua reserva de emergência montada (no Tesouro Selic ou CDB com liquidez diária)
+4. Tem um valor que não vai precisar nos próximos 5 anos
+
+Não é necessário "dominar" o simulador — alguns erros só se aprendem na prática. Começar com R$ 100-500 reais enquanto continua praticando é uma boa estratégia.
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## Comece com pouco e com corretagem zero
+
+As principais corretoras brasileiras têm corretagem zero para ações e ETFs, então investir valores pequenos não sai caro:
+
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
+
+---
+
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é ideal para consolidar conhecimentos antes de partir para a conta real — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
     slug: "quanto-preciso-para-comecar-a-investir",
-    titulo: "Quanto Preciso para Come\u00e7ar a Investir em Portugal? (2026)",
-    descricao: "A resposta vai surpreender-te. Quanto dinheiro \u00e9 realmente necess\u00e1rio para come\u00e7ar a investir em Portugal, quais as op\u00e7\u00f5es e o que fazer com pouco.",
+    titulo: "Quanto Preciso para Começar a Investir no Brasil? (2026)",
+    descricao: "A resposta vai te surpreender. Quanto dinheiro é realmente necessário para começar a investir no Brasil, quais as opções e o que fazer com pouco.",
     categoria: "basicos",
     data: "2026-06-03",
     tempoLeitura: "7 min",
     conteudo: `
-Uma das perguntas mais frequentes de quem quer come\u00e7ar a investir \u00e9 tamb\u00e9m uma das que tem a resposta mais surpreendente: **podes come\u00e7ar com 1\u20ac**.
+Uma das perguntas mais frequentes de quem quer começar a investir é também uma das que tem a resposta mais surpreendente: **você pode começar com menos de R$ 50**.
 
-N\u00e3o \u00e9 uma figura de ret\u00f3rica. Plataformas como a Trading212 permitem comprar fra\u00e7\u00f5es de ETFs a partir de 1\u20ac. Mas vamos \u00e0 resposta pr\u00e1tica e honesta.
-
----
-
-## O m\u00ednimo absoluto vs o m\u00ednimo \u00fatil
-
-**M\u00ednimo absoluto:** 1\u20ac (Trading212 com fractional shares)
-
-**M\u00ednimo \u00fatil para construir h\u00e1bito:** 50\u20ac/m\u00eas
-
-**M\u00ednimo onde as comiss\u00f5es deixam de ser relevantes:** 100\u20ac/m\u00eas
-
-Abaixo de 50\u20ac/m\u00eas, o impacto psicol\u00f3gico de "estar a investir" \u00e9 mais valioso do que o retorno financeiro imediato. Come\u00e7ar com pouco \u00e9 infinitamente melhor do que esperar.
+Não é figura de retórica. O Tesouro Direto aceita aplicações a partir de cerca de R$ 30, e há ETFs na B3 cuja cota custa menos de R$ 100. Mas vamos à resposta prática e honesta.
 
 ---
 
-## Dep\u00f3sito m\u00ednimo por corretora
+## O mínimo absoluto vs o mínimo útil
 
-| Corretora | Dep\u00f3sito m\u00ednimo | Valor m\u00ednimo por ordem |
+**Mínimo absoluto:** ~R$ 30 (Tesouro Direto) ou 1 cota de ETF (~R$ 100)
+
+**Mínimo útil para construir hábito:** R$ 200/mês
+
+**Mínimo onde os custos deixam de ser relevantes:** R$ 500/mês
+
+Abaixo de R$ 200/mês, o impacto psicológico de "estar investindo" é mais valioso do que o retorno financeiro imediato. Começar com pouco é infinitamente melhor do que esperar.
+
+---
+
+## Valor mínimo por corretora
+
+| Corretora | Depósito mínimo | Corretagem ações/ETFs |
 |---|---|---|
-| Trading212 | 1\u20ac | 1\u20ac (fractional) |
-| XTB | 0\u20ac | ~1\u20ac (fractional) |
-| DEGIRO | 0\u20ac | Pre\u00e7o de 1 unidade |
-| Interactive Brokers | 0\u20ac | 1$ (fractional) |
+| XP Investimentos | R$ 0 | R$ 0 |
+| Rico | R$ 0 | R$ 0 |
+| NuInvest | R$ 0 | R$ 0 |
+| Clear | R$ 0 | R$ 0 |
 
-A XTB tamb\u00e9m j\u00e1 oferece fractional shares — podes come\u00e7ar com menos de uma unidade de ETF.
+A maioria das corretoras brasileiras hoje tem corretagem zero — o que era impensável há dez anos.
 
-[Abrir conta XTB sem dep\u00f3sito m\u00ednimo \u2192](https://geolink.xtb.com/ETemo)
+[Abrir conta na XP sem depósito mínimo →](PLACEHOLDER_XP_LINK)
 
 ---
 
 ## O que importa mais do que o valor inicial
 
-**A frequ\u00eancia e consist\u00eancia superam o valor inicial.** 100\u20ac/m\u00eas durante 20 anos supera 10.000\u20ac investidos uma vez e esquecidos.
+**A frequência e a consistência superam o valor inicial.** R$ 500/mês durante 20 anos supera R$ 50.000 investidos uma vez e esquecidos.
 
-O Dollar-Cost Averaging (DCA) — investir um valor fixo todos os meses, independentemente do estado do mercado — \u00e9 a estrat\u00e9gia com mais evid\u00eancia cient\u00edfica para investidores individuais.
-
----
-
-## Antes de investir: o fundo de emerg\u00eancia
-
-H\u00e1 uma regra que deve anteceder qualquer investimento: ter um **fundo de emerg\u00eancia** de 3 a 6 meses de despesas em conta poupan\u00e7a ou Certificados de Aforro.
-
-Porqu\u00ea? Porque se o mercado cair 30% e precisares do dinheiro nesse momento, venderia no pior momento. O fundo de emerg\u00eancia garante que nunca precisas de tocar nos investimentos de longo prazo.
+O aporte mensal regular (Dollar-Cost Averaging, ou DCA) — investir um valor fixo todos os meses, independentemente do estado do mercado — é a estratégia com mais evidência científica para investidores individuais.
 
 ---
 
-## Simula\u00e7\u00e3o com valores reais portugueses
+## Antes de investir: a reserva de emergência
 
-Assumindo 7% de retorno anual m\u00e9dio (conservador para MSCI World):
+Há uma regra que deve anteceder qualquer investimento: ter uma **reserva de emergência** de 3 a 6 meses de despesas no Tesouro Selic ou em um CDB de liquidez diária que pague 100% do CDI.
 
-| Investe por m\u00eas | Ap\u00f3s 10 anos | Ap\u00f3s 20 anos | Ap\u00f3s 30 anos |
+Por quê? Porque se o mercado cair 30% e você precisar do dinheiro nesse momento, venderia no pior momento. A reserva de emergência garante que você nunca precise mexer nos investimentos de longo prazo.
+
+---
+
+## Simulação com valores reais brasileiros
+
+Assumindo 10% de retorno anual médio (referência razoável entre renda fixa e bolsa no Brasil):
+
+| Aporte mensal | Após 10 anos | Após 20 anos | Após 30 anos |
 |---|---|---|---|
-| 50\u20ac | 8.700\u20ac | 26.000\u20ac | 60.800\u20ac |
-| 100\u20ac | 17.400\u20ac | 52.000\u20ac | 121.600\u20ac |
-| 200\u20ac | 34.700\u20ac | 104.000\u20ac | 243.000\u20ac |
-| 500\u20ac | 86.800\u20ac | 260.000\u20ac | 607.000\u20ac |
+| R$ 200 | R$ 41.000 | R$ 152.000 | R$ 452.000 |
+| R$ 500 | R$ 102.000 | R$ 380.000 | R$ 1,13 milhão |
+| R$ 1.000 | R$ 205.000 | R$ 759.000 | R$ 2,26 milhões |
+| R$ 2.000 | R$ 410.000 | R$ 1,52 milhão | R$ 4,52 milhões |
 
-A diferen\u00e7a entre come\u00e7ar hoje com 50\u20ac e esperar 5 anos para ter "mais dinheiro" \u00e9 de dezenas de milhares de euros.
-
----
-
-## Onde investir com pouco dinheiro em Portugal
-
-Para come\u00e7ar com menos de 200\u20ac/m\u00eas, a XTB \u00e9 uma excelente op\u00e7\u00e3o: sem dep\u00f3sito m\u00ednimo, zero comiss\u00f5es, suporte em portugu\u00eas e conta demo gratuita:
-
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Testar na demo primeiro \u2192](https://geolink.xtb.com/0BKjy)
+A diferença entre começar hoje com R$ 200 e esperar 5 anos para ter "mais dinheiro" é de centenas de milhares de reais.
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## Onde investir com pouco dinheiro no Brasil
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
+Para começar com menos de R$ 500/mês, a XP é uma excelente opção: sem depósito mínimo, corretagem zero, acesso ao Tesouro Direto, CDBs, ações e ETFs em um só lugar:
 
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "irs-investimentos-declarar-portugal-guia",
-    titulo: "Como Declarar Investimentos no IRS em Portugal — Guia Pr\u00e1tico 2026",
-    descricao: "Guia passo a passo para declarar a\u00e7\u00f5es, ETFs e dividendos no IRS em Portugal. Quais os anexos, como preencher e os erros mais comuns a evitar.",
+    slug: "imposto-de-renda-investimentos-declarar-brasil-guia",
+    titulo: "Como Declarar Investimentos no Imposto de Renda — Guia Prático 2026",
+    descricao: "Guia passo a passo para declarar ações, ETFs e dividendos no Imposto de Renda no Brasil. Isenção de R$ 20 mil, DARF e os erros mais comuns a evitar.",
     categoria: "impostos",
     data: "2026-06-04",
     tempoLeitura: "9 min",
     conteudo: `
-Declarar investimentos no IRS \u00e9 um dos maiores receios dos investidores portugueses. A boa not\u00edcia: \u00e9 mais simples do que parece, especialmente se usares as ferramentas certas e guardares os relatórios da tua corretora.
+Declarar investimentos no Imposto de Renda é um dos maiores receios dos investidores brasileiros. A boa notícia: é mais simples do que parece, especialmente se você usar as ferramentas certas e guardar os informes da sua corretora.
 
 ---
 
-## Quando \u00e9 obrigat\u00f3rio declarar?
+## Quando é obrigatório declarar e pagar?
 
-Sempre que realizas um ganho ou recebeste dividendos durante o ano fiscal anterior. Isso inclui:
-- Venda de ETFs ou a\u00e7\u00f5es com lucro (mais-valias)
-- Dividendos recebidos de ETFs de distribui\u00e7\u00e3o
-- Juros de obriga\u00e7\u00f5es
+A regra de ouro no Brasil: **o imposto sobre ganhos na bolsa é apurado mês a mês e pago via DARF** — não espere a declaração anual para pagar.
 
-**ETFs de acumula\u00e7\u00e3o** (como o IWDA ou VWRA) n\u00e3o geram evento tribut\u00e1vel enquanto n\u00e3o venderes — os dividendos s\u00e3o reinvestidos automaticamente dentro do fundo. Este \u00e9 um dos maiores benef\u00edcios fiscais do investimento passivo em Portugal.
-
----
-
-## Qual o anexo do IRS?
-
-Todos os rendimentos de investimentos obtidos no estrangeiro (corretoras online como XTB, DEGIRO, Trading212) v\u00e3o no **Anexo J**.
-
-- **Quadro 8** — Rendimentos de capitais (dividendos, juros)
-- **Quadro 9** — Mais-valias de valores mobili\u00e1rios (lucro da venda de ETFs/a\u00e7\u00f5es)
+As regras principais:
+- **Ações:** vendas até **R$ 20.000 no mês** com lucro são **isentas de IR**. Acima disso, 15% sobre o lucro
+- **ETFs:** não há isenção — 15% sobre o lucro em qualquer venda
+- **Day trade:** 20% sobre o lucro, sem isenção
+- **Dividendos de ações:** atualmente isentos na pessoa física
+- **JCP (Juros sobre Capital Próprio):** 15% retido na fonte
 
 ---
 
-## Que taxa de imposto se aplica?
+## Como pagar o imposto — o DARF
 
-A taxa padr\u00e3o \u00e9 de **28%** (taxa libert\u00e1ria) sobre:
-- Dividendos recebidos
-- Mais-valias realizadas (venda com lucro)
+Quando há imposto a pagar, você mesmo emite o **DARF** (código 6015) no site da Receita (Sicalcweb) e paga até o último dia útil do mês seguinte à venda.
 
-Podes optar pelo **englobamento** (incluir no rendimento global e pagar \u00e0 taxa marginal) se isso for mais vantajoso — geralmente s\u00f3 interessa se o teu rendimento total \u00e9 muito baixo (escalões de 13-18%).
+**Passo a passo:**
 
----
+**Passo 1: Pegue a nota de corretagem ou o informe da corretora**
 
-## Passo a passo: como preencher o Anexo J
+XP, Rico, NuInvest e Clear disponibilizam notas de corretagem e relatórios mensais no app/site.
 
-**Passo 1: Obt\u00e9m o relat\u00f3rio fiscal da corretora**
+**Passo 2: Calcule o lucro líquido do mês**
 
-Cada corretora disponibiliza um relat\u00f3rio anual com todos os movimentos:
-- **DEGIRO:** "Conta" → "Relat\u00f3rios" → "Relat\u00f3rio Fiscal Portugal" (em fevereiro)
-- **XTB:** "Hist\u00f3rico" → exportar em CSV
-- **Trading212:** "Hist\u00f3rico" → "Exportar"
+Lucro = valor de venda − valor de compra − custos (emolumentos e taxas da B3).
 
-**Passo 2: Identifica os valores a declarar**
+**Passo 3: Aplique a alíquota**
 
-Do relat\u00f3rio, extrai:
-- Total de mais-valias l\u00edquidas (ganhos menos perdas)
-- Total de dividendos recebidos
-- Imposto retido na fonte (se existir)
+- Operações comuns (ações acima de R$ 20 mil vendidos no mês, ETFs): 15%
+- Day trade: 20%
+- Desconte o IR retido na fonte ("dedo-duro": 0,005% nas operações comuns)
 
-**Passo 3: Preenche o Anexo J**
-
-Acede ao Portal das Finan\u00e7as → IRS → Entregar Declara\u00e7\u00e3o → Anexo J.
-
-Para mais-valias de ETFs (c\u00f3digo G10):
-- Pa\u00eds da fonte: c\u00f3digo do pa\u00eds onde o ETF est\u00e1 domiciliado (ex: IE para Irlanda)
-- Valor de realiza\u00e7\u00e3o: pre\u00e7o de venda
-- Valor de aquisi\u00e7\u00e3o: pre\u00e7o de compra + comiss\u00f5es
+**Passo 4: Emita e pague o DARF**
 
 ---
 
-## Exemplo pr\u00e1tico
+## E a declaração anual?
 
-Compraste 10 unidades do IWDA a 70\u20ac em janeiro de 2025 (total: 700\u20ac).
-Vendeste em dezembro de 2025 a 80\u20ac (total: 800\u20ac).
-Mais-valia: 100\u20ac.
-Imposto a pagar: 100\u20ac × 28% = **28\u20ac**.
+Na declaração anual de ajuste (março-maio), você:
+- Lista as posições em "Bens e Direitos" (pelo custo de aquisição)
+- Informa os lucros mensais na ficha "Renda Variável"
+- Informa dividendos em "Rendimentos Isentos" e JCP em "Tributação Exclusiva"
 
 ---
 
-## Menos-valias — n\u00e3o te esque\u00e7as de declarar
+## Exemplo prático
 
-Se vendeste com preju\u00edzo, declara tamb\u00e9m no Anexo J. As menos-valias podem ser deduzidas a mais-valias dos **5 anos seguintes**, poupando imposto futuro.
+Você comprou 100 cotas do IVVB11 a R$ 300 (total: R$ 30.000).
+Vendeu meses depois a R$ 330 (total: R$ 33.000).
+Lucro: R$ 3.000.
+Imposto a pagar: R$ 3.000 × 15% = **R$ 450** via DARF até o fim do mês seguinte.
+
+---
+
+## Prejuízos — não esqueça de aproveitar
+
+Se você vendeu com prejuízo, esse prejuízo pode ser **compensado com lucros futuros** da mesma modalidade (comum com comum, day trade com day trade), sem prazo de validade. Mantenha o controle mês a mês.
 
 ---
 
 ## Erros mais comuns
 
-- **N\u00e3o declarar por achar que o valor \u00e9 pequeno** — n\u00e3o h\u00e1 m\u00ednimo de isen\u00e7\u00e3o para mais-valias de valores mobili\u00e1rios
-- **Confundir mais-valias realizadas com n\u00e3o realizadas** — s\u00f3 declaras quando vendes
-- **N\u00e3o guardar os relat\u00f3rios** — guarda 10 anos, por precau\u00e7\u00e3o
-- **Esquecer as menos-valias** — verifica sempre se tens perdas anteriores para deduzir
+- **Achar que só se acerta tudo na declaração anual** — o DARF é mensal
+- **Esquecer a isenção dos R$ 20 mil** — vale só para ações, não para ETFs
+- **Não guardar as notas de corretagem** — guarde por pelo menos 5 anos
+- **Esquecer de compensar prejuízos** — verifique sempre se há perdas anteriores
 
 ---
 
-## DEGIRO: a corretora com melhor relat\u00f3rio fiscal para Portugal
+## Renda fixa é mais simples
 
-A DEGIRO \u00e9 a \u00fanica corretora com relat\u00f3rio espec\u00edfico para Portugal, j\u00e1 formatado para o Anexo J. Se a declara\u00e7\u00e3o de IRS te preocupa, \u00e9 um ponto a favor da DEGIRO.
+Em CDBs e no Tesouro Direto, o IR é retido na fonte automaticamente, seguindo a tabela regressiva: 22,5% (até 6 meses) caindo até 15% (acima de 2 anos). Você não precisa emitir DARF.
 
-Se preferires suporte em portugu\u00eas e zero comiss\u00f5es sem restri\u00e7\u00f5es, considera a XTB:
+Para centralizar seus investimentos e informes em um só lugar, a XP é uma boa escolha:
 
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
-
----
-
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
-
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
 ---
 
-*Este guia \u00e9 de car\u00e1ter informativo. Para situa\u00e7\u00f5es espec\u00edficas, consulta um contabilista ou advogado fiscal.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este guia é de caráter informativo. Para situações específicas, consulte um contador.*
     `
   },
   {
     slug: "juro-composto-funciona-exemplos",
-    titulo: "Como Funciona o Juro Composto? Exemplos Pr\u00e1ticos para Portugueses (2026)",
-    descricao: "O juro composto explicado de forma simples, com exemplos reais em euros e simula\u00e7\u00f5es para sal\u00e1rios portugueses. Percebe porque o tempo \u00e9 mais valioso do que o dinheiro.",
+    titulo: "Como Funcionam os Juros Compostos? Exemplos Práticos para Brasileiros (2026)",
+    descricao: "Os juros compostos explicados de forma simples, com exemplos em reais e simulações para salários brasileiros. Entenda por que o tempo vale mais do que o dinheiro.",
     categoria: "basicos",
     data: "2026-06-05",
     tempoLeitura: "7 min",
     conteudo: `
-Se houvesse um conceito financeiro que toda a gente deveria aprender na escola, seria este: o juro composto. Entend\u00ea-lo muda completamente a rela\u00e7\u00e3o com o dinheiro e com o tempo.
+Se houvesse um conceito financeiro que todo mundo deveria aprender na escola, seria este: os juros compostos. Entendê-los muda completamente a sua relação com o dinheiro e com o tempo.
 
 ---
 
-## Juro simples vs juro composto — a diferen\u00e7a
+## Juros simples vs juros compostos — a diferença
 
-**Juro simples:** recebes juros s\u00f3 sobre o capital inicial. O dinheiro extra n\u00e3o "trabalha".
+**Juros simples:** você recebe juros só sobre o capital inicial. O dinheiro extra não "trabalha".
 
-**Juro composto:** recebes juros sobre o capital inicial E sobre os juros que j\u00e1 acumulaste. O dinheiro gera mais dinheiro, que gera ainda mais dinheiro.
+**Juros compostos:** você recebe juros sobre o capital inicial E sobre os juros que já acumulou. O dinheiro gera mais dinheiro, que gera ainda mais dinheiro.
 
-**Exemplo com 1.000\u20ac a 8%/ano:**
+**Exemplo com R$ 5.000 a 8%/ano:**
 
-| Ano | Juro simples | Juro composto |
+| Ano | Juros simples | Juros compostos |
 |---|---|---|
-| 1 | 1.080\u20ac | 1.080\u20ac |
-| 5 | 1.400\u20ac | 1.469\u20ac |
-| 10 | 1.800\u20ac | 2.159\u20ac |
-| 20 | 2.600\u20ac | 4.661\u20ac |
-| 30 | 3.400\u20ac | 10.063\u20ac |
+| 1 | R$ 5.400 | R$ 5.400 |
+| 5 | R$ 7.000 | R$ 7.347 |
+| 10 | R$ 9.000 | R$ 10.795 |
+| 20 | R$ 13.000 | R$ 23.305 |
+| 30 | R$ 17.000 | R$ 50.313 |
 
-Ao fim de 30 anos, o juro composto produziu **quase 3 vezes mais** do que o juro simples — sem qualquer contribui\u00e7\u00e3o adicional.
+Ao fim de 30 anos, os juros compostos produziram **quase 3 vezes mais** do que os juros simples — sem nenhum aporte adicional.
 
 ---
 
 ## A regra dos 72
 
-Uma forma r\u00e1pida de calcular em quanto tempo o teu dinheiro duplica: divide 72 pela taxa de retorno anual.
+Uma forma rápida de calcular em quanto tempo seu dinheiro dobra: divida 72 pela taxa de retorno anual.
 
-- A 4%/ano → 72 ÷ 4 = **18 anos** para duplicar
-- A 7%/ano → 72 ÷ 7 = **~10 anos** para duplicar
-- A 10%/ano → 72 ÷ 10 = **7,2 anos** para duplicar
+- A 6%/ano → 72 ÷ 6 = **12 anos** para dobrar
+- A 10%/ano → 72 ÷ 10 = **7,2 anos** para dobrar
+- A 12%/ano → 72 ÷ 12 = **6 anos** para dobrar
 
----
-
-## Porque \u00e9 que come\u00e7ar cedo vale mais do que investir mais
-
-Este \u00e9 o aspeto mais surpreendente do juro composto:
-
-**Jo\u00e3o** come\u00e7a a investir 200\u20ac/m\u00eas aos 25 anos e para aos 35 (10 anos — total investido: 24.000\u20ac).
-**Maria** come\u00e7a aos 35 anos e investe 200\u20ac/m\u00eas at\u00e9 aos 65 (30 anos — total investido: 72.000\u20ac).
-
-Assumindo 8% de retorno anual:
-- Jo\u00e3o aos 65 anos: ~228.000\u20ac
-- Maria aos 65 anos: ~244.000\u20ac
-
-Jo\u00e3o investiu **3 vezes menos dinheiro** e chegou praticamente ao mesmo resultado. A diferen\u00e7a foi os 10 anos extra de composi\u00e7\u00e3o.
+Com a Selic em dois dígitos, o brasileiro tem uma vantagem rara: até a renda fixa compõe rápido. Mas lembre de descontar a inflação (IPCA) para pensar em ganho real.
 
 ---
 
-## Simula\u00e7\u00e3o para rendimentos portugueses
+## Por que começar cedo vale mais do que investir mais
 
-Investimento mensal de 200\u20ac, a partir de hoje:
+Este é o aspecto mais surpreendente dos juros compostos:
+
+**João** começa a investir R$ 1.000/mês aos 25 anos e para aos 35 (10 anos — total investido: R$ 120.000).
+**Maria** começa aos 35 anos e investe R$ 1.000/mês até os 65 (30 anos — total investido: R$ 360.000).
+
+Assumindo 8% de retorno anual real:
+- João aos 65 anos: ~R$ 1,14 milhão
+- Maria aos 65 anos: ~R$ 1,22 milhão
+
+João investiu **3 vezes menos dinheiro** e chegou praticamente ao mesmo resultado. A diferença foram os 10 anos extras de composição.
+
+---
+
+## Simulação para rendas brasileiras
+
+Aporte mensal de R$ 1.000, a partir de hoje:
 
 | Taxa de retorno | 10 anos | 20 anos | 30 anos |
 |---|---|---|---|
-| 4% (conservador) | 29.700\u20ac | 73.600\u20ac | 139.000\u20ac |
-| 7% (moderado) | 34.600\u20ac | 104.000\u20ac | 243.000\u20ac |
-| 10% (hist\u00f3rico S&P) | 41.000\u20ac | 153.000\u20ac | 452.000\u20ac |
+| 6% (conservador, real) | R$ 163.000 | R$ 459.000 | R$ 994.000 |
+| 10% (moderado) | R$ 205.000 | R$ 759.000 | R$ 2,26 milhões |
+| 12% (referência CDI histórico) | R$ 230.000 | R$ 990.000 | R$ 3,49 milhões |
 
-Total investido em 30 anos: 72.000\u20ac. Com 10% de retorno, o valor final \u00e9 452.000\u20ac — dos quais 380.000\u20ac s\u00e3o gerados pela composi\u00e7\u00e3o.
-
----
-
-## Como aproveitar o juro composto em Portugal
-
-**1. Come\u00e7a hoje, mesmo com pouco**
-Cada ano que esperas \u00e9 um ciclo de composi\u00e7\u00e3o perdido que nunca recuperas.
-
-**2. Usa ETFs de acumula\u00e7\u00e3o**
-ETFs como o IWDA ou VWRA reinvestem os dividendos automaticamente — sem gerar evento fiscal, sem trabalho da tua parte. \u00c9 composi\u00e7\u00e3o autom\u00e1tica.
-
-**3. N\u00e3o interrompas nos crashes**
-Vender durante uma queda quebra o ciclo de composi\u00e7\u00e3o. As maiores recupera\u00e7\u00f5es acontecem nos meses seguintes aos maiores crashes.
-
-**4. Mant\u00e9m os custos baixos**
-A diferen\u00e7a entre 0,2%/ano (ETF) e 1,5%/ano (fundo ativo) parece pequena. Numa carteira de 100.000\u20ac em 30 anos, essa diferen\u00e7a vale mais de 50.000\u20ac.
+Total investido em 30 anos: R$ 360.000. Com 10% de retorno, o valor final é R$ 2,26 milhões — dos quais R$ 1,9 milhão são gerados pela composição.
 
 ---
 
-## Come\u00e7a a aproveitar o juro composto hoje
+## Como aproveitar os juros compostos no Brasil
 
-A XTB permite investir em ETFs de acumula\u00e7\u00e3o sem comiss\u00f5es e com suporte em portugu\u00eas:
+**1. Comece hoje, mesmo com pouco**
+Cada ano que você espera é um ciclo de composição perdido que nunca volta.
 
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Testar na demo primeiro \u2192](https://geolink.xtb.com/0BKjy)
+**2. Reinvista os rendimentos**
+Dividendos de ações e FIIs, juros de renda fixa: reinvestir tudo é composição automática.
+
+**3. Não interrompa nas crises**
+Vender durante uma queda quebra o ciclo de composição. As maiores recuperações acontecem nos meses seguintes às maiores quedas.
+
+**4. Mantenha os custos baixos**
+A diferença entre 0,2%/ano (ETF) e 2%/ano (fundo ativo caro) parece pequena. Em uma carteira de R$ 500.000 ao longo de 30 anos, essa diferença vale centenas de milhares de reais.
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## Comece a aproveitar os juros compostos hoje
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy explora em detalhe como aplicar o juro composto na pr\u00e1tica atrav\u00e9s de ETFs. Mais de 74.000 alunos, professor universit\u00e1rio certificado.
+A XP permite investir em ETFs, ações e renda fixa com corretagem zero:
 
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter educativo e n\u00e3o constitui aconselhamento financeiro.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy explora em detalhe como aplicar os juros compostos na prática através de ETFs. Mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter educativo e não constitui aconselhamento financeiro.*
     `
   },
 
   // ─────────────────────────────────────────────
-  // ARTIGOS EXISTENTES — com links corrigidos e Udemy normalizado
+  // ARTIGOS EXISTENTES — adaptados para o Brasil
   // ─────────────────────────────────────────────
   {
-    slug: "como-investir-em-etfs-portugal",
-    titulo: "Como Investir em ETFs em Portugal \u2014 Guia Completo para Iniciantes (2026)",
-    descricao: "Tudo o que precisas saber para come\u00e7ar a investir em ETFs em Portugal: o que s\u00e3o, como comprar, que corretora usar e como declarar no IRS.",
+    slug: "como-investir-em-etfs-brasil",
+    titulo: "Como Investir em ETFs no Brasil — Guia Completo para Iniciantes (2026)",
+    descricao: "Tudo o que você precisa saber para começar a investir em ETFs no Brasil: o que são, como comprar na B3, qual corretora usar e como declarar no Imposto de Renda.",
     categoria: "etfs",
     data: "2026-05-01",
     tempoLeitura: "12 min",
     conteudo: `
-Os ETFs (Exchange Traded Funds) s\u00e3o atualmente a forma mais simples, barata e eficaz de investir para a maioria das pessoas. Em Portugal, ainda h\u00e1 muita confus\u00e3o sobre o que s\u00e3o e como come\u00e7ar \u2014 este guia resolve isso de forma clara.
+Os ETFs (Exchange Traded Funds) são atualmente a forma mais simples, barata e eficaz de investir para a maioria das pessoas. No Brasil, ainda há muita confusão sobre o que são e como começar — este guia resolve isso de forma clara.
 
 ---
 
-## O que \u00e9 um ETF?
+## O que é um ETF?
 
-Um ETF \u00e9 um fundo de investimento que replica um \u00edndice (como o S&P 500 ou o MSCI World) e \u00e9 negociado em bolsa como se fosse uma a\u00e7\u00e3o. Em vez de comprares a\u00e7\u00f5es de 500 empresas individualmente, compras uma unidade de um ETF e ficas automaticamente exposto a todas elas.
+Um ETF é um fundo de investimento que replica um índice (como o Ibovespa ou o S&P 500) e é negociado na bolsa como se fosse uma ação. Em vez de comprar ações de centenas de empresas individualmente, você compra uma cota de um ETF e fica automaticamente exposto a todas elas.
 
-**Exemplo pr\u00e1tico:** O ETF "iShares Core MSCI World" investe em mais de 1.500 empresas de todo o mundo desenvolvido. Ao comprares uma unidade (~70\u20ac), tens exposi\u00e7\u00e3o \u00e0 Apple, Microsoft, Toyota, Nestl\u00e9, e mais 1.495 outras empresas.
-
----
-
-## Porque \u00e9 que os ETFs s\u00e3o t\u00e3o populares?
-
-**Custo baixo.** Os ETFs de \u00edndice cobram tipicamente 0,07% a 0,25% por ano (TER \u2014 Total Expense Ratio). Um fundo de investimento ativo em Portugal cobra facilmente 1,5% a 2,5% por ano. Numa carteira de 50.000\u20ac durante 30 anos, esta diferen\u00e7a de custo vale dezenas de milhares de euros.
-
-**Diversifica\u00e7\u00e3o autom\u00e1tica.** Com um \u00fanico ETF global, est\u00e1s exposto a centenas ou milhares de empresas. O risco de uma empresa ir \u00e0 fal\u00eancia praticamente desaparece.
-
-**Transpar\u00eancia.** Sabes exatamente o que tens \u2014 a composi\u00e7\u00e3o do ETF \u00e9 p\u00fablica e atualizada diariamente.
-
-**Liquidez.** Podes comprar e vender a qualquer hora durante o hor\u00e1rio de bolsa, ao contr\u00e1rio dos fundos tradicionais que s\u00f3 transacionam uma vez por dia.
-
-**Evid\u00eancia cient\u00edfica.** D\u00e9cadas de estudos acad\u00e9micos mostram que a maioria dos gestores de fundos ativos n\u00e3o supera o \u00edndice de refer\u00eancia a longo prazo, especialmente ap\u00f3s custos.
+**Exemplo prático:** o ETF IVVB11 replica o S&P 500. Ao comprar uma cota (~R$ 300), você tem exposição à Apple, Microsoft, Amazon, Google e mais 496 das maiores empresas dos EUA — sem precisar de conta no exterior.
 
 ---
 
-## Os melhores ETFs para investidores portugueses
+## Por que os ETFs são tão populares?
 
-### ETF global \u2014 para a maioria das pessoas
+**Custo baixo.** Os ETFs de índice cobram tipicamente 0,2% a 0,7% por ano (taxa de administração). Um fundo de gestão ativa no Brasil cobra facilmente 2% ao ano + taxa de performance. Em uma carteira de R$ 250.000 ao longo de 30 anos, essa diferença de custo vale centenas de milhares de reais.
 
-**iShares Core MSCI World UCITS ETF (IWDA)**
-- Exposi\u00e7\u00e3o: ~1.500 empresas de 23 pa\u00edses desenvolvidos
-- TER: 0,20%/ano
-- Distribui ou acumula: Acumula\u00e7\u00e3o (reinveste dividendos automaticamente)
-- Onde comprar: DEGIRO, XTB, Trading212
+**Diversificação automática.** Com um único ETF global ou de índice amplo, você fica exposto a dezenas ou centenas de empresas. O risco de uma empresa quebrar praticamente desaparece.
 
-**Vanguard FTSE All-World UCITS ETF (VWRA)**
-- Exposi\u00e7\u00e3o: ~3.700 empresas incluindo mercados emergentes
-- TER: 0,22%/ano
-- Ideal se quiseres cobertura mais global
+**Transparência.** Você sabe exatamente o que tem — a composição do ETF é pública e atualizada diariamente.
 
-### ETF para mercados emergentes (complemento)
+**Liquidez.** Você pode comprar e vender a qualquer hora durante o pregão da B3, ao contrário dos fundos tradicionais que têm prazos de cotização e resgate.
 
-**iShares Core MSCI Emerging Markets IMI UCITS ETF (EIMI)**
-- TER: 0,18%/ano
-- Combina bem com o IWDA para cobertura total do mundo
-
-### ETF para obriga\u00e7\u00f5es (para perfis mais conservadores)
-
-**iShares Core \u20ac Govt Bond UCITS ETF**
-- Obriga\u00e7\u00f5es europeias de governos
-- Reduz a volatilidade da carteira
+**Evidência científica.** Décadas de estudos acadêmicos mostram que a maioria dos gestores de fundos ativos não supera o índice de referência no longo prazo, especialmente após os custos.
 
 ---
 
-## Como comprar ETFs em Portugal \u2014 passo a passo
+## Os melhores ETFs da B3 para investidores brasileiros
 
-**Passo 1: Escolhe uma corretora**
+### ETF de bolsa brasileira
 
-Para portugueses, a nossa recomenda\u00e7\u00e3o principal \u00e9 a **XTB** \u2014 suporte em portugu\u00eas, zero comiss\u00f5es e conta demo gratuita para aprender sem risco:
+**BOVA11 (iShares Ibovespa)**
+- Exposição: as maiores empresas da B3 (Petrobras, Vale, Itaú, WEG...)
+- Taxa de administração: ~0,10%/ano
+- O ETF mais negociado do Brasil
 
-[Abrir conta real XTB \u2192](https://geolink.xtb.com/ETemo) | [Experimentar demo gr\u00e1tis \u2192](https://geolink.xtb.com/0BKjy)
+### ETF dos EUA — para diversificação internacional
 
-Alternativas: DEGIRO (ETFs core gratuitos 1x/m\u00eas) e Trading212 (fractional shares a partir de 1\u20ac).
+**IVVB11 (iShares S&P 500)**
+- Exposição: as 500 maiores empresas dos EUA, com variação cambial do dólar
+- Taxa: ~0,23%/ano
+- A forma mais simples de dolarizar parte da carteira sem sair da B3
 
-**Passo 2: Abre conta e valida identidade**
+### ETF global
 
-O processo \u00e9 online, demora 1-3 dias \u00fateis. Precisas de BI/Cart\u00e3o de Cidad\u00e3o e comprovativo de morada.
+**WRLD11**
+- Exposição: empresas do mundo desenvolvido (equivalente ao MSCI World)
+- Diversificação máxima em um único ativo
 
-**Passo 3: Deposita fundos**
+### Renda fixa em ETF
 
-Transfer\u00eancia banc\u00e1ria ou MB WAY (dispon\u00edvel na DEGIRO e Trading212).
-
-**Passo 4: Pesquisa o ETF pelo ISIN ou ticker**
-
-Cada ETF tem um c\u00f3digo \u00fanico (ISIN). O IWDA tem ISIN IE00B4L5Y983. Pesquisa este c\u00f3digo na plataforma.
-
-**Passo 5: Compra**
-
-Define a quantidade e executa a ordem. Usa sempre "ordem a mercado" para execu\u00e7\u00e3o imediata ou "ordem limitada" se quiseres controlar o pre\u00e7o.
-
----
-
-## ETFs de acumula\u00e7\u00e3o vs distribui\u00e7\u00e3o \u2014 qual escolher?
-
-**ETFs de acumula\u00e7\u00e3o:** os dividendos s\u00e3o reinvestidos automaticamente dentro do fundo. Mais eficiente fiscalmente em Portugal porque n\u00e3o geras evento tribut\u00e1vel a cada dividendo.
-
-**ETFs de distribui\u00e7\u00e3o:** pagam dividendos periodicamente para a tua conta. Tens de declarar e pagar IRS sobre cada dividendo recebido (28% de taxa libert\u00e1ria).
-
-**Recomenda\u00e7\u00e3o para Portugal:** ETFs de acumula\u00e7\u00e3o s\u00e3o geralmente mais eficientes fiscalmente, especialmente para investimento a longo prazo.
+**IMAB11 (Tesouro IPCA+)** e **LFTS11 (Tesouro Selic)**
+- Alternativas práticas para a parte conservadora da carteira
 
 ---
 
-## Quanto investir e com que frequ\u00eancia?
+## Como comprar ETFs no Brasil — passo a passo
 
-A estrat\u00e9gia mais simples e documentada \u00e9 o **Dollar-Cost Averaging (DCA)** \u2014 investir um valor fixo todos os meses independentemente do estado do mercado.
+**Passo 1: Escolha uma corretora**
 
-**Exemplo:** 200\u20ac/m\u00eas no IWDA durante 20 anos, assumindo 8% de retorno anual m\u00e9dio hist\u00f3rico do \u00edndice \u2192 carteira final de aproximadamente 117.000\u20ac (tendo investido 48.000\u20ac).
+Para brasileiros, a nossa recomendação principal é a **XP** — corretagem zero, plataforma completa e todos os ETFs da B3 disponíveis:
 
-N\u00e3o tentes acertar no "melhor momento" para entrar \u2014 estudos mostram que o DCA sistem\u00e1tico supera o "market timing" na maioria dos cen\u00e1rios.
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+
+Alternativas: Rico e NuInvest (também com corretagem zero) e Avenue, se você quiser comprar ETFs diretamente nos EUA.
+
+**Passo 2: Abra a conta e valide a identidade**
+
+O processo é online e leva minutos. Você precisa de CPF, documento com foto e comprovante de residência.
+
+**Passo 3: Deposite fundos**
+
+Transferência via PIX ou TED — o dinheiro cai na hora ou em poucas horas.
+
+**Passo 4: Pesquise o ETF pelo ticker**
+
+Cada ETF tem um código na B3. Digite BOVA11, IVVB11 ou WRLD11 no home broker.
+
+**Passo 5: Compre**
+
+Defina a quantidade de cotas e envie a ordem. Use "ordem a mercado" para execução imediata ou "ordem limitada" se quiser controlar o preço.
 
 ---
 
-## IRS sobre ETFs em Portugal
+## ETFs no Brasil e os dividendos
 
-Os ganhos em ETFs (mais-valias) s\u00e3o tributados em Portugal \u00e0 taxa de 28% (taxa libert\u00e1ria). Tens de declarar no Anexo J da declara\u00e7\u00e3o de IRS.
+A maioria dos ETFs de ações da B3 **reinveste os dividendos automaticamente** dentro do fundo — funcionam como ETFs de acumulação. Isso simplifica sua vida: a composição acontece sozinha, sem você precisar reinvestir manualmente.
+
+---
+
+## Quanto investir e com que frequência?
+
+A estratégia mais simples e documentada é o **aporte mensal regular (DCA)** — investir um valor fixo todos os meses independentemente do estado do mercado.
+
+**Exemplo:** R$ 1.000/mês em um ETF do S&P 500 durante 20 anos, assumindo 8% de retorno anual médio → carteira final de aproximadamente R$ 590.000 (tendo investido R$ 240.000).
+
+Não tente acertar o "melhor momento" para entrar — estudos mostram que o aporte sistemático supera o "market timing" na maioria dos cenários.
+
+---
+
+## Imposto de Renda sobre ETFs no Brasil
+
+Os ganhos com ETFs de ações são tributados em **15% sobre o lucro** na venda (20% em day trade). Importante: **a isenção de R$ 20 mil/mês vale só para ações, não para ETFs**.
 
 Pontos importantes:
-- S\u00f3 pagas imposto quando vendes com lucro
-- Perdas podem ser deduzidas a ganhos futuros (durante 5 anos)
-- ETFs de acumula\u00e7\u00e3o n\u00e3o geram evento tribut\u00e1vel nos dividendos reinvestidos
+- Você só paga imposto quando vende com lucro
+- O pagamento é via DARF até o último dia útil do mês seguinte à venda
+- Prejuízos podem ser compensados com lucros futuros
+- ETFs de renda fixa (como LFTS11) têm IR de 15% retido na fonte
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, ensinado por um professor universit\u00e1rio certificado (CPA, MBA). Cobre ETFs, a\u00e7\u00f5es, obriga\u00e7\u00f5es e estrat\u00e9gias de longo prazo.
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, ensinado por um professor universitário certificado (CPA, MBA). Cobre ETFs, ações, títulos e estratégias de longo prazo.
 
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "melhor-corretora-portugal-2026",
-    titulo: "Melhor Corretora para Investir em Portugal em 2026",
-    descricao: "Compar\u00e1mos as principais corretoras dispon\u00edveis para portugueses: DEGIRO, XTB, Trading212, Interactive Brokers e outras. Qual a melhor para o teu perfil?",
+    slug: "melhor-corretora-brasil-2026",
+    titulo: "Melhor Corretora para Investir no Brasil em 2026",
+    descricao: "Comparamos as principais corretoras disponíveis para brasileiros: XP, Rico, NuInvest, Clear, BTG Pactual e Avenue. Qual é a melhor para o seu perfil?",
     categoria: "corretoras",
     data: "2026-05-02",
     tempoLeitura: "10 min",
     conteudo: `
-Escolher a corretora certa \u00e9 uma das decis\u00f5es mais importantes quando comes\u00e7as a investir. Uma m\u00e1 escolha pode custar-te centenas de euros em comiss\u00f5es desnecess\u00e1rias ao longo dos anos.
+Escolher a corretora certa é uma das decisões mais importantes quando você começa a investir. Uma má escolha pode custar milhares de reais em taxas desnecessárias ao longo dos anos.
 
-Neste guia compar\u00e1mos as principais corretoras dispon\u00edveis para residentes em Portugal em 2026, com foco nos custos, seguran\u00e7a, facilidade de uso e adequa\u00e7\u00e3o a diferentes perfis.
-
----
-
-## O que \u00e9 uma corretora e por que precisas de uma?
-
-Uma corretora \u00e9 uma plataforma intermedi\u00e1ria que te permite comprar e vender ativos financeiros \u2014 a\u00e7\u00f5es, ETFs, obriga\u00e7\u00f5es \u2014 nas bolsas de valores. Sem corretora, n\u00e3o consegues investir em mercados financeiros.
-
-Em Portugal podes usar:
-- **Corretoras internacionais reguladas na UE** (DEGIRO, XTB, Trading212) \u2014 geralmente mais baratas e modernas
-- **Bancos portugueses com servi\u00e7o de corretagem** (Millennium BCP, Santander, Montepio) \u2014 mais caros mas familiares
-- **Corretoras internacionais premium** (Interactive Brokers) \u2014 para investidores mais avan\u00e7ados
+Neste guia comparamos as principais corretoras disponíveis para residentes no Brasil em 2026, com foco nos custos, segurança, facilidade de uso e adequação a diferentes perfis.
 
 ---
 
-## Compara\u00e7\u00e3o das principais corretoras
+## O que é uma corretora e por que você precisa de uma?
 
-### XTB \u2014 \u2b50 Melhor para investidores portugueses
+Uma corretora é uma plataforma intermediária que permite comprar e vender ativos financeiros — ações, ETFs, FIIs, títulos públicos — na B3 e no Tesouro Direto. Sem corretora, você não consegue investir no mercado financeiro.
 
-**Comiss\u00f5es:** 0\u20ac at\u00e9 100.000\u20ac/m\u00eas em volume | 0,2% acima disso
-**Regula\u00e7\u00e3o:** CySEC + FCA
-**Dep\u00f3sito m\u00ednimo:** 0\u20ac
-**Suporte:** Em portugu\u00eas (diferencial \u00fanico no mercado)
+No Brasil você pode usar:
+- **Corretoras independentes** (XP, Rico, Clear) — pioneiras da corretagem zero, plataformas completas
+- **Corretoras de bancos digitais** (NuInvest/Nubank, Inter) — integradas à conta digital, muito simples
+- **Bancos de investimento** (BTG Pactual) — plataforma robusta e assessoria
+- **Corretoras internacionais** (Avenue) — para investir diretamente nos EUA em dólar
 
-A XTB \u00e9 a nossa recomenda\u00e7\u00e3o principal para investidores portugueses. Zero comiss\u00f5es sem restri\u00e7\u00f5es de frequ\u00eancia, suporte telef\u00f3nico em portugu\u00eas, e a plataforma xStation 5 considerada das melhores do mercado europeu.
+Todas as corretoras sérias são autorizadas pela **CVM** (Comissão de Valores Mobiliários) e supervisionadas pelo Banco Central do Brasil.
+
+---
+
+## Comparação das principais corretoras
+
+### XP Investimentos — ⭐ Melhor para a maioria
+
+**Corretagem:** R$ 0 em ações, ETFs e FIIs
+**Depósito mínimo:** R$ 0
+**Diferencial:** plataforma mais completa do mercado
+
+A XP é a nossa recomendação principal para investidores brasileiros. Corretagem zero, acesso a Tesouro Direto, CDBs de dezenas de emissores, fundos, ações, ETFs, BDRs e até fundos cripto — tudo em um só lugar.
 
 **Pontos fortes:**
-- Suporte telef\u00f3nico e chat em portugu\u00eas
-- Zero comiss\u00f5es at\u00e9 100k\u20ac/m\u00eas sem restri\u00e7\u00f5es
-- Plataforma xStation 5 muito completa
-- Fractional shares dispon\u00edveis
-- Conta demo gratuita para aprender sem risco
-- Sem dep\u00f3sito m\u00ednimo
+- Corretagem zero em ações e ETFs
+- Maior prateleira de produtos do Brasil
+- Conteúdo educativo gratuito de qualidade
+- App e home broker completos
+- Sem depósito mínimo
 
 **Pontos fracos:**
-- Relat\u00f3rio fiscal requer algum trabalho manual
+- Assessores podem indicar produtos com comissão — mantenha o foco no simples
 
-[Abrir conta real XTB \u2192](https://geolink.xtb.com/ETemo) | [Experimentar conta demo \u2192](https://geolink.xtb.com/0BKjy)
-
----
-
-### DEGIRO \u2014 Boa alternativa para ETFs core
-
-**Comiss\u00f5es:** 0\u20ac em ETFs core (lista espec\u00edfica, uma vez por m\u00eas) | 2\u20ac + 0,03% para outros ETFs
-**Regula\u00e7\u00e3o:** CMVM (Portugal) + AFM (Pa\u00edses Baixos)
-**Dep\u00f3sito m\u00ednimo:** 0\u20ac
-
-A DEGIRO tem ETFs core europeus gratuitos uma vez por m\u00eas e \u00e9 regulada pela CMVM. Boa op\u00e7\u00e3o como alternativa, mas o limite de uma compra por m\u00eas por ETF e a falta de suporte em portugu\u00eas s\u00e3o limita\u00e7\u00f5es relevantes.
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
 ---
 
-### Trading212 \u2014 Melhor para come\u00e7ar com pouco
+### Rico — Simplicidade com prateleira completa
 
-**Comiss\u00f5es:** 0\u20ac em tudo
-**Regula\u00e7\u00e3o:** FCA + CySEC
-**Dep\u00f3sito m\u00ednimo:** 1\u20ac
-**Diferencial:** Fractional shares a partir de 1\u20ac
+**Corretagem:** R$ 0
+**Depósito mínimo:** R$ 0
+
+A Rico (do mesmo grupo da XP) tem interface mais simples e despojada, ideal para quem quer praticidade sem abrir mão da variedade de produtos.
+
+[Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
 
 ---
 
-## Qual escolher \u2014 resumo r\u00e1pido
+### NuInvest (Nubank) — Para quem já é cliente Nubank
+
+**Corretagem:** R$ 0 em ações e ETFs
+**Diferencial:** integração total com a conta do Nubank
+
+Perfeita para iniciantes: o dinheiro sai da conta Nubank direto para o investimento, e a interface é a mais amigável do mercado. Inclusive oferece fundos cripto para quem quer exposição a Bitcoin sem usar exchange.
+
+[Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
+
+---
+
+### Avenue — Para investir nos EUA
+
+**Corretagem:** planos com corretagem zero
+**Diferencial:** conta internacional em dólar, fração de ações
+
+A Avenue foi criada para brasileiros investirem diretamente nos EUA: ações americanas, ETFs como VOO e VT, e REITs — com remessa de câmbio simplificada e a partir de poucos dólares (fração de ações).
+
+[Abrir conta na Avenue →](PLACEHOLDER_AVENUE_LINK)
+
+---
+
+## Qual escolher — resumo rápido
 
 | Perfil | Corretora recomendada |
 |---|---|
-| Maioria dos investidores portugueses | **XTB** \u2b50 |
-| Iniciante com menos de 100\u20ac/m\u00eas | Trading212 |
-| Quer ETFs core gratuitos 1x/m\u00eas | DEGIRO |
-| Carteira acima de 50.000\u20ac | Interactive Brokers |
+| Maioria dos investidores brasileiros | **XP** ⭐ |
+| Iniciante que já usa Nubank | NuInvest |
+| Quer simplicidade máxima | Rico |
+| Trader ativo (day trade) | Clear |
+| Quer investir nos EUA em dólar | Avenue |
+| Quer criptomoedas direto | Binance |
 
-**A nossa recomenda\u00e7\u00e3o clara: XTB.** Suporte em portugu\u00eas, zero comiss\u00f5es sem restri\u00e7\u00f5es, plataforma completa e conta demo gratuita para aprender.
+**A nossa recomendação clara: XP.** Corretagem zero, prateleira completa e plataforma sólida.
 
-[Abrir conta real XTB \u2192](https://geolink.xtb.com/ETemo) | [Experimentar demo gr\u00e1tis \u2192](https://geolink.xtb.com/0BKjy)
-
----
-
-## Bancos portugueses \u2014 porqu\u00ea evitar para ETFs
-
-Os principais bancos em Portugal cobram comiss\u00f5es muito elevadas para investimento em ETFs:
-- Millennium: 0,1% (m\u00ednimo 8\u20ac) por transa\u00e7\u00e3o
-- Santander: 0,1% (m\u00ednimo 10\u20ac) + taxas de cust\u00f3dia anuais
-
-Para um investidor que faz DCA mensal de 200\u20ac, o banco pode custar 10x mais por ano do que o DEGIRO. A diferen\u00e7a acumulada em 20 anos \u00e9 significativa.
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
 ---
 
-## Seguran\u00e7a \u2014 o dinheiro est\u00e1 protegido?
+## Bancos tradicionais — por que evitar para investir
 
-Todas as corretoras mencionadas s\u00e3o reguladas e os ativos (a\u00e7\u00f5es, ETFs) s\u00e3o propriedade tua, separados do balan\u00e7o da corretora. Mesmo que a corretora fal\u00edsse, os teus ativos seriam transferidos ou devolvidos.
-
-O cash n\u00e3o investido tem prote\u00e7\u00e3o at\u00e9 20.000\u20ac pelo Fundo de Garantia de Investidores (UE).
+Os grandes bancos de varejo ainda cobram corretagem (R$ 10-20 por ordem) e empurram fundos caros com taxas de 2-4% ao ano. Para quem faz aportes mensais, o banco pode custar dezenas de vezes mais por ano do que uma corretora com corretagem zero. A diferença acumulada em 20 anos é enorme.
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## Segurança — o dinheiro está protegido?
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
+Todas as corretoras mencionadas são reguladas pela CVM e os ativos (ações, ETFs) ficam registrados em seu CPF na B3 — separados do patrimônio da corretora. Mesmo que a corretora quebre, seus ativos continuam sendo seus.
 
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+Além disso:
+- **CDBs** têm proteção do **FGC até R$ 250 mil** por CPF e por instituição
+- **Tesouro Direto** tem garantia do Tesouro Nacional
+- Ações e ETFs ficam custodiados na B3 em seu nome
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo. Investe sempre de acordo com o teu perfil de risco.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo. Invista sempre de acordo com o seu perfil de risco.*
     `
   },
   {
-    slug: "degiro-guia-completo-portugal",
-    titulo: "DEGIRO em Portugal \u2014 Guia Completo 2026 (Abertura de Conta, Taxas e IRS)",
-    descricao: "Tudo sobre a DEGIRO em Portugal: como abrir conta, comiss\u00f5es reais, ETFs gratuitos, como declarar no IRS e o que mudou em 2026.",
+    slug: "xp-investimentos-guia-completo-brasil",
+    titulo: "XP Investimentos — Guia Completo 2026 (Abertura de Conta, Taxas e IR)",
+    descricao: "Tudo sobre a XP Investimentos: como abrir conta, taxas reais, produtos disponíveis, como declarar no Imposto de Renda e o que mudou em 2026.",
     categoria: "corretoras",
     data: "2026-05-05",
     tempoLeitura: "9 min",
     conteudo: `
-A DEGIRO \u00e9 a corretora mais usada por investidores portugueses \u2014 e com raz\u00e3o. ETFs core gratuitos, regula\u00e7\u00e3o s\u00f3lida e interface simples tornaram-na a escolha padr\u00e3o para quem quer come\u00e7ar a investir sem complica\u00e7\u00f5es.
+A XP é a maior corretora independente do Brasil — e com razão. Corretagem zero, prateleira gigante de produtos e plataforma sólida fizeram dela a escolha padrão para quem quer investir sem complicações.
 
 ---
 
-## O que \u00e9 a DEGIRO?
+## O que é a XP?
 
-A DEGIRO \u00e9 uma corretora neerlandesa fundada em 2013, adquirida pelo grupo alem\u00e3o flatexDEGIRO em 2020. Opera em Portugal desde 2014 e est\u00e1 registada junto da CMVM como intermedi\u00e1rio financeiro autorizado.
-
-Com mais de 2,5 milh\u00f5es de clientes em 18 pa\u00edses europeus, \u00e9 uma das maiores corretoras de retalho da Europa.
+A XP Investimentos foi fundada em 2001 e liderou a revolução que tirou os investimentos dos grandes bancos. Hoje é listada na Nasdaq (XP Inc.) e tem milhões de clientes. É autorizada pela CVM e supervisionada pelo Banco Central do Brasil.
 
 ---
 
-## Como abrir conta na DEGIRO
+## Como abrir conta na XP
 
-O processo \u00e9 100% online e demora entre 1 a 3 dias \u00fateis para aprova\u00e7\u00e3o:
+O processo é 100% online e leva poucos minutos:
 
-1. Acede a degiro.pt e clica em "Criar Conta"
-2. Introduz email e cria password
-3. Preenche dados pessoais (nome, NIF, morada)
-4. Faz upload do documento de identifica\u00e7\u00e3o e comprovativo de morada
-5. Aguarda valida\u00e7\u00e3o (normalmente 24-48h)
-6. Faz o primeiro dep\u00f3sito por transfer\u00eancia banc\u00e1ria
+1. Acesse o site ou baixe o app da XP
+2. Informe e-mail e crie uma senha
+3. Preencha os dados pessoais (nome, CPF, endereço)
+4. Envie foto do documento de identificação
+5. Aguarde a validação (geralmente no mesmo dia)
+6. Faça o primeiro depósito via PIX ou TED
 
----
-
-## Comiss\u00f5es da DEGIRO em 2026
-
-### ETFs do programa Core Selection \u2014 GRATUITOS
-A DEGIRO tem uma lista de ETFs "core" que podes comprar gratuitamente **uma vez por m\u00eas**. Se comprares o mesmo ETF core mais do que uma vez no mesmo m\u00eas, a segunda compra tem comiss\u00e3o normal.
-
-ETFs core mais populares:
-- iShares Core MSCI World (IWDA) \u2014 GRATUITO
-- Vanguard FTSE All-World (VWRA) \u2014 GRATUITO
-- iShares Core S&P 500 (CSPX) \u2014 GRATUITO
-- iShares Core MSCI Emerging Markets (EIMI) \u2014 GRATUITO
-
-### Outras transa\u00e7\u00f5es
-- ETFs fora do programa core: 2\u20ac + 0,03% do valor
-- A\u00e7\u00f5es europeias: 3,90\u20ac por transa\u00e7\u00e3o
-- A\u00e7\u00f5es americanas: 0,50\u20ac + 0,004$ por a\u00e7\u00e3o (m\u00ednimo 1$)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
 ---
 
-## Como declarar a DEGIRO no IRS
+## Taxas da XP em 2026
 
-A DEGIRO disponibiliza em fevereiro/mar\u00e7o um relat\u00f3rio fiscal anual com toda a informa\u00e7\u00e3o necess\u00e1ria para o Anexo J.
+### Ações, ETFs e FIIs — corretagem ZERO
+A XP não cobra corretagem para compra e venda de ações, ETFs e fundos imobiliários pelo app e home broker. Você paga apenas os emolumentos da B3 (~0,03%).
+
+### Outros produtos
+- Tesouro Direto: taxa zero de custódia da corretora (só a taxa da B3 de 0,2%/ano, isenta para Tesouro Selic até R$ 10 mil)
+- CDBs, LCIs, LCAs: sem taxa para o investidor (a corretora ganha spread do emissor)
+- Fundos: taxa de administração de cada fundo (atenção aos caros!)
+
+---
+
+## Como declarar a XP no Imposto de Renda
+
+A XP disponibiliza em fevereiro/março o **informe de rendimentos** com toda a informação necessária para a declaração anual.
 
 **O que declarar:**
-- **Dividendos recebidos:** Anexo J (rendimentos de capitais)
-- **Mais-valias realizadas (vendas com lucro):** Anexo J (mais-valias)
-- **Menos-valias (vendas com preju\u00edzo):** tamb\u00e9m no Anexo J
+- **Posições em ações/ETFs/FIIs:** ficha "Bens e Direitos", pelo custo de aquisição
+- **Lucros com vendas:** ficha "Renda Variável", mês a mês (e o DARF já deve ter sido pago)
+- **Dividendos:** "Rendimentos Isentos e Não Tributáveis"
+- **JCP:** "Rendimentos Sujeitos à Tributação Exclusiva"
 
-**Taxas aplic\u00e1veis:**
-- Dividendos e mais-valias de ETFs: 28% (taxa libert\u00e1ria)
-- ETFs de acumula\u00e7\u00e3o n\u00e3o geram evento tribut\u00e1vel nos dividendos reinvestidos
+**Alíquotas aplicáveis:**
+- Ações: isenção para vendas até R$ 20 mil/mês; acima disso, 15% sobre o lucro
+- ETFs: 15% sobre o lucro (sem isenção); day trade: 20%
+- Renda fixa: tabela regressiva (22,5% a 15%), retida na fonte
 
-**Dica:** O relat\u00f3rio est\u00e1 dispon\u00edvel em "Conta" \u2192 "Relat\u00f3rios" \u2192 "Relat\u00f3rio Fiscal".
+**Dica:** o informe fica disponível na área logada em "Documentos" → "Informe de Rendimentos".
 
 ---
 
 ## Vantagens e desvantagens resumidas
 
 **Vantagens:**
-- ETFs core gratuitos (programa \u00fanico no mercado)
-- Regulada pela CMVM
-- Relat\u00f3rio fiscal detalhado para Portugal
-- Sem dep\u00f3sito m\u00ednimo
+- Corretagem zero em renda variável
+- Maior prateleira de produtos do Brasil (Tesouro, CDBs, fundos, BDRs, cripto)
+- Plataforma e app completos
+- Regulada pela CVM, ativos custodiados na B3 em seu nome
 
 **Desvantagens:**
-- Sem MB WAY (s\u00f3 transfer\u00eancia banc\u00e1ria)
-- Sem fractional shares
-- Sem suporte em portugu\u00eas
+- A oferta gigante pode confundir iniciantes — mantenha o simples
+- Alguns fundos da prateleira têm taxas altas (evite-os)
 
-Se preferires suporte em portugu\u00eas e sem restri\u00e7\u00f5es de frequ\u00eancia, considera a XTB:
+Se você prefere uma interface mais enxuta, considere a Rico ou a NuInvest:
 
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
-
----
-
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
-
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na Rico →](PLACEHOLDER_RICO_LINK) | [Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "quanto-poupar-por-mes-portugal",
-    titulo: "Quanto Devo Poupar por M\u00eas em Portugal? (Guia 2026)",
-    descricao: "Quanto poupar por m\u00eas com o sal\u00e1rio m\u00e9dio portugu\u00eas? Regras pr\u00e1ticas, simula\u00e7\u00f5es reais e estrat\u00e9gias adaptadas ao custo de vida em Portugal.",
+    slug: "quanto-poupar-por-mes-brasil",
+    titulo: "Quanto Devo Poupar por Mês no Brasil? (Guia 2026)",
+    descricao: "Quanto poupar por mês com o salário médio brasileiro? Regras práticas, simulações reais e estratégias adaptadas ao custo de vida no Brasil.",
     categoria: "poupanca",
     data: "2026-05-08",
     tempoLeitura: "8 min",
     conteudo: `
-"Devia poupar mais" \u00e9 provavelmente o pensamento financeiro mais comum em Portugal \u2014 e um dos menos transformados em a\u00e7\u00e3o. Este guia d\u00e1-te n\u00fameros concretos, regras simples e um plano pr\u00e1tico adaptado ao custo de vida portugu\u00eas.
+"Eu devia guardar mais dinheiro" é provavelmente o pensamento financeiro mais comum no Brasil — e um dos menos transformados em ação. Este guia traz números concretos, regras simples e um plano prático adaptado ao custo de vida brasileiro.
 
 ---
 
-## A realidade das poupan\u00e7as em Portugal
+## A realidade da poupança no Brasil
 
-Portugal tem uma das taxas de poupan\u00e7a mais baixas da Europa. Segundo dados do Banco de Portugal, a taxa de poupan\u00e7a das fam\u00edlias portuguesas foi de 7,4% do rendimento dispon\u00edvel em 2025 \u2014 bem abaixo da m\u00e9dia europeia de 13-15%.
+O Brasil tem uma das taxas de poupança das famílias mais baixas entre as grandes economias. Boa parte das famílias não consegue fechar o mês no azul, e quem guarda dinheiro frequentemente o deixa na caderneta de poupança — que costuma perder da inflação.
 
-O problema n\u00e3o \u00e9 s\u00f3 o rendimento baixo. \u00c9 tamb\u00e9m a falta de h\u00e1bito, a aus\u00eancia de objetivos claros e a sensa\u00e7\u00e3o de que "n\u00e3o sobra nada para poupar".
+O problema não é só a renda. É também a falta de hábito, a ausência de objetivos claros e a sensação de que "não sobra nada para guardar".
 
 ---
 
-## Regras de poupan\u00e7a \u2014 qual aplicar?
+## Regras de poupança — qual aplicar?
 
 ### Regra 50/30/20
-A mais conhecida e a mais aplic\u00e1vel para a maioria das pessoas:
-- **50%** do rendimento l\u00edquido para necessidades (renda, alimenta\u00e7\u00e3o, transportes, utilities)
+A mais conhecida e a mais aplicável para a maioria das pessoas:
+- **50%** da renda líquida para necessidades (aluguel, alimentação, transporte, contas)
 - **30%** para desejos (lazer, restaurantes, viagens, assinaturas)
-- **20%** para poupan\u00e7a e investimento
+- **20%** para poupança e investimento
 
-**Para o sal\u00e1rio m\u00e9dio portugu\u00eas (~1.400\u20ac l\u00edquidos):**
-- 700\u20ac para necessidades
-- 420\u20ac para desejos
-- 280\u20ac para poupan\u00e7a
+**Para uma renda líquida de R$ 3.500:**
+- R$ 1.750 para necessidades
+- R$ 1.050 para desejos
+- R$ 700 para poupança
 
----
-
-### Regra "Paga-te primeiro"
-Em vez de poupar o que sobra no final do m\u00eas (frequentemente zero), transferes automaticamente o valor de poupan\u00e7a no dia em que recebes o sal\u00e1rio.
-
-Configura uma transfer\u00eancia autom\u00e1tica para uma corretora como a XTB no dia do vencimento:
-
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo)
+Se 20% for impossível hoje, comece com 5% ou 10% — o hábito importa mais que o valor.
 
 ---
 
-## Simula\u00e7\u00e3o real para diferentes rendimentos
+### Regra "Pague-se primeiro"
+Em vez de guardar o que sobra no fim do mês (frequentemente zero), você transfere automaticamente o valor da poupança no dia em que recebe o salário.
 
-| Sal\u00e1rio l\u00edquido | Poupan\u00e7a 20% | Em 1 ano | Em 5 anos (com 4% juro) |
+Configure um aporte automático para uma corretora como a XP no dia do pagamento:
+
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+
+---
+
+## Simulação real para diferentes rendas
+
+| Renda líquida | Poupança 20% | Em 1 ano | Em 5 anos (a 10% a.a.) |
 |---|---|---|---|
-| 1.000\u20ac | 200\u20ac/m\u00eas | 2.400\u20ac | 13.300\u20ac |
-| 1.400\u20ac | 280\u20ac/m\u00eas | 3.360\u20ac | 18.600\u20ac |
-| 1.800\u20ac | 360\u20ac/m\u00eas | 4.320\u20ac | 23.900\u20ac |
-| 2.500\u20ac | 500\u20ac/m\u00eas | 6.000\u20ac | 33.200\u20ac |
+| R$ 2.000 | R$ 400/mês | R$ 4.800 | R$ 31.000 |
+| R$ 3.500 | R$ 700/mês | R$ 8.400 | R$ 54.200 |
+| R$ 5.000 | R$ 1.000/mês | R$ 12.000 | R$ 77.400 |
+| R$ 8.000 | R$ 1.600/mês | R$ 19.200 | R$ 123.900 |
 
 ---
 
-## Onde colocar as poupan\u00e7as?
+## Onde colocar a poupança?
 
-**Fundo de emerg\u00eancia (curto prazo):** Conta poupan\u00e7a ou Certificados de Aforro.
+**Reserva de emergência (curto prazo):** Tesouro Selic ou CDB de liquidez diária a 100% do CDI. Esqueça a caderneta de poupança — ela rende menos.
 
-**Investimento (longo prazo, +5 anos):** ETFs de \u00edndice numa corretora como DEGIRO ou XTB. O fundo de emerg\u00eancia n\u00e3o deve estar em bolsa.
+**Investimento (longo prazo, 5+ anos):** ETFs de índice (BOVA11, IVVB11) em uma corretora com corretagem zero. A reserva de emergência não deve estar na bolsa.
 
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
-
----
-
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
-
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "irs-mais-valias-portugal-2026",
-    titulo: "IRS sobre Investimentos em Portugal 2026 \u2014 Guia Completo",
-    descricao: "Como declarar a\u00e7\u00f5es, ETFs e dividendos no IRS em Portugal. Taxas, anexos, exemplos pr\u00e1ticos e as mudan\u00e7as de 2026.",
+    slug: "imposto-de-renda-acoes-etfs-brasil-2026",
+    titulo: "Imposto de Renda sobre Investimentos no Brasil 2026 — Guia Completo",
+    descricao: "Como funciona o IR sobre ações, ETFs, dividendos e renda fixa no Brasil. Alíquotas, isenções, DARF, exemplos práticos e as regras de 2026.",
     categoria: "impostos",
     data: "2026-05-10",
     tempoLeitura: "11 min",
     conteudo: `
-A fiscalidade dos investimentos em Portugal \u00e9 um dos temas mais confusos para os investidores portugueses. Impostos mal declarados podem resultar em coimas, enquanto uma boa compreens\u00e3o do sistema pode ajudar-te a otimizar a carga fiscal legal.
+A tributação dos investimentos é um dos temas mais confusos para os investidores brasileiros. Impostos mal apurados podem gerar multas da Receita, enquanto uma boa compreensão do sistema ajuda você a otimizar a carga fiscal legalmente.
 
 ---
 
 ## Os impostos que se aplicam aos investimentos
 
-Em Portugal, os rendimentos de investimentos s\u00e3o tributados principalmente atrav\u00e9s de duas categorias no IRS:
+No Brasil, os rendimentos de investimentos são tributados de formas diferentes conforme o tipo de ativo:
 
-**Categoria E \u2014 Rendimentos de capitais**
-- Dividendos de a\u00e7\u00f5es e ETFs de distribui\u00e7\u00e3o
-- Juros de obriga\u00e7\u00f5es
-- Juros de contas poupan\u00e7a
+**Renda variável (apuração mensal, pagamento via DARF)**
+- Lucro na venda de ações
+- Lucro na venda de ETFs e BDRs
+- FIIs (rendimentos mensais isentos; lucro na venda de cotas: 20%)
 
-**Categoria G \u2014 Incrementos patrimoniais**
-- Mais-valias de venda de a\u00e7\u00f5es
-- Mais-valias de venda de ETFs
-- Menos-valias (dedu\u00e7\u00f5es a ganhos futuros)
-
----
-
-## Taxa de imposto \u2014 28% ou englobamento?
-
-A maioria dos investidores aplica a **taxa libert\u00e1ria de 28%**. No entanto, dependendo do teu escal\u00e3o de IRS, pode ser vantajoso optar pelo **englobamento**.
-
-**Quando o englobamento \u00e9 vantajoso?**
-Se o teu rendimento total te mant\u00e9m no escal\u00e3o mais baixo (at\u00e9 7.703\u20ac \u2014 taxa de 13,25%) ou segundo escal\u00e3o (at\u00e9 11.623\u20ac \u2014 18%), o englobamento pode ser mais barato que os 28%.
+**Renda fixa (retenção na fonte)**
+- CDBs, Tesouro Direto, debêntures: tabela regressiva
+- LCI/LCA: isentas de IR para pessoa física
 
 ---
 
-## ETFs \u2014 o que tem de ser declarado
+## Alíquotas — o resumo essencial
 
-**ETFs de acumula\u00e7\u00e3o**
-N\u00e3o geras evento tribut\u00e1vel enquanto n\u00e3o venderes. Quando vendes com lucro, a mais-valia \u00e9 tributada a 28%.
+| Investimento | Alíquota |
+|---|---|
+| Ações (vendas até R$ 20 mil/mês) | **Isento** |
+| Ações (vendas acima de R$ 20 mil/mês) | 15% sobre o lucro |
+| ETFs de ações | 15% sobre o lucro (sem isenção) |
+| Day trade | 20% sobre o lucro |
+| Dividendos de ações | Isentos (pessoa física) |
+| JCP | 15% na fonte |
+| Renda fixa | 22,5% → 15% (tabela regressiva) |
 
-**ETFs de distribui\u00e7\u00e3o**
-Cada dividendo distribuído \u00e9 um evento tribut\u00e1vel. Declara no Anexo J como rendimento de capitais.
-
----
-
-## Exemplo pr\u00e1tico \u2014 declara\u00e7\u00e3o DEGIRO
-
-Em 2025:
-- Vendeste ETFs com lucro de 1.500\u20ac
-- Recebeste dividendos de 200\u20ac
-
-No Anexo J:
-- Quadro 9: Ganho l\u00edquido de 1.500\u20ac (c\u00f3digo G10)
-- Quadro 8: 200\u20ac em dividendos (c\u00f3digo E20)
-
-Imposto total: 1.700\u20ac \u00d7 28% = 476\u20ac
+**Tabela regressiva da renda fixa:**
+- Até 180 dias: 22,5%
+- 181 a 360 dias: 20%
+- 361 a 720 dias: 17,5%
+- Acima de 720 dias: 15%
 
 ---
 
-## Menos-valias \u2014 como aproveitar
+## ETFs — o que precisa ser declarado
 
-As menos-valias podem ser deduzidas a mais-valias durante os **5 anos seguintes**. Declara sempre as perdas no Anexo J, mesmo que este ano n\u00e3o te parecer \u00fatil \u2014 pode s\u00ea-lo no futuro.
+**ETFs de ações (BOVA11, IVVB11, WRLD11)**
+Não há evento tributável enquanto você não vende. Quando vende com lucro, paga 15% via DARF até o fim do mês seguinte. Atenção: a isenção de R$ 20 mil/mês **não** vale para ETFs.
+
+**ETFs de renda fixa (LFTS11, IMAB11)**
+IR de 15% retido na fonte na venda — mais simples.
+
+---
+
+## Exemplo prático — apuração mensal
+
+Em março você:
+- Vendeu ações com lucro de R$ 7.500 (total vendido no mês: R$ 35.000)
+- Vendeu ETFs com lucro de R$ 1.000
+
+Apuração:
+- Ações: vendeu acima de R$ 20 mil → 15% × R$ 7.500 = R$ 1.125
+- ETFs: 15% × R$ 1.000 = R$ 150
+
+DARF total: **R$ 1.275**, código 6015, pago até o último dia útil de abril.
+
+---
+
+## Prejuízos — como aproveitar
+
+Prejuízos em renda variável podem ser compensados com lucros futuros da mesma modalidade, **sem prazo de validade**. Registre sempre as perdas na sua planilha de controle — elas reduzem o imposto futuro.
 
 ---
 
 ## Erros mais comuns
 
-- N\u00e3o declarar por achar que n\u00e3o \u00e9 obrigat\u00f3rio
-- Confundir mais-valias realizadas e n\u00e3o realizadas
-- N\u00e3o guardar comprovativos (guarda 10 anos)
-- Esquecer a dedu\u00e7\u00e3o de menos-valias
+- Achar que tudo se resolve na declaração anual (o DARF é mensal)
+- Aplicar a isenção de R$ 20 mil a ETFs (vale só para ações)
+- Não guardar notas de corretagem (guarde 5 anos)
+- Esquecer a compensação de prejuízos
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
 
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
 
 ---
 
-*Este guia \u00e9 de car\u00e1ter informativo. Para situa\u00e7\u00f5es espec\u00edficas, consulta um contabilista ou advogado fiscal.*
+*Este guia é de caráter informativo. Para situações específicas, consulte um contador.*
     `
   },
   {
-    slug: "sp500-vs-msci-world-portugal",
-    titulo: "S&P 500 vs MSCI World \u2014 Qual ETF Escolher em 2026?",
-    descricao: "S&P 500 ou MSCI World? Compar\u00e1mos retorno hist\u00f3rico, diversifica\u00e7\u00e3o, risco e adequa\u00e7\u00e3o para investidores portugueses.",
+    slug: "sp500-vs-ibovespa-brasil",
+    titulo: "S&P 500 vs Ibovespa — Onde Investir em 2026? (IVVB11 vs BOVA11)",
+    descricao: "S&P 500 ou Ibovespa? Comparamos retorno histórico, diversificação, risco cambial e como investir em cada um via ETFs da B3.",
     categoria: "etfs",
     data: "2026-05-12",
     tempoLeitura: "9 min",
     conteudo: `
-\u00c9 o debate mais recorrente nos f\u00f3runs de investimento portugueses: devo investir no S&P 500 (s\u00f3 EUA) ou no MSCI World (mundo desenvolvido)? A resposta n\u00e3o \u00e9 \u00f3bvia \u2014 e depende de v\u00e1rios fatores.
+É o debate mais recorrente entre investidores brasileiros: devo investir na bolsa brasileira (Ibovespa) ou na americana (S&P 500)? A resposta não é óbvia — e depende de vários fatores.
 
 ---
 
-## O que \u00e9 cada \u00edndice?
+## O que é cada índice?
+
+### Ibovespa
+- **Composição:** as ações mais negociadas da B3 (Petrobras, Vale, Itaú, WEG...)
+- **Moeda:** real
+- **ETF popular:** BOVA11 — taxa: ~0,10%
 
 ### S&P 500
-- **Composi\u00e7\u00e3o:** 500 maiores empresas cotadas nos EUA
-- **Peso EUA:** 100%
-- **ETF popular:** iShares Core S&P 500 (CSPX) \u2014 TER: 0,07%
-
-### MSCI World
-- **Composi\u00e7\u00e3o:** Empresas de 23 pa\u00edses desenvolvidos
-- **Peso EUA:** ~70%
-- **N\u00famero de empresas:** ~1.500
-- **ETF popular:** iShares Core MSCI World (IWDA) \u2014 TER: 0,20%
+- **Composição:** 500 maiores empresas dos EUA (Apple, Microsoft, Amazon...)
+- **Moeda:** dólar (você ganha/perde também com o câmbio)
+- **ETF popular na B3:** IVVB11 — taxa: ~0,23%
 
 ---
 
-## Retorno hist\u00f3rico comparado
+## Retorno histórico comparado
 
-| Per\u00edodo | S&P 500 (anualizado) | MSCI World (anualizado) |
-|---|---|---|
-| 5 anos | +14,2%/ano | +12,8%/ano |
-| 10 anos | +12,9%/ano | +11,4%/ano |
-| 20 anos | +10,1%/ano | +9,3%/ano |
+Na última década, o S&P 500 (em reais, via IVVB11) superou o Ibovespa com folga, impulsionado pela dominância tecnológica americana e pela valorização do dólar. Mas houve períodos (como 2003-2010) em que a bolsa brasileira foi a grande vencedora mundial.
 
-O S&P 500 tem superado o MSCI World de forma consistente na \u00faltima d\u00e9cada, principalmente pela domin\u00e2ncia tecnol\u00f3gica americana.
+A lição: ninguém sabe qual será o vencedor da próxima década. Por isso a diversificação faz sentido.
 
 ---
 
-## A resposta para a maioria dos investidores portugueses
+## A resposta para a maioria dos investidores brasileiros
 
-**Ambas as escolhas s\u00e3o excelentes.** A diferen\u00e7a de retorno entre as duas estrat\u00e9gias a 20-30 anos \u00e9 muito menor do que a diferen\u00e7a entre investir vs. n\u00e3o investir.
+**Ter os dois é uma excelente estratégia.** Seu salário, imóvel e custo de vida já estão em reais — adicionar exposição internacional via IVVB11 (ou WRLD11, que cobre o mundo desenvolvido inteiro) protege seu patrimônio contra crises locais e desvalorização do real.
 
-- **MSCI World (IWDA/VWRA)** para maior tranquilidade e diversifica\u00e7\u00e3o
-- **S&P 500 (CSPX)** se acreditas na continuidade da domin\u00e2ncia americana
+Uma alocação comum:
+- **50-70% internacional** (IVVB11 / WRLD11)
+- **30-50% Brasil** (BOVA11 + renda fixa atrelada ao CDI/IPCA)
 
-Podes comprar ambos sem comiss\u00f5es na XTB:
+Você pode comprar todos esses ETFs com corretagem zero na XP:
 
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
----
+E quem quiser investir diretamente nos EUA, em dólar, pode usar a Avenue:
 
-## Os melhores ETFs dispon\u00edveis na XTB e DEGIRO
-
-| ETF | ISIN | TER | Dispon\u00edvel XTB | Gratuito DEGIRO |
-|---|---|---|---|---|
-| iShares Core MSCI World | IE00B4L5Y983 | 0,20% | \u2705 | \u2705 Sim |
-| iShares Core S&P 500 | IE00B5BMR087 | 0,07% | \u2705 | \u2705 Sim |
-| Vanguard FTSE All-World | IE00BK5BQT80 | 0,22% | \u2705 | \u2705 Sim |
+[Abrir conta na Avenue →](PLACEHOLDER_AVENUE_LINK)
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## Os principais ETFs disponíveis na B3
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy explora em detalhe as diferen\u00e7as entre \u00edndices e como construir uma carteira diversificada. Mais de 74.000 alunos, professor universit\u00e1rio certificado.
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+| ETF | Índice | Taxa | Exposição |
+|---|---|---|---|
+| BOVA11 | Ibovespa | ~0,10% | Brasil |
+| IVVB11 | S&P 500 | ~0,23% | EUA + dólar |
+| WRLD11 | Mundo desenvolvido | ~0,30% | Global + dólar |
+| SMAL11 | Small caps BR | ~0,50% | Brasil |
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy explora em detalhe as diferenças entre índices e como construir uma carteira diversificada. Mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "ppr-vale-a-pena-portugal-2026",
-    titulo: "PPR Vale a Pena em Portugal em 2026? An\u00e1lise Honesta",
-    descricao: "O PPR (Plano Poupan\u00e7a Reforma) ainda vale a pena em 2026? Analiz\u00e1mos os benef\u00edcios fiscais, as limita\u00e7\u00f5es e compar\u00e1mos com investir diretamente em ETFs.",
+    slug: "previdencia-privada-vale-a-pena-brasil-2026",
+    titulo: "Previdência Privada Vale a Pena no Brasil em 2026? Análise Honesta",
+    descricao: "PGBL ou VGBL ainda valem a pena em 2026? Analisamos os benefícios fiscais, as limitações e comparamos com investir diretamente em ETFs.",
     categoria: "reforma",
     data: "2026-05-15",
     tempoLeitura: "10 min",
     conteudo: `
-O PPR \u00e9 frequentemente vendido pelos bancos como o melhor produto para a reforma. Mas ser\u00e1 que \u00e9 realmente a melhor op\u00e7\u00e3o? Fiz\u00e9mos as contas e a resposta \u00e9 mais nuan\u00e7ada do que o teu gestor de conta sugere.
+A previdência privada é frequentemente vendida pelos bancos como o melhor produto para a aposentadoria. Mas será que é realmente a melhor opção? Fizemos as contas e a resposta é mais nuançada do que o seu gerente sugere.
 
 ---
 
-## O que \u00e9 um PPR?
+## O que é previdência privada?
 
-O Plano Poupan\u00e7a Reforma (PPR) \u00e9 um produto financeiro com benef\u00edcios fiscais criado pelo Estado portugu\u00eas. Pode assumir a forma de fundo PPR, seguro PPR ou PPR em ETFs.
+A previdência privada complementar no Brasil tem duas formas principais:
 
----
+**PGBL (Plano Gerador de Benefício Livre)**
+- Permite deduzir as contribuições do IR, até 12% da renda bruta anual (só vale para quem faz declaração completa e contribui para o INSS)
+- No resgate, o IR incide sobre o **valor total**
 
-## Os benef\u00edcios fiscais do PPR
-
-**Dedu\u00e7\u00e3o no IRS (contribui\u00e7\u00e3o)**
-- At\u00e9 35 anos: 20% de at\u00e9 2.000\u20ac = m\u00e1ximo 400\u20ac de dedu\u00e7\u00e3o
-- 35 a 50 anos: 20% de at\u00e9 3.500\u20ac = m\u00e1ximo 700\u20ac de dedu\u00e7\u00e3o
-- Mais de 50 anos: 20% de at\u00e9 7.000\u20ac = m\u00e1ximo 1.400\u20ac de dedu\u00e7\u00e3o
-
-**Taxa reduzida no resgate**
-Os ganhos s\u00e3o tributados a 8% em vez dos habituais 28% se mantiveres at\u00e9 reforma/60 anos.
+**VGBL (Vida Gerador de Benefício Livre)**
+- Sem dedução no IR
+- No resgate, o IR incide **apenas sobre os rendimentos**
+- Indicado para quem faz declaração simplificada
 
 ---
 
-## Quando o PPR faz sentido
+## O benefício fiscal — tabela regressiva
 
-**O PPR \u00e9 claramente vantajoso quando:**
-- Est\u00e1s pr\u00f3ximo dos 50 anos
-- Usas um PPR em ETFs (n\u00e3o fundo de gest\u00e3o ativa com custos elevados)
-- Tens certeza de que n\u00e3o vais precisar do dinheiro antes dos 60 anos
+Escolhendo a tabela regressiva, a alíquota de IR cai com o tempo:
+- Até 2 anos: 35%
+- 8 a 10 anos: 15%
+- **Acima de 10 anos: 10%** — a menor alíquota do mercado brasileiro
 
-**O PPR \u00e9 menos vantajoso quando:**
-- Tens menos de 35 anos e queres flexibilidade
-- O fundo PPR tem custos de gest\u00e3o superiores a 0,5%/ano
+Além disso, previdência não tem come-cotas (a antecipação semestral de IR dos fundos comuns) e não entra em inventário — vai direto aos beneficiários.
 
 ---
 
-## Resumo \u2014 vale a pena?
+## Quando a previdência faz sentido
 
-| Situa\u00e7\u00e3o | Recomenda\u00e7\u00e3o |
+**É claramente vantajosa quando:**
+- Você faz declaração completa do IR e usa o PGBL até os 12% (a dedução é dinheiro de volta hoje)
+- O fundo escolhido tem taxa de administração baixa (até ~1%/ano) e sem taxa de carregamento
+- O horizonte é de 10+ anos, aproveitando a alíquota de 10%
+- Você quer planejamento sucessório
+
+**É menos vantajosa quando:**
+- O plano é de banco com taxa de administração de 2-3%/ano (come o benefício fiscal inteiro)
+- Você pode precisar do dinheiro em menos de 8 anos
+- Você prefere a flexibilidade total de ETFs e Tesouro Direto
+
+---
+
+## Resumo — vale a pena?
+
+| Situação | Recomendação |
 |---|---|
-| Jovem (menos de 35 anos), longo prazo | ETFs diretos primeiro, PPR depois |
-| 40-55 anos, quer benef\u00edcio fiscal | PPR em ETFs (n\u00e3o fundo banc\u00e1rio) |
-| PPR de banco com comiss\u00f5es altas | Evita |
+| Declaração completa + horizonte 10+ anos | PGBL com taxa baixa (corretora, não banco) |
+| Declaração simplificada | VGBL com taxa baixa, ou ETFs diretos |
+| Plano de banco com taxas altas | Faça a portabilidade — é gratuita |
+| Quer flexibilidade máxima | ETFs + Tesouro IPCA+ |
 
-Para quem quer come\u00e7ar com ETFs diretos, a XTB \u00e9 a nossa recomenda\u00e7\u00e3o:
+Corretoras como a XP oferecem previdência com fundos de taxa baixa, e você pode fazer a portabilidade do seu plano de banco sem custo:
 
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
-
----
-
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
-
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo. Consulta um consultor financeiro independente para situa\u00e7\u00f5es personalizadas.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo. Consulte um planejador financeiro independente para situações personalizadas.*
     `
   },
   {
-    slug: "certificados-aforro-vs-etfs",
-    titulo: "Certificados de Aforro vs ETFs \u2014 O Que \u00e9 Melhor para o Teu Dinheiro? (2026)",
-    descricao: "Compar\u00e1mos os Certificados de Aforro (S\u00e9rie F) com ETFs de \u00edndice para investidores portugueses. Seguran\u00e7a vs retorno \u2014 qual \u00e9 a escolha certa?",
+    slug: "tesouro-direto-vs-etfs",
+    titulo: "Tesouro Direto vs ETFs — O Que é Melhor para o Seu Dinheiro? (2026)",
+    descricao: "Comparamos o Tesouro Direto (Selic, IPCA+, Prefixado) com ETFs de índice para investidores brasileiros. Segurança vs retorno — qual é a escolha certa?",
     categoria: "poupanca",
     data: "2026-05-18",
     tempoLeitura: "8 min",
     conteudo: `
-Os Certificados de Aforro s\u00e3o o produto de poupan\u00e7a mais popular em Portugal \u2014 com capital garantido pelo Estado e isen\u00e7\u00e3o de imposto nos primeiros anos. Mas ser\u00e3o melhores do que ETFs? Fiz\u00e9mos a compara\u00e7\u00e3o honesta.
+O Tesouro Direto é o investimento mais seguro do Brasil — títulos garantidos pelo Tesouro Nacional, a partir de ~R$ 30. Mas será que é melhor do que ETFs? Fizemos a comparação honesta.
 
 ---
 
-## Compara\u00e7\u00e3o direta
+## Comparação direta
 
-| Crit\u00e9rio | Certificados de Aforro | ETFs (IWDA) |
+| Critério | Tesouro Selic | ETFs de ações (IVVB11) |
 |---|---|---|
-| Capital garantido | \u2705 Sim | \u274c N\u00e3o |
-| Retorno esperado (longo prazo) | 3-4%/ano | 8-10%/ano |
-| Volatilidade | Nenhuma | Alta no curto prazo |
-| Liquidez | Boa (ap\u00f3s 3 meses) | Excelente (di\u00e1ria) |
-| Fiscalidade | Isento (5+ anos) | 28% sobre ganhos |
+| Capital garantido | ✅ Sim (Tesouro Nacional) | ❌ Não |
+| Retorno esperado (longo prazo) | Selic (~10-12% a.a. nominal) | 10-12% a.a. + câmbio (mais volátil) |
+| Volatilidade | Praticamente nenhuma | Alta no curto prazo |
+| Liquidez | Diária (D+1) | Diária no pregão |
+| Imposto | Tabela regressiva (22,5% → 15%) | 15% sobre o lucro na venda |
 
 ---
 
-## A estrat\u00e9gia combinada que faz sentido
+## A estratégia combinada que faz sentido
 
-**Certificados de Aforro \u2192 fundo de emerg\u00eancia / objetivos de curto prazo**
+**Tesouro Selic → reserva de emergência / objetivos de curto prazo**
 
-**ETFs \u2192 investimento de longo prazo (5+ anos)**
+**Tesouro IPCA+ → objetivos de médio/longo prazo com proteção contra inflação**
+
+**ETFs → investimento de longo prazo (5+ anos) buscando crescimento**
+
+Não é "ou um ou outro" — é cada um no seu papel.
 
 ---
 
-## Simula\u00e7\u00e3o de 20 anos
+## Simulação de 20 anos
 
-Investimento inicial de 10.000\u20ac + 300\u20ac/m\u00eas:
+Investimento inicial de R$ 50.000 + R$ 1.500/mês:
 
-| Estrat\u00e9gia | Ap\u00f3s 20 anos |
+| Estratégia | Após 20 anos |
 |---|---|
-| S\u00f3 Certificados de Aforro (3,5%) | ~104.000\u20ac |
-| S\u00f3 ETFs MSCI World (8%) | ~191.000\u20ac |
-| 50% cada | ~147.000\u20ac |
+| Só Tesouro Selic (6% real) | ~R$ 855.000 |
+| Só ETFs globais (9% real) | ~R$ 1,28 milhão |
+| 50% cada | ~R$ 1,05 milhão |
 
-Para come\u00e7ar a investir em ETFs, a XTB \u00e9 a nossa recomenda\u00e7\u00e3o:
+Para começar a investir em Tesouro Direto e ETFs no mesmo lugar, a XP é a nossa recomendação:
 
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
-
----
-
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
-
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo. As taxas dos Certificados de Aforro variam \u2014 verifica sempre em www.igcp.pt.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo. As taxas dos títulos públicos variam — confira sempre em www.tesourodireto.com.br.*
     `
   },
   {
-    slug: "juros-compostos-portugal-guia",
-    titulo: "Juros Compostos \u2014 O Segredo do Investimento a Longo Prazo",
-    descricao: "Como funcionam os juros compostos e porque s\u00e3o a for\u00e7a mais poderosa no investimento. Com exemplos pr\u00e1ticos e simula\u00e7\u00f5es para rendimentos portugueses.",
+    slug: "juros-compostos-brasil-guia",
+    titulo: "Juros Compostos — O Segredo do Investimento de Longo Prazo",
+    descricao: "Como funcionam os juros compostos e por que são a força mais poderosa do investimento. Com exemplos práticos e simulações para rendas brasileiras.",
     categoria: "basicos",
     data: "2026-05-20",
     tempoLeitura: "7 min",
     conteudo: `
-Albert Einstein alegadamente chamou aos juros compostos "a oitava maravilha do mundo". O conceito \u00e9 genuinamente not\u00e1vel \u2014 e perceb\u00ea-lo muda completamente a forma como pensas sobre dinheiro e tempo.
+Albert Einstein supostamente chamou os juros compostos de "a oitava maravilha do mundo". O conceito é genuinamente notável — e entendê-lo muda completamente a forma como você pensa sobre dinheiro e tempo.
 
 ---
 
-## O que s\u00e3o juros compostos?
+## O que são juros compostos?
 
-Juros simples: recebes juros sobre o capital inicial.
-Juros compostos: recebes juros sobre o capital inicial E sobre os juros que j\u00e1 recebeste.
+Juros simples: você recebe juros sobre o capital inicial.
+Juros compostos: você recebe juros sobre o capital inicial E sobre os juros que já recebeu.
 
-**Exemplo simples:**
+**Exemplo simples (R$ 5.000 a 8% a.a.):**
 
 | Ano | Juros simples | Juros compostos |
 |---|---|---|
-| 1 | 1.080\u20ac | 1.080\u20ac |
-| 10 | 1.800\u20ac | 2.159\u20ac |
-| 20 | 2.600\u20ac | 4.661\u20ac |
-| 30 | 3.400\u20ac | 10.063\u20ac |
+| 1 | R$ 5.400 | R$ 5.400 |
+| 10 | R$ 9.000 | R$ 10.795 |
+| 20 | R$ 13.000 | R$ 23.305 |
+| 30 | R$ 17.000 | R$ 50.313 |
 
 ---
 
 ## A regra dos 72
 
-Divide 72 pela taxa de retorno anual para saber em quanto tempo o teu dinheiro duplica:
-- A 7%/ano: 72 \u00f7 7 = **~10 anos** para duplicar
-- A 10%/ano: 72 \u00f7 10 = **7,2 anos** para duplicar
+Divida 72 pela taxa de retorno anual para saber em quanto tempo seu dinheiro dobra:
+- A 7%/ano: 72 ÷ 7 = **~10 anos** para dobrar
+- A 12%/ano (referência CDI em anos de Selic alta): 72 ÷ 12 = **6 anos** para dobrar
+
+Lembre-se: o que importa é o ganho **real** (acima do IPCA). 12% de juros com 5% de inflação = ~7% de ganho real.
 
 ---
 
-## Como aproveitar os juros compostos em Portugal
+## Como aproveitar os juros compostos no Brasil
 
-1. **Come\u00e7a hoje, mesmo com pouco** \u2014 cada ano perdido \u00e9 irrecuper\u00e1vel
-2. **Usa ETFs de acumula\u00e7\u00e3o** \u2014 reinvestem dividendos automaticamente
-3. **N\u00e3o interrompas nos crashes** \u2014 a recupera\u00e7\u00e3o acontece depois
-4. **Mant\u00e9m custos baixos** \u2014 0,2%/ano vs 1,5%/ano = dezenas de milhares de euros em 30 anos
+1. **Comece hoje, mesmo com pouco** — cada ano perdido é irrecuperável
+2. **Reinvista tudo** — dividendos, rendimentos de FIIs e juros de renda fixa
+3. **Não interrompa nas crises** — a recuperação vem depois
+4. **Mantenha custos baixos** — 0,2%/ano (ETF) vs 2%/ano (fundo caro) = centenas de milhares de reais em 30 anos
 
-A XTB permite investir em ETFs de acumula\u00e7\u00e3o sem comiss\u00f5es:
+A XP permite investir em ETFs e renda fixa com corretagem zero:
 
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
-
----
-
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
-
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy explora em detalhe como aplicar os juros compostos na pr\u00e1tica atrav\u00e9s de ETFs. Mais de 74.000 alunos, professor universit\u00e1rio certificado.
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter educativo e n\u00e3o constitui aconselhamento financeiro.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy explora em detalhe como aplicar os juros compostos na prática através de ETFs. Mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter educativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "independencia-financeira-portugal",
-    titulo: "Independ\u00eancia Financeira em Portugal \u2014 \u00c9 Poss\u00edvel? Guia FIRE 2026",
-    descricao: "O movimento FIRE (Financial Independence, Retire Early) adaptado \u00e0 realidade portuguesa. Quanto precisas, como calcular e se \u00e9 realista com sal\u00e1rios portugueses.",
+    slug: "independencia-financeira-brasil",
+    titulo: "Independência Financeira no Brasil — É Possível? Guia FIRE 2026",
+    descricao: "O movimento FIRE (Financial Independence, Retire Early) adaptado à realidade brasileira. Quanto você precisa, como calcular e se é realista com salários brasileiros.",
     categoria: "basicos",
     data: "2026-05-22",
     tempoLeitura: "10 min",
     conteudo: `
-O conceito de "independ\u00eancia financeira" \u2014 ter dinheiro suficiente investido para n\u00e3o precisar de trabalhar \u2014 tornou-se popular atrav\u00e9s do movimento FIRE. Mas \u00e9 realista para portugueses com sal\u00e1rios m\u00e9dios?
+O conceito de "independência financeira" — ter dinheiro suficiente investido para não precisar trabalhar — ficou popular com o movimento FIRE. Mas é realista para brasileiros com salários médios?
 
 ---
 
 ## A regra dos 4%
 
-Podes retirar 4% da tua carteira por ano sem esgotar o capital em 30+ anos.
+Você pode retirar 4% da sua carteira por ano sem esgotar o capital em 30+ anos.
 
-**F\u00f3rmula:** Carteira necess\u00e1ria = Despesas anuais \u00d7 25
+**Fórmula:** Carteira necessária = Despesas anuais × 25
 
-| Despesas mensais | Carteira necess\u00e1ria |
+| Despesas mensais | Carteira necessária |
 |---|---|
-| 1.000\u20ac | 300.000\u20ac |
-| 1.500\u20ac | 450.000\u20ac |
-| 2.000\u20ac | 600.000\u20ac |
+| R$ 4.000 | R$ 1,2 milhão |
+| R$ 6.000 | R$ 1,8 milhão |
+| R$ 10.000 | R$ 3 milhões |
+
+No Brasil, os juros reais historicamente altos (Tesouro IPCA+ pagando IPCA + 5-6%) tornam a regra dos 4% até conservadora — uma vantagem rara do investidor brasileiro.
 
 ---
 
 ## Quanto tempo demora?
 
-| Taxa de poupan\u00e7a | Anos at\u00e9 FIRE |
+| Taxa de poupança | Anos até o FIRE |
 |---|---|
 | 20% | ~37 anos |
 | 30% | ~28 anos |
@@ -1286,293 +1315,322 @@ Podes retirar 4% da tua carteira por ano sem esgotar o capital em 30+ anos.
 
 ---
 
-## Por onde come\u00e7ar
+## Por onde começar
 
-1. Calcula as tuas despesas mensais reais
-2. Define o teu n\u00famero FIRE (despesas mensais \u00d7 12 \u00d7 25)
-3. Abre conta na XTB ou DEGIRO e come\u00e7a a investir em ETFs
-4. Aumenta gradualmente a taxa de poupan\u00e7a
+1. Calcule suas despesas mensais reais
+2. Defina seu número FIRE (despesas mensais × 12 × 25)
+3. Abra conta em uma corretora com corretagem zero e comece a investir em ETFs e Tesouro IPCA+
+4. Aumente gradualmente a taxa de poupança
 
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
-
----
-
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
-
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um excelente ponto de partida \u2014 74.000+ alunos, professor certificado.
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um excelente ponto de partida — 74.000+ alunos, professor certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "diversificacao-carteira-portugal",
-    titulo: "Como Diversificar a Tua Carteira de Investimentos em Portugal (2026)",
-    descricao: "Guia pr\u00e1tico de diversifica\u00e7\u00e3o para investidores portugueses: quantos ETFs, que classes de ativos, como balan\u00e7ar risco e retorno.",
+    slug: "diversificacao-carteira-brasil",
+    titulo: "Como Diversificar sua Carteira de Investimentos no Brasil (2026)",
+    descricao: "Guia prático de diversificação para investidores brasileiros: quantos ETFs, quais classes de ativos, como equilibrar risco e retorno.",
     categoria: "etfs",
     data: "2026-05-25",
     tempoLeitura: "8 min",
     conteudo: `
-"N\u00e3o coloques todos os ovos no mesmo cesto" \u2014 \u00e9 a base da teoria moderna de carteiras. A diversifica\u00e7\u00e3o n\u00e3o elimina o risco, mas elimina o risco desnecess\u00e1rio.
+"Não coloque todos os ovos na mesma cesta" — é a base da teoria moderna de carteiras. A diversificação não elimina o risco, mas elimina o risco desnecessário.
 
 ---
 
-## Carteiras modelo para investidores portugueses
+## Carteiras modelo para investidores brasileiros
 
-### Carteira simples (1 ETF) \u2014 para iniciantes
-**100% VWRA (Vanguard FTSE All-World)**
-- Exposi\u00e7\u00e3o a ~3.700 empresas em 50+ pa\u00edses
-- Simplicidade m\u00e1xima
-- TER: 0,22%
+### Carteira simples (2 ativos) — para iniciantes
+**70% WRLD11 (ou IVVB11) + 30% Tesouro Selic**
+- Exposição global + reserva estável
+- Simplicidade máxima
 
-### Carteira two-fund (2 ETFs) \u2014 equil\u00edbrio risco/retorno
-**80% IWDA + 20% EIMI**
-- Cobertura total do mercado mundial
+### Carteira equilibrada (3-4 ativos)
+**50% IVVB11 + 20% BOVA11 + 30% Tesouro IPCA+/Selic**
+- Internacional + Brasil + renda fixa com juro real
 - Rebalancear anualmente
 
-### Carteira three-fund \u2014 para perfis mais conservadores
-**60% IWDA + 15% EIMI + 25% obriga\u00e7\u00f5es**
+### Carteira com renda
+**40% IVVB11 + 20% BOVA11 + 15% FIIs + 25% renda fixa**
+- FIIs pagam rendimentos mensais isentos de IR
+
+### E cripto?
+Se quiser, limite a 1-5% da carteira. A Binance funciona no Brasil com depósito via PIX, e corretoras como XP e NuInvest oferecem fundos e ETFs cripto para quem prefere não usar exchange:
+
+[Abrir conta na Binance →](PLACEHOLDER_BINANCE_LINK)
 
 ---
 
-## Quantos ETFs s\u00e3o suficientes?
+## Quantos ativos são suficientes?
 
-**1 a 3 ETFs s\u00e3o suficientes para uma carteira bem diversificada.** O erro mais comum \u00e9 comprar 15-20 ETFs diferentes com grandes sobreposi\u00e7\u00f5es.
-
----
-
-## Come\u00e7a a construir a tua carteira
-
-A XTB tem todos estes ETFs dispon\u00edveis sem comiss\u00f5es:
-
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
+**3 a 5 posições são suficientes para uma carteira bem diversificada.** O erro mais comum é acumular 20-30 ativos diferentes com grandes sobreposições.
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## Comece a construir sua carteira
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
+A XP tem todos esses ETFs, FIIs e títulos do Tesouro disponíveis com corretagem zero:
 
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "como-comecar-investir-100-euros",
-    titulo: "Como Come\u00e7ar a Investir com 100\u20ac em Portugal (2026)",
-    descricao: "Tens 100\u20ac para investir e n\u00e3o sabes por onde come\u00e7ar? Guia passo a passo para o primeiro investimento em Portugal, sem complica\u00e7\u00f5es.",
+    slug: "como-comecar-investir-100-reais",
+    titulo: "Como Começar a Investir com R$ 100 no Brasil (2026)",
+    descricao: "Você tem R$ 100 para investir e não sabe por onde começar? Guia passo a passo para o primeiro investimento no Brasil, sem complicações.",
     categoria: "basicos",
     data: "2026-05-28",
     tempoLeitura: "7 min",
     conteudo: `
-100\u20ac parece pouco para investir. Mas \u00e9 exatamente assim que come\u00e7a a maioria dos investidores bem-sucedidos \u2014 com um valor pequeno, para aprender como funciona, e depois aumentar gradualmente.
+R$ 100 parece pouco para investir. Mas é exatamente assim que começa a maioria dos investidores bem-sucedidos — com um valor pequeno, para aprender como funciona, e depois aumentar gradualmente.
 
 ---
 
-## Passo a passo: o teu primeiro investimento
+## Passo a passo: seu primeiro investimento
 
-**Passo 1: Garante o fundo de emerg\u00eancia primeiro**
-Antes de investir em bolsa, tens de ter pelo menos 3 meses de despesas em conta poupan\u00e7a.
+**Passo 1: Garanta a reserva de emergência primeiro**
+Antes de investir na bolsa, tenha pelo menos 3 meses de despesas no Tesouro Selic ou em CDB de liquidez diária.
 
-**Passo 2: Escolhe a corretora**
+**Passo 2: Escolha a corretora**
 
-A XTB \u00e9 a nossa recomenda\u00e7\u00e3o \u2014 suporte em portugu\u00eas, zero comiss\u00f5es e conta demo gratuita:
+A XP é a nossa recomendação — corretagem zero, sem depósito mínimo e tudo em um só app:
 
-[Abrir conta real XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
 
-**Passo 3: Abre conta e valida identidade** (10-15 minutos online)
+**Passo 3: Abra a conta e valide a identidade** (10-15 minutos online, só precisa de CPF)
 
-**Passo 4: Deposita os 100\u20ac** por transfer\u00eancia banc\u00e1ria
+**Passo 4: Deposite os R$ 100** via PIX — cai na hora
 
-**Passo 5: Compra um ETF**
+**Passo 5: Faça o primeiro investimento**
 
-Com 100\u20ac, compra um \u00fanico ETF global:
-- **iShares Core MSCI World (IWDA)** \u2014 ISIN: IE00B4L5Y983
-- **Vanguard FTSE All-World (VWRA)** \u2014 ISIN: IE00BK5BQT80
-
----
-
-## Erros a evitar no in\u00edcio
-
-- N\u00e3o vender porque o mercado caiu \u2014 quedas s\u00e3o normais e tempor\u00e1rias
-- N\u00e3o diversificar demasiado \u2014 com 100\u20ac um ETF global \u00e9 suficiente
-- N\u00e3o esperar o "momento certo" \u2014 n\u00e3o existe
+Com R$ 100, boas opções:
+- **Tesouro Selic** — a partir de ~R$ 30, perfeito para a reserva
+- **1 cota de ETF** — BOVA11 ou outro ETF com cota abaixo de R$ 100
+- **CDB a 100% do CDI** com liquidez diária
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## Erros a evitar no início
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 ideal para consolidar conhecimentos \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+- Não venda porque o mercado caiu — quedas são normais e temporárias
+- Não diversifique demais — com R$ 100, um único ativo é suficiente
+- Não espere o "momento certo" — ele não existe
+- Não deixe na caderneta de poupança — o Tesouro Selic rende mais com a mesma segurança
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é ideal para consolidar conhecimentos — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "trading212-guia-portugal",
-    titulo: "Trading212 em Portugal 2026 \u2014 Vale a Pena? Guia Honesto",
-    descricao: "Tudo sobre a Trading212 em Portugal: comiss\u00f5es, fractional shares, seguran\u00e7a, como declarar no IRS e compara\u00e7\u00e3o com DEGIRO.",
+    slug: "nuinvest-guia-brasil",
+    titulo: "NuInvest (Nubank) em 2026 — Vale a Pena? Guia Honesto",
+    descricao: "Tudo sobre a NuInvest no Brasil: corretagem zero, produtos disponíveis, segurança, como declarar no IR e comparação com XP e Rico.",
     categoria: "corretoras",
     data: "2026-06-01",
     tempoLeitura: "8 min",
     conteudo: `
-A Trading212 tornou-se uma das plataformas de investimento mais populares em Portugal gra\u00e7as ao apelo simples: zero comiss\u00f5es em tudo. Mas ser\u00e1 que \u00e9 segura e adequada para investidores portugueses?
+A NuInvest tornou-se uma das plataformas de investimento mais populares do Brasil graças à integração com o Nubank e ao apelo simples: corretagem zero e interface descomplicada. Mas será que é adequada para o seu perfil?
 
 ---
 
-## Trading212 vs DEGIRO \u2014 qual escolher?
+## NuInvest vs XP — qual escolher?
 
-| Crit\u00e9rio | Trading212 | DEGIRO |
+| Critério | NuInvest | XP |
 |---|---|---|
-| Comiss\u00f5es | 0\u20ac | 0\u20ac ETFs core (1x/m\u00eas) |
-| Fractional shares | \u2705 Sim | \u274c N\u00e3o |
-| Regula\u00e7\u00e3o PT (CMVM) | \u274c N\u00e3o | \u2705 Sim |
-| Relat\u00f3rio fiscal PT | B\u00e1sico | Detalhado |
+| Corretagem ações/ETFs | R$ 0 | R$ 0 |
+| Integração com conta digital | ✅ Nubank | Parcial |
+| Variedade de produtos | Boa | ✅ A maior do Brasil |
+| Fundos cripto | ✅ Sim | ✅ Sim |
+| Regulação CVM | ✅ Sim | ✅ Sim |
 
-**Para come\u00e7ar com pouco dinheiro:** Trading212 (fractional shares)
-**Para investimento regular acima de 100\u20ac/m\u00eas:** DEGIRO ou XTB
-
----
-
-## A alternativa com suporte em portugu\u00eas
-
-Se valorizas suporte em portugu\u00eas e zero comiss\u00f5es sem restri\u00e7\u00f5es, a XTB \u00e9 a nossa recomenda\u00e7\u00e3o:
-
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy) | [P\u00e1gina XTB \u2192](https://geolink.xtb.com/LIIcf)
+**Para começar com simplicidade máxima (e quem já usa Nubank):** NuInvest
+**Para quem quer a prateleira completa (CDBs de vários emissores, fundos, assessoria):** XP
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## Pontos fortes da NuInvest
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
+- Interface mais amigável do mercado — perfeita para o primeiro investimento
+- Dinheiro sai da conta Nubank na hora
+- Tesouro Direto, ações, ETFs, FIIs e fundos cripto
+- Corretagem zero
 
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+## Limitações
+
+- Prateleira de renda fixa menor que a da XP
+- Sem assessoria e menos ferramentas avançadas
+
+[Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## A alternativa com prateleira completa
+
+Se você quer mais opções de produtos e ferramentas, a XP é a nossa recomendação:
+
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
+
+---
+
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "ouro-investimento-portugal",
-    titulo: "Investir em Ouro em Portugal \u2014 Vale a Pena em 2026?",
-    descricao: "O ouro como investimento para portugueses: ETFs de ouro, moedas f\u00edsicas, vantagens e desvantagens. An\u00e1lise honesta do papel do ouro numa carteira.",
+    slug: "ouro-investimento-brasil",
+    titulo: "Investir em Ouro no Brasil — Vale a Pena em 2026?",
+    descricao: "O ouro como investimento para brasileiros: ETF GOLD11, contratos na B3, ouro físico, vantagens e desvantagens. Análise honesta do papel do ouro na carteira.",
     categoria: "internacional",
     data: "2026-06-03",
     tempoLeitura: "7 min",
     conteudo: `
-O ouro \u00e9 frequentemente apresentado como o investimento seguro por excel\u00eancia. Mas \u00e9 realmente uma boa adi\u00e7\u00e3o \u00e0 carteira de um investidor portugu\u00eas?
+O ouro é frequentemente apresentado como o investimento seguro por excelência. Mas é realmente uma boa adição à carteira de um investidor brasileiro?
 
 ---
 
-## Formas de investir em ouro em Portugal
+## Formas de investir em ouro no Brasil
 
-### ETFs de ouro (recomendado para a maioria)
+### ETF de ouro na B3 (recomendado para a maioria)
 
-**iShares Physical Gold ETC (IGLN)**
-- Replicado por ouro f\u00edsico em cofres
-- TER: 0,12%/ano
-- ISIN: IE00B4ND3602
-- Dispon\u00edvel no DEGIRO e XTB
+**GOLD11 (Trend Ouro)**
+- Replica o preço do ouro em dólar — proteção dupla: metal + câmbio
+- Negociado na B3 como uma ação, com corretagem zero nas principais corretoras
+- Sem custo de armazenamento
 
-### Ouro f\u00edsico
-Moedas de ouro em casas de c\u00e2mbio especializadas.
+### Contratos de ouro na B3
+Contratos como OZ1D para quem quer o ativo "direto" — menos prático para iniciantes.
+
+### Ouro físico
+Barras e lâminas em distribuidoras autorizadas pelo Banco Central do Brasil.
 - Vantagens: sem risco de contraparte
-- Desvantagens: spread elevado (2-5%), custo de armazenamento
+- Desvantagens: spread elevado, custo de armazenamento e seguro
 
 ---
 
-## Que peso dar ao ouro numa carteira?
+## Que peso dar ao ouro na carteira?
 
-Consenso entre gestores: **5-10%** pode reduzir a volatilidade sem impactar significativamente o retorno. Acima de 15%, come\u00e7as a sacrificar retorno de forma relevante.
+Consenso entre gestores: **5-10%** pode reduzir a volatilidade sem impactar significativamente o retorno. Acima de 15%, você começa a sacrificar retorno de forma relevante.
 
----
-
-## Comprar ETF de ouro na XTB
-
-A XTB tem o IGLN dispon\u00edvel sem comiss\u00f5es:
-
-[Abrir conta XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo gratuita \u2192](https://geolink.xtb.com/0BKjy)
+Para o investidor brasileiro, o ouro tem um bônus: como é cotado em dólar, ele também protege contra a desvalorização do real.
 
 ---
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
+## Comprar GOLD11 com corretagem zero
 
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
+A XP tem o GOLD11 e outros ETFs disponíveis sem corretagem:
 
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo e n\u00e3o constitui aconselhamento financeiro.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
-    slug: "xtb-vs-degiro-portugal",
-    titulo: "XTB vs DEGIRO \u2014 Qual a Melhor Corretora para Portugueses em 2026?",
-    descricao: "Compara\u00e7\u00e3o detalhada entre XTB e DEGIRO para investidores em Portugal: comiss\u00f5es, ETFs dispon\u00edveis, interface, suporte e fiscalidade.",
+    slug: "xp-vs-rico-brasil",
+    titulo: "XP vs Rico — Qual a Melhor Corretora para Brasileiros em 2026?",
+    descricao: "Comparação detalhada entre XP e Rico para investidores no Brasil: taxas, produtos disponíveis, interface, suporte e qual combina com o seu perfil.",
     categoria: "corretoras",
     data: "2026-06-05",
     tempoLeitura: "8 min",
     conteudo: `
-XTB e DEGIRO s\u00e3o as duas corretoras mais recomendadas para investidores portugueses. Ambas t\u00eam zero comiss\u00f5es em ETFs \u2014 mas existem diferen\u00e7as importantes.
+XP e Rico são duas das corretoras mais recomendadas para investidores brasileiros. Ambas têm corretagem zero em ações e ETFs — mas existem diferenças importantes.
 
 ---
 
-## Vis\u00e3o geral
+## Visão geral
 
-| | XTB | DEGIRO |
+| | XP | Rico |
 |---|---|---|
-| Fundada | 2002 (Pol\u00f3nia) | 2013 (Holanda) |
-| Registo CMVM Portugal | \u274c N\u00e3o | \u2705 Sim |
-| Dep\u00f3sito m\u00ednimo | 0\u20ac | 0\u20ac |
-| Suporte em portugu\u00eas | \u2705 Sim | Limitado |
+| Fundada | 2001 | 2011 (hoje do grupo XP) |
+| Regulação | CVM + Banco Central | CVM + Banco Central |
+| Depósito mínimo | R$ 0 | R$ 0 |
+| Corretagem ações/ETFs | R$ 0 | R$ 0 |
 
 ---
 
-## Comiss\u00f5es \u2014 quem cobra menos?
+## Taxas — quem cobra menos?
 
-**DEGIRO:** ETFs core gratuitos (lista espec\u00edfica, 1 vez/m\u00eas)
-**XTB:** 0\u20ac at\u00e9 100.000\u20ac/m\u00eas sem restri\u00e7\u00f5es de frequ\u00eancia ou sele\u00e7\u00e3o
-
-Para quem faz DCA mais de uma vez por m\u00eas no mesmo ETF, o XTB \u00e9 mais flex\u00edvel.
+**Empate técnico:** ambas têm corretagem zero em ações, ETFs e FIIs, e taxa zero de custódia no Tesouro Direto. A diferença está nos produtos e na experiência, não no custo.
 
 ---
 
 ## Qual escolher?
 
-**Escolhe DEGIRO se:**
-- Valorizas o registo na CMVM portuguesa
-- Fazes DCA mensal simples num ou dois ETFs core
-- Queres o melhor relat\u00f3rio fiscal para Portugal
+**Escolha a Rico se:**
+- Você quer uma interface mais simples e direta
+- Faz aportes mensais básicos em ETFs e Tesouro
+- Prefere menos ofertas de produtos na tela
 
-**Escolhe XTB se:**
-- Valorizas suporte em portugu\u00eas de qualidade
-- Queres fazer mais de uma compra por m\u00eas
-- Gostas de uma plataforma mais completa
+**Escolha a XP se:**
+- Você quer a maior prateleira de produtos do Brasil
+- Pretende usar relatórios, análises e assessoria
+- Quer evoluir para produtos mais sofisticados com o tempo
 
-[Abrir conta real na XTB \u2192](https://geolink.xtb.com/ETemo) | [Conta demo XTB gratuita \u2192](https://geolink.xtb.com/0BKjy) | [P\u00e1gina XTB \u2192](https://geolink.xtb.com/LIIcf)
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
 
----
+E para investir nos EUA em dólar, vale conhecer a Avenue:
 
-## \ud83d\udcda Quer aprofundar os teus conhecimentos?
-
-O curso **"Complete Investing Course \u2014 Stocks, ETFs Investing"** na Udemy \u00e9 um dos mais completos para iniciantes \u2014 mais de 74.000 alunos, professor universit\u00e1rio certificado.
-
-[Ver curso na Udemy \u2192](https://trk.udemy.com/rEOV3v)
+[Abrir conta na Avenue →](PLACEHOLDER_AVENUE_LINK)
 
 ---
 
-*Este artigo \u00e9 de car\u00e1ter informativo. N\u00e3o existe patrocínio de nenhuma das corretoras mencionadas.*
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **"Complete Investing Course — Stocks, ETFs Investing"** na Udemy é um dos mais completos para iniciantes — mais de 74.000 alunos, professor universitário certificado.
+
+[Ver curso na Udemy →](PLACEHOLDER_UDEMY_LINK)
+
+---
+
+*Este artigo é de caráter informativo. Não há patrocínio editorial de nenhuma das corretoras mencionadas.*
     `
   },
 ];

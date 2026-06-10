@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.aprenderainvestir.pt/</loc><lastmod>2026-06-08</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog</loc><lastmod>2026-06-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/corretoras</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/ferramentas</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/corretoras</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/ferramentas</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- Fase 1 — novos artigos -->
-  <url><loc>https://www.aprenderainvestir.pt/blog/o-que-e-a-bolsa-de-valores</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/conta-demo-vs-conta-real</loc><lastmod>2026-06-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/quanto-preciso-para-comecar-a-investir</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/irs-investimentos-declarar-portugal-guia</loc><lastmod>2026-06-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/juro-composto-funciona-exemplos</loc><lastmod>2026-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/o-que-e-a-bolsa-de-valores</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/conta-demo-vs-conta-real</loc><lastmod>2026-06-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/quanto-preciso-para-comecar-a-investir</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/imposto-de-renda-investimentos-declarar-brasil-guia</loc><lastmod>2026-06-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/juro-composto-funciona-exemplos</loc><lastmod>2026-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- Artigos existentes -->
-  <url><loc>https://www.aprenderainvestir.pt/blog/como-investir-em-etfs-portugal</loc><lastmod>2026-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/melhor-corretora-portugal-2026</loc><lastmod>2026-05-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/degiro-guia-completo-portugal</loc><lastmod>2026-05-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/quanto-poupar-por-mes-portugal</loc><lastmod>2026-05-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/irs-mais-valias-portugal-2026</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/sp500-vs-msci-world-portugal</loc><lastmod>2026-05-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/ppr-vale-a-pena-portugal-2026</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/certificados-aforro-vs-etfs</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/juros-compostos-portugal-guia</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/independencia-financeira-portugal</loc><lastmod>2026-05-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/diversificacao-carteira-portugal</loc><lastmod>2026-05-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/como-comecar-investir-100-euros</loc><lastmod>2026-05-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/trading212-guia-portugal</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/ouro-investimento-portugal</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.aprenderainvestir.pt/blog/xtb-vs-degiro-portugal</loc><lastmod>2026-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/como-investir-em-etfs-brasil</loc><lastmod>2026-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/melhor-corretora-brasil-2026</loc><lastmod>2026-05-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/xp-investimentos-guia-completo-brasil</loc><lastmod>2026-05-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/quanto-poupar-por-mes-brasil</loc><lastmod>2026-05-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/imposto-de-renda-acoes-etfs-brasil-2026</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/sp500-vs-ibovespa-brasil</loc><lastmod>2026-05-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/previdencia-privada-vale-a-pena-brasil-2026</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/tesouro-direto-vs-etfs</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/juros-compostos-brasil-guia</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/independencia-financeira-brasil</loc><lastmod>2026-05-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/diversificacao-carteira-brasil</loc><lastmod>2026-05-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/como-comecar-investir-100-reais</loc><lastmod>2026-05-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/nuinvest-guia-brasil</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/ouro-investimento-brasil</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/blog/xp-vs-rico-brasil</loc><lastmod>2026-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-  <url><loc>https://www.aprenderainvestir.pt/privacidade</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.dinheirocrescendo.com.br/privacidade</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>

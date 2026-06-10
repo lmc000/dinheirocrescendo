@@ -4,110 +4,155 @@ import { FooterSection } from "../components/landing/FooterSection";
 
 const CORRETORAS = [
     {
-        nome: "XTB",
-        tag: "⭐ Recomendada para Portugal",
+        nome: "XP Investimentos",
+        tag: "⭐ Recomendada para o Brasil",
         tagColor: "#1D4ED8",
-        descricao: "A nossa recomendação principal para portugueses. Zero comissões sem restrições, suporte telefónico em português e conta demo gratuita para aprender sem risco.",
+        descricao: "A nossa recomendação principal para brasileiros. Corretagem zero em ações e ETFs, a maior prateleira de produtos do país e plataforma completa para todos os níveis.",
         rating: 4.9,
-        link: "https://geolink.xtb.com/ETemo",
-        linkDemo: "https://geolink.xtb.com/0BKjy",
+        link: "PLACEHOLDER_XP_LINK",
         pros: [
-            "Suporte telefónico e chat em português",
-            "Zero comissões até 100.000€/mês sem restrições",
-            "Conta demo gratuita para aprender",
-            "Plataforma xStation 5 muito completa",
-            "Fractional shares disponíveis",
+            "Corretagem zero em ações, ETFs e FIIs",
+            "Maior variedade de produtos do Brasil",
+            "Tesouro Direto, CDBs, fundos, BDRs e cripto",
+            "Conteúdo educativo gratuito de qualidade",
+            "App e home broker completos",
             "Sem depósito mínimo",
         ],
         cons: [
-            "Relatório fiscal requer algum trabalho manual",
-            "Não registada na CMVM",
+            "Oferta gigante pode confundir iniciantes",
+            "Alguns fundos da prateleira têm taxas altas",
         ],
         detalhe: [
-            { label: "Comissão ETFs", value: "0€ (até 100k€/mês)" },
-            { label: "Comissão ações", value: "0€ (até 100k€/mês)" },
-            { label: "Regulação", value: "CySEC + KNF" },
-            { label: "Depósito mínimo", value: "0€" },
-            { label: "Fractional shares", value: "Sim" },
+            { label: "Corretagem ETFs", value: "R$ 0" },
+            { label: "Corretagem ações", value: "R$ 0" },
+            { label: "Regulação", value: "CVM + Banco Central" },
+            { label: "Depósito mínimo", value: "R$ 0" },
+            { label: "Tesouro Direto", value: "Taxa zero" },
         ],
     },
     {
-        nome: "DEGIRO",
-        tag: "🇵🇹 Regulada pela CMVM",
+        nome: "Rico",
+        tag: "🟢 Simplicidade",
         tagColor: "#059669",
-        descricao: "Registada na CMVM portuguesa. ETFs europeus core gratuitos uma vez por mês e relatório fiscal específico para Portugal.",
+        descricao: "Do mesmo grupo da XP, com interface mais simples e direta. Ideal para quem quer praticidade sem abrir mão da variedade de produtos.",
         rating: 4.7,
-        link: "https://www.degiro.pt",
+        link: "PLACEHOLDER_RICO_LINK",
         pros: [
-            "ETFs core gratuitos (IWDA, VWRA, CSPX...)",
-            "Registada na CMVM Portugal",
-            "Relatório fiscal específico para Portugal",
+            "Corretagem zero em ações e ETFs",
+            "Interface simples e intuitiva",
+            "Tesouro Direto sem taxa de custódia",
             "Sem depósito mínimo",
-            "Muito boa reputação europeia",
+            "Boa prateleira de renda fixa",
         ],
         cons: [
-            "ETFs core limitados a 1 compra/mês por ETF",
-            "Sem fractional shares",
-            "Sem suporte em português",
-            "Interface menos moderna",
+            "Menos ferramentas avançadas que a XP",
+            "Sem assessoria dedicada",
         ],
         detalhe: [
-            { label: "Comissão ETFs", value: "0€ (core, 1x/mês)" },
-            { label: "Comissão ações PT", value: "3,90€/ordem" },
-            { label: "Regulação", value: "CMVM + AFM" },
-            { label: "Depósito mínimo", value: "0€" },
-            { label: "Fractional shares", value: "Não" },
+            { label: "Corretagem ETFs", value: "R$ 0" },
+            { label: "Corretagem ações", value: "R$ 0" },
+            { label: "Regulação", value: "CVM + Banco Central" },
+            { label: "Depósito mínimo", value: "R$ 0" },
+            { label: "Tesouro Direto", value: "Taxa zero" },
         ],
     },
     {
-        nome: "Trading212",
-        tag: "🆓 Para começar com pouco",
+        nome: "NuInvest",
+        tag: "💜 Para quem usa Nubank",
         tagColor: "#7C3AED",
-        descricao: "Zero comissões absolutas e fractional shares a partir de 1€. Perfeito para quem começa com capital reduzido.",
+        descricao: "A corretora do Nubank. Integração total com a conta digital e a interface mais amigável do mercado — perfeita para o primeiro investimento.",
         rating: 4.5,
-        link: "https://www.trading212.com",
+        link: "PLACEHOLDER_NUINVEST_LINK",
         pros: [
-            "Zero comissões em tudo",
-            "Fractional shares a partir de 1€",
-            "Interface muito intuitiva",
-            "Depósito mínimo de 1€",
+            "Corretagem zero em ações e ETFs",
+            "Integração total com a conta Nubank",
+            "Interface mais amigável do mercado",
+            "Fundos cripto disponíveis",
         ],
         cons: [
-            "Sem suporte em português",
-            "Não registada na CMVM",
-            "Relatório fiscal básico",
+            "Prateleira de renda fixa menor que XP/Rico",
+            "Menos ferramentas para investidores avançados",
         ],
         detalhe: [
-            { label: "Comissão ETFs", value: "0€ sempre" },
-            { label: "Comissão ações", value: "0€ sempre" },
-            { label: "Regulação", value: "FCA + CySEC" },
-            { label: "Depósito mínimo", value: "1€" },
-            { label: "Fractional shares", value: "Sim (1€ mín.)" },
+            { label: "Corretagem ETFs", value: "R$ 0" },
+            { label: "Corretagem ações", value: "R$ 0" },
+            { label: "Regulação", value: "CVM + Banco Central" },
+            { label: "Depósito mínimo", value: "R$ 0" },
+            { label: "Fundos cripto", value: "Sim" },
         ],
     },
     {
-        nome: "Interactive Brokers",
-        tag: "🔬 Para carteiras grandes",
-        tagColor: "#DC2626",
-        descricao: "A corretora dos investidores profissionais. Custos mínimos e acesso a todos os mercados globais. Ideal para carteiras acima de 50.000€.",
-        rating: 4.6,
-        link: "https://www.interactivebrokers.com",
+        nome: "Clear",
+        tag: "📊 Para traders",
+        tagColor: "#0891B2",
+        descricao: "Corretagem zero absoluta e plataformas rápidas de execução. A favorita de quem faz day trade e operações frequentes.",
+        rating: 4.4,
+        link: "PLACEHOLDER_XP_LINK",
         pros: [
-            "Custos muito baixos para grandes volumes",
-            "Acesso a praticamente todos os mercados",
-            "Muito sólida e regulada",
+            "Corretagem zero em tudo, inclusive day trade",
+            "Plataformas rápidas de execução",
+            "Boa para operações alavancadas",
         ],
         cons: [
-            "Interface complexa para iniciantes",
-            "Sem suporte em português",
-            "Portugal excluído do programa de referral",
+            "Focada em trading, não em quem busca simplicidade",
+            "Prateleira de produtos limitada",
         ],
         detalhe: [
-            { label: "Comissão ETFs", value: "0,05% (mín. 1$)" },
-            { label: "Regulação", value: "SEC, FCA, múltiplas" },
-            { label: "Depósito mínimo", value: "0€" },
-            { label: "Fractional shares", value: "Sim" },
-            { label: "Ideal para", value: "Carteiras 50k€+" },
+            { label: "Corretagem ETFs", value: "R$ 0" },
+            { label: "Corretagem day trade", value: "R$ 0" },
+            { label: "Regulação", value: "CVM + Banco Central" },
+            { label: "Depósito mínimo", value: "R$ 0" },
+            { label: "Ideal para", value: "Traders ativos" },
+        ],
+    },
+    {
+        nome: "Avenue",
+        tag: "🇺🇸 Para investir nos EUA",
+        tagColor: "#DC2626",
+        descricao: "Conta internacional em dólar feita para brasileiros. Ações americanas, ETFs como VOO e VT, e REITs — com fração de ações a partir de poucos dólares.",
+        rating: 4.6,
+        link: "PLACEHOLDER_AVENUE_LINK",
+        pros: [
+            "Conta em dólar nos EUA com CPF brasileiro",
+            "Fração de ações — comece com poucos dólares",
+            "Acesso a milhares de ações e ETFs americanos",
+            "Remessa de câmbio simplificada",
+        ],
+        cons: [
+            "Declaração de IR um pouco mais trabalhosa (ativos no exterior)",
+            "Spread cambial na remessa",
+        ],
+        detalhe: [
+            { label: "Corretagem", value: "Planos com US$ 0" },
+            { label: "Regulação", value: "SEC + FINRA (EUA)" },
+            { label: "Depósito mínimo", value: "US$ 0" },
+            { label: "Fração de ações", value: "Sim" },
+            { label: "Ideal para", value: "Dolarizar a carteira" },
+        ],
+    },
+    {
+        nome: "Binance",
+        tag: "🪙 Para criptomoedas",
+        tagColor: "#D97706",
+        descricao: "A maior exchange de criptomoedas do mundo, com depósito via PIX. Para quem quer comprar Bitcoin e outras criptos diretamente.",
+        rating: 4.3,
+        link: "PLACEHOLDER_BINANCE_LINK",
+        pros: [
+            "Depósito e saque via PIX em reais",
+            "Maior liquidez do mercado cripto",
+            "Centenas de criptomoedas disponíveis",
+            "Taxas de negociação baixas",
+        ],
+        cons: [
+            "Cripto é a classe de ativo mais volátil — limite a 1-5% da carteira",
+            "Exige cuidado redobrado com segurança (2FA)",
+        ],
+        detalhe: [
+            { label: "Depósito", value: "PIX (R$)" },
+            { label: "Taxa spot", value: "~0,10%" },
+            { label: "Criptomoedas", value: "Centenas" },
+            { label: "Depósito mínimo", value: "~R$ 20" },
+            { label: "Ideal para", value: "Exposição a cripto" },
         ],
     },
 ];
@@ -123,17 +168,17 @@ export default function Corretoras() {
                             🏦 Comparação de corretoras
                         </span>
                         <h1 className="text-4xl font-extrabold text-[#0A1628] mb-4">
-                            Melhores Corretoras para Portugal em 2026
+                            Melhores Corretoras do Brasil em 2026
                         </h1>
                         <p className="text-slate-500 text-lg max-w-2xl">
-                            Comparámos as principais corretoras disponíveis para residentes em Portugal — comissões reais, segurança e facilidade de uso.
+                            Comparamos as principais corretoras disponíveis para residentes no Brasil — taxas reais, segurança e facilidade de uso.
                         </p>
                     </div>
 
                     <div className="bg-amber-50 border border-amber-200 rounded-2xl p-4 mb-10 flex gap-3 max-w-2xl">
                         <Shield className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                         <p className="text-sm text-amber-800">
-                            <strong>Nota:</strong> Este site não tem patrocínio de nenhuma corretora. As recomendações são baseadas em análise independente.
+                            <strong>Nota:</strong> Este site contém links de afiliados de corretoras parceiras. As recomendações são baseadas em análise independente e isso não tem nenhum custo para você.
                         </p>
                     </div>
 
@@ -193,15 +238,8 @@ export default function Corretoras() {
                                 <a href={c.link} target="_blank" rel="noopener noreferrer"
                                     className="inline-flex items-center justify-center gap-2 text-white rounded-full px-6 py-3 font-bold text-sm w-full transition-all hover:opacity-90 mb-2"
                                     style={{ background: c.tagColor }}>
-                                    Abrir conta no {c.nome} <ExternalLink className="w-4 h-4" />
+                                    Abrir conta na {c.nome} <ExternalLink className="w-4 h-4" />
                                 </a>
-                                {c.linkDemo && (
-                                    <a href={c.linkDemo} target="_blank" rel="noopener noreferrer"
-                                        className="inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 font-bold text-sm w-full transition-all border-2 hover:opacity-80"
-                                        style={{ borderColor: c.tagColor, color: c.tagColor }}>
-                                        Experimentar conta demo gratuita
-                                    </a>
-                                )}
                             </div>
                         ))}
                     </div>

@@ -2,31 +2,31 @@ import { ExternalLink, Star, CheckCircle } from "lucide-react";
 
 const CORRETORAS = [
     {
-        nome: "XTB",
+        nome: "XP Investimentos",
         tag: "⭐ Recomendada",
-        descricao: "A nossa recomendação principal. Zero comissões, suporte em português e conta demo gratuita para aprender sem risco.",
+        descricao: "A nossa recomendação principal. Corretagem zero, a maior prateleira de produtos do Brasil e plataforma completa.",
         rating: 4.9,
-        destaque: ["Suporte em português", "Zero comissões", "Conta demo grátis"],
-        link: "https://geolink.xtb.com/ETemo",
+        destaque: ["Corretagem R$ 0", "Tesouro, CDBs, ETFs e ações", "Sem depósito mínimo"],
+        link: "PLACEHOLDER_XP_LINK",
         cor: "#1D4ED8",
     },
     {
-        nome: "DEGIRO",
-        tag: "🇵🇹 Regulada CMVM",
-        descricao: "Registada na CMVM portuguesa. ETFs europeus core gratuitos e relatório fiscal específico para Portugal.",
-        rating: 4.7,
-        destaque: ["ETFs gratuitos", "Regulada CMVM", "Relatório fiscal PT"],
-        link: "https://www.degiro.pt",
-        cor: "#059669",
+        nome: "NuInvest",
+        tag: "💜 Para quem usa Nubank",
+        descricao: "A corretora do Nubank. Integração total com a conta digital e a interface mais amigável para iniciantes.",
+        rating: 4.5,
+        destaque: ["Corretagem R$ 0", "Integração com Nubank", "Fundos cripto"],
+        link: "PLACEHOLDER_NUINVEST_LINK",
+        cor: "#7C3AED",
     },
     {
-        nome: "Trading 212",
-        tag: "🆓 Para começar",
-        descricao: "Zero comissões em tudo e fractional shares a partir de 1€. Ideal para quem começa com pouco capital.",
-        rating: 4.5,
-        destaque: ["0€ comissões", "Fractional shares", "Depósito 1€"],
-        link: "https://www.trading212.com",
-        cor: "#7C3AED",
+        nome: "Avenue",
+        tag: "🇺🇸 Investir nos EUA",
+        descricao: "Conta internacional em dólar para brasileiros. Ações americanas e ETFs com fração de ações a partir de poucos dólares.",
+        rating: 4.6,
+        destaque: ["Conta em dólar", "Fração de ações", "Milhares de ativos dos EUA"],
+        link: "PLACEHOLDER_AVENUE_LINK",
+        cor: "#059669",
     },
 ];
 
@@ -40,11 +40,11 @@ export const FeaturedProducts = () => {
                             🏦 Melhores corretoras 2026
                         </span>
                         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-[#0A1628] leading-tight">
-                            Onde investir em Portugal
+                            Onde investir no Brasil
                         </h2>
                     </div>
                     <p className="text-slate-500 text-base md:text-lg max-w-md">
-                        Comparámos as principais corretoras disponíveis para portugueses em 2026.
+                        Comparamos as principais corretoras disponíveis para brasileiros em 2026.
                     </p>
                 </div>
 

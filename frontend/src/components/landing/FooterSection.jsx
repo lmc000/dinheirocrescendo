@@ -11,10 +11,10 @@ export const FooterSection = () => {
                             <span className="w-9 h-9 rounded-full bg-[#1D4ED8] flex items-center justify-center">
                                 <TrendingUp className="w-5 h-5 text-white" strokeWidth={2.5} />
                             </span>
-                            <span className="font-extrabold text-lg text-white">Aprender a Investir</span>
+                            <span className="font-extrabold text-lg text-white">Dinheiro Crescendo</span>
                         </div>
                         <p className="text-slate-400 text-sm leading-relaxed max-w-sm">
-                            Guias honestos sobre investimento, poupança e finanças pessoais para portugueses. Conteúdo independente, sem publicidade.
+                            Guias honestos sobre investimento, poupança e finanças pessoais para brasileiros. Conteúdo independente e educativo.
                         </p>
                     </div>
                     <div>
@@ -49,7 +49,7 @@ export const FooterSection = () => {
                 </div>
                 <div className="border-t border-[#1E3A5F] pt-6 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
                     <p className="text-slate-500 text-xs">
-                        © 2026 Aprender a Investir. Este site contém links de afiliado. Não constitui aconselhamento financeiro.
+                        © 2026 Dinheiro Crescendo — dinheirocrescendo.com.br. Este site contém links de afiliados de corretoras parceiras e da Udemy. O conteúdo não constitui aconselhamento financeiro; investimentos envolvem riscos.
                     </p>
                     <Link to="/privacidade" className="text-slate-500 hover:text-slate-300 text-xs transition-colors">
                         Política de Privacidade

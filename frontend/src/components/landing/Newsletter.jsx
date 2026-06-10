@@ -8,20 +8,20 @@ export const Newsletter = () => {
                     <Mail className="w-7 h-7 text-[#3B82F6]" />
                 </div>
                 <h2 className="text-3xl sm:text-4xl font-extrabold text-white mb-4">
-                    Recebe os melhores guias
+                    Receba os melhores guias
                 </h2>
                 <p className="text-slate-400 text-lg mb-8">
-                    Artigos sobre ETFs, corretoras e poupança adaptados à realidade portuguesa. Sem spam.
+                    Artigos sobre ETFs, corretoras e poupança adaptados à realidade brasileira. Sem spam.
                 </p>
                 <form className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto" onSubmit={(e) => e.preventDefault()}>
                     <input
                         type="email"
-                        placeholder="O teu email"
+                        placeholder="Seu e-mail"
                         className="flex-1 px-5 py-3 rounded-full bg-[#0A1628] border border-[#1E3A5F] text-white placeholder-slate-500 focus:outline-none focus:border-[#1D4ED8]"
                     />
                     <button type="submit"
                         className="bg-[#1D4ED8] hover:bg-[#1E40AF] text-white font-bold px-6 py-3 rounded-full transition-colors whitespace-nowrap">
-                        Subscrever
+                        Assinar
                     </button>
                 </form>
             </div>

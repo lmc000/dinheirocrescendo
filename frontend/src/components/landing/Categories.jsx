@@ -6,9 +6,9 @@ const CATEGORIES = [
     { id: "poupanca", label: "Poupança", icon: PiggyBank, desc: "Hábitos e estratégias" },
     { id: "acoes", label: "Ações", icon: BarChart2, desc: "Bolsa e dividendos" },
     { id: "corretoras", label: "Corretoras", icon: Building2, desc: "Comparação de plataformas" },
-    { id: "impostos", label: "Impostos", icon: FileText, desc: "IRS e mais-valias" },
-    { id: "internacional", label: "Internacional", icon: Globe, desc: "Investir no estrangeiro" },
-    { id: "reforma", label: "Reforma", icon: Landmark, desc: "PPR e planeamento" },
+    { id: "impostos", label: "Impostos", icon: FileText, desc: "IR e ganhos de capital" },
+    { id: "internacional", label: "Internacional", icon: Globe, desc: "Investir no exterior" },
+    { id: "reforma", label: "Aposentadoria", icon: Landmark, desc: "Previdência e planejamento" },
     { id: "basicos", label: "Básicos", icon: Lightbulb, desc: "Começar do zero" },
 ];
 
@@ -23,11 +23,11 @@ export const Categories = () => {
                         </span>
                         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
                             Tudo sobre investimento,
-                            <br />organizado para ti.
+                            <br />organizado para você.
                         </h2>
                     </div>
                     <p className="text-slate-400 text-base md:text-lg max-w-md">
-                        Do básico ao avançado. Conteúdo adaptado à realidade fiscal e financeira portuguesa.
+                        Do básico ao avançado. Conteúdo adaptado à realidade fiscal e financeira brasileira.
                     </p>
                 </div>
                 <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-4">

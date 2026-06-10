@@ -15,15 +15,15 @@ export const Hero = () => {
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                     <div>
                         <span className="inline-flex items-center gap-2 bg-[#1E3A5F]/60 backdrop-blur-sm border border-[#1D4ED8]/40 text-[#60A5FA] text-sm font-bold px-4 py-2 rounded-full mb-6 shadow-sm">
-                            📈 Guias de investimento para portugueses
+                            📈 Guias de investimento para brasileiros
                         </span>
                         <h1 className="text-4xl sm:text-5xl lg:text-[3.25rem] font-extrabold tracking-tight text-white mb-6" style={{ lineHeight: "1.3" }}>
-                            Aprende a fazer o teu{" "}
-                            <span style={{ color: "#3B82F6" }}>dinheiro trabalhar</span>{" "}
-                            por ti. 💰
+                            Aprenda a fazer o seu{" "}
+                            <span style={{ color: "#3B82F6" }}>dinheiro crescer</span>{" "}
+                            por você. 💰
                         </h1>
                         <p className="text-slate-300 text-lg leading-relaxed mb-8 max-w-lg">
-                            Guias honestos sobre ETFs, corretoras, poupança e investimento adaptados à realidade portuguesa. Sem jargão, sem promessas falsas.
+                            Guias honestos sobre ETFs, corretoras, poupança e investimento adaptados à realidade brasileira. Sem jargão, sem promessas falsas.
                         </p>
                         <div className="flex flex-wrap gap-4">
                             <Link to="/blog"
@@ -41,7 +41,7 @@ export const Hero = () => {
                                 <Shield className="w-4 h-4 text-[#3B82F6]" /> Conteúdo independente
                             </div>
                             <div className="flex items-center gap-2 text-slate-300 text-sm font-medium">
-                                <BookOpen className="w-4 h-4 text-[#3B82F6]" /> Adaptado a Portugal
+                                <BookOpen className="w-4 h-4 text-[#3B82F6]" /> Adaptado ao Brasil
                             </div>
                             <div className="flex items-center gap-2 text-slate-300 text-sm font-medium">
                                 <TrendingUp className="w-4 h-4 text-[#3B82F6]" /> Atualizado em 2026
@@ -66,7 +66,7 @@ export const Hero = () => {
                                 </div>
                                 <div>
                                     <p className="text-xs text-slate-400 font-medium">Melhor corretora 2026</p>
-                                    <p className="text-sm font-bold text-white">DEGIRO — 0€ por ETF</p>
+                                    <p className="text-sm font-bold text-white">XP — corretagem R$ 0</p>
                                 </div>
                             </div>
                             <div className="absolute -top-4 -right-4 bg-[#0F2044] rounded-2xl shadow-xl px-4 py-3 border border-[#1E3A5F]">

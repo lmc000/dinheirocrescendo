@@ -11,7 +11,7 @@ const CATEGORIAS = [
     { id: "poupanca", label: "Poupança" },
     { id: "corretoras", label: "Corretoras" },
     { id: "impostos", label: "Impostos" },
-    { id: "reforma", label: "Reforma" },
+    { id: "reforma", label: "Aposentadoria" },
     { id: "internacional", label: "Internacional" },
     { id: "basicos", label: "Básicos" },
 ];
@@ -40,7 +40,7 @@ export default function Blog() {
                             Guias de Investimento
                         </h1>
                         <p className="text-slate-500 text-lg max-w-2xl">
-                            Artigos sobre ETFs, corretoras, poupança e finanças pessoais adaptados à realidade portuguesa.
+                            Artigos sobre ETFs, corretoras, poupança e finanças pessoais adaptados à realidade brasileira.
                         </p>
                     </div>
 

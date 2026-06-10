@@ -3,16 +3,16 @@ import { Header } from "../components/landing/Header";
 import { FooterSection } from "../components/landing/FooterSection";
 import { Calculator, TrendingUp, Target, PiggyBank, RefreshCw, Scale, PieChart } from "lucide-react";
 
-function formatEur(val) {
-    return new Intl.NumberFormat("pt-PT", { style: "currency", currency: "EUR", maximumFractionDigits: 0 }).format(val);
+function formatBrl(val) {
+    return new Intl.NumberFormat("pt-BR", { style: "currency", currency: "BRL", maximumFractionDigits: 0 }).format(val);
 }
 
 // ─── FERRAMENTAS EXISTENTES ───────────────────────────────────────────────────
 
 function SimuladorJurosCompostos() {
-    const [capital, setCapital] = useState(1000);
-    const [mensal, setMensal] = useState(200);
-    const [taxa, setTaxa] = useState(7);
+    const [capital, setCapital] = useState(5000);
+    const [mensal, setMensal] = useState(1000);
+    const [taxa, setTaxa] = useState(10);
     const [anos, setAnos] = useState(20);
 
     const taxaMensal = taxa / 100 / 12;
@@ -32,16 +32,16 @@ function SimuladorJurosCompostos() {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                 {[
-                    { label: "Capital inicial (€)", value: capital, setter: setCapital, min: 0, max: 100000, step: 500 },
-                    { label: "Investimento mensal (€)", value: mensal, setter: setMensal, min: 0, max: 5000, step: 50 },
-                    { label: "Retorno anual esperado (%)", value: taxa, setter: setTaxa, min: 1, max: 15, step: 0.5 },
+                    { label: "Capital inicial (R$)", value: capital, setter: setCapital, min: 0, max: 500000, step: 2500 },
+                    { label: "Aporte mensal (R$)", value: mensal, setter: setMensal, min: 0, max: 20000, step: 100 },
+                    { label: "Retorno anual esperado (%)", value: taxa, setter: setTaxa, min: 1, max: 18, step: 0.5 },
                     { label: "Número de anos", value: anos, setter: setAnos, min: 1, max: 40, step: 1 },
                 ].map((field) => (
                     <div key={field.label}>
                         <div className="flex justify-between mb-2">
                             <label className="text-sm font-bold text-slate-600">{field.label}</label>
                             <span className="text-sm font-bold text-[#1D4ED8]">
-                                {field.label.includes("%") ? `${field.value}%` : field.label.includes("anos") ? `${field.value} anos` : formatEur(field.value)}
+                                {field.label.includes("%") ? `${field.value}%` : field.label.includes("anos") ? `${field.value} anos` : formatBrl(field.value)}
                             </span>
                         </div>
                         <input type="range" min={field.min} max={field.max} step={field.step} value={field.value}
@@ -52,15 +52,15 @@ function SimuladorJurosCompostos() {
             <div className="grid grid-cols-3 gap-4">
                 <div className="bg-slate-50 rounded-2xl p-4 text-center">
                     <p className="text-xs text-slate-400 mb-1">Total investido</p>
-                    <p className="text-lg font-extrabold text-[#0A1628]">{formatEur(totalInvestido)}</p>
+                    <p className="text-lg font-extrabold text-[#0A1628]">{formatBrl(totalInvestido)}</p>
                 </div>
                 <div className="bg-blue-50 rounded-2xl p-4 text-center">
                     <p className="text-xs text-[#1D4ED8] mb-1">Ganhos compostos</p>
-                    <p className="text-lg font-extrabold text-[#1D4ED8]">{formatEur(ganhos)}</p>
+                    <p className="text-lg font-extrabold text-[#1D4ED8]">{formatBrl(ganhos)}</p>
                 </div>
                 <div className="bg-[#0A1628] rounded-2xl p-4 text-center">
                     <p className="text-xs text-slate-400 mb-1">Valor final</p>
-                    <p className="text-lg font-extrabold text-white">{formatEur(total)}</p>
+                    <p className="text-lg font-extrabold text-white">{formatBrl(total)}</p>
                 </div>
             </div>
         </div>
@@ -68,10 +68,10 @@ function SimuladorJurosCompostos() {
 }
 
 function SimuladorFIRE() {
-    const [despesasMensais, setDespesasMensais] = useState(1500);
-    const [patrimonio, setPatrimonio] = useState(10000);
-    const [poupancaMensal, setPoupancaMensal] = useState(400);
-    const [retorno, setRetorno] = useState(7);
+    const [despesasMensais, setDespesasMensais] = useState(5000);
+    const [patrimonio, setPatrimonio] = useState(50000);
+    const [poupancaMensal, setPoupancaMensal] = useState(1500);
+    const [retorno, setRetorno] = useState(8);
 
     const meta = despesasMensais * 12 * 25;
     const falta = Math.max(0, meta - patrimonio);
@@ -91,16 +91,16 @@ function SimuladorFIRE() {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                 {[
-                    { label: "Despesas mensais (€)", value: despesasMensais, setter: setDespesasMensais, min: 500, max: 5000, step: 100 },
-                    { label: "Património atual (€)", value: patrimonio, setter: setPatrimonio, min: 0, max: 500000, step: 5000 },
-                    { label: "Poupança mensal (€)", value: poupancaMensal, setter: setPoupancaMensal, min: 50, max: 3000, step: 50 },
-                    { label: "Retorno anual esperado (%)", value: retorno, setter: setRetorno, min: 2, max: 12, step: 0.5 },
+                    { label: "Despesas mensais (R$)", value: despesasMensais, setter: setDespesasMensais, min: 2000, max: 25000, step: 500 },
+                    { label: "Patrimônio atual (R$)", value: patrimonio, setter: setPatrimonio, min: 0, max: 2000000, step: 25000 },
+                    { label: "Poupança mensal (R$)", value: poupancaMensal, setter: setPoupancaMensal, min: 100, max: 15000, step: 100 },
+                    { label: "Retorno anual esperado (%)", value: retorno, setter: setRetorno, min: 2, max: 14, step: 0.5 },
                 ].map((field) => (
                     <div key={field.label}>
                         <div className="flex justify-between mb-2">
                             <label className="text-sm font-bold text-slate-600">{field.label}</label>
                             <span className="text-sm font-bold text-[#1D4ED8]">
-                                {field.label.includes("%") ? `${field.value}%` : formatEur(field.value)}
+                                {field.label.includes("%") ? `${field.value}%` : formatBrl(field.value)}
                             </span>
                         </div>
                         <input type="range" min={field.min} max={field.max} step={field.step} value={field.value}
@@ -109,10 +109,10 @@ function SimuladorFIRE() {
                 ))}
             </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                <div className="bg-slate-50 rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Meta FIRE</p><p className="text-base font-extrabold text-[#0A1628]">{formatEur(meta)}</p></div>
-                <div className="bg-slate-50 rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Falta acumular</p><p className="text-base font-extrabold text-[#0A1628]">{formatEur(falta)}</p></div>
+                <div className="bg-slate-50 rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Meta FIRE</p><p className="text-base font-extrabold text-[#0A1628]">{formatBrl(meta)}</p></div>
+                <div className="bg-slate-50 rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Falta acumular</p><p className="text-base font-extrabold text-[#0A1628]">{formatBrl(falta)}</p></div>
                 <div className="bg-blue-50 rounded-2xl p-4 text-center"><p className="text-xs text-[#1D4ED8] mb-1">Tempo estimado</p><p className="text-base font-extrabold text-[#1D4ED8]">{meses >= 600 ? "+50 anos" : `${anos}a ${mesesResto}m`}</p></div>
-                <div className="bg-[#0A1628] rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Renda mensal</p><p className="text-base font-extrabold text-white">{formatEur(meta * 0.04 / 12)}</p></div>
+                <div className="bg-[#0A1628] rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Renda mensal</p><p className="text-base font-extrabold text-white">{formatBrl(meta * 0.04 / 12)}</p></div>
             </div>
             <p className="text-xs text-slate-400 mt-4">* Baseado na regra dos 4% (estudo Trinity). Não garante resultados.</p>
         </div>
@@ -120,7 +120,7 @@ function SimuladorFIRE() {
 }
 
 function CalculadoraRegra72() {
-    const [taxa, setTaxa] = useState(7);
+    const [taxa, setTaxa] = useState(10);
     const anos = (72 / taxa).toFixed(1);
     return (
         <div className="bg-white rounded-3xl border border-slate-100 p-8 shadow-sm">
@@ -128,7 +128,7 @@ function CalculadoraRegra72() {
                 <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center">
                     <Calculator className="w-5 h-5 text-[#1D4ED8]" />
                 </div>
-                <h2 className="text-xl font-extrabold text-[#0A1628]">Regra dos 72 — Tempo para Duplicar</h2>
+                <h2 className="text-xl font-extrabold text-[#0A1628]">Regra dos 72 — Tempo para Dobrar</h2>
             </div>
             <div className="mb-8">
                 <div className="flex justify-between mb-2">
@@ -139,12 +139,12 @@ function CalculadoraRegra72() {
                     onChange={(e) => setTaxa(Number(e.target.value))} className="w-full accent-blue-600" />
             </div>
             <div className="bg-[#0A1628] rounded-2xl p-6 text-center">
-                <p className="text-slate-400 text-sm mb-2">Com {taxa}% de retorno anual, o teu dinheiro duplica em:</p>
+                <p className="text-slate-400 text-sm mb-2">Com {taxa}% de retorno anual, seu dinheiro dobra em:</p>
                 <p className="text-5xl font-extrabold text-white">{anos}</p>
                 <p className="text-slate-400 mt-2">anos</p>
             </div>
             <div className="mt-6 grid grid-cols-4 gap-2">
-                {[4, 7, 10, 12].map((t) => (
+                {[6, 10, 12, 14].map((t) => (
                     <button key={t} onClick={() => setTaxa(t)}
                         className={`rounded-xl py-2 text-sm font-bold transition-all ${taxa === t ? "bg-[#1D4ED8] text-white" : "bg-slate-50 text-slate-600 hover:bg-blue-50"}`}>
                         {t}%
@@ -158,10 +158,10 @@ function CalculadoraRegra72() {
 // ─── NOVAS FERRAMENTAS ────────────────────────────────────────────────────────
 
 function CalculadoraObjetivo() {
-    const [objetivo, setObjetivo] = useState(20000);
-    const [jaPoupa, setJaPoupa] = useState(2000);
-    const [mensal, setMensal] = useState(300);
-    const [taxa, setTaxa] = useState(4);
+    const [objetivo, setObjetivo] = useState(100000);
+    const [jaPoupa, setJaPoupa] = useState(10000);
+    const [mensal, setMensal] = useState(1500);
+    const [taxa, setTaxa] = useState(10);
     const [prazoAnos, setPrazoAnos] = useState(5);
 
     const taxaMensal = taxa / 100 / 12;
@@ -186,19 +186,19 @@ function CalculadoraObjetivo() {
                 </div>
                 <h2 className="text-xl font-extrabold text-[#0A1628]">Calculadora de Objetivo de Poupança</h2>
             </div>
-            <p className="text-sm text-slate-400 mb-6">Entrada de casa, fundo de emergência, viagem — calcula quanto tempo falta e quanto deves poupar por mês.</p>
+            <p className="text-sm text-slate-400 mb-6">Entrada do apartamento, reserva de emergência, viagem — calcule quanto tempo falta e quanto você deve poupar por mês.</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                 {[
-                    { label: "Objetivo (€)", value: objetivo, setter: setObjetivo, min: 1000, max: 200000, step: 1000 },
-                    { label: "Já poupado (€)", value: jaPoupa, setter: setJaPoupa, min: 0, max: 100000, step: 500 },
-                    { label: "Poupança mensal (€)", value: mensal, setter: setMensal, min: 50, max: 3000, step: 50 },
-                    { label: "Taxa de retorno anual (%)", value: taxa, setter: setTaxa, min: 0, max: 10, step: 0.5 },
+                    { label: "Objetivo (R$)", value: objetivo, setter: setObjetivo, min: 5000, max: 1000000, step: 5000 },
+                    { label: "Já poupado (R$)", value: jaPoupa, setter: setJaPoupa, min: 0, max: 500000, step: 2500 },
+                    { label: "Poupança mensal (R$)", value: mensal, setter: setMensal, min: 100, max: 15000, step: 100 },
+                    { label: "Taxa de retorno anual (%)", value: taxa, setter: setTaxa, min: 0, max: 15, step: 0.5 },
                 ].map((field) => (
                     <div key={field.label}>
                         <div className="flex justify-between mb-2">
                             <label className="text-sm font-bold text-slate-600">{field.label}</label>
                             <span className="text-sm font-bold text-[#1D4ED8]">
-                                {field.label.includes("%") ? `${field.value}%` : formatEur(field.value)}
+                                {field.label.includes("%") ? `${field.value}%` : formatBrl(field.value)}
                             </span>
                         </div>
                         <input type="range" min={field.min} max={field.max} step={field.step} value={field.value}
@@ -215,11 +215,11 @@ function CalculadoraObjetivo() {
                 </div>
                 <div className="bg-blue-50 rounded-2xl p-4 text-center">
                     <p className="text-xs text-[#1D4ED8] mb-1">Juros ganhos</p>
-                    <p className="text-lg font-extrabold text-[#1D4ED8]">{formatEur(jurosGanhos)}</p>
+                    <p className="text-lg font-extrabold text-[#1D4ED8]">{formatBrl(jurosGanhos)}</p>
                 </div>
                 <div className="bg-[#0A1628] rounded-2xl p-4 text-center">
                     <p className="text-xs text-slate-400 mb-1">Objetivo</p>
-                    <p className="text-lg font-extrabold text-white">{formatEur(objetivo)}</p>
+                    <p className="text-lg font-extrabold text-white">{formatBrl(objetivo)}</p>
                 </div>
             </div>
             <div className="border border-slate-100 rounded-2xl p-5">
@@ -232,7 +232,7 @@ function CalculadoraObjetivo() {
                     onChange={(e) => setPrazoAnos(Number(e.target.value))} className="w-full accent-blue-600 mb-4" />
                 <div className="bg-blue-50 rounded-xl p-4 text-center">
                     <p className="text-xs text-slate-500 mb-1">Poupança mensal necessária</p>
-                    <p className="text-2xl font-extrabold text-[#1D4ED8]">{formatEur(Math.ceil(mensalNecessario))}/mês</p>
+                    <p className="text-2xl font-extrabold text-[#1D4ED8]">{formatBrl(Math.ceil(mensalNecessario))}/mês</p>
                 </div>
             </div>
         </div>
@@ -240,9 +240,9 @@ function CalculadoraObjetivo() {
 }
 
 function SimuladorDCA() {
-    const [valorMensal, setValorMensal] = useState(200);
+    const [valorMensal, setValorMensal] = useState(1000);
     const [anos, setAnos] = useState(15);
-    const [taxaMedia, setTaxaMedia] = useState(8);
+    const [taxaMedia, setTaxaMedia] = useState(10);
     const [modoVer, setModoVer] = useState("tabela");
 
     const taxaMensal = taxaMedia / 100 / 12;
@@ -261,7 +261,7 @@ function SimuladorDCA() {
     const final = marcos[marcos.length - 1] || { valor: 0, investido: 0, ganhos: 0 };
     const multiplicador = final.investido > 0 ? (final.valor / final.investido).toFixed(1) : "—";
 
-    const milestones = [10000, 25000, 50000, 100000, 250000, 500000];
+    const milestones = [50000, 100000, 250000, 500000, 1000000, 2500000];
     const milestoneHits = milestones.map((marco) => {
         let acumulado = 0;
         for (let i = 1; i <= 600; i++) {
@@ -277,20 +277,20 @@ function SimuladorDCA() {
                 <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center">
                     <RefreshCw className="w-5 h-5 text-[#1D4ED8]" />
                 </div>
-                <h2 className="text-xl font-extrabold text-[#0A1628]">Simulador DCA — Investimento Mensal Regular</h2>
+                <h2 className="text-xl font-extrabold text-[#0A1628]">Simulador DCA — Aporte Mensal Regular</h2>
             </div>
-            <p className="text-sm text-slate-400 mb-6">Simula o efeito de investir um valor fixo todos os meses (Dollar-Cost Averaging).</p>
+            <p className="text-sm text-slate-400 mb-6">Simule o efeito de investir um valor fixo todos os meses (Dollar-Cost Averaging).</p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
                 {[
-                    { label: "Valor mensal (€)", value: valorMensal, setter: setValorMensal, min: 25, max: 5000, step: 25 },
+                    { label: "Aporte mensal (R$)", value: valorMensal, setter: setValorMensal, min: 100, max: 20000, step: 100 },
                     { label: "Número de anos", value: anos, setter: setAnos, min: 1, max: 40, step: 1 },
-                    { label: "Retorno anual médio (%)", value: taxaMedia, setter: setTaxaMedia, min: 1, max: 15, step: 0.5 },
+                    { label: "Retorno anual médio (%)", value: taxaMedia, setter: setTaxaMedia, min: 1, max: 18, step: 0.5 },
                 ].map((field) => (
                     <div key={field.label}>
                         <div className="flex justify-between mb-2">
                             <label className="text-sm font-bold text-slate-600">{field.label}</label>
                             <span className="text-sm font-bold text-[#1D4ED8]">
-                                {field.label.includes("%") ? `${field.value}%` : field.label.includes("anos") ? `${field.value} anos` : formatEur(field.value)}
+                                {field.label.includes("%") ? `${field.value}%` : field.label.includes("anos") ? `${field.value} anos` : formatBrl(field.value)}
                             </span>
                         </div>
                         <input type="range" min={field.min} max={field.max} step={field.step} value={field.value}
@@ -299,9 +299,9 @@ function SimuladorDCA() {
                 ))}
             </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-                <div className="bg-slate-50 rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Total investido</p><p className="text-base font-extrabold text-[#0A1628]">{formatEur(final.investido)}</p></div>
-                <div className="bg-blue-50 rounded-2xl p-4 text-center"><p className="text-xs text-[#1D4ED8] mb-1">Ganhos DCA</p><p className="text-base font-extrabold text-[#1D4ED8]">{formatEur(final.ganhos)}</p></div>
-                <div className="bg-[#0A1628] rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Valor final</p><p className="text-base font-extrabold text-white">{formatEur(final.valor)}</p></div>
+                <div className="bg-slate-50 rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Total investido</p><p className="text-base font-extrabold text-[#0A1628]">{formatBrl(final.investido)}</p></div>
+                <div className="bg-blue-50 rounded-2xl p-4 text-center"><p className="text-xs text-[#1D4ED8] mb-1">Ganhos DCA</p><p className="text-base font-extrabold text-[#1D4ED8]">{formatBrl(final.ganhos)}</p></div>
+                <div className="bg-[#0A1628] rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Valor final</p><p className="text-base font-extrabold text-white">{formatBrl(final.valor)}</p></div>
                 <div className="bg-slate-50 rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Multiplicador</p><p className="text-base font-extrabold text-[#0A1628]">{multiplicador}×</p></div>
             </div>
             <div className="flex gap-2 mb-4">
@@ -327,9 +327,9 @@ function SimuladorDCA() {
                             {marcos.filter((_, i) => i % Math.max(1, Math.floor(marcos.length / 10)) === 0 || i === marcos.length - 1).map((row) => (
                                 <tr key={row.ano} className="border-b border-slate-50">
                                     <td className="py-2 font-bold text-[#0A1628]">Ano {row.ano}</td>
-                                    <td className="py-2 text-right text-slate-500">{formatEur(row.investido)}</td>
-                                    <td className="py-2 text-right text-[#1D4ED8] font-bold">{formatEur(row.ganhos)}</td>
-                                    <td className="py-2 text-right font-extrabold text-[#0A1628]">{formatEur(row.valor)}</td>
+                                    <td className="py-2 text-right text-slate-500">{formatBrl(row.investido)}</td>
+                                    <td className="py-2 text-right text-[#1D4ED8] font-bold">{formatBrl(row.ganhos)}</td>
+                                    <td className="py-2 text-right font-extrabold text-[#0A1628]">{formatBrl(row.valor)}</td>
                                 </tr>
                             ))}
                         </tbody>
@@ -341,45 +341,44 @@ function SimuladorDCA() {
                         const a = Math.floor(m / 12), mo = m % 12;
                         return (
                             <div key={marco} className="bg-slate-50 rounded-2xl p-4">
-                                <p className="text-xs text-slate-400 mb-1">Atinges {formatEur(marco)} em</p>
+                                <p className="text-xs text-slate-400 mb-1">Você atinge {formatBrl(marco)} em</p>
                                 <p className="text-base font-extrabold text-[#0A1628]">{a > 0 ? `${a}a ` : ""}{mo > 0 ? `${mo}m` : ""}</p>
                             </div>
                         );
                     })}
                 </div>
             )}
-            <p className="text-xs text-slate-400 mt-4">* Simulação com retorno médio constante. O retorno real varia anualmente.</p>
+            <p className="text-xs text-slate-400 mt-4">* Simulação com retorno médio constante. O retorno real varia ano a ano.</p>
         </div>
     );
 }
 
-function CalculadoraPPRvsETF() {
-    const [investimentoAnual, setInvestimentoAnual] = useState(2000);
-    const [idade, setIdade] = useState(35);
-    const [anosAteReforma, setAnosAteReforma] = useState(30);
-    const [taxaRetornoBruto, setTaxaRetornoBruto] = useState(7);
-    const [custosPPR, setCustosPPR] = useState(1.2);
+function CalculadoraPrevidenciaVsETF() {
+    const [investimentoAnual, setInvestimentoAnual] = useState(12000);
+    const [anosAteAposentadoria, setAnosAteAposentadoria] = useState(30);
+    const [taxaRetornoBruto, setTaxaRetornoBruto] = useState(10);
+    const [custosPrevidencia, setCustosPrevidencia] = useState(1.0);
+    const [aliquotaIR, setAliquotaIR] = useState(27.5);
 
-    const limiteDeducao = idade >= 50 ? 7000 : idade >= 35 ? 3500 : 2000;
-    const deducaoAnual = Math.min(investimentoAnual, limiteDeducao) * 0.20;
+    // PGBL: dedução anual da contribuição na declaração completa (até 12% da renda bruta)
+    const deducaoAnual = investimentoAnual * (aliquotaIR / 100);
 
-    const taxaLiquidaPPR = (taxaRetornoBruto - custosPPR) / 100;
-    let totalPPR = 0, totalDeducoes = 0;
-    for (let a = 0; a < anosAteReforma; a++) { totalPPR = (totalPPR + investimentoAnual) * (1 + taxaLiquidaPPR); totalDeducoes += deducaoAnual; }
-    const investidoPPR = investimentoAnual * anosAteReforma;
-    const ganhosPPR = Math.max(0, totalPPR - investidoPPR);
-    const impostoPPR = ganhosPPR * 0.08;
-    const liquidoPPR = totalPPR - impostoPPR + totalDeducoes;
+    const taxaLiquidaPrev = (taxaRetornoBruto - custosPrevidencia) / 100;
+    let totalPrev = 0, totalDeducoes = 0;
+    for (let a = 0; a < anosAteAposentadoria; a++) { totalPrev = (totalPrev + investimentoAnual) * (1 + taxaLiquidaPrev); totalDeducoes += deducaoAnual; }
+    // PGBL na tabela regressiva (10+ anos): 10% sobre o valor TOTAL resgatado
+    const impostoPrev = totalPrev * 0.10;
+    const liquidoPrev = totalPrev - impostoPrev + totalDeducoes;
 
-    const taxaLiquidaETF = (taxaRetornoBruto - 0.20) / 100;
+    const taxaLiquidaETF = (taxaRetornoBruto - 0.25) / 100; // taxa de administração ~0,25%
     let totalETF = 0;
-    for (let a = 0; a < anosAteReforma; a++) totalETF = (totalETF + investimentoAnual) * (1 + taxaLiquidaETF);
-    const ganhosETF = Math.max(0, totalETF - investimentoAnual * anosAteReforma);
-    const impostoETF = ganhosETF * 0.28;
+    for (let a = 0; a < anosAteAposentadoria; a++) totalETF = (totalETF + investimentoAnual) * (1 + taxaLiquidaETF);
+    const ganhosETF = Math.max(0, totalETF - investimentoAnual * anosAteAposentadoria);
+    const impostoETF = ganhosETF * 0.15; // 15% sobre o lucro
     const liquidoETF = totalETF - impostoETF;
 
-    const vencedor = liquidoPPR >= liquidoETF ? "PPR" : "ETF";
-    const diferenca = Math.abs(liquidoPPR - liquidoETF);
+    const vencedor = liquidoPrev >= liquidoETF ? "PGBL" : "ETF";
+    const diferenca = Math.abs(liquidoPrev - liquidoETF);
 
     return (
         <div className="bg-white rounded-3xl border border-slate-100 p-8 shadow-sm">
@@ -387,22 +386,22 @@ function CalculadoraPPRvsETF() {
                 <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center">
                     <Scale className="w-5 h-5 text-[#1D4ED8]" />
                 </div>
-                <h2 className="text-xl font-extrabold text-[#0A1628]">Calculadora PPR vs ETF — Impacto Fiscal</h2>
+                <h2 className="text-xl font-extrabold text-[#0A1628]">Calculadora Previdência (PGBL) vs ETF — Impacto Fiscal</h2>
             </div>
-            <p className="text-sm text-slate-400 mb-6">Compara o valor líquido final entre PPR e ETFs diretos, incluindo benefícios fiscais e impostos no resgate.</p>
+            <p className="text-sm text-slate-400 mb-6">Compara o valor líquido final entre previdência privada PGBL (tabela regressiva, 10% após 10 anos) e ETFs diretos (15% sobre o lucro), incluindo a dedução do IR.</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
                 {[
-                    { label: "Investimento anual (€)", value: investimentoAnual, setter: setInvestimentoAnual, min: 500, max: 7000, step: 100 },
-                    { label: "Idade atual", value: idade, setter: setIdade, min: 18, max: 60, step: 1 },
-                    { label: "Anos até à reforma", value: anosAteReforma, setter: setAnosAteReforma, min: 5, max: 40, step: 1 },
-                    { label: "Retorno bruto anual (%)", value: taxaRetornoBruto, setter: setTaxaRetornoBruto, min: 2, max: 12, step: 0.5 },
-                    { label: "Custos PPR (%/ano)", value: custosPPR, setter: setCustosPPR, min: 0.2, max: 3, step: 0.1 },
+                    { label: "Investimento anual (R$)", value: investimentoAnual, setter: setInvestimentoAnual, min: 2000, max: 60000, step: 1000 },
+                    { label: "Anos até a aposentadoria", value: anosAteAposentadoria, setter: setAnosAteAposentadoria, min: 10, max: 40, step: 1 },
+                    { label: "Retorno bruto anual (%)", value: taxaRetornoBruto, setter: setTaxaRetornoBruto, min: 4, max: 15, step: 0.5 },
+                    { label: "Custos previdência (%/ano)", value: custosPrevidencia, setter: setCustosPrevidencia, min: 0.2, max: 3, step: 0.1 },
+                    { label: "Sua alíquota de IR (%)", value: aliquotaIR, setter: setAliquotaIR, min: 7.5, max: 27.5, step: 7.5 },
                 ].map((field) => (
                     <div key={field.label}>
                         <div className="flex justify-between mb-2">
                             <label className="text-sm font-bold text-slate-600">{field.label}</label>
                             <span className="text-sm font-bold text-[#1D4ED8]">
-                                {field.label.includes("%") ? `${field.value}%` : field.label.includes("Idade") || field.label.includes("Anos") ? `${field.value}` : formatEur(field.value)}
+                                {field.label.includes("%") ? `${field.value}%` : field.label.includes("Anos") ? `${field.value}` : formatBrl(field.value)}
                             </span>
                         </div>
                         <input type="range" min={field.min} max={field.max} step={field.step} value={field.value}
@@ -412,18 +411,18 @@ function CalculadoraPPRvsETF() {
             </div>
             <div className="bg-blue-50 rounded-2xl p-4 mb-6 flex items-center justify-between">
                 <div>
-                    <p className="text-xs text-slate-500">Dedução IRS anual estimada (PPR)</p>
-                    <p className="text-lg font-extrabold text-[#1D4ED8]">{formatEur(deducaoAnual)}/ano · {formatEur(totalDeducoes)} total</p>
+                    <p className="text-xs text-slate-500">Restituição de IR anual estimada (PGBL)</p>
+                    <p className="text-lg font-extrabold text-[#1D4ED8]">{formatBrl(deducaoAnual)}/ano · {formatBrl(totalDeducoes)} total</p>
                 </div>
                 <div className="text-right">
-                    <p className="text-xs text-slate-500">Limite para a tua idade</p>
-                    <p className="text-sm font-bold text-[#0A1628]">{formatEur(limiteDeducao)}</p>
+                    <p className="text-xs text-slate-500">Lembrete</p>
+                    <p className="text-sm font-bold text-[#0A1628]">Dedução limitada a 12% da renda bruta</p>
                 </div>
             </div>
             <div className="grid grid-cols-2 gap-4 mb-4">
                 {[
-                    { titulo: "PPR", vence: vencedor === "PPR", bruto: totalPPR, imposto: impostoPPR, impostoLabel: "Imposto resgate (8%)", extra: totalDeducoes, extraLabel: "Deduções IRS acumuladas", extraCor: "text-green-600", liquido: liquidoPPR },
-                    { titulo: "ETF direto", vence: vencedor === "ETF", bruto: totalETF, imposto: impostoETF, impostoLabel: "Imposto mais-valias (28%)", extra: null, extraLabel: "Deduções IRS", extraCor: "text-slate-300", liquido: liquidoETF },
+                    { titulo: "PGBL", vence: vencedor === "PGBL", bruto: totalPrev, imposto: impostoPrev, impostoLabel: "IR no resgate (10% sobre o total)", extra: totalDeducoes, extraLabel: "Deduções de IR acumuladas", extraCor: "text-green-600", liquido: liquidoPrev },
+                    { titulo: "ETF direto", vence: vencedor === "ETF", bruto: totalETF, imposto: impostoETF, impostoLabel: "IR sobre o lucro (15%)", extra: null, extraLabel: "Deduções de IR", extraCor: "text-slate-300", liquido: liquidoETF },
                 ].map((col) => (
                     <div key={col.titulo} className={`rounded-2xl p-5 border-2 ${col.vence ? "border-[#1D4ED8] bg-blue-50" : "border-slate-100 bg-slate-50"}`}>
                         <div className="flex items-center justify-between mb-3">
@@ -431,38 +430,38 @@ function CalculadoraPPRvsETF() {
                             {col.vence && <span className="text-xs bg-[#1D4ED8] text-white px-2 py-0.5 rounded-full font-bold">Melhor opção</span>}
                         </div>
                         <p className="text-xs text-slate-400 mb-1">Valor bruto</p>
-                        <p className="text-sm font-bold text-slate-600 mb-2">{formatEur(col.bruto)}</p>
+                        <p className="text-sm font-bold text-slate-600 mb-2">{formatBrl(col.bruto)}</p>
                         <p className="text-xs text-slate-400 mb-1">{col.impostoLabel}</p>
-                        <p className="text-sm font-bold text-red-400 mb-2">−{formatEur(col.imposto)}</p>
+                        <p className="text-sm font-bold text-red-400 mb-2">−{formatBrl(col.imposto)}</p>
                         <p className="text-xs text-slate-400 mb-1">{col.extraLabel}</p>
-                        <p className={`text-sm font-bold mb-3 ${col.extraCor}`}>{col.extra !== null ? `+${formatEur(col.extra)}` : "Não aplicável"}</p>
+                        <p className={`text-sm font-bold mb-3 ${col.extraCor}`}>{col.extra !== null ? `+${formatBrl(col.extra)}` : "Não aplicável"}</p>
                         <div className="border-t border-slate-200 pt-3">
                             <p className="text-xs text-slate-400">Valor líquido final</p>
-                            <p className="text-xl font-extrabold text-[#0A1628]">{formatEur(col.liquido)}</p>
+                            <p className="text-xl font-extrabold text-[#0A1628]">{formatBrl(col.liquido)}</p>
                         </div>
                     </div>
                 ))}
             </div>
             <div className="bg-[#0A1628] rounded-2xl p-4 text-center">
-                <p className="text-slate-400 text-sm">Com estes parâmetros, o <span className="text-white font-bold">{vencedor}</span> gera mais {formatEur(diferenca)} no final</p>
-                <p className="text-xs text-slate-500 mt-1">* Custos PPR bancário típico: 1–2%/ano. PPR em ETFs: 0,3–0,5%/ano. Ajusta o slider "Custos PPR" para comparar.</p>
+                <p className="text-slate-400 text-sm">Com esses parâmetros, o <span className="text-white font-bold">{vencedor}</span> gera mais {formatBrl(diferenca)} no final</p>
+                <p className="text-xs text-slate-500 mt-1">* Custos de previdência de banco: 2–3%/ano. Previdência de corretora: 0,5–1%/ano. Ajuste o slider "Custos previdência" para comparar. PGBL pressupõe declaração completa e tabela regressiva.</p>
             </div>
         </div>
     );
 }
 
 const ETF_OPCOES = [
-    { id: "iwda", nome: "MSCI World (IWDA)", ter: 0.20, retorno: 10.2, regiao: "Mundo desenvolvido", cor: "#1D4ED8" },
-    { id: "vwra", nome: "FTSE All-World (VWRA)", ter: 0.22, retorno: 9.8, regiao: "Global completo", cor: "#0891B2" },
-    { id: "cspx", nome: "S&P 500 (CSPX)", ter: 0.07, retorno: 11.1, regiao: "EUA", cor: "#7C3AED" },
-    { id: "eimi", nome: "Emerging Markets (EIMI)", ter: 0.18, retorno: 7.4, regiao: "Mercados emergentes", cor: "#059669" },
-    { id: "govbond", nome: "€ Govt Bond", ter: 0.07, retorno: 3.2, regiao: "Obrigações europeias", cor: "#D97706" },
-    { id: "gold", nome: "Ouro (IGLN)", ter: 0.12, retorno: 4.1, regiao: "Ouro físico", cor: "#CA8A04" },
+    { id: "ivvb11", nome: "S&P 500 (IVVB11)", ter: 0.23, retorno: 11.1, regiao: "EUA + dólar", cor: "#1D4ED8" },
+    { id: "wrld11", nome: "Mundo desenvolvido (WRLD11)", ter: 0.30, retorno: 9.8, regiao: "Global + dólar", cor: "#0891B2" },
+    { id: "bova11", nome: "Ibovespa (BOVA11)", ter: 0.10, retorno: 10.0, regiao: "Brasil", cor: "#7C3AED" },
+    { id: "smal11", nome: "Small Caps (SMAL11)", ter: 0.50, retorno: 9.0, regiao: "Brasil — small caps", cor: "#059669" },
+    { id: "imab11", nome: "Tesouro IPCA+ (IMAB11)", ter: 0.25, retorno: 6.0, regiao: "Renda fixa (juro real)", cor: "#D97706" },
+    { id: "gold11", nome: "Ouro (GOLD11)", ter: 0.30, retorno: 4.5, regiao: "Ouro + dólar", cor: "#CA8A04" },
 ];
 
 function SimuladorCarteira() {
-    const [pesos, setPesos] = useState({ iwda: 80, eimi: 20, cspx: 0, vwra: 0, govbond: 0, gold: 0 });
-    const [investimentoMensal, setInvestimentoMensal] = useState(300);
+    const [pesos, setPesos] = useState({ ivvb11: 50, bova11: 20, imab11: 30, wrld11: 0, smal11: 0, gold11: 0 });
+    const [investimentoMensal, setInvestimentoMensal] = useState(1500);
     const [anos, setAnos] = useState(20);
 
     const total = Object.values(pesos).reduce((a, b) => a + b, 0);
@@ -485,11 +484,11 @@ function SimuladorCarteira() {
                 </div>
                 <h2 className="text-xl font-extrabold text-[#0A1628]">Simulador de Carteira com Múltiplos ETFs</h2>
             </div>
-            <p className="text-sm text-slate-400 mb-6">Define a alocação da tua carteira e vê o retorno esperado, custo total (TER) e valor final estimado.</p>
+            <p className="text-sm text-slate-400 mb-6">Defina a alocação da sua carteira com ETFs da B3 e veja o retorno esperado, o custo total (taxa de administração) e o valor final estimado.</p>
 
             {total !== 100 && (
                 <div className={`rounded-xl p-3 mb-4 text-sm font-bold ${total > 100 ? "bg-red-50 text-red-600" : "bg-amber-50 text-amber-600"}`}>
-                    {total > 100 ? `⚠ Total ${total}% — excede 100%. Reduz alguns pesos.` : `ℹ Total ${total}% — faltam ${100 - total}% para completar.`}
+                    {total > 100 ? `⚠ Total ${total}% — excede 100%. Reduza alguns pesos.` : `ℹ Total ${total}% — faltam ${100 - total}% para completar.`}
                 </div>
             )}
             {total === 100 && <div className="rounded-xl p-3 mb-4 text-sm font-bold bg-green-50 text-green-600">✓ Carteira balanceada — 100%</div>}
@@ -500,7 +499,7 @@ function SimuladorCarteira() {
                         <div className="flex items-center justify-between mb-2">
                             <div>
                                 <p className="text-sm font-extrabold text-[#0A1628]">{etf.nome}</p>
-                                <p className="text-xs text-slate-400">{etf.regiao} · TER {etf.ter}% · ~{etf.retorno}%/ano</p>
+                                <p className="text-xs text-slate-400">{etf.regiao} · Taxa {etf.ter}% · ~{etf.retorno}%/ano</p>
                             </div>
                             <span className="text-lg font-extrabold" style={{ color: etf.cor }}>{pesos[etf.id]}%</span>
                         </div>
@@ -524,14 +523,14 @@ function SimuladorCarteira() {
 
             <div className="grid grid-cols-2 gap-4 mb-6">
                 {[
-                    { label: "Investimento mensal (€)", value: investimentoMensal, setter: setInvestimentoMensal, min: 50, max: 5000, step: 50 },
+                    { label: "Aporte mensal (R$)", value: investimentoMensal, setter: setInvestimentoMensal, min: 100, max: 20000, step: 100 },
                     { label: "Horizonte temporal", value: anos, setter: setAnos, min: 1, max: 40, step: 1 },
                 ].map((field) => (
                     <div key={field.label}>
                         <div className="flex justify-between mb-2">
                             <label className="text-sm font-bold text-slate-600">{field.label}</label>
                             <span className="text-sm font-bold text-[#1D4ED8]">
-                                {field.label.includes("mensal") ? formatEur(field.value) : `${field.value} anos`}
+                                {field.label.includes("mensal") ? formatBrl(field.value) : `${field.value} anos`}
                             </span>
                         </div>
                         <input type="range" min={field.min} max={field.max} step={field.step} value={field.value}
@@ -542,9 +541,9 @@ function SimuladorCarteira() {
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                 <div className="bg-slate-50 rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Retorno esperado</p><p className="text-lg font-extrabold text-[#0A1628]">{retornoLiquido.toFixed(2)}%/ano</p></div>
-                <div className="bg-slate-50 rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Custo total (TER)</p><p className="text-lg font-extrabold text-[#0A1628]">{terPonderado.toFixed(3)}%/ano</p></div>
-                <div className="bg-blue-50 rounded-2xl p-4 text-center"><p className="text-xs text-[#1D4ED8] mb-1">Ganhos estimados</p><p className="text-lg font-extrabold text-[#1D4ED8]">{formatEur(ganhos)}</p></div>
-                <div className="bg-[#0A1628] rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Valor final</p><p className="text-lg font-extrabold text-white">{total === 100 ? formatEur(valorFinal) : "—"}</p></div>
+                <div className="bg-slate-50 rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Custo total (taxa)</p><p className="text-lg font-extrabold text-[#0A1628]">{terPonderado.toFixed(3)}%/ano</p></div>
+                <div className="bg-blue-50 rounded-2xl p-4 text-center"><p className="text-xs text-[#1D4ED8] mb-1">Ganhos estimados</p><p className="text-lg font-extrabold text-[#1D4ED8]">{formatBrl(ganhos)}</p></div>
+                <div className="bg-[#0A1628] rounded-2xl p-4 text-center"><p className="text-xs text-slate-400 mb-1">Valor final</p><p className="text-lg font-extrabold text-white">{total === 100 ? formatBrl(valorFinal) : "—"}</p></div>
             </div>
             <p className="text-xs text-slate-400 mt-4">* Retornos históricos não garantem resultados futuros. Simulação com retorno médio anual constante.</p>
         </div>
@@ -567,7 +566,7 @@ export default function Ferramentas() {
                             Calculadoras de Investimento
                         </h1>
                         <p className="text-slate-500 text-lg max-w-2xl">
-                            Simuladores gratuitos para planear o teu investimento, calcular a independência financeira e perceber o poder dos juros compostos.
+                            Simuladores gratuitos para planejar seus investimentos, calcular a independência financeira e entender o poder dos juros compostos.
                         </p>
                     </div>
                     <div className="flex flex-col gap-8">
@@ -575,7 +574,7 @@ export default function Ferramentas() {
                         <SimuladorFIRE />
                         <SimuladorDCA />
                         <CalculadoraObjetivo />
-                        <CalculadoraPPRvsETF />
+                        <CalculadoraPrevidenciaVsETF />
                         <SimuladorCarteira />
                         <CalculadoraRegra72 />
                     </div>
