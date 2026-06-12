@@ -2,6 +2,483 @@ const artigos = [
   // ─────────────────────────────────────────────
   // FASE 1 — Novos artigos (sem afiliado obrigatório)
   // ─────────────────────────────────────────────
+  // 4 novos artigos para dinheirocrescendo.com.br
+// Inserir NO INÍCIO do array artigos[], antes dos artigos existentes
+
+  {
+    slug: "o-que-sao-fundos-imobiliarios-fiis-guia-completo",
+    titulo: "O que são Fundos Imobiliários (FIIs)? Guia Completo para Iniciantes 2026",
+    descricao: "Descubra como investir em imóveis de alto padrão com menos de R$ 100 e receber renda passiva todo mês. Guia completo sobre FIIs para quem está começando.",
+    categoria: "acoes",
+    data: "2026-06-10",
+    tempoLeitura: "10 min",
+    conteudo: `
+Você sabia que é possível investir em shoppings, hospitais, galpões logísticos e lajes corporativas com menos de R$ 100? Essa é a proposta dos Fundos de Investimento Imobiliário — os famosos FIIs.
+
+---
+
+## O que é um FII?
+
+Um Fundo de Investimento Imobiliário (FII) é um tipo de investimento coletivo. Diversas pessoas compram cotas de um fundo, e esse fundo usa o dinheiro para comprar imóveis ou títulos ligados ao setor imobiliário. Os aluguéis recebidos são distribuídos mensalmente entre os cotistas.
+
+É como ser dono de uma fração de um imóvel de alto padrão — sem ter que lidar com inquilinos, manutenção ou escritura.
+
+---
+
+## Como os FIIs funcionam na prática?
+
+Imagine um shopping center que vale R$ 500 milhões. Esse shopping é dividido em 5 milhões de cotas de R$ 100 cada. Você compra 10 cotas (R$ 1.000) e passa a ter direito a 10/5.000.000 dos aluguéis pagos pelas lojas.
+
+Todo mês, os aluguéis são somados e distribuídos proporcionalmente entre todos os cotistas. Esse é o **provento** — a renda passiva dos FIIs.
+
+---
+
+## Tipos de FIIs
+
+**FIIs de Tijolo**
+Investem diretamente em imóveis físicos. Os principais subtipos:
+- **Lajes corporativas** — escritórios em grandes centros
+- **Shoppings** — centros comerciais
+- **Logístico/industrial** — galpões e centros de distribuição
+- **Residencial** — imóveis para aluguel
+- **Hospitalar** — clínicas e hospitais
+
+**FIIs de Papel**
+Investem em títulos do mercado imobiliário como CRI (Certificados de Recebíveis Imobiliários) e LCI. São menos voláteis e costumam ter rendimentos ligados ao CDI ou IPCA.
+
+**FIIs Híbridos**
+Combinam imóveis físicos e papéis.
+
+**FOFs (Fundos de Fundos)**
+Investem em cotas de outros FIIs — boa opção para diversificar com pouco capital.
+
+---
+
+## Vantagens dos FIIs
+
+**Renda passiva mensal** — os proventos são pagos todo mês, como um salário extra.
+
+**Isenção de IR nos proventos** — pessoas físicas com menos de 10% das cotas do fundo são isentas de Imposto de Renda sobre os proventos recebidos. Essa é uma das maiores vantagens fiscais do mercado brasileiro.
+
+**Acessível** — há FIIs com cotas abaixo de R$ 10 na B3.
+
+**Liquidez** — você compra e vende as cotas na bolsa como se fossem ações, a qualquer momento.
+
+**Gestão profissional** — gestores especializados cuidam dos imóveis por você.
+
+---
+
+## Riscos dos FIIs
+
+**Vacância** — se os imóveis ficarem vazios, os rendimentos caem.
+
+**Volatilidade** — as cotas oscilam na bolsa. Em crises, podem cair significativamente.
+
+**Risco de gestão** — um gestor ruim pode destruir valor ao tomar decisões erradas.
+
+**Risco de taxa de juros** — quando a Selic sobe, os FIIs costumam cair, pois a renda fixa se torna mais competitiva.
+
+---
+
+## Como escolher um bom FII?
+
+Alguns indicadores importantes:
+
+| Indicador | O que significa | Referência |
+|---|---|---|
+| **Dividend Yield (DY)** | Rendimento anual dos proventos | Acima de 8-9% a.a. |
+| **P/VP** | Preço/Valor Patrimonial | Próximo de 1,0 |
+| **Vacância** | % do imóvel sem inquilino | Quanto menor, melhor |
+| **Liquidez** | Volume diário negociado | Acima de R$ 500k/dia |
+
+---
+
+## Por onde começar?
+
+Você precisa de uma conta em corretora para comprar FIIs. A XP Investimentos tem corretagem zero para FIIs e oferece a maior variedade de fundos do Brasil:
+
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+
+Para acompanhar e analisar FIIs gratuitamente, use o **StatusInvest** (statusinvest.com.br) — tem todos os dados de proventos, P/VP e vacância atualizados.
+
+---
+
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **[Geração de Renda com Fundos Imobiliários](https://trk.udemy.com/vDQEGW)** na Udemy é o guia mais completo para investir em FIIs — mais de 20 horas de conteúdo cobrindo análise, tipos de fundos e como montar sua carteira do zero com foco em renda passiva.
+
+[Ver curso na Udemy →](https://trk.udemy.com/vDQEGW)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+    `
+  },
+  {
+    slug: "cdb-lci-lca-diferencas-qual-escolher-2026",
+    titulo: "CDB, LCI e LCA — Diferenças, Rendimentos e Qual Escolher em 2026",
+    descricao: "Entenda de uma vez a diferença entre CDB, LCI e LCA. Qual rende mais, qual tem isenção de IR e como escolher o melhor para o seu objetivo.",
+    categoria: "basicos",
+    data: "2026-06-09",
+    tempoLeitura: "9 min",
+    conteudo: `
+CDB, LCI e LCA são três dos investimentos de renda fixa mais populares no Brasil. São seguros, previsíveis e, ao contrário da poupança, rendem de verdade. Mas qual escolher?
+
+---
+
+## O que é CDB?
+
+O **Certificado de Depósito Bancário (CDB)** é um título emitido por bancos. Quando você compra um CDB, está emprestando dinheiro ao banco em troca de juros.
+
+- **Rentabilidade:** geralmente atrelada ao CDI (ex: "CDB a 110% do CDI")
+- **Garantia:** coberto pelo FGC (Fundo Garantidor de Créditos) até R$ 250.000 por CPF por instituição
+- **IR:** tributado na tabela regressiva — de 22,5% (menos de 6 meses) até 15% (acima de 2 anos)
+- **Disponibilidade:** há CDBs com liquidez diária (resgate a qualquer momento) e CDBs com vencimento fixo
+
+---
+
+## O que é LCI?
+
+A **Letra de Crédito Imobiliário (LCI)** é um título emitido por bancos para financiar o setor imobiliário.
+
+- **Rentabilidade:** geralmente 85-95% do CDI, mas isenta de IR
+- **Garantia:** coberta pelo FGC até R$ 250.000
+- **IR:** **ZERO para pessoas físicas** — essa é a grande vantagem
+- **Disponibilidade:** geralmente sem liquidez antes do vencimento (90 a 360 dias)
+
+---
+
+## O que é LCA?
+
+A **Letra de Crédito do Agronegócio (LCA)** funciona da mesma forma que a LCI, mas o dinheiro financia o setor agropecuário.
+
+- **Rentabilidade:** geralmente 85-95% do CDI, isenta de IR
+- **Garantia:** coberta pelo FGC
+- **IR:** **ZERO para pessoas físicas**
+- **Disponibilidade:** sem liquidez antes do vencimento (geralmente 90 dias mínimo)
+
+---
+
+## Comparação direta
+
+| | CDB | LCI | LCA |
+|---|---|---|---|
+| Isenção de IR | ❌ Não | ✅ Sim | ✅ Sim |
+| Liquidez diária disponível | ✅ Sim | ❌ Raramente | ❌ Raramente |
+| Rentabilidade bruta | 100-120% CDI | 85-100% CDI | 85-100% CDI |
+| Garantia FGC | ✅ Sim | ✅ Sim | ✅ Sim |
+
+---
+
+## Rentabilidade líquida — o que realmente importa
+
+A isenção de IR da LCI e LCA muda tudo. Veja o exemplo com Selic a 13,75% a.a.:
+
+**CDB a 100% do CDI (2 anos)**
+- Rendimento bruto: ~13,75%
+- IR: 15%
+- **Rendimento líquido: ~11,69%**
+
+**LCI a 90% do CDI (2 anos)**
+- Rendimento bruto: ~12,38%
+- IR: ZERO
+- **Rendimento líquido: ~12,38%**
+
+Uma LCI a 90% do CDI rende **mais** que um CDB a 100% do CDI no mesmo prazo. Por isso comparar só o percentual do CDI sem considerar o IR é um erro comum.
+
+---
+
+## Regra prática de equivalência
+
+Para saber se uma LCI/LCA compensa versus um CDB, use esta fórmula:
+
+**Taxa LCI equivalente a CDB = Taxa CDB × (1 - alíquota IR)**
+
+Exemplo: CDB a 115% do CDI por 2 anos (IR 15%)
+- Taxa líquida equivalente: 115% × (1 - 0,15) = **97,75% do CDI**
+- Se a LCI oferecer mais que 97,75% do CDI, ela é melhor
+
+---
+
+## Quando escolher cada um?
+
+**Escolha CDB quando:**
+- Precisa de liquidez diária (reserva de emergência)
+- Quer rentabilidade alta com prazo curto (menos de 2 anos)
+- Quer diversificar em bancos menores com taxas mais altas
+
+**Escolha LCI ou LCA quando:**
+- Pode deixar o dinheiro parado por pelo menos 90 dias
+- Quer maximizar o rendimento líquido
+- Tem um objetivo com data definida (viagem, entrada de imóvel, etc.)
+
+---
+
+## Onde encontrar as melhores taxas?
+
+As melhores taxas de CDB, LCI e LCA geralmente estão em bancos digitais e corretoras, não nos grandes bancos tradicionais. Na XP você tem acesso a dezenas de emissores:
+
+[Ver CDBs e LCIs na XP →](PLACEHOLDER_XP_LINK)
+
+---
+
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** na Udemy ensina não só as diferenças entre todos os títulos de renda fixa, mas também estratégias avançadas para maximizar a rentabilidade — incluindo como fazer gestão ativa da sua carteira de renda fixa.
+
+[Ver curso na Udemy →](https://trk.udemy.com/enekd1)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+    `
+  },
+  {
+    slug: "como-montar-carteira-de-investimentos-brasil",
+    titulo: "Como Montar sua Primeira Carteira de Investimentos no Brasil (2026)",
+    descricao: "Passo a passo para montar uma carteira de investimentos equilibrada no Brasil, do zero. Quanto destinar para renda fixa, ações, ETFs e FIIs conforme seu perfil.",
+    categoria: "basicos",
+    data: "2026-06-08",
+    tempoLeitura: "11 min",
+    conteudo: `
+Montar uma carteira de investimentos não precisa ser complicado. Com alguns princípios simples e consistência, qualquer pessoa pode construir patrimônio de forma sólida — independentemente de quanto tem para começar.
+
+---
+
+## Por que ter uma carteira estruturada?
+
+Investir sem estratégia é como dirigir sem destino. Uma carteira estruturada define:
+- **Quanto risco** você quer correr
+- **Qual objetivo** cada investimento serve
+- **Como reagir** em momentos de crise (sem vender no pânico)
+
+---
+
+## Passo 1 — Defina seu perfil de investidor
+
+A CVM e as corretoras classificam investidores em 3 perfis:
+
+| Perfil | Característica | Horizonte típico |
+|---|---|---|
+| **Conservador** | Prioriza segurança, aceita menor retorno | Curto prazo (< 2 anos) |
+| **Moderado** | Equilibra segurança e rentabilidade | Médio prazo (2-5 anos) |
+| **Arrojado** | Aceita volatilidade em busca de retorno maior | Longo prazo (> 5 anos) |
+
+---
+
+## Passo 2 — Monte sua reserva de emergência primeiro
+
+Antes de investir em qualquer ativo de risco, você precisa ter uma reserva de emergência equivalente a **3 a 6 meses de gastos** em um investimento com liquidez diária.
+
+As melhores opções:
+- **Tesouro Selic** — o mais seguro, rende ~100% da Selic, liquidez em D+1
+- **CDB com liquidez diária a 100%+ do CDI** — disponível em bancos digitais
+- **Conta remunerada do Nubank** — prática, rende 100% do CDI
+
+Só depois de ter a reserva, invista o restante.
+
+---
+
+## Passo 3 — Escolha sua alocação conforme o perfil
+
+### Carteira Conservadora
+- **70% Renda Fixa** — Tesouro IPCA+, CDB, LCI, LCA
+- **20% ETFs** — BOVA11 ou IVVB11
+- **10% FIIs** — para renda mensal
+
+### Carteira Moderada
+- **50% Renda Fixa** — Tesouro IPCA+, CDB, LCI
+- **30% ETFs** — mix de BOVA11 + IVVB11
+- **20% FIIs** — carteira diversificada
+
+### Carteira Arrojada
+- **20% Renda Fixa** — principalmente como reserva tática
+- **50% ETFs** — com maior exposição a renda variável
+- **20% FIIs** — foco em renda passiva
+- **10% Ações** — empresas sólidas com dividendos
+
+---
+
+## Passo 4 — Escolha os ativos certos
+
+**Renda Fixa — opções principais:**
+- Tesouro IPCA+ 2035 — proteção contra inflação no longo prazo
+- CDB a 110-120% do CDI com liquidez — para o dinheiro que pode precisar antes
+- LCI/LCA — isentas de IR, bom para prazos de 6-18 meses
+
+**ETFs — as melhores opções na B3:**
+- **IVVB11** — exposição às 500 maiores empresas dos EUA (S&P 500)
+- **BOVA11** — replica o Ibovespa (as maiores empresas brasileiras)
+- **SPXI11** — alternativa ao IVVB11, menor taxa de administração
+
+**FIIs — para renda passiva:**
+- Escolha fundos com mais de R$ 1 bilhão de patrimônio, DY acima de 8% e vacância baixa
+- Diversifique entre logístico, lajes corporativas e papéis
+
+---
+
+## Passo 5 — Aportes mensais e rebalanceamento
+
+A consistência é mais importante do que o valor. R$ 500 por mês durante 20 anos, com retorno de 10% a.a., resultam em mais de R$ 380.000.
+
+**Rebalanceamento:** uma vez por ano, verifique se os percentuais ainda estão conforme o planejado. Se as ações subiram muito e agora representam 60% da carteira em vez de 30%, venda parte e recompre renda fixa.
+
+---
+
+## Carteira prática para começar com R$ 1.000
+
+| Ativo | Valor | % |
+|---|---|---|
+| Tesouro Selic (reserva) | R$ 500 | 50% |
+| IVVB11 (ETF EUA) | R$ 300 | 30% |
+| BOVA11 (ETF Brasil) | R$ 200 | 20% |
+
+Simples, diversificada e com liquidez. À medida que o patrimônio cresce, adiciona renda fixa de prazo mais longo e FIIs.
+
+---
+
+## Abrir conta e começar
+
+Para investir em todos esses ativos num único lugar, com corretagem zero:
+
+[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+
+---
+
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy ensina exatamente como montar e gerir uma carteira equilibrada — cobrindo renda fixa, ações, ETFs e fundos num único curso completo, com mais de 48.000 alunos e nota 4,7.
+
+[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
+
+## 📚 Quer investir em FIIs?
+
+O curso **[Geração de Renda com Fundos Imobiliários](https://trk.udemy.com/vDQEGW)** na Udemy ensina do zero como analisar e escolher os melhores FIIs para a sua carteira.
+
+[Ver curso na Udemy →](https://trk.udemy.com/vDQEGW)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+    `
+  },
+  {
+    slug: "tesouro-direto-guia-completo-iniciantes-2026",
+    titulo: "Tesouro Direto em 2026 — Guia Completo para Iniciantes",
+    descricao: "Tudo o que você precisa saber sobre o Tesouro Direto: tipos de títulos, como comprar, quando resgatar, tributação e qual título escolher para cada objetivo.",
+    categoria: "basicos",
+    data: "2026-06-07",
+    tempoLeitura: "12 min",
+    conteudo: `
+O Tesouro Direto é o investimento mais seguro do Brasil — mais seguro até do que a poupança. E com rentabilidade muito superior. Se você ainda não investe no Tesouro, este guia vai mudar isso.
+
+---
+
+## O que é o Tesouro Direto?
+
+O Tesouro Direto é um programa do governo federal que permite que qualquer pessoa compre títulos públicos diretamente pela internet. Quando você compra um título do Tesouro, está emprestando dinheiro ao governo brasileiro em troca de juros.
+
+É o investimento mais seguro do país porque é garantido pelo próprio governo federal — o mesmo que emite o real. A única situação em que você perderia seria uma calote total do governo brasileiro, o que é extremamente improvável.
+
+---
+
+## Tipos de títulos do Tesouro
+
+### Tesouro Selic (LFT)
+- **Rentabilidade:** acompanha a taxa Selic diariamente
+- **Quando usar:** reserva de emergência, dinheiro que pode precisar a qualquer momento
+- **Risco:** praticamente zero — nunca oscila negativamente
+- **Liquidez:** D+1 (o dinheiro cai na conta no dia útil seguinte ao resgate)
+
+### Tesouro IPCA+ (NTN-B)
+- **Rentabilidade:** IPCA (inflação) + taxa prefixada (ex: IPCA + 6,5% a.a.)
+- **Quando usar:** aposentadoria, objetivos de longo prazo (acima de 5 anos)
+- **Risco:** oscila antes do vencimento — se vender antes, pode receber menos
+- **Melhor para:** proteção da riqueza no longo prazo
+
+### Tesouro Prefixado (LTN)
+- **Rentabilidade:** taxa fixa definida na compra (ex: 13,5% a.a.)
+- **Quando usar:** quando a Selic está alta e você quer travar esse retorno
+- **Risco:** oscila antes do vencimento — só garante a taxa se carregar até o fim
+- **Melhor para:** objetivos com data definida (casamento, compra de carro)
+
+---
+
+## Comparação dos títulos
+
+| Título | Para quê | Prazo ideal | Risco de marcação |
+|---|---|---|---|
+| Tesouro Selic | Reserva de emergência | Qualquer | Muito baixo |
+| Tesouro IPCA+ | Aposentadoria | 5-30 anos | Médio |
+| Tesouro Prefixado | Objetivo com data | 1-5 anos | Médio |
+
+---
+
+## Como comprar Tesouro Direto passo a passo
+
+1. **Abra conta em uma corretora** com taxa zero no Tesouro Direto (XP, Rico, NuInvest)
+2. **Acesse o Tesouro Direto** pelo app da corretora ou direto em tesourodireto.gov.br
+3. **Escolha o título** conforme seu objetivo
+4. **Defina o valor** — o mínimo é cerca de R$ 30 (1% do valor de face do título)
+5. **Confirme a compra** — o título aparece na sua carteira em até 1 dia útil
+
+---
+
+## Tributação do Tesouro Direto
+
+O Tesouro Direto tem **Imposto de Renda** na tabela regressiva:
+
+| Prazo de aplicação | Alíquota IR |
+|---|---|
+| Até 180 dias | 22,5% |
+| De 181 a 360 dias | 20% |
+| De 361 a 720 dias | 17,5% |
+| Acima de 720 dias | 15% |
+
+Além disso, há **IOF** para resgates nos primeiros 30 dias (alíquota regressiva de 96% a 0%).
+
+**Dica:** para minimizar o IR, carregue os títulos por pelo menos 2 anos.
+
+---
+
+## Tesouro Direto vs Poupança
+
+| | Tesouro Selic | Poupança |
+|---|---|---|
+| Rentabilidade (Selic a 13,75%) | ~11,69% líquido | ~7,79% líquido |
+| Garantia | Governo Federal | FGC (até R$ 250k) |
+| Liquidez | D+1 | D+0 (perde rendimento se sacar antes do aniversário) |
+
+O Tesouro Selic rende **50% a mais** que a poupança com a mesma segurança. Não existe justificativa para manter dinheiro na poupança.
+
+---
+
+## Quanto preciso para começar?
+
+O valor mínimo é de aproximadamente **R$ 30** — equivalente a 1% do valor de face de um título. Você pode investir qualquer valor acima disso.
+
+Com corretagem zero na XP e Rico, não há custo para comprar e vender títulos. A única taxa é a **0,2% a.a.** cobrada pelo próprio Tesouro Nacional (já embutida na rentabilidade divulgada).
+
+[Abrir conta e investir no Tesouro Direto →](PLACEHOLDER_XP_LINK)
+
+---
+
+## 📚 Quer aprofundar seus conhecimentos?
+
+O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy tem um módulo completo sobre Tesouro Direto, além de cobrir renda fixa, FIIs, fundos e ações — tudo num único curso com mais de 50.000 alunos.
+
+[Ver curso na Udemy →](https://trk.udemy.com/eneky6)
+
+O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** aprofunda ainda mais — estratégias avançadas de gestão ativa para maximizar o retorno no Tesouro Direto e em outros títulos de renda fixa.
+
+[Ver curso avançado na Udemy →](https://trk.udemy.com/enekd1)
+
+---
+
+*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+    `
+  },
+
   {
     slug: "o-que-e-a-bolsa-de-valores",
     titulo: "O que é a Bolsa de Valores e Como Funciona? (Guia para Iniciantes 2026)",
