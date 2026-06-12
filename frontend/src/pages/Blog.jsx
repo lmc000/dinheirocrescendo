@@ -1,6 +1,6 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Search, Clock, ArrowRight } from "lucide-react";
-import { Link } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import { Header } from "../components/landing/Header";
 import { FooterSection } from "../components/landing/FooterSection";
 import artigos from "../data/artigos";
@@ -9,6 +9,7 @@ const CATEGORIAS = [
     { id: "todos", label: "Todos" },
     { id: "etfs", label: "ETFs" },
     { id: "poupanca", label: "Poupança" },
+    { id: "acoes", label: "Ações" },
     { id: "corretoras", label: "Corretoras" },
     { id: "impostos", label: "Impostos" },
     { id: "reforma", label: "Aposentadoria" },
@@ -17,15 +18,36 @@ const CATEGORIAS = [
 ];
 
 export default function Blog() {
+    const [searchParams, setSearchParams] = useSearchParams();
     const [search, setSearch] = useState("");
-    const [categoria, setCategoria] = useState("todos");
+
+    // Lê a categoria da URL — se não existir, usa "todos"
+    const categoriaURL = searchParams.get("categoria") || "todos";
+    const [categoria, setCategoria] = useState(categoriaURL);
+
+    // Sincroniza quando a URL muda (ex: clique no Categories da homepage)
+    useEffect(() => {
+        setCategoria(categoriaURL);
+    }, [categoriaURL]);
+
+    const handleCategoria = (id) => {
+        setCategoria(id);
+        if (id === "todos") {
+            setSearchParams({});
+        } else {
+            setSearchParams({ categoria: id });
+        }
+    };
 
     const filtered = artigos.filter((a) => {
-        const matchSearch = a.titulo.toLowerCase().includes(search.toLowerCase()) ||
+        const matchSearch =
+            a.titulo.toLowerCase().includes(search.toLowerCase()) ||
             a.descricao.toLowerCase().includes(search.toLowerCase());
         const matchCat = categoria === "todos" || a.categoria === categoria;
         return matchSearch && matchCat;
     });
+
+    const categoriaLabel = CATEGORIAS.find((c) => c.id === categoria)?.label || "Todos";
 
     return (
         <div className="min-h-screen bg-[#F8FAFC]">
@@ -34,7 +56,7 @@ export default function Blog() {
                 <div className="max-w-7xl mx-auto">
                     <div className="mb-12">
                         <span className="inline-block bg-blue-50 text-[#1D4ED8] text-sm font-bold px-4 py-1.5 rounded-full mb-4">
-                            📖 Todos os artigos
+                            📖 {categoria === "todos" ? "Todos os artigos" : categoriaLabel}
                         </span>
                         <h1 className="text-4xl font-extrabold text-[#0A1628] mb-4">
                             Guias de Investimento
@@ -57,8 +79,9 @@ export default function Blog() {
                         </div>
                         <div className="flex flex-wrap gap-2">
                             {CATEGORIAS.map((cat) => (
-                                <button key={cat.id}
-                                    onClick={() => setCategoria(cat.id)}
+                                <button
+                                    key={cat.id}
+                                    onClick={() => handleCategoria(cat.id)}
                                     className={`px-4 py-2 rounded-full text-sm font-bold transition-all ${
                                         categoria === cat.id
                                             ? "bg-[#1D4ED8] text-white shadow-md"
@@ -77,7 +100,9 @@ export default function Blog() {
                     ) : (
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                             {filtered.map((artigo) => (
-                                <Link key={artigo.slug} to={`/blog/${artigo.slug}`}
+                                <Link
+                                    key={artigo.slug}
+                                    to={`/blog/${artigo.slug}`}
                                     className="group bg-white rounded-3xl border border-slate-100 p-6 shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 flex flex-col">
                                     <div className="flex items-center gap-2 mb-3">
                                         <span className="text-xs font-bold bg-blue-50 text-[#1D4ED8] px-3 py-1 rounded-full capitalize">
