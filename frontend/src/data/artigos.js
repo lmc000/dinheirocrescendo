@@ -281,7 +281,7 @@ As melhores taxas de CDB, LCI e LCA geralmente estão em bancos digitais e corre
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** na Udemy ensina não só as diferenças entre todos os títulos de renda fixa, mas também estratégias avançadas para maximizar a rentabilidade — incluindo como fazer gestão ativa da sua carteira de renda fixa.
+O curso **[Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** na Udemy ensina não só as diferenças entre todos os títulos de renda fixa, mas também estratégias avançadas para maximizar a rentabilidade — incluindo como fazer gestão ativa da sua carteira de renda fixa.
 
 
 
@@ -459,7 +459,7 @@ Para investir em todos esses ativos num único lugar, com corretagem zero:
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy ensina exatamente como montar e gerir uma carteira equilibrada — cobrindo renda fixa, ações, ETFs e fundos num único curso completo, com mais de 48.000 alunos e nota 4,7.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy ensina exatamente como montar e gerir uma carteira equilibrada — cobrindo renda fixa, ações, ETFs e fundos num único curso completo, com mais de 48.000 alunos e nota 4,7.
 
 
 ## 📚 Quer investir em FIIs?
@@ -520,6 +520,10 @@ Com R$100 já compra uma cota de ETF. A partir de R$1.000 começa a fazer sentid
 
 **Quanto tempo para ver resultados?**
 Investimento é de longo prazo. Em 10 anos com aportes mensais consistentes, os resultados são muito diferentes de quem tenta ganhar rápido.
+
+---
+
+O **[Investimentos Completo: Ações, FIIs e Renda Fixa](https://trk.udemy.com/eneDGQ)** é o curso ideal para quem quer dominar todos os blocos de uma carteira diversificada — acções, fundos imobiliários e renda fixa — num único lugar.
 
 ---
 
@@ -629,10 +633,10 @@ Com corretagem zero na XP e Rico, não há custo para comprar e vender títulos.
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy tem um módulo completo sobre Tesouro Direto, além de cobrir renda fixa, FIIs, fundos e ações — tudo num único curso com mais de 50.000 alunos.
+O curso **[Criando Investidores](https://trk.udemy.com/eneky6)** na Udemy tem um módulo completo sobre Tesouro Direto, além de cobrir renda fixa, FIIs, fundos e ações — tudo num único curso com mais de 50.000 alunos.
 
 
-O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** aprofunda ainda mais — estratégias avançadas de gestão ativa para maximizar o retorno no Tesouro Direto e em outros títulos de renda fixa.
+O curso **[Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** aprofunda ainda mais — estratégias avançadas de gestão ativa para maximizar o retorno no Tesouro Direto e em outros títulos de renda fixa.
 
 
 
@@ -773,7 +777,7 @@ O primeiro passo é abrir conta em uma corretora. A XP Investimentos é a nossa 
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
 
 
@@ -890,7 +894,7 @@ As principais corretoras brasileiras têm corretagem zero para ações e ETFs, e
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
+O curso **[Criando Investidores](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
 
 
@@ -1052,7 +1056,7 @@ Para começar com menos de R$ 500/mês, a XP é uma excelente opção: sem depó
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
+O curso **[Criando Investidores](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
 
 
@@ -1209,7 +1213,7 @@ Para centralizar seus investimentos e informes em um só lugar, a XP é uma boa 
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
 
 ---
@@ -1372,7 +1376,7 @@ A XP permite investir em ETFs, ações e renda fixa com corretagem zero:
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
+O curso **[Criando Investidores](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
 
 
@@ -1563,7 +1567,7 @@ Pontos importantes:
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
 
 ---
@@ -1692,7 +1696,7 @@ Além disso:
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
+O curso **[Criando Investidores](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
 
 
@@ -1829,7 +1833,7 @@ Se você prefere uma interface mais enxuta, considere a Rico ou a NuInvest:
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
 
 
@@ -1956,7 +1960,7 @@ Configure um aporte automático para uma corretora como a XP no dia do pagamento
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
+O curso **[Criando Investidores](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
 
 
@@ -2116,7 +2120,7 @@ Prejuízos em renda variável podem ser compensados com lucros futuros da mesma 
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
 
 ---
@@ -2175,6 +2179,10 @@ Não — day trade (compra e venda no mesmo dia) é tributado em 20% sem isenç�
 
 **FIIs têm a mesma regra?**
 Não — FIIs não têm a isenção de R$20.000. O lucro na venda de cotas de FIIs é tributado em 20% a partir do primeiro real.
+
+---
+
+Se quer aprofundar os seus conhecimentos em acções, FIIs e renda fixa — e entender melhor a tributação de cada um — o **[Investimentos Completo: Ações, FIIs e Renda Fixa](https://trk.udemy.com/eneDGQ)** é o curso mais abrangente do mercado neste tema.
 
 ---
 
@@ -2246,7 +2254,7 @@ E quem quiser investir diretamente nos EUA, em dólar, pode usar a Avenue:
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
 
 
@@ -2310,6 +2318,10 @@ Ao investir em IVVB11, você está exposto ao câmbio dólar/real. Isso pode ser
 **Desvantagem:** quando o real se valoriza, o IVVB11 pode cair mesmo que o S&P 500 suba.
 
 Para o investidor brasileiro de longo prazo, a exposição ao dólar via IVVB11 funciona como seguro contra instabilidade econômica brasileira — historicamente mais vantajoso que desvantajoso.
+
+---
+
+Quer investir em acções brasileiras **e** americanas num curso só? O **[Investimentos Completo: Ações, FIIs e Renda Fixa](https://trk.udemy.com/eneDGQ)** cobre exactamente essa combinação — Ibovespa, ETFs internacionais e renda fixa num único curso abrangente.
 
 ---
 
@@ -2386,7 +2398,7 @@ Corretoras como a XP oferecem previdência com fundos de taxa baixa, e você pod
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** na Udemy é o guia mais completo sobre renda fixa no Brasil — cobre CDB, LCI, LCA, Tesouro Direto, títulos de empresas e estratégias avançadas de gestão ativa para maximizar rentabilidade.
+O curso **[Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** na Udemy é o guia mais completo sobre renda fixa no Brasil — cobre CDB, LCI, LCA, Tesouro Direto, títulos de empresas e estratégias avançadas de gestão ativa para maximizar rentabilidade.
 
 
 
@@ -2464,6 +2476,10 @@ Esta é a principal dica para quem tem previdência antiga em banco com taxa alt
 
 ---
 
+Para quem quer ir além da previdência e construir uma carteira completa de investimentos com estratégia profissional, o **[Profissão Investidor — Curso Completo](https://trk.udemy.com/WOAbLe)** aborda desde os fundamentos até à montagem de carteira com FIIs, acções e renda fixa.
+
+---
+
 *Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
@@ -2521,7 +2537,7 @@ Para começar a investir em Tesouro Direto e ETFs no mesmo lugar, a XP é a noss
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** na Udemy é o guia mais completo sobre renda fixa no Brasil — cobre CDB, LCI, LCA, Tesouro Direto, títulos de empresas e estratégias avançadas de gestão ativa para maximizar rentabilidade.
+O curso **[Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** na Udemy é o guia mais completo sobre renda fixa no Brasil — cobre CDB, LCI, LCA, Tesouro Direto, títulos de empresas e estratégias avançadas de gestão ativa para maximizar rentabilidade.
 
 
 
@@ -2614,6 +2630,10 @@ Não é uma escolha de um ou outro — é uma escolha de quanto de cada, depende
 
 ---
 
+Se quer dominar os dois lados desta comparação — Tesouro Direto e ETFs — com profundidade e aplicação prática, o **[Profissão Investidor — Curso Completo](https://trk.udemy.com/WOAbLe)** é o curso mais completo disponível em português.
+
+---
+
 *Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
@@ -2670,7 +2690,7 @@ A XP permite investir em ETFs e renda fixa com corretagem zero:
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
+O curso **[Criando Investidores](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
 
 
@@ -2822,7 +2842,7 @@ No Brasil, os juros reais historicamente altos (Tesouro IPCA+ pagando IPCA + 5-6
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
 
 ---
@@ -2919,6 +2939,10 @@ Com salário único médio é difícil. Em casal com dois salários e gastos con
 
 ---
 
+Para quem leva a independência financeira a sério, o **[Profissão Investidor — Curso Completo](https://trk.udemy.com/WOAbLe)** ensina a montar uma carteira diversificada de forma profissional — o mesmo conhecimento que os investidores experientes usam para atingir o FIRE.
+
+---
+
 *Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
@@ -2973,7 +2997,7 @@ A XP tem todos esses ETFs, FIIs e títulos do Tesouro disponíveis com corretage
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
 
 ---
@@ -3123,7 +3147,7 @@ Com R$ 100, boas opções:
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
+O curso **[Criando Investidores](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
 
 
@@ -3282,7 +3306,7 @@ Se você quer mais opções de produtos e ferramentas, a XP é a nossa recomenda
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
+O curso **[Criando Investidores](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
 
 
@@ -3432,7 +3456,7 @@ A XP tem o GOLD11 e outros ETFs disponíveis sem corretagem:
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
 
 
@@ -3580,7 +3604,7 @@ E para investir nos EUA em dólar, vale conhecer a Avenue:
 
 ## 📚 Quer aprofundar seus conhecimentos?
 
-O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
 
 
