@@ -109,9 +109,67 @@ O curso **[Geração de Renda com Fundos Imobiliários](https://trk.udemy.com/vD
 
 [Ver curso na Udemy →](https://trk.udemy.com/vDQEGW)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## Como os FIIs funcionam na prática
+
+Ao comprar uma cota de FII na Bolsa (B3), você se torna cotista — ou seja, proprietário indireto de uma fração dos imóveis ou ativos do fundo. Em troca, recebe distribuição de rendimentos mensais (o "dividendo" dos FIIs), obrigatoriamente de pelo menos 95% do lucro semestral.
+
+**Exemplo prático:**
+- FII com 1 milhão de cotas e imóvel gerando R$100.000/mês de aluguel
+- Rendimento por cota: R$0,10/cota/mês
+- Se você tem 100 cotas: recebe R$10/mês
+
+---
+
+## Tipos de FIIs disponíveis no Brasil
+
+**FIIs de Tijolo:** investem diretamente em imóveis físicos.
+- Lajes corporativas (escritórios)
+- Galpões logísticos (armazéns, centros de distribuição)
+- Shoppings centers
+- Hospitais e clínicas
+- Agências bancárias
+
+**FIIs de Papel (CRI):** investem em títulos de crédito imobiliário. Mais líquidos, rendimento atrelado ao CDI ou IPCA.
+
+**FIIs Híbridos:** combinam investimentos em imóveis físicos e papéis.
+
+---
+
+## Vantagens fiscais dos FIIs
+
+Os rendimentos mensais dos FIIs são **isentos de Imposto de Renda para pessoas físicas** — desde que o fundo tenha mais de 50 cotistas e o investidor tenha menos de 10% das cotas.
+
+Esta isenção é uma das grandes vantagens dos FIIs sobre o aluguel direto de imóveis, onde o rendimento é tributado entre 7,5% e 27,5%.
+
+**Atenção:** a venda das cotas com lucro é tributada a 20% de IR.
+
+---
+
+## Como investir em FIIs
+
+1. Abra conta numa corretora (XP, Rico, Clear, Nu Invest — todas com acesso à B3)
+2. Deposite o valor que deseja investir
+3. Pesquise FIIs no site da B3 ou em plataformas como Funds Explorer e Status Invest
+4. Compre as cotas pelo Home Broker da corretora
+
+[→ Como montar uma carteira de investimentos no Brasil](/blog/como-montar-carteira-de-investimentos-brasil)
+
+---
+
+## Perguntas frequentes
+
+**FII é melhor que imóvel físico?**
+Depende do perfil. FII tem mais liquidez (vende as cotas a qualquer momento), menos burocracia e diversificação automática. Imóvel físico tem mais controle e pode ser usado como moradia.
+
+**Qual o valor mínimo para investir em FIIs?**
+Uma cota de muitos FIIs custa entre R$10 e R$150. É possível começar com R$100-200.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro. Investimentos envolvem riscos.*
     `
   },
   {
@@ -228,9 +286,65 @@ O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy
 
 [Ver curso na Udemy →](https://trk.udemy.com/enekd1)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## O que são e como funcionam
+
+**CDB (Certificado de Depósito Bancário):**
+Você empresta dinheiro ao banco e recebe juros. O banco usa o dinheiro para fazer empréstimos. Protegido pelo FGC (Fundo Garantidor de Créditos) até R$250.000 por CPF por instituição.
+
+**LCI (Letra de Crédito Imobiliário):**
+Funciona como o CDB, mas o banco usa o dinheiro para financiamentos imobiliários. **Isenta de IR para pessoa física.**
+
+**LCA (Letra de Crédito do Agronegócio):**
+Igual ao LCI, mas o dinheiro vai para o agronegócio. Também **isenta de IR para pessoa física.**
+
+---
+
+## Comparação directa
+
+| | CDB | LCI/LCA |
+|---|---|---|
+| Imposto de Renda | 15-22,5% | **Isento** |
+| Prazo mínimo | 1 dia | 90 dias (LCI) / 90 dias (LCA) |
+| Proteção FGC | ✅ Até R$250k | ✅ Até R$250k |
+| Liquidez | Diária (alguns) | Carência em geral |
+| Disponibilidade | Ampla | Mais limitada |
+
+---
+
+## Quando cada um compensa
+
+**Prefira CDB quando:** precisa de liquidez diária (para fundo de emergência) ou encontra taxas muito superiores às LCI/LCA disponíveis.
+
+**Prefira LCI/LCA quando:** não precisa do dinheiro no curto prazo e a isenção fiscal compensa — especialmente em alíquotas de IR maiores (acima de 2 anos, CDB paga 15%).
+
+**Equivalência simplificada:** LCI/LCA a 90% do CDI equivale a CDB a ~106% do CDI (para prazo acima de 2 anos).
+
+[→ Quanto poupar por mês no Brasil?](/blog/quanto-poupar-por-mes-brasil)
+
+---
+
+## Onde encontrar as melhores taxas
+
+**Plataformas de renda fixa:** Rico, XP, BTG Pactual Digital, Nu Invest — agregam ofertas de múltiplos bancos. Bancos menores costumam oferecer taxas muito melhores que os grandes.
+
+**Comparadores online:** Yubb e Renda Fixa Pro mostram os melhores CDBs, LCIs e LCAs disponíveis no Brasil em tempo real.
+
+---
+
+## Perguntas frequentes
+
+**CDB de banco pequeno é seguro?**
+Sim, desde que dentro do limite do FGC (R$250.000). Bancos pequenos frequentemente oferecem 110-130% do CDI vs 90-100% dos grandes bancos.
+
+**Posso ter LCI/LCA em mais de um banco?**
+Sim — o limite do FGC é por CPF por instituição. Diversificar entre bancos diferentes maximiza a proteção.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -357,9 +471,63 @@ O curso **[Geração de Renda com Fundos Imobiliários](https://trk.udemy.com/vD
 
 [Ver curso na Udemy →](https://trk.udemy.com/vDQEGW)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## Os pilares de uma carteira bem construída
+
+**1. Reserva de emergência (fora da carteira de investimentos)**
+Antes de investir qualquer valor, guarde 3-6 meses de despesas mensais em aplicação com liquidez diária — CDB de liquidez diária a 100%+ do CDI ou Tesouro Selic.
+
+**2. Renda fixa (segurança e estabilidade)**
+Tesouro Direto, CDBs, LCI/LCA — a base para investidores conservadores ou para a parte "segura" de qualquer carteira.
+
+**3. Renda variável (crescimento de longo prazo)**
+ETFs, ações, FIIs — maior risco, maior potencial de retorno.
+
+---
+
+## Carteiras modelo por perfil
+
+**Conservador:**
+- 70% Tesouro Selic / CDB liquidez diária
+- 20% Tesouro IPCA+ (proteção contra inflação)
+- 10% FIIs (renda mensal isenta de IR)
+
+**Moderado:**
+- 40% Renda fixa (Tesouro, CDB, LCI/LCA)
+- 30% FIIs
+- 30% ETFs (BOVA11, IVVB11)
+
+**Arrojado:**
+- 20% Renda fixa (reserva)
+- 30% ETFs brasileiros e internacionais
+- 30% Ações individuais
+- 20% FIIs
+
+---
+
+## ETFs essenciais para o investidor brasileiro
+
+**BOVA11:** replica o Ibovespa — as maiores empresas da B3.
+**IVVB11:** replica o S&P 500 americano em reais — diversificação internacional sem precisar abrir conta no exterior.
+**XFIX11:** FoF (fundo de fundos) de FIIs — diversificação no mercado imobiliário.
+
+[→ Como investir em ETFs no Brasil — guia completo](/blog/como-investir-em-etfs-brasil)
+
+---
+
+## Perguntas frequentes
+
+**Com quanto dinheiro começo a montar carteira?**
+Com R$100 já compra uma cota de ETF. A partir de R$1.000 começa a fazer sentido diversificar entre 2-3 produtos.
+
+**Quanto tempo para ver resultados?**
+Investimento é de longo prazo. Em 10 anos com aportes mensais consistentes, os resultados são muito diferentes de quem tenta ganhar rápido.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -473,9 +641,59 @@ O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy
 
 [Ver curso avançado na Udemy →](https://trk.udemy.com/enekd1)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## Os tipos de título do Tesouro Direto
+
+**Tesouro Selic (LFT):**
+Rende a taxa Selic — o mais indicado para reserva de emergência. Baixíssimo risco, liquidez diária. Com Selic a 10%+, rende bem acima da inflação.
+
+**Tesouro Prefixado (LTN):**
+Taxa de juros fixada na compra — você sabe exatamente quanto vai receber se mantiver até o vencimento. Indicado quando você acredita que a Selic vai cair.
+
+**Tesouro IPCA+ (NTN-B):**
+Rende IPCA (inflação) + taxa prefixada. Garante poder de compra real. Ideal para objetivos de longo prazo (aposentadoria, educação dos filhos).
+
+---
+
+## Como comprar no Tesouro Direto
+
+1. Acesse **tesourodireto.gov.br** e abra uma conta gratuita
+2. Associe uma conta em corretora habilitada (todas as grandes corretoras brasileiras são habilitadas)
+3. Transfira o valor desejado
+4. Escolha o título e compre — valor mínimo de R$30
+
+**Taxas:** taxa de custódia da B3 de 0,20%/ano. Algumas corretoras isentam a taxa de corretagem — prefira estas (Rico, Clear, Nu Invest).
+
+---
+
+## Tesouro Direto vs. poupança
+
+| | Poupança | Tesouro Selic |
+|---|---|---|
+| Rendimento (Selic > 8,5%) | 70% da Selic | ~96% da Selic líquido |
+| Liquidez | Mensal (aniversário) | Diária |
+| Risco | Até R$250k (FGC) | Risco soberano (menor risco possível) |
+| IR | Isento | 15-22,5% |
+
+Com a Selic atual, o Tesouro Selic líquido rende muito mais que a poupança.
+
+[→ Tesouro Direto vs ETFs — qual escolher?](/blog/tesouro-direto-vs-etfs)
+
+---
+
+## Perguntas frequentes
+
+**Posso perder dinheiro no Tesouro Direto?**
+Se vender antes do vencimento, pode receber menos do que pagou (marcação a mercado). Se mantiver até o vencimento, sempre recebe o acordado.
+
+**Como declarar no Imposto de Renda?**
+Os rendimentos são tributados na fonte (come-cotas para fundos, IR na venda para títulos). A corretora fornece o informe de rendimentos com os valores a declarar.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
 
@@ -565,9 +783,55 @@ O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com
 
 [Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## Como funciona a B3 — a bolsa brasileira
+
+A B3 (Brasil, Bolsa, Balcão) é a única bolsa de valores do Brasil, sediada em São Paulo. É uma das maiores bolsas da América Latina por capitalização de mercado.
+
+O principal índice é o **Ibovespa** — composto pelas ações mais negociadas da B3. Empresas como Petrobras, Vale, Itaú, Bradesco e Ambev têm grande peso no índice.
+
+**Como o preço das ações muda:**
+- Sobe quando a empresa tem bons resultados ou perspectivas positivas
+- Desce quando os resultados decepcionam ou quando há instabilidade macroeconômica
+
+---
+
+## Bolsa brasileira vs. bolsa americana
+
+| | B3 (Ibovespa) | NYSE/NASDAQ (S&P 500) |
+|---|---|---|
+| Tamanho | ~400 empresas listadas | ~5.000+ empresas |
+| Retorno médio histórico | ~15%/ano nominal (muito inflacionado) | ~10%/ano em dólar |
+| Risco | Maior (instabilidade política/econômica BR) | Menor |
+| Exposição cambial | Não | Sim (dólar) |
+
+Para diversificação, muitos investidores brasileiros combinam ações nacionais com ETFs internacionais (IVVB11 replica o S&P 500 em reais).
+
+---
+
+## Como começar a investir na bolsa
+
+1. Abra conta em uma corretora (XP, Rico, Nu Invest, BTG — todas gratuitas)
+2. Transfira o valor inicial (a partir de R$1 em algumas plataformas)
+3. Comece por ETFs antes de ações individuais — mais diversificação, menos risco
+
+[→ Como investir em ETFs no Brasil — guia completo](/blog/como-investir-em-etfs-brasil)
+
+---
+
+## Perguntas frequentes
+
+**É seguro investir na bolsa?**
+No curto prazo, a bolsa pode cair muito. No longo prazo (10+ anos), historicamente sempre se recuperou e superou a inflação. O risco é principalmente para quem precisa do dinheiro no curto prazo.
+
+**Como declaro ações no IR?**
+Vendas abaixo de R$20.000/mês são isentas de IR. Acima disso, paga 15% sobre o lucro. Corretoras fornecem notas de corretagem para facilitar a declaração.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -637,9 +901,81 @@ O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.
 
 [Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## O que é uma conta demo no Brasil
+
+Uma conta demo simula o mercado real com dinheiro virtual — geralmente R$100.000 fictícios. Compras, vendas, ordens limitadas — tudo funciona como na conta real, mas sem arriscar dinheiro próprio.
+
+As principais corretoras brasileiras que oferecem conta demo: **Nu Invest, Rico, Clear, BTG Pactual Digital**.
+
+---
+
+## Quando usar conta demo
+
+**Use a conta demo para:**
+- Aprender a navegar no Home Broker
+- Entender como funcionam os tipos de ordem (mercado, limitada, stop)
+- Testar estratégias sem risco
+- Habituar-se à volatilidade sem stress emocional
+
+**Avance para conta real quando:**
+- Executa ordens sem dificuldade
+- Entende a diferença entre ordem a mercado e ordem limitada
+- Tem um plano de investimento definido
+
+---
+
+## A limitação mais importante da conta demo
+
+A maior limitação é psicológica: **perder R$500 virtuais não dói**. Quando passa para a conta real, as emoções — medo quando cai, euforia quando sobe — são muito difíceis de gerir.
+
+A solução: quando abrir a conta real, comece com um valor pequeno. Aprenda a gerir as emoções com dinheiro real antes de aumentar.
+
+---
+
+## Como abrir conta em corretora no Brasil
+
+O processo é 100% online e demora 10-15 minutos:
+- Documento de identidade (RG ou CNH)
+- CPF
+- Comprovante de residência
+- Dados bancários para transferência
+
+**Corretoras sem taxa de corretagem:** Nu Invest, Rico, Clear — as mais indicadas para começar.
+
+[→ Melhor corretora no Brasil em 2026](/blog/melhor-corretora-brasil-2026)
+
+---
+
+## Perguntas frequentes
+
+**A conta demo expira?**
+Depende da corretora — algumas têm prazo de 30 dias, outras são ilimitadas. Verifique na corretora escolhida.
+
+**Os preços na demo são os mesmos da conta real?**
+Sim — são preços de mercado reais em tempo real. Apenas o dinheiro é virtual.
+
+**Posso ter demo e conta real ao mesmo tempo?**
+Sim — na maioria das corretoras brasileiras você pode alternar entre as duas.
+
+
+---
+
+## Erros comuns ao começar com conta real após a demo
+
+**Erro 1 — Arriscar muito desde o início:** na demo nunca dói perder. Na conta real, comece com valores pequenos — aprenda a gerir as emoções antes de aumentar.
+
+**Erro 2 — Operar mais do que o necessário:** na demo muitos fazem dezenas de operações por semana. Com conta real, menos é mais — ETFs e Tesouro Direto exigem apenas uma compra mensal.
+
+**Erro 3 — Vender na queda:** a primeira queda real assusta. Quem vendeu no crash de março 2020 perdeu o recovery de 70% nos meses seguintes. Mantenha a estratégia definida antes de investir.
+
+**Erro 4 — Comparar com a demo:** na conta real há custos (mesmo que pequenos), taxas de câmbio e marcação a mercado que na demo podem ser ignorados. Os resultados nunca são idênticos.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -728,9 +1064,64 @@ O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.
 
 [Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## A resposta honesta — muito menos do que pensa
+
+Com R$30 já compra um título do Tesouro Direto. Com R$10-50 já compra frações de ETFs em algumas corretoras. O que realmente importa não é o valor inicial — é a consistência.
+
+**O impacto do tempo:**
+R$200/mês durante 30 anos a 8%/ano real = mais de R$270.000
+
+---
+
+## O que fazer antes de investir
+
+**Passo 1 — Reserva de emergência**
+Antes de investir, guarde 3-6 meses de despesas em CDB de liquidez diária ou Tesouro Selic. Com a Selic atual, rende bem.
+
+**Passo 2 — Elimine dívidas caras**
+Cheque especial (200-400%/ano) e cartão de crédito rotativo (300-500%/ano) são matematicamente impossíveis de superar com investimentos. Pague primeiro.
+
+**Passo 3 — Comece pequeno**
+O primeiro investimento deve ser um valor que não te faça perder o sono se cair 30%.
+
+---
+
+## Quanto investir por mês — a regra 50/30/20
+
+- **50%** — necessidades (aluguel, alimentação, transporte)
+- **30%** — desejos (lazer, restaurantes)
+- **20%** — poupança e investimento
+
+Com salário de R$3.000 líquidos, investir R$600/mês é um objetivo realista.
+
+---
+
+## Onde investir os primeiros R$100 no Brasil
+
+**Tesouro Selic:** R$30 mínimo, liquidez diária, rendimento ~96% da Selic líquido. Melhor que poupança.
+
+**ETF IVVB11:** exposição ao S&P 500 americano em reais. Uma cota custa ~R$100-150.
+
+**CDB de liquidez diária:** 100-103% do CDI. Disponível em Nu Invest, Rico, BTG.
+
+[→ Como começar a investir com apenas R$100](/blog/como-comecar-investir-100-reais)
+
+---
+
+## Perguntas frequentes
+
+**Poupança ainda vale a pena no Brasil?**
+Não — com Selic acima de 8,5%, a poupança rende apenas 70% da Selic. O Tesouro Selic rende mais, tem liquidez diária e o mesmo nível de segurança.
+
+**Preciso de muito dinheiro para abrir conta em corretora?**
+Não — as principais corretoras brasileiras (Nu Invest, Rico, Clear) não têm depósito mínimo.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -834,6 +1225,62 @@ O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com
 ---
 
 *Este guia é de caráter informativo. Para situações específicas, consulte um contador.*
+
+
+---
+
+## O que declarar no IR brasileiro
+
+**Ações e ETFs:**
+- Vendas abaixo de R$20.000/mês: **isentas de IR**
+- Vendas acima de R$20.000/mês: **15% de IR sobre o lucro** (day trade: 20%)
+- Declaração obrigatória se tiver qualquer posição na B3
+
+**Renda fixa (CDB, Tesouro):**
+- IR retido na fonte pela corretora (tabela regressiva: 22,5% até 6 meses, 15% acima de 2 anos)
+- Não precisa calcular — a corretora já retém e informa
+
+**FIIs:**
+- Rendimentos mensais: **isentos de IR** para PF com menos de 10% das cotas
+- Venda com lucro: **20% de IR** (não há isenção de R$20.000 para FIIs)
+
+---
+
+## Como declarar — passo a passo
+
+**DARF (para ações e FIIs):**
+Quando vender ações/ETFs acima de R$20.000 no mês, emita um DARF pelo código 6015 até o último dia útil do mês seguinte. Calcule você mesmo ou use o programa da corretora.
+
+**Declaração anual (IRPF):**
+- Baixe o informe de rendimentos de cada corretora (disponível até março)
+- Preencha as fichas de "Renda Variável" e "Bens e Direitos"
+- As corretoras fornecem resumo mensal com todas as operações
+
+---
+
+## Regras importantes para não errar
+
+**Regra FIFO:** se comprou ações em momentos diferentes, ao vender assume-se que são as mais antigas primeiro.
+
+**Prejuízos compensam lucros:** perdas numa venda podem ser abatidas de lucros em vendas posteriores do mesmo tipo (ações com ações, FIIs com FIIs).
+
+**Carteira de ativos:** mesmo sem vender, declare todos os ativos em "Bens e Direitos" pelo custo de aquisição.
+
+[→ IR sobre ações e ETFs no Brasil — guia específico](/blog/imposto-de-renda-acoes-etfs-brasil-2026)
+
+---
+
+## Perguntas frequentes
+
+**Posso usar o programa da minha corretora para calcular o IR?**
+Sim — XP, Rico e Nu Invest têm ferramentas de cálculo de IR integradas. Facilitam muito, mas a responsabilidade de declarar corretamente é sempre do investidor.
+
+**E se eu nunca declarei as minhas ações?**
+A Receita Federal cruza dados com a B3. Regularize — a multa por declaração em atraso é menor que por omissão.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento fiscal. Consulte um contador para a sua situação específica.*
     `
   },
   {
@@ -939,9 +1386,67 @@ O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.
 
 [Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
+
 ---
 
-*Este artigo é de caráter educativo e não constitui aconselhamento financeiro.*
+## O efeito do tempo — o ingrediente mais importante
+
+**Exemplo concreto em reais:**
+
+| Investimento | Valor inicial | Anos | Taxa real | Valor final |
+|---|---|---|---|---|
+| Ana | R$10.000 | 10 | 8% | R$21.589 |
+| Bruno | R$10.000 | 20 | 8% | R$46.610 |
+| Carlos | R$10.000 | 30 | 8% | R$100.627 |
+
+O dinheiro do Carlos cresceu quase 5x mais — com o mesmo investimento inicial, apenas 20 anos a mais.
+
+---
+
+## Juro composto com aportes mensais no Brasil
+
+**R$500/mês durante 30 anos a 8%/ano real:**
+- Total investido: R$180.000
+- Valor final: **R$680.000**
+- Ganho dos juros: **R$500.000**
+
+Os juros ganham mais do que o dinheiro que você investiu. É por isso que começar cedo é tão importante.
+
+---
+
+## Onde obter juro composto no Brasil
+
+**Tesouro IPCA+:** rendimento real acima da inflação, com reinvestimento automático no vencimento.
+
+**ETFs de acumulação:** o IVVB11 reinveste automaticamente os dividendos das ações americanas dentro do fundo.
+
+**Dividendos reinvestidos manualmente:** se investir em ações e FIIs que pagam dividendos, reinvestir o valor recebido mantém o efeito dos juros compostos.
+
+[→ Guia de juros compostos no Brasil](/blog/juros-compostos-brasil-guia)
+
+---
+
+## O inimigo do juro composto — a inflação brasileira
+
+O Brasil tem histórico de inflação elevada. Por isso, sempre calcule o **retorno real** (acima da inflação), não apenas o retorno nominal:
+
+Retorno real = (1 + retorno nominal) / (1 + inflação) - 1
+
+Com Selic a 12% e inflação a 4%, o retorno real é aproximadamente **7,7%/ano**.
+
+---
+
+## Perguntas frequentes
+
+**Qual a diferença entre juro simples e composto?**
+Juro simples: juros sempre sobre o capital inicial. Juro composto: juros sobre capital + juros anteriores. A diferença se torna enorme no longo prazo.
+
+**Como calcular no Excel?**
+Use a fórmula VF(taxa_mensal; meses; -aporte_mensal; -capital_inicial). Exemplo: VF(8%/12; 360; -500; -10000) = valor final de R$500/mês + R$10.000 inicial por 30 anos.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
 
@@ -1203,9 +1708,54 @@ O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.
 
 [Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
+
 ---
 
-*Este artigo é de caráter informativo. Invista sempre de acordo com o seu perfil de risco.*
+## As principais corretoras do Brasil em 2026
+
+**Nu Invest (ex-Easynvest):** parte do ecossistema Nubank. Interface simples, zero taxa de corretagem em ações e ETFs, integração com Nubank. Ideal para iniciantes.
+
+**Rico:** plataforma completa, zero corretagem em renda variável, boa seleção de produtos. Muito popular para ETFs e Tesouro Direto.
+
+**XP Investimentos:** maior corretora independente do Brasil. Mais produtos disponíveis, assessores de investimentos. Taxa de corretagem pode incidir dependendo do plano.
+
+**BTG Pactual Digital:** banco de investimentos com plataforma digital. Boa para investidores com mais capital (R$50k+).
+
+**Clear Corretora:** foco em traders, zero corretagem, ferramentas gráficas avançadas.
+
+---
+
+## Comparação directa
+
+| | Nu Invest | Rico | XP |
+|---|---|---|---|
+| Corretagem ações/ETFs | Zero | Zero | Zero (alguns planos) |
+| Tesouro Direto | Zero | Zero | Zero |
+| Interface | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| Produtos | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| Suporte | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+
+---
+
+## Para quem está começando — a recomendação
+
+Para a maioria dos brasileiros que começam a investir em ETFs e Tesouro Direto, **Nu Invest ou Rico** são as melhores escolhas: zero corretagem, interface simples e sem mínimo de depósito.
+
+[→ Comparativo XP vs Rico — qual escolher?](/blog/xp-vs-rico-brasil)
+
+---
+
+## Perguntas frequentes
+
+**O meu dinheiro está seguro numa corretora?**
+As corretoras são reguladas pela CVM e BACEN. Os ativos (ações, títulos) são custodiados na B3 e SELIC — separados do patrimônio da corretora. Em caso de falência, seus ativos são transferidos para outra corretora.
+
+**Posso ter conta em mais de uma corretora?**
+Sim — muitos investidores usam mais de uma. Por exemplo, Nu Invest para ETFs e Tesouro, XP para produtos de renda fixa específicos.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -1296,9 +1846,59 @@ O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com
 
 [Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## O que é a XP Investimentos
+
+A XP é a maior corretora independente do Brasil, fundada em 2001 em Porto Alegre. Hoje está listada na NASDAQ (XPBR31) e tem mais de 4 milhões de clientes. É regulada pela CVM (Comissão de Valores Mobiliários) e pelo BACEN.
+
+---
+
+## Produtos disponíveis na XP
+
+**Renda Fixa:** CDB, LCI, LCA, CRI, CRA, debêntures — uma das maiores selecções do Brasil.
+
+**Renda Variável:** ações, ETFs, BDRs (ações de empresas estrangeiras negociadas no Brasil), opções.
+
+**Fundos:** mais de 500 fundos disponíveis, incluindo fundos exclusivos.
+
+**Previdência Privada:** PGBL e VGBL com ampla selecção de fundos.
+
+---
+
+## Taxas e custos na XP
+
+- **Ações e ETFs:** zero corretagem no plano básico
+- **Tesouro Direto:** zero corretagem (taxa de 0,20%/ano da B3)
+- **Fundos:** taxa de administração cobrada pelo fundo
+- **Taxa de custódia mensal:** alguns produtos cobram taxa — verifique
+
+---
+
+## XP vs. Nu Invest vs. Rico
+
+**Escolha XP se:** quer acesso ao maior catálogo de produtos, tem assessor de investimentos, ou investe em produtos de renda fixa estruturados.
+
+**Escolha Nu Invest se:** é iniciante e quer interface simples com integração ao Nubank.
+
+**Escolha Rico se:** quer boa plataforma sem as taxas adicionais que a XP pode cobrar.
+
+[→ Comparativo completo XP vs Rico](/blog/xp-vs-rico-brasil)
+
+---
+
+## Perguntas frequentes
+
+**A XP cobra taxa de custódia mensal?**
+Em alguns casos sim, dependendo do saldo e dos produtos. Verifique as condições actuais no site da XP — as taxas mudam com frequência.
+
+**Como transferir minha carteira de outra corretora para a XP?**
+Pelo sistema TED/Portabilidade da B3. O processo é gratuito e os ativos são transferidos sem necessidade de venda.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -1374,9 +1974,73 @@ O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.
 
 [Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## A realidade dos salários no Brasil
+
+O salário mínimo em 2026 é de R$1.518. O salário médio dos trabalhadores formais ronda os R$3.000-3.500 líquidos. Poupar pode parecer difícil — mas mesmo R$100/mês fazem diferença enorme no longo prazo.
+
+---
+
+## Regras práticas de poupança no contexto brasileiro
+
+**Regra dos 10%:** poupe pelo menos 10% do seu rendimento líquido. Com R$2.000, são R$200/mês.
+
+**Pay yourself first:** quando o salário entra, transfira imediatamente o valor de poupança. O que sobra é para gastar.
+
+**Automatize:** configure transferência automática para a corretora no dia do pagamento.
+
+---
+
+## Onde colocar as poupanças no Brasil
+
+| Valor poupado | Onde colocar |
+|---|---|
+| Reserva de emergência (3-6 meses) | CDB liquidez diária ou Tesouro Selic |
+| Após reserva completa | ETFs (IVVB11, BOVA11) |
+| Se tem PGBL | Previdência privada até 12% da renda |
+
+---
+
+## Quanto poupar em cada fase da vida
+
+**20-30 anos:** mínimo 10%, idealmente 20-30%. O tempo é o seu maior activo — cada R$100 investido agora vale muito mais que R$100 investido aos 45.
+
+**30-40 anos:** 20-30%. Provavelmente tem mais responsabilidades mas também ganha mais.
+
+**40-50 anos:** maximize tudo que puder. Considere PGBL para deduzir até 12% da renda no IR.
+
+[→ Como começar a investir com apenas R$100](/blog/como-comecar-investir-100-reais)
+
+---
+
+## Perguntas frequentes
+
+**E se eu não conseguir poupar nada?**
+Comece por registar todas as despesas durante um mês — a maioria das pessoas descobre gastos que não lembrava. Apps como Mobills e Organizze ajudam muito.
+
+**Poupança ou investimento?**
+Poupança para a reserva de emergência (liquidez imediata). Investimento para objetivos de médio e longo prazo.
+
+
+---
+
+## Ferramentas gratuitas para controlar gastos no Brasil
+
+**Mobills:** app gratuito para controlo de despesas, muito popular no Brasil. Conecta com bancos e cartões automaticamente.
+
+**Organizze:** boa opção para quem quer categorizar gastos manualmente.
+
+**Planilha do Tesouro Direto:** o site do Tesouro Direto tem planilhas gratuitas de controlo financeiro.
+
+**App do Nubank:** visualização detalhada de gastos mensais por categoria — muito útil para quem usa o Nubank no dia a dia.
+
+**Dica prática:** durante 30 dias, anote ou registe cada despesa. A maioria das pessoas descobre entre R$200-500 de gastos que não lembrava e que pode redirecionar para investimentos.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -1474,6 +2138,63 @@ O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com
 ---
 
 *Este guia é de caráter informativo. Para situações específicas, consulte um contador.*
+
+
+---
+
+## A regra dos R$20.000
+
+A principal regra para ações e ETFs no Brasil:
+
+**Vendas totais no mês abaixo de R$20.000 → Isenção total de IR**
+
+Se vendeu R$15.000 de ações em julho (independentemente do lucro), **não paga IR**. Esta isenção é uma das mais generosas do mundo e beneficia enormemente o pequeno investidor.
+
+**Atenção:** a isenção se aplica à soma de todas as vendas do mês. Vendeu ações de várias empresas totalizando R$25.000 → paga IR sobre o lucro proporcional.
+
+---
+
+## Quando e como pagar o IR
+
+**Quando vender com lucro acima de R$20.000/mês:**
+
+1. Calcule o lucro: preço de venda - preço médio de compra - corretagem
+2. Aplique a alíquota: 15% (operação normal) ou 20% (day trade)
+3. Emita o DARF (código 6015) até o último dia útil do mês seguinte
+4. Pague o DARF pelo banco, aplicativo ou Tesouro Direto
+
+---
+
+## ETFs — mesmo imposto que ações?
+
+Sim — ETFs seguem as mesmas regras das ações:
+- Isenção para vendas mensais até R$20.000
+- 15% sobre o lucro acima disso
+- DARF pelo código 6015
+
+**Exceção importante:** ETFs de renda fixa (como IRFM11) seguem regras de fundos de investimento, não de ações.
+
+---
+
+## Prejuízos compensam lucros
+
+Se perdeu R$1.000 num mês e ganhou R$2.000 no seguinte, paga IR apenas sobre R$1.000 de lucro líquido. Os prejuízos podem ser carregados indefinidamente — anote sempre.
+
+[→ IR sobre investimentos no Brasil — guia completo](/blog/imposto-de-renda-investimentos-declarar-brasil-guia)
+
+---
+
+## Perguntas frequentes
+
+**Day trade tem isenção dos R$20.000?**
+Não — day trade (compra e venda no mesmo dia) é tributado em 20% sem isenção de R$20.000. Há também 1% retido na fonte.
+
+**FIIs têm a mesma regra?**
+Não — FIIs não têm a isenção de R$20.000. O lucro na venda de cotas de FIIs é tributado em 20% a partir do primeiro real.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento fiscal.*
     `
   },
   {
@@ -1545,9 +2266,71 @@ O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com
 
 [Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## O que é o Ibovespa
+
+O Ibovespa é o principal índice da B3, composto pelas ações com maior volume de negociação. Em 2026, inclui ~90 empresas — com grande peso em Petrobras, Vale, bancos (Itaú, Bradesco, Santander) e commodities.
+
+**Característica importante:** o Ibovespa é altamente concentrado e influenciado por: preço do petróleo, minério de ferro, câmbio dólar/real e instabilidade política brasileira.
+
+---
+
+## Comparação directa
+
+| | Ibovespa (BOVA11) | S&P 500 (IVVB11) |
+|---|---|---|
+| Nº de empresas | ~90 | 500 |
+| Retorno médio histórico (real) | ~6-7%/ano | ~7-8%/ano em dólar |
+| Volatilidade | Muito alta | Média |
+| Exposição cambial | Não | Sim (dólar) |
+| Sectores dominantes | Commodities, bancos | Tecnologia, saúde |
+
+---
+
+## O caso para diversificar entre os dois
+
+O investidor brasileiro já tem exposição ao Brasil pela sua renda, imóvel e trabalho. Adicionar IVVB11 (S&P 500 em reais) diversifica geograficamente e reduz o risco Brasil.
+
+**Uma estratégia popular:** 50% BOVA11 (Brasil) + 50% IVVB11 (EUA). Combina participação no crescimento doméstico com diversificação internacional.
+
+---
+
+## IVVB11 — como funciona
+
+O IVVB11 é um ETF da B3 que replica o S&P 500 em reais. Quando o dólar sobe e o S&P 500 sobe, o IVVB11 sobe duas vezes. Quando o real se valoriza, pode cair mesmo com o S&P 500 estável.
+
+Uma cota custa aproximadamente R$100-150 e está disponível em todas as corretoras brasileiras.
+
+[→ Como investir em ETFs no Brasil — guia completo](/blog/como-investir-em-etfs-brasil)
+
+---
+
+## Perguntas frequentes
+
+**Devo investir em real ou em dólar?**
+Para a maioria dos brasileiros, investir em IVVB11 (dólar indiretamente) é mais prático que abrir conta no exterior. Para quem tem mais de R$300k, uma conta no exterior pode fazer sentido.
+
+**O Ibovespa vai superar o S&P 500 nos próximos anos?**
+Impossível saber com certeza. Historicamente, o S&P 500 tem mostrado retornos mais consistentes — mas o Ibovespa pode superar em períodos específicos, especialmente com real desvalorizado.
+
+
+---
+
+## O risco cambial do IVVB11
+
+Ao investir em IVVB11, você está exposto ao câmbio dólar/real. Isso pode ser vantagem ou desvantagem:
+
+**Vantagem:** quando o real se desvaloriza (o que acontece em crises brasileiras), seus investimentos em dólar sobem em reais — proteção natural contra crises locais.
+
+**Desvantagem:** quando o real se valoriza, o IVVB11 pode cair mesmo que o S&P 500 suba.
+
+Para o investidor brasileiro de longo prazo, a exposição ao dólar via IVVB11 funciona como seguro contra instabilidade econômica brasileira — historicamente mais vantajoso que desvantajoso.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -1624,9 +2407,82 @@ O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy
 
 [Ver curso na Udemy →](https://trk.udemy.com/enekd1)
 
+
 ---
 
-*Este artigo é de caráter informativo. Consulte um planejador financeiro independente para situações personalizadas.*
+## PGBL vs VGBL — qual a diferença
+
+**PGBL (Plano Gerador de Benefício Livre):**
+- Deduz até 12% da renda bruta anual no IR (quem declara pelo modelo completo)
+- Na retirada, IR incide sobre todo o valor (principal + rendimentos)
+- Ideal para quem tem IR a pagar e declara pelo modelo completo
+
+**VGBL (Vida Gerador de Benefício Livre):**
+- Sem benefício fiscal na entrada
+- Na retirada, IR incide apenas sobre os rendimentos
+- Ideal para quem declara pelo modelo simplificado ou já atingiu o limite do PGBL
+
+---
+
+## Quando a previdência privada compensa
+
+**Compensa se:**
+1. Tem IR a restituir e usa o PGBL para recuperar mais no IR
+2. Encontra um plano com taxa de administração abaixo de 0,5%/ano
+3. Prefere a simplicidade de não gerir a carteira
+
+**Não compensa se:**
+1. A taxa de administração é acima de 1%/ano (destroça o retorno no longo prazo)
+2. Você mesmo consegue investir em ETFs com TER de 0,20%/ano ou menos
+3. Precisa de flexibilidade (previdência tem restrições de resgate)
+
+---
+
+## Tabela regressiva vs progressiva
+
+**Tabela regressiva** (recomendada para longo prazo):
+- Mais de 10 anos: apenas 10% de IR na retirada
+- 2-4 anos: 30% de IR
+
+**Tabela progressiva:**
+- Tributada como renda normal (até 27,5%)
+- Pode compensar para quem planeja retirar na aposentadoria com renda baixa
+
+---
+
+## Onde encontrar previdência com taxas baixas
+
+Evite previdência de bancos tradicionais (taxas de 1,5-3%/ano). Prefira:
+- Nu Previdência (0% de taxa de administração em alguns planos)
+- Vinci Compass e outros independentes
+- XP e BTG têm boas opções de terceiros com taxas baixas
+
+---
+
+## Perguntas frequentes
+
+**Posso resgatar a previdência a qualquer momento?**
+Sim, mas com penalidade nos primeiros anos e IR conforme a tabela escolhida. Não é recomendado resgatar antes de 10 anos (tabela regressiva).
+
+**E se a seguradora falir?**
+Previdência privada é regulada pela SUSEP. Em caso de insolvência, os activos são transferidos para outra seguradora. Diferente de CDB (FGC protege até R$250k).
+
+
+---
+
+## O portabilidade de previdência — troque sem pagar IR
+
+Uma vantagem pouco conhecida da previdência privada no Brasil: é possível **transferir o saldo entre planos sem pagar IR** pelo processo de portabilidade.
+
+Isso significa que se você tem previdência com taxa de 2%/ano num banco grande, pode transferir para um plano com 0,3%/ano numa seguradora independente sem pagar impostos na transferência.
+
+**Como fazer:** solicite portabilidade ao novo plano (não ao antigo). O processo leva 5-10 dias úteis e é gratuito.
+
+Esta é a principal dica para quem tem previdência antiga em banco com taxa alta — porte para um plano melhor antes de resgatar.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -1687,9 +2543,97 @@ O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy
 
 [Ver curso na Udemy →](https://trk.udemy.com/enekd1)
 
+
 ---
 
-*Este artigo é de caráter informativo. As taxas dos títulos públicos variam — confira sempre em www.tesourodireto.com.br.*
+## Para que serve cada um
+
+**Tesouro Direto:** segurança, previsibilidade, risco soberano (o menor possível). Indicado para reserva de emergência (Tesouro Selic), proteção contra inflação (IPCA+) e objetivos de curto/médio prazo.
+
+**ETFs:** crescimento de longo prazo, diversificação, exposição ao mercado acionário. Indicado para objetivos com horizonte de 10+ anos — aposentadoria, independência financeira.
+
+---
+
+## Comparação directa
+
+| | Tesouro Selic | ETF IVVB11 (S&P 500) |
+|---|---|---|
+| Retorno esperado | ~96% da Selic | ~7-10%/ano real historicamente |
+| Risco | Mínimo | Médio (cai no curto prazo) |
+| Liquidez | Diária | Dias úteis |
+| IR | 15-22,5% | 15% (isenção até R$20k/mês) |
+| Mínimo | R$30 | ~R$100-150 (1 cota) |
+
+---
+
+## A estratégia combinada
+
+A maioria dos investidores brasileiros bem-sucedidos usa os dois:
+
+**Tesouro Selic:** reserva de emergência e capital que pode precisar no curto prazo.
+
+**ETFs:** capital para o longo prazo (10+ anos) onde pode suportar volatilidade.
+
+**Tesouro IPCA+:** objetivos específicos de longo prazo (aposentadoria) com proteção garantida contra inflação.
+
+[→ Guia completo do Tesouro Direto para iniciantes](/blog/tesouro-direto-guia-completo-iniciantes-2026)
+
+---
+
+## Perguntas frequentes
+
+**Com a Selic alta, ainda vale a pena investir em ETFs?**
+Depende do horizonte temporal. Com Selic alta, o retorno real do Tesouro é melhor no curto prazo. No longo prazo, historicamente os ETFs de ações superam a renda fixa.
+
+**Posso ter os dois ao mesmo tempo?**
+Sim — e é o que a maioria dos investidores faz. Cada um cumpre um papel diferente na carteira.
+
+
+---
+
+## Simulação comparativa para o investidor brasileiro
+
+**Cenário:** R$500/mês durante 20 anos
+
+**Tesouro Selic (taxa real ~4-5%/ano):**
+Valor final estimado: R$180.000-200.000
+
+**ETF IVVB11 (retorno histórico ~7-8%/ano real):**
+Valor final estimado: R$280.000-330.000
+
+A diferença de R$100.000-150.000 representa o prêmio por assumir mais risco com ETFs. Mas lembre: passado não garante futuro, e em períodos de crise o ETF pode perder 30-40% temporariamente.
+
+**A combinação inteligente:** use Tesouro Selic para a reserva e capital que possa precisar, ETFs para o horizonte de 10+ anos.
+
+---
+
+## Quando o Tesouro Direto é claramente melhor
+
+Existem situações onde o Tesouro Direto supera os ETFs mesmo no longo prazo:
+
+**Objetivo com data definida:** se você quer comprar um apartamento em 5 anos, o Tesouro IPCA+ com vencimento nessa data garante poder de compra real. Um ETF pode estar em baixa exatamente quando precisar do dinheiro.
+
+**Perfil muito conservador:** a volatilidade dos ETFs (quedas de 30-40% possíveis) pode causar decisões emocionais ruins — como vender no pior momento. Para quem não tolera isso, Tesouro Selic com retorno menor mas estável é melhor na prática.
+
+**Selic muito alta:** em períodos com Selic acima de 13-14%, o retorno real do Tesouro Selic fica tão atrativo que a diferença de retorno dos ETFs não compensa o risco adicional no curto prazo.
+
+---
+
+
+
+## Resumo final — a regra prática
+
+**Horizonte < 5 anos ou capital de emergência → Tesouro Direto**
+
+**Horizonte 10+ anos e tolera volatilidade → ETFs**
+
+**Para tudo → combinação dos dois**
+
+Não é uma escolha de um ou outro — é uma escolha de quanto de cada, dependendo dos seus objetivos e tolerância ao risco.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -1749,9 +2693,102 @@ O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.
 
 [Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
+
 ---
 
-*Este artigo é de caráter educativo e não constitui aconselhamento financeiro.*
+## A fórmula dos juros compostos aplicada ao Brasil
+
+**Valor futuro = Capital × (1 + taxa)^anos**
+
+Exemplos com R$5.000 a diferentes taxas reais (acima da inflação):
+
+| Anos | Taxa 4% | Taxa 7% | Taxa 10% |
+|---|---|---|---|
+| 10 | R$7.401 | R$9.836 | R$12.969 |
+| 20 | R$10.955 | R$19.348 | R$33.637 |
+| 30 | R$16.210 | R$38.061 | R$87.247 |
+
+A diferença entre 4% e 10% ao longo de 30 anos é de mais de 5x.
+
+---
+
+## Calculadora prática para o Brasil
+
+**R$300/mês durante 30 anos a 7%/ano real:**
+- Total investido: R$108.000
+- Valor final: **R$363.000**
+- Ganho dos juros: **R$255.000**
+
+Os juros ganham mais do que o dinheiro investido diretamente.
+
+---
+
+## Como obter juros compostos no Brasil
+
+**Tesouro Direto com reinvestimento:** ao vencimento de um Tesouro Prefixado, reinvista o principal + juros num novo título.
+
+**ETFs de acumulação (IVVB11):** os dividendos das ações americanas são reinvestidos automaticamente dentro do fundo — juro composto sem precisar fazer nada.
+
+**Reinvestimento de dividendos:** se recebe dividendos de ações ou FIIs, reinvestir o valor mantém o efeito dos juros compostos.
+
+[→ Como o juro composto funciona — exemplos práticos](/blog/juro-composto-funciona-exemplos)
+
+---
+
+## Perguntas frequentes
+
+**Qual a diferença entre retorno nominal e real no Brasil?**
+Nominal inclui a inflação. Real é o retorno acima da inflação — é o que realmente importa para o poder de compra. Com inflação de 4% e Selic de 12%, o retorno real é aproximadamente 7,7%.
+
+**Onde calcular juros compostos online no Brasil?**
+O site do Tesouro Direto tem uma calculadora gratuita. O app do Nubank também tem simulador de investimentos.
+
+
+---
+
+## O efeito devastador das taxas no Brasil
+
+Uma taxa de administração de 2%/ano (comum em fundos bancários) parece pequena. Mas no longo prazo:
+
+| Taxa | R$10.000 em 30 anos a 8% bruto |
+|---|---|
+| 0% (ETF índice) | R$100.627 |
+| 0,20% (Tesouro Direto) | R$94.640 |
+| 1% (ETF activo) | R$74.000 |
+| 2% (fundo bancário típico) | R$54.274 |
+
+A diferença entre 0% e 2% de taxa é **R$46.000 em 30 anos**. É por isso que ETFs de índice com taxas baixas (TER de 0,20-0,50%/ano) são muito superiores a fundos ativos caros.
+
+---
+
+## O erro mais comum — sacar antes do prazo
+
+O juro composto funciona exponencialmente — a maior parte do crescimento acontece nos últimos anos, não nos primeiros. Sacar antes do prazo ideal destrói uma parte desproporcional do resultado.
+
+**Exemplo:** R$10.000 a 8%/ano
+- Ano 10: R$21.589 (crescimento de R$11.589)
+- Ano 20: R$46.610 (crescimento adicional de R$25.021)
+- Ano 30: R$100.627 (crescimento adicional de R$54.017)
+
+Os últimos 10 anos geram mais que os primeiros 20 juntos. Por isso manter o investimento é tão importante quanto começar cedo.
+
+---
+
+
+
+## Como começar a aplicar agora
+
+1. Abra conta numa corretora sem taxa (Nu Invest, Rico)
+2. Configure transferência automática mensal — mesmo R$100
+3. Compre mensalmente: Tesouro Selic (reserva) ou IVVB11 (longo prazo)
+4. **Não mexa** — deixe o juro composto trabalhar
+5. Revise a estratégia uma vez por ano, não todo mês
+
+Simplicidade + consistência + tempo = independência financeira.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -1819,9 +2856,92 @@ Se os FIIs fazem parte da sua estratégia, o curso **[Geração de Renda com Fun
 
 [Ver curso na Udemy →](https://trk.udemy.com/vDQEGW)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## O movimento FIRE no Brasil
+
+FIRE (Financial Independence, Retire Early) chegou ao Brasil com força crescente. O conceito: acumule capital suficiente para que os rendimentos passivos cubram as despesas para sempre.
+
+---
+
+## A regra dos 4% adaptada ao Brasil
+
+A regra dos 4% (retirar 4% da carteira por ano indefinidamente) foi desenvolvida para o mercado americano. No Brasil, recomenda-se usar 3-3,5% pela maior volatilidade e inflação histórica.
+
+**Número FIRE brasileiro:**
+
+| Despesas mensais | Número FIRE (3,5%) |
+|---|---|
+| R$2.000 | R$686.000 |
+| R$3.500 | R$1.200.000 |
+| R$5.000 | R$1.714.000 |
+| R$8.000 | R$2.743.000 |
+
+---
+
+## É realista atingir FIRE no Brasil?
+
+Com dois salários de R$5.000 e poupança de 30% (R$3.000/mês):
+
+Investindo R$3.000/mês a 7%/ano real durante **25 anos** → **R$2.370.000**
+
+Para quem tem despesas de R$6.800/mês, isso cobre o número FIRE a 3,5%. Difícil mas possível — especialmente em casal.
+
+---
+
+## Estratégia FIRE para brasileiros
+
+**Fase de acumulação:**
+- Maximize a poupança (objetivo: 30-50% do rendimento)
+- Invista em ETFs (BOVA11, IVVB11) e FIIs
+- Use PGBL para dedução no IR se declarar pelo completo
+
+**Fase de independência:**
+- Retiradas de 3-3,5% da carteira por ano
+- FIIs para renda mensal isenta de IR
+- Manter alguma atividade de renda reduce o número FIRE necessário
+
+[→ Como começar a investir com apenas R$100](/blog/como-comecar-investir-100-reais)
+
+---
+
+## Perguntas frequentes
+
+**E a previdência social brasileira?**
+O INSS pode complementar a renda na independência financeira, mas não confie nele como única fonte — as regras mudam e o valor pode ser insuficiente.
+
+**Posso atingir FIRE no Brasil com salário normal?**
+Com salário único médio é difícil. Em casal com dois salários e gastos controlados, é alcançável em 20-25 anos de investimento consistente.
+
+
+---
+
+## FIRE no Brasil — variantes adaptadas
+
+**Lean FIRE BR:** viver com R$2.000-3.000/mês em cidades menores ou interior. Número FIRE: R$685.000-1.030.000. Mais acessível mas exige estilo de vida frugal.
+
+**Fat FIRE BR:** conforto de R$8.000+/mês nas capitais. Número FIRE: R$2.7M+. Requer renda alta e/ou muito tempo.
+
+**Coast FIRE BR:** investe intensamente por 10-15 anos, para os aportes e deixa o juro composto trabalhar até os 60 anos. Muito realista para brasileiros com 25-35 anos.
+
+---
+
+## Recursos para aprofundar o tema FIRE no Brasil
+
+**Livros traduzidos para o português:**
+- 'Dinheiro — Domine o Jogo' — Tony Robbins: guia completo de investimentos com foco em independência financeira
+- 'O Investidor Inteligente' — Benjamin Graham: clássico sobre investimento em valor
+- 'Pai Rico, Pai Pobre' — Robert Kiyosaki: mentalidade de riqueza (leitura crítica recomendada)
+
+**Comunidades brasileiras de FIRE:**
+- Reddit r/investimentos e r/financaspessoais: discussões activas sobre FIRE no contexto brasileiro
+- Grupos no Facebook de 'Independência Financeira Brasil'
+- Canal 'Me Poupe!' no YouTube: educação financeira adaptada ao Brasil
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -1889,9 +3009,95 @@ Se os FIIs fazem parte da sua estratégia, o curso **[Geração de Renda com Fun
 
 [Ver curso na Udemy →](https://trk.udemy.com/vDQEGW)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## Por que diversificar no Brasil é ainda mais importante
+
+O Brasil tem histórico de instabilidade econômica e política. Uma carteira concentrada apenas em ativos brasileiros está exposta ao risco Brasil — desvalorização do real, inflação, mudanças regulatórias.
+
+Por isso, a diversificação para um investidor brasileiro inclui tanto diversificação entre ativos quanto diversificação geográfica (exposição internacional).
+
+---
+
+## Carteiras modelo para o investidor brasileiro
+
+**Conservador:**
+60% Tesouro/Renda Fixa + 25% FIIs + 15% BOVA11
+
+**Moderado:**
+35% Renda Fixa + 30% FIIs + 20% BOVA11 + 15% IVVB11
+
+**Arrojado:**
+20% Renda Fixa + 25% FIIs + 25% BOVA11 + 30% IVVB11
+
+---
+
+## O que não é diversificação
+
+- Ter 10 FIIs do mesmo segmento (todos de escritórios)
+- Ter Petrobras, Vale e mais 10 ações brasileiras de commodities
+- Ter BOVA11 + ações brasileiras individuais (sobreposição)
+
+Diversificação real é ter ativos que se comportam de forma diferente em diferentes cenários econômicos.
+
+---
+
+## Rebalanceamento — como manter a alocação
+
+Uma vez por ano, ajuste a carteira para voltar à alocação original. Em vez de vender (e pagar IR), direcione os novos aportes para os ativos subpesados.
+
+[→ Como montar carteira de investimentos no Brasil](/blog/como-montar-carteira-de-investimentos-brasil)
+
+---
+
+## Perguntas frequentes
+
+**Quantos ETFs devo ter?**
+Para a maioria dos investidores, 2-3 ETFs são suficientes: um brasileiro (BOVA11), um internacional (IVVB11) e opcionalmente um de FIIs (XFIX11).
+
+**Devo incluir criptomoedas na diversificação?**
+Alta correlação com ativos de risco em quedas fortes. Se incluir, mantenha abaixo de 5% da carteira e só com capital que pode perder totalmente.
+
+
+---
+
+## BDRs — outra forma de diversificar internacionalmente
+
+BDRs (Brazilian Depositary Receipts) são certificados de ações estrangeiras negociados na B3. Permitem investir em Apple, Microsoft, Amazon e centenas de outras empresas americanas e europeias sem precisar abrir conta no exterior.
+
+**Vantagem sobre IVVB11:** escolha as empresas específicas que quer ter.
+**Desvantagem:** menos diversificação que um ETF com 500 empresas.
+
+BDRs disponíveis em todas as corretoras brasileiras. Tributação igual a ações brasileiras.
+
+---
+
+## A carteira simples que funciona para 90% dos brasileiros
+
+Não precisa de ser complicado. Uma carteira de apenas 3 produtos cobre a maioria das necessidades:
+
+**Tesouro Selic:** sua reserva de emergência e capital de curto prazo. Liquidez diária, sem risco.
+
+**IVVB11 (S&P 500 em reais):** crescimento de longo prazo com diversificação internacional. Uma cota, 500 empresas americanas.
+
+**BOVA11 (Ibovespa):** participação no mercado brasileiro. Completamente opcional — quem prefere mais simplicidade pode usar só IVVB11.
+
+Esta carteira de 2-3 produtos tem superado a maioria dos fundos de investimentos brasileiros no longo prazo, com muito menos custo e burocracia.
+
+---
+
+
+
+## A regra mais importante de todas
+
+A melhor carteira diversificada é aquela que você **consegue manter durante uma crise**. Uma carteira de 100% ações pode ter retorno maior teoricamente, mas se você vende com medo numa queda de 40%, perde o benefício inteiro.
+
+Diversifique de forma que você consiga dormir tranquilo mesmo quando o Ibovespa cair 30% — porque vai cair em algum momento. A alocação certa é aquela que mantém você investido no longo prazo, independente das oscilações.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -1945,9 +3151,107 @@ O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.
 
 [Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## Com R$100 no Brasil — o que fazer
+
+**Opção 1 — Tesouro Selic (R$30 mínimo):**
+A opção mais segura. Liquidez diária, rende acima da poupança, risco soberano. Ideal como primeiro passo e para reserva de emergência.
+
+**Opção 2 — ETF IVVB11 (~R$100-150 por cota):**
+Exposição ao S&P 500 americano em reais. Um investimento, 500 empresas americanas diversificadas. Disponível em todas as corretoras.
+
+**Opção 3 — ETF BOVA11 (~R$100-120 por cota):**
+Exposição ao Ibovespa. As maiores empresas brasileiras num único produto.
+
+---
+
+## O plano para crescer a partir dos R$100
+
+**Mês 1:** R$100 investidos — aprende a plataforma, sente o que é ver o valor subir e descer.
+
+**Meses 2-6:** adicione o que puder — mesmo R$50/mês fazem diferença no longo prazo.
+
+**Mês 6 em diante:** automatize — configure transferência automática mensal para a corretora e uma ordem de compra mensal do ETF.
+
+---
+
+## Onde abrir conta — corretoras sem depósito mínimo
+
+**Nu Invest:** zero corretagem, zero depósito mínimo, integração com Nubank. Ideal para começar.
+
+**Rico:** zero corretagem, boa interface, boa seleção de produtos.
+
+**Clear:** zero corretagem, foco em traders mas bom para iniciantes também.
+
+---
+
+## O que NÃO fazer com R$100
+
+- Não compre ações individuais — muito risco concentrado
+- Não tente day trade — estatisticamente perde dinheiro
+- Não invista em criptomoedas como primeiro investimento
+- Não deixe na poupança — rende menos que Tesouro Selic
+
+---
+
+## Perguntas frequentes
+
+**R$100 é muito pouco — vale a pena?**
+Absolutamente. O hábito importa mais que o valor. Quem começa com R$100 e mantém a consistência chega a R$100.000. Quem espera ter dinheiro suficiente raramente começa.
+
+**O valor pode ir a zero?**
+Um ETF global vai a zero se todas as maiores empresas do mundo falirem simultaneamente. Nunca aconteceu.
+
+
+---
+
+## O checklist antes de investir os primeiros R$100
+
+Antes de comprar qualquer ativo, confirme:
+
+- ✅ Tenho conta em corretora aberta e verificada
+- ✅ Entendo o que estou comprando (ETF, Tesouro, etc.)
+- ✅ Tenho reserva de emergência separada deste dinheiro
+- ✅ Não precisarei deste dinheiro nos próximos 5+ anos
+- ✅ Estou preparado para ver este valor cair 20-30% temporariamente
+
+Se todos os checkboxes estão marcados, você está pronto. Se não, resolva primeiro os que faltam antes de investir.
+
+---
+
+## O poder dos R$100 — simulação real
+
+R$100/mês parece pouco. Mas com consistência e tempo:
+
+| Anos | Total investido | Valor (7% real/ano) |
+|---|---|---|
+| 5 | R$6.000 | R$7.159 |
+| 10 | R$12.000 | R$17.310 |
+| 20 | R$24.000 | R$52.397 |
+| 30 | R$36.000 | R$121.997 |
+
+R$100/mês durante 30 anos = mais de R$120.000. O segredo não é o valor — é a consistência e o tempo. Comece com R$100 hoje em vez de esperar ter 'dinheiro suficiente'.
+
+---
+
+
+
+## O próximo passo depois dos R$100
+
+Depois do primeiro aporte, o objetivo é criar o hábito:
+
+- **Mês 2:** aporte mais R$100 (ou mais, se puder)
+- **Mês 3-6:** aumente gradualmente — R$150, R$200
+- **Mês 6:** avalie se faz sentido diversificar entre Tesouro Selic + ETF
+- **1 ano:** revise a estratégia com o conhecimento adquirido
+
+O investidor que aporta R$100/mês por 30 anos supera o investidor que espera ter R$10.000 para começar e nunca começa.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -2007,9 +3311,102 @@ O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.
 
 [Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## O que é a Nu Invest
+
+A Nu Invest (antiga Easynvest) foi adquirida pelo Nubank em 2020 e é hoje a corretora digital do ecossistema Nu. Com mais de 8 milhões de clientes, é uma das maiores corretoras do Brasil.
+
+**Regulação:** CVM (Comissão de Valores Mobiliários) e BACEN. Activos dos clientes custodiados na B3.
+
+---
+
+## O que está disponível na Nu Invest
+
+- **Renda Fixa:** Tesouro Direto (zero taxa), CDB, LCI, LCA
+- **Renda Variável:** ações, ETFs, FIIs, BDRs, opções
+- **Fundos de investimento:** selecção crescente
+- **Criptomoedas:** via Nu Cripto (separado)
+- **Previdência:** Nu Previdência com taxas muito baixas
+
+---
+
+## Zero corretagem — o que está incluído
+
+A Nu Invest oferece zero taxa de corretagem em:
+- Ações listadas na B3
+- ETFs
+- FIIs
+- Tesouro Direto
+
+**Atenção:** a taxa de custódia da B3 (0,20%/ano para Tesouro) é cobrada pelo governo, não pela corretora — e incide independentemente da corretora escolhida.
+
+---
+
+## Nu Invest vs. outras corretoras
+
+**Vantagem sobre XP:** sem taxa de corretagem em nenhum cenário. XP pode cobrar dependendo do plano e perfil.
+
+**Vantagem sobre Rico:** integração nativa com o app Nubank — tudo numa interface familiar.
+
+**Desvantagem:** menor variedade de produtos de renda fixa estruturada comparado a XP e BTG.
+
+[→ Melhor corretora no Brasil em 2026 — comparação completa](/blog/melhor-corretora-brasil-2026)
+
+---
+
+## Como abrir conta na Nu Invest
+
+1. No app Nubank, acesse "Investimentos" → "Nu Invest"
+2. Complete o cadastro (CPF, documento, perfil de investidor)
+3. Transfere o valor para investir via TED ou Pix
+4. Pronto — compra ETFs, Tesouro e mais pelo mesmo app
+
+---
+
+## Perguntas frequentes
+
+**Preciso ter conta no Nubank para usar a Nu Invest?**
+Não — é possível abrir conta Nu Invest sem ter conta corrente no Nubank. Mas a integração é muito mais fluida com conta Nu.
+
+**A Nu Invest tem assessores de investimento?**
+Não — é uma plataforma self-service. Para assessoria, XP e BTG têm estruturas mais robustas.
+
+
+---
+
+## Nu Invest para iniciantes — passo a passo
+
+**1. Baixe o app Nubank** (iOS ou Android) ou acesse pelo browser.
+
+**2. Acesse "Investimentos"** no menu inferior do app Nubank.
+
+**3. Complete o cadastro:** só precisa do CPF e alguns dados básicos — já preenchidos se você tem conta Nubank.
+
+**4. Defina seu perfil de investidor:** questionário rápido que classifica você como conservador, moderado ou arrojado.
+
+**5. Transfira via Pix:** instantâneo, gratuito, 24h por dia.
+
+**6. Invista:** pesquise "IVVB11" ou "Tesouro Selic" e compre com poucos cliques.
+
+---
+
+## Nu Invest em 2026 — actualizações recentes
+
+O Nu Invest tem expandido sua oferta consistentemente. Em 2026, os principais diferenciais:
+
+**Nu Cripto:** compra e venda de Bitcoin e outras criptomoedas diretamente no app Nubank, sem precisar de outra plataforma.
+
+**Nu Previdência:** planos de PGBL e VGBL com taxas de administração muito baixas comparadas aos bancos tradicionais — um dos melhores do mercado.
+
+**Integração Pix:** transferência instantânea para a conta de investimentos, 24h por dia — vantagem sobre corretoras que só aceitam TED.
+
+Para novidades e actualizações, consulte sempre o site oficial do Nu Invest em nuinvest.com.br.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -2065,9 +3462,98 @@ O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com
 
 [Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
+
 ---
 
-*Este artigo é de caráter informativo e não constitui aconselhamento financeiro.*
+## Por que os brasileiros investem em ouro
+
+No Brasil, o ouro tem um papel histórico como reserva de valor — especialmente pela memória de crises como o Plano Collor e hiperinflação dos anos 80-90. Em períodos de instabilidade política ou econômica, o ouro tende a se valorizar.
+
+---
+
+## Como investir em ouro no Brasil
+
+**ETF de ouro na B3 (recomendado):**
+- GOLD11 — ETF de ouro físico listado na B3
+- Uma cota ~R$50-100, liquidez diária
+- Sem custo de armazenamento, fácil de comprar e vender
+
+**Contratos futuros na B3:**
+- Código OZ1D (ouro em dólar) e BGI (ouro em mini-contratos)
+- Para investidores mais experientes com mais capital
+
+**Ouro físico:**
+- Barras e moedas em casas de câmbio e ourivesarias
+- Problema: spread elevado, custo de armazenamento, seguro
+
+---
+
+## Quanto ter de ouro na carteira brasileira
+
+A maioria dos especialistas recomenda **5-10% da carteira em ouro** como diversificador — especialmente no Brasil onde o risco político e cambial é maior.
+
+O ouro também funciona como proteção contra desvalorização do real — quando o dólar sobe, o ouro em reais tende a subir também.
+
+---
+
+## Histórico do ouro vs. Ibovespa
+
+Em períodos de crise (2008, 2020, 2022), o ouro frequentemente subiu enquanto o Ibovespa caiu. Esta correlação negativa é o principal valor do ouro numa carteira diversificada.
+
+Porém, em longos períodos de crescimento econômico, o Ibovespa e os ETFs de ações superam claramente o ouro.
+
+---
+
+## Perguntas frequentes
+
+**O ouro paga dividendos no Brasil?**
+Não — o único retorno é a valorização do preço. Por isso não deve ser o único ativo da carteira.
+
+**GOLD11 é melhor que comprar ouro físico?**
+Para a maioria dos investidores, sim — mais liquidez, menor spread, sem custo de armazenamento e taxas muito menores.
+
+
+---
+
+## Ouro vs. Bitcoin — comparação para o investidor brasileiro
+
+Ambos são frequentemente usados como reserva de valor ou proteção. As diferenças:
+
+| | Ouro (GOLD11) | Bitcoin |
+|---|---|---|
+| Histórico | Milênios | 15 anos |
+| Volatilidade | Baixa-média | Extremamente alta |
+| Correlação com crise | Negativa (sobe em crise) | Variável (pode cair junto) |
+| IR | 15% sobre lucro (acima de R$20k/mês) | 15% sobre lucro (sem isenção) |
+
+Para o investidor conservador ou moderado, o ouro (via GOLD11) é muito mais adequado que Bitcoin como diversificador de carteira.
+
+---
+
+## Ouro para proteção cambial no Brasil
+
+Uma das principais razões para um brasileiro ter ouro é a **proteção cambial**. O ouro é cotado em dólar internacionalmente. Quando o real se desvaloriza (o que acontece em crises econômicas ou políticas brasileiras), o ouro em reais sobe automaticamente.
+
+**Exemplo histórico:** durante a crise de 2020, o real perdeu 40% frente ao dólar. O GOLD11 subiu ~70% em reais no mesmo período — enquanto o Ibovespa caiu ~30%. Quem tinha 10% de ouro na carteira amorteceu significativamente as perdas.
+
+Por isso, o ouro no contexto brasileiro funciona como seguro duplo: contra crises globais E contra desvalorização do real.
+
+---
+
+
+
+## Como comprar GOLD11 na prática
+
+1. Abra conta em qualquer corretora (Nu Invest, Rico, XP)
+2. Procure 'GOLD11' no Home Broker ou app
+3. Compre a quantidade de cotas desejada (cada cota ~R$50-100)
+4. Receba no custódia da B3 como qualquer ação
+
+Não há taxa de armazenamento adicional além da TER do ETF (~0,30%/ano). Venda quando quiser durante o horário de mercado (segunda a sexta, 10h-17h30).
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
   {
@@ -2125,9 +3611,110 @@ O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com
 
 [Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
+
 ---
 
-*Este artigo é de caráter informativo. Não há patrocínio editorial de nenhuma das corretoras mencionadas.*
+## XP Investimentos vs. Rico — contexto
+
+A Rico é uma corretora do grupo XP — ou seja, pertencem ao mesmo grupo financeiro. Apesar disso, têm plataformas, produtos e estratégias de cliente distintos.
+
+---
+
+## Comparação directa
+
+| | XP Investimentos | Rico |
+|---|---|---|
+| Corretagem ações/ETFs | Zero (plano básico) | Zero |
+| Renda fixa | Ampla seleção | Boa seleção |
+| Assessores | ✅ Rede ampla | ❌ Self-service |
+| Interface | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| Taxa de custódia | Pode incidir | Geralmente zero |
+| Público-alvo | Todos os perfis | Iniciantes e intermediários |
+
+---
+
+## Quando escolher XP
+
+- Quer assessor de investimentos presencial ou online
+- Investe em produtos estruturados (COE, fundos exclusivos)
+- Tem patrimônio acima de R$300k e quer atendimento personalizado
+- Quer acesso ao maior catálogo de produtos do Brasil
+
+---
+
+## Quando escolher Rico
+
+- É iniciante ou intermediário investindo sozinho
+- Foca em ETFs, Tesouro Direto e renda fixa simples
+- Quer interface simples sem pressão de assessores
+- Quer evitar taxas de custódia adicionais
+
+---
+
+## A nossa recomendação
+
+Para a maioria dos investidores brasileiros que começam com ETFs e Tesouro Direto, a **Rico** é suficiente e mais simples. Se crescer o patrimônio e quiser mais produtos ou assessoria, migrar para a XP é fácil (mesmo grupo).
+
+[→ Melhor corretora no Brasil em 2026 — comparação completa](/blog/melhor-corretora-brasil-2026)
+
+---
+
+## Perguntas frequentes
+
+**Posso transferir minha carteira da Rico para a XP (ou vice-versa)?**
+Sim — como são do mesmo grupo, a portabilidade é mais simples que entre corretoras diferentes.
+
+**Os produtos são os mesmos na XP e na Rico?**
+Não exatamente — a XP tem uma gama maior, especialmente em produtos estruturados e fundos. A Rico tem o essencial para a maioria dos investidores.
+
+
+---
+
+## Taxas ocultas — o que verificar em ambas
+
+Antes de escolher, verifique:
+
+**Taxa de custódia mensal:** algumas cobram se o patrimônio for baixo ou para certos produtos. Na Rico, geralmente zero. Na XP, pode incidir dependendo do produto.
+
+**Taxa de administração de fundos:** mesmo na plataforma, os fundos têm taxas próprias. Compare o TER (Total Expense Ratio) antes de investir.
+
+**Spread em câmbio:** se comprar BDRs ou produtos em dólar, o spread cambial cobra entre 0,5-2%. Verifique na corretora escolhida.
+
+**IOF:** para aplicações com resgate antes de 30 dias, incide IOF regressivo — isso se aplica independentemente da corretora.
+
+---
+
+## Conclusão — qual escolher em 2026
+
+Para a maioria dos brasileiros que estão começando ou têm patrimônio até R$200.000:
+
+**→ Rico** é a escolha mais simples. Zero corretagem, sem taxas surpresa, boa interface, excelente para ETFs e Tesouro Direto.
+
+Para quem tem patrimônio acima de R$200.000 ou quer produtos mais sofisticados (fundos exclusivos, COE, assessoria):
+
+**→ XP** tem vantagem pelo maior catálogo e rede de assessores.
+
+Lembre: mudar de corretora é fácil e gratuito (portabilidade B3). Comece onde for mais simples e migre depois se precisar de mais recursos.
+
+---
+
+
+
+## Como migrar entre corretoras sem pagar IR
+
+Se tiver ativos numa corretora e quiser mudar:
+
+1. Abra conta na nova corretora
+2. Solicite **portabilidade de custódia** na nova corretora (não na antiga)
+3. O processo demora 5-10 dias úteis
+4. Os ativos são transferidos mantendo o custo de aquisição original
+5. **Não há IR na transferência** — apenas na venda
+
+Este processo é gratuito e regulado pela B3. Funciona para ações, ETFs e FIIs.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
 ];
