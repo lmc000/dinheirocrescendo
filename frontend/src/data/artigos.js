@@ -97,7 +97,7 @@ Alguns indicadores importantes:
 
 Você precisa de uma conta em corretora para comprar FIIs. A XP Investimentos tem corretagem zero para FIIs e oferece a maior variedade de fundos do Brasil:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 Para acompanhar e analisar FIIs gratuitamente, use o **StatusInvest** (statusinvest.com.br) — tem todos os dados de proventos, P/VP e vacância atualizados.
 
@@ -107,7 +107,6 @@ Para acompanhar e analisar FIIs gratuitamente, use o **StatusInvest** (statusinv
 
 O curso **[Geração de Renda com Fundos Imobiliários](https://trk.udemy.com/vDQEGW)** na Udemy é o guia mais completo para investir em FIIs — mais de 20 horas de conteúdo cobrindo análise, tipos de fundos e como montar sua carteira do zero com foco em renda passiva.
 
-[Ver curso na Udemy →](https://trk.udemy.com/vDQEGW)
 
 
 ---
@@ -276,7 +275,7 @@ Exemplo: CDB a 115% do CDI por 2 anos (IR 15%)
 
 As melhores taxas de CDB, LCI e LCA geralmente estão em bancos digitais e corretoras, não nos grandes bancos tradicionais. Na XP você tem acesso a dezenas de emissores:
 
-[Ver CDBs e LCIs na XP →](PLACEHOLDER_XP_LINK)
+→ Compare CDBs e LCIs em plataformas como **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — ambas com zero corretagem e múltiplos emissores.
 
 ---
 
@@ -284,7 +283,6 @@ As melhores taxas de CDB, LCI e LCA geralmente estão em bancos digitais e corre
 
 O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** na Udemy ensina não só as diferenças entre todos os títulos de renda fixa, mas também estratégias avançadas para maximizar a rentabilidade — incluindo como fazer gestão ativa da sua carteira de renda fixa.
 
-[Ver curso na Udemy →](https://trk.udemy.com/enekd1)
 
 
 ---
@@ -455,7 +453,7 @@ Simples, diversificada e com liquidez. À medida que o patrimônio cresce, adici
 
 Para investir em todos esses ativos num único lugar, com corretagem zero:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -463,13 +461,11 @@ Para investir em todos esses ativos num único lugar, com corretagem zero:
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy ensina exatamente como montar e gerir uma carteira equilibrada — cobrindo renda fixa, ações, ETFs e fundos num único curso completo, com mais de 48.000 alunos e nota 4,7.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 ## 📚 Quer investir em FIIs?
 
 O curso **[Geração de Renda com Fundos Imobiliários](https://trk.udemy.com/vDQEGW)** na Udemy ensina do zero como analisar e escolher os melhores FIIs para a sua carteira.
 
-[Ver curso na Udemy →](https://trk.udemy.com/vDQEGW)
 
 
 ---
@@ -627,7 +623,7 @@ O valor mínimo é de aproximadamente **R$ 30** — equivalente a 1% do valor de
 
 Com corretagem zero na XP e Rico, não há custo para comprar e vender títulos. A única taxa é a **0,2% a.a.** cobrada pelo próprio Tesouro Nacional (já embutida na rentabilidade divulgada).
 
-[Abrir conta e investir no Tesouro Direto →](PLACEHOLDER_XP_LINK)
+→ Invista no Tesouro Direto via **[NuInvest](https://www.nuinvest.com.br/)** ou **[Rico](https://www.rico.com.vc/)** — sem taxa de corretagem adicional.
 
 ---
 
@@ -635,11 +631,9 @@ Com corretagem zero na XP e Rico, não há custo para comprar e vender títulos.
 
 O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy tem um módulo completo sobre Tesouro Direto, além de cobrir renda fixa, FIIs, fundos e ações — tudo num único curso com mais de 50.000 alunos.
 
-[Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
 O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** aprofunda ainda mais — estratégias avançadas de gestão ativa para maximizar o retorno no Tesouro Direto e em outros títulos de renda fixa.
 
-[Ver curso avançado na Udemy →](https://trk.udemy.com/enekd1)
 
 
 ---
@@ -773,7 +767,7 @@ Mas atenção: esses ganhos não são lineares. A bolsa sobe e desce no curto pr
 
 O primeiro passo é abrir conta em uma corretora. A XP Investimentos é a nossa recomendação para brasileiros — corretagem zero para ações e ETFs, plataforma completa e conteúdo educativo gratuito:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -781,7 +775,6 @@ O primeiro passo é abrir conta em uma corretora. A XP Investimentos é a nossa 
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 
 ---
@@ -852,7 +845,7 @@ Um simulador é uma versão da plataforma de investimento com dinheiro virtual. 
 
 Várias corretoras e a própria B3 oferecem simuladores gratuitos. Plataformas de home broker como as da XP e da Rico também têm ambientes de teste e carteiras simuladas para você praticar.
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -891,7 +884,7 @@ Não é necessário "dominar" o simulador — alguns erros só se aprendem na pr
 
 As principais corretoras brasileiras têm corretagem zero para ações e ETFs, então investir valores pequenos não sai caro:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
+→ **[Abrir conta na Rico](https://www.rico.com.vc/)** ou **[NuInvest](https://www.nuinvest.com.br/)** — ambas com zero corretagem e sem depósito mínimo.
 
 ---
 
@@ -899,7 +892,6 @@ As principais corretoras brasileiras têm corretagem zero para ações e ETFs, e
 
 O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
-[Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
 
 ---
@@ -1015,7 +1007,7 @@ Abaixo de R$ 200/mês, o impacto psicológico de "estar investindo" é mais vali
 
 A maioria das corretoras brasileiras hoje tem corretagem zero — o que era impensável há dez anos.
 
-[Abrir conta na XP sem depósito mínimo →](PLACEHOLDER_XP_LINK)
+→ **[NuInvest](https://www.nuinvest.com.br/)** e **[Rico](https://www.rico.com.vc/)** — zero corretagem, zero depósito mínimo, abertura 100% online em minutos.
 
 ---
 
@@ -1054,7 +1046,7 @@ A diferença entre começar hoje com R$ 200 e esperar 5 anos para ter "mais dinh
 
 Para começar com menos de R$ 500/mês, a XP é uma excelente opção: sem depósito mínimo, corretagem zero, acesso ao Tesouro Direto, CDBs, ações e ETFs em um só lugar:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
+→ **[Abrir conta na NuInvest](https://www.nuinvest.com.br/)** ou **[Rico](https://www.rico.com.vc/)** — zero corretagem, sem depósito mínimo.
 
 ---
 
@@ -1062,7 +1054,6 @@ Para começar com menos de R$ 500/mês, a XP é uma excelente opção: sem depó
 
 O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
-[Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
 
 ---
@@ -1212,7 +1203,7 @@ Em CDBs e no Tesouro Direto, o IR é retido na fonte automaticamente, seguindo a
 
 Para centralizar seus investimentos e informes em um só lugar, a XP é uma boa escolha:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -1220,7 +1211,6 @@ Para centralizar seus investimentos e informes em um só lugar, a XP é uma boa 
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 ---
 
@@ -1376,7 +1366,7 @@ A diferença entre 0,2%/ano (ETF) e 2%/ano (fundo ativo caro) parece pequena. Em
 
 A XP permite investir em ETFs, ações e renda fixa com corretagem zero:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -1384,7 +1374,6 @@ A XP permite investir em ETFs, ações e renda fixa com corretagem zero:
 
 O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
-[Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
 
 ---
@@ -1522,7 +1511,7 @@ Um ETF é um fundo de investimento que replica um índice (como o Ibovespa ou o 
 
 Para brasileiros, a nossa recomendação principal é a **XP** — corretagem zero, plataforma completa e todos os ETFs da B3 disponíveis:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 Alternativas: Rico e NuInvest (também com corretagem zero) e Avenue, se você quiser comprar ETFs diretamente nos EUA.
 
@@ -1576,7 +1565,6 @@ Pontos importantes:
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 ---
 
@@ -1631,7 +1619,7 @@ A XP é a nossa recomendação principal para investidores brasileiros. Corretag
 **Pontos fracos:**
 - Assessores podem indicar produtos com comissão — mantenha o foco no simples
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -1642,7 +1630,7 @@ A XP é a nossa recomendação principal para investidores brasileiros. Corretag
 
 A Rico (do mesmo grupo da XP) tem interface mais simples e despojada, ideal para quem quer praticidade sem abrir mão da variedade de produtos.
 
-[Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
+→ **[Rico](https://www.rico.com.vc/)** — zero corretagem, sem depósito mínimo.
 
 ---
 
@@ -1653,7 +1641,7 @@ A Rico (do mesmo grupo da XP) tem interface mais simples e despojada, ideal para
 
 Perfeita para iniciantes: o dinheiro sai da conta Nubank direto para o investimento, e a interface é a mais amigável do mercado. Inclusive oferece fundos cripto para quem quer exposição a Bitcoin sem usar exchange.
 
-[Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
+→ **[NuInvest](https://www.nuinvest.com.br/)** — zero corretagem, integração com Nubank.
 
 ---
 
@@ -1664,7 +1652,7 @@ Perfeita para iniciantes: o dinheiro sai da conta Nubank direto para o investime
 
 A Avenue foi criada para brasileiros investirem diretamente nos EUA: ações americanas, ETFs como VOO e VT, e REITs — com remessa de câmbio simplificada e a partir de poucos dólares (fração de ações).
 
-[Abrir conta na Avenue →](PLACEHOLDER_AVENUE_LINK)
+→ **[Avenue](https://avenue.us/)** — plataforma para investir nos EUA em dólar.
 
 ---
 
@@ -1681,7 +1669,7 @@ A Avenue foi criada para brasileiros investirem diretamente nos EUA: ações ame
 
 **A nossa recomendação clara: XP.** Corretagem zero, prateleira completa e plataforma sólida.
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -1706,7 +1694,6 @@ Além disso:
 
 O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
-[Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
 
 ---
@@ -1787,7 +1774,7 @@ O processo é 100% online e leva poucos minutos:
 5. Aguarde a validação (geralmente no mesmo dia)
 6. Faça o primeiro depósito via PIX ou TED
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -1836,7 +1823,7 @@ A XP disponibiliza em fevereiro/março o **informe de rendimentos** com toda a i
 
 Se você prefere uma interface mais enxuta, considere a Rico ou a NuInvest:
 
-[Abrir conta na Rico →](PLACEHOLDER_RICO_LINK) | [Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
+→ **[Rico](https://www.rico.com.vc/)** ou **[NuInvest](https://www.nuinvest.com.br/)** — zero corretagem, sem depósito mínimo.
 
 ---
 
@@ -1844,7 +1831,6 @@ Se você prefere uma interface mais enxuta, considere a Rico ou a NuInvest:
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 
 ---
@@ -1943,7 +1929,7 @@ Em vez de guardar o que sobra no fim do mês (frequentemente zero), você transf
 
 Configure um aporte automático para uma corretora como a XP no dia do pagamento:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -1964,7 +1950,7 @@ Configure um aporte automático para uma corretora como a XP no dia do pagamento
 
 **Investimento (longo prazo, 5+ anos):** ETFs de índice (BOVA11, IVVB11) em uma corretora com corretagem zero. A reserva de emergência não deve estar na bolsa.
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
+→ **[Abrir conta na NuInvest](https://www.nuinvest.com.br/)** ou **[Rico](https://www.rico.com.vc/)** — zero corretagem, sem depósito mínimo.
 
 ---
 
@@ -1972,7 +1958,6 @@ Configure um aporte automático para uma corretora como a XP no dia do pagamento
 
 O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
-[Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
 
 ---
@@ -2133,7 +2118,6 @@ Prejuízos em renda variável podem ser compensados com lucros futuros da mesma 
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 ---
 
@@ -2241,11 +2225,11 @@ Uma alocação comum:
 
 Você pode comprar todos esses ETFs com corretagem zero na XP:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 E quem quiser investir diretamente nos EUA, em dólar, pode usar a Avenue:
 
-[Abrir conta na Avenue →](PLACEHOLDER_AVENUE_LINK)
+→ **[Avenue](https://avenue.us/)** — plataforma para investir nos EUA em dólar.
 
 ---
 
@@ -2264,7 +2248,6 @@ E quem quiser investir diretamente nos EUA, em dólar, pode usar a Avenue:
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 
 ---
@@ -2397,7 +2380,7 @@ Além disso, previdência não tem come-cotas (a antecipação semestral de IR d
 
 Corretoras como a XP oferecem previdência com fundos de taxa baixa, e você pode fazer a portabilidade do seu plano de banco sem custo:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -2405,7 +2388,6 @@ Corretoras como a XP oferecem previdência com fundos de taxa baixa, e você pod
 
 O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** na Udemy é o guia mais completo sobre renda fixa no Brasil — cobre CDB, LCI, LCA, Tesouro Direto, títulos de empresas e estratégias avançadas de gestão ativa para maximizar rentabilidade.
 
-[Ver curso na Udemy →](https://trk.udemy.com/enekd1)
 
 
 ---
@@ -2533,7 +2515,7 @@ Investimento inicial de R$ 50.000 + R$ 1.500/mês:
 
 Para começar a investir em Tesouro Direto e ETFs no mesmo lugar, a XP é a nossa recomendação:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
+→ **[Abrir conta na Rico](https://www.rico.com.vc/)** ou **[NuInvest](https://www.nuinvest.com.br/)** — ambas com zero corretagem e sem depósito mínimo.
 
 ---
 
@@ -2541,7 +2523,6 @@ Para começar a investir em Tesouro Direto e ETFs no mesmo lugar, a XP é a noss
 
 O curso **[Investimento em Renda Fixa do Básico ao Avançado](https://trk.udemy.com/enekd1)** na Udemy é o guia mais completo sobre renda fixa no Brasil — cobre CDB, LCI, LCA, Tesouro Direto, títulos de empresas e estratégias avançadas de gestão ativa para maximizar rentabilidade.
 
-[Ver curso na Udemy →](https://trk.udemy.com/enekd1)
 
 
 ---
@@ -2683,7 +2664,7 @@ Lembre-se: o que importa é o ganho **real** (acima do IPCA). 12% de juros com 5
 
 A XP permite investir em ETFs e renda fixa com corretagem zero:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -2691,7 +2672,6 @@ A XP permite investir em ETFs e renda fixa com corretagem zero:
 
 O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
-[Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
 
 ---
@@ -2836,7 +2816,7 @@ No Brasil, os juros reais historicamente altos (Tesouro IPCA+ pagando IPCA + 5-6
 3. Abra conta em uma corretora com corretagem zero e comece a investir em ETFs e Tesouro IPCA+
 4. Aumente gradualmente a taxa de poupança
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
+→ **[Abrir conta na Rico](https://www.rico.com.vc/)** ou **[NuInvest](https://www.nuinvest.com.br/)** — ambas com zero corretagem e sem depósito mínimo.
 
 ---
 
@@ -2844,7 +2824,6 @@ No Brasil, os juros reais historicamente altos (Tesouro IPCA+ pagando IPCA + 5-6
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 ---
 
@@ -2854,7 +2833,6 @@ O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com
 
 Se os FIIs fazem parte da sua estratégia, o curso **[Geração de Renda com Fundos Imobiliários](https://trk.udemy.com/vDQEGW)** na Udemy ensina do zero como analisar e selecionar FIIs, montar uma carteira de renda passiva mensal e entender cada tipo de fundo. Mais de 20 horas de conteúdo.
 
-[Ver curso na Udemy →](https://trk.udemy.com/vDQEGW)
 
 
 ---
@@ -2975,7 +2953,7 @@ Com salário único médio é difícil. Em casal com dois salários e gastos con
 ### E cripto?
 Se quiser, limite a 1-5% da carteira. A Binance funciona no Brasil com depósito via PIX, e corretoras como XP e NuInvest oferecem fundos e ETFs cripto para quem prefere não usar exchange:
 
-[Abrir conta na Binance →](PLACEHOLDER_BINANCE_LINK)
+→ **[Binance Brasil](https://www.binance.com/pt-BR)** — maior exchange de criptomoedas do mundo.
 
 ---
 
@@ -2989,7 +2967,7 @@ Se quiser, limite a 1-5% da carteira. A Binance funciona no Brasil com depósito
 
 A XP tem todos esses ETFs, FIIs e títulos do Tesouro disponíveis com corretagem zero:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -2997,7 +2975,6 @@ A XP tem todos esses ETFs, FIIs e títulos do Tesouro disponíveis com corretage
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 ---
 
@@ -3007,7 +2984,6 @@ O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com
 
 Se os FIIs fazem parte da sua estratégia, o curso **[Geração de Renda com Fundos Imobiliários](https://trk.udemy.com/vDQEGW)** na Udemy ensina do zero como analisar e selecionar FIIs, montar uma carteira de renda passiva mensal e entender cada tipo de fundo. Mais de 20 horas de conteúdo.
 
-[Ver curso na Udemy →](https://trk.udemy.com/vDQEGW)
 
 
 ---
@@ -3121,7 +3097,7 @@ Antes de investir na bolsa, tenha pelo menos 3 meses de despesas no Tesouro Seli
 
 A XP é a nossa recomendação — corretagem zero, sem depósito mínimo e tudo em um só app:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
+→ **[Abrir conta na NuInvest](https://www.nuinvest.com.br/)** ou **[Rico](https://www.rico.com.vc/)** — zero corretagem, sem depósito mínimo.
 
 **Passo 3: Abra a conta e valide a identidade** (10-15 minutos online, só precisa de CPF)
 
@@ -3149,7 +3125,6 @@ Com R$ 100, boas opções:
 
 O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
-[Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
 
 ---
@@ -3293,7 +3268,7 @@ A NuInvest tornou-se uma das plataformas de investimento mais populares do Brasi
 - Prateleira de renda fixa menor que a da XP
 - Sem assessoria e menos ferramentas avançadas
 
-[Abrir conta na NuInvest →](PLACEHOLDER_NUINVEST_LINK)
+→ **[NuInvest](https://www.nuinvest.com.br/)** — zero corretagem, integração com Nubank.
 
 ---
 
@@ -3301,7 +3276,7 @@ A NuInvest tornou-se uma das plataformas de investimento mais populares do Brasi
 
 Se você quer mais opções de produtos e ferramentas, a XP é a nossa recomendação:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
+→ **[Abrir conta na Rico](https://www.rico.com.vc/)** ou **[NuInvest](https://www.nuinvest.com.br/)** — ambas com zero corretagem e sem depósito mínimo.
 
 ---
 
@@ -3309,7 +3284,6 @@ Se você quer mais opções de produtos e ferramentas, a XP é a nossa recomenda
 
 O curso **[Curso Definitivo de Investimentos para Iniciantes](https://trk.udemy.com/eneky6)** na Udemy está entre os 3 mais pesquisados em "Investimentos" na plataforma — cobre Tesouro Direto, Renda Fixa, Fundos, FIIs e Ações, com linguagem simples e mais de 50.000 alunos. Inclui 7 ebooks de bônus.
 
-[Ver curso na Udemy →](https://trk.udemy.com/eneky6)
 
 
 ---
@@ -3452,7 +3426,7 @@ Para o investidor brasileiro, o ouro tem um bônus: como é cotado em dólar, el
 
 A XP tem o GOLD11 e outros ETFs disponíveis sem corretagem:
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK)
+→ **[Rico](https://www.rico.com.vc/)** e **[NuInvest](https://www.nuinvest.com.br/)** — as corretoras com zero corretagem mais populares no Brasil.
 
 ---
 
@@ -3460,7 +3434,6 @@ A XP tem o GOLD11 e outros ETFs disponíveis sem corretagem:
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 
 ---
@@ -3597,11 +3570,11 @@ XP e Rico são duas das corretoras mais recomendadas para investidores brasileir
 - Pretende usar relatórios, análises e assessoria
 - Quer evoluir para produtos mais sofisticados com o tempo
 
-[Abrir conta na XP →](PLACEHOLDER_XP_LINK) | [Abrir conta na Rico →](PLACEHOLDER_RICO_LINK)
+→ **[Abrir conta na Rico](https://www.rico.com.vc/)** ou **[NuInvest](https://www.nuinvest.com.br/)** — ambas com zero corretagem e sem depósito mínimo.
 
 E para investir nos EUA em dólar, vale conhecer a Avenue:
 
-[Abrir conta na Avenue →](PLACEHOLDER_AVENUE_LINK)
+→ **[Avenue](https://avenue.us/)** — plataforma para investir nos EUA em dólar.
 
 ---
 
@@ -3609,7 +3582,6 @@ E para investir nos EUA em dólar, vale conhecer a Avenue:
 
 O curso **[Investimentos: Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy é um dos mais completos para iniciantes — renda fixa, ações, fundos, ETFs e Tesouro Direto num único curso. Mais de 48.000 alunos, nota 4,7 com quase 12.000 avaliações. Inclui ainda 3 cursos extra: Tributação, Tesouro Direto e Estratégias de Investimento.
 
-[Ver curso na Udemy →](https://trk.udemy.com/5ky1Wo)
 
 
 ---
