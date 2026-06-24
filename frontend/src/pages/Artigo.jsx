@@ -1,4 +1,4 @@
-import { useParams, Link } from "react-router-dom";
+﻿import { useParams, Link } from "react-router-dom";
 import { ArrowLeft, Clock, Calendar, AlertCircle, ExternalLink } from "lucide-react";
 import { Header } from "../components/landing/Header";
 import { FooterSection } from "../components/landing/FooterSection";
@@ -21,7 +21,7 @@ function parseLine(text) {
         if (match[1] && match[2]) {
             // **[texto](url)** — bold + link
             parts.push(
-                <a key={key++} href={match[2]} target="_blank" rel="noopener noreferrer"
+                <a key={key++} href={match[2]} target="_blank" rel="sponsored noopener noreferrer"
                     className="text-[#1D4ED8] font-bold hover:underline inline-flex items-center gap-1">
                     {match[1]} →
                 </a>
@@ -29,7 +29,7 @@ function parseLine(text) {
         } else if (match[3] && match[4]) {
             // [texto](url) — link simples
             parts.push(
-                <a key={key++} href={match[4]} target="_blank" rel="noopener noreferrer"
+                <a key={key++} href={match[4]} target="_blank" rel="sponsored noopener noreferrer"
                     className="text-[#1D4ED8] font-semibold hover:underline inline-flex items-center gap-1">
                     {match[3]} →
                 </a>
