@@ -1,0 +1,16 @@
+﻿{
+  "name": "Dinheiro Crescendo",
+  "short_name": "Dinheiro",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1D4ED8",
+  "background_color": "#EFF6FF",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
