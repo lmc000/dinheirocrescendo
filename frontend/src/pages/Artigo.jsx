@@ -1,31 +1,55 @@
 import { useParams, Link } from "react-router-dom";
-import { ArrowLeft, Clock, Calendar, AlertCircle } from "lucide-react";
+import { ArrowLeft, Clock, Calendar, AlertCircle, ExternalLink } from "lucide-react";
 import { Header } from "../components/landing/Header";
 import { FooterSection } from "../components/landing/FooterSection";
 import artigos from "../data/artigos";
 
 function parseLine(text) {
-    // Bold **texto**
-    const parts = text.split(/(\*\*[^*]+\*\*)/g);
-    return parts.map((part, i) => {
-        if (part.startsWith("**") && part.endsWith("**")) {
-            return <strong key={i} className="font-bold text-[#0A1628]">{part.slice(2, -2)}</strong>;
+    // Regex que apanha: bold+link **[texto](url)**, link [texto](url), bold **texto**, isoladamente
+    const regex = /\*\*\[([^\]]+)\]\(([^)]+)\)\*\*|\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*/g;
+    const parts = [];
+    let lastIndex = 0;
+    let match;
+    let key = 0;
+
+    while ((match = regex.exec(text)) !== null) {
+        // texto antes do match
+        if (match.index > lastIndex) {
+            parts.push(text.slice(lastIndex, match.index));
         }
-        // Links [texto](url)
-        const linkParts = part.split(/(\[[^\]]+\]\([^)]+\))/g);
-        return linkParts.map((lp, j) => {
-            const match = lp.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
-            if (match) {
-                return (
-                    <a key={j} href={match[2]} target="_blank" rel="noopener noreferrer"
-                        className="text-[#1D4ED8] font-semibold hover:underline inline-flex items-center gap-1">
-                        {match[1]} →
-                    </a>
-                );
-            }
-            return lp;
-        });
-    });
+
+        if (match[1] && match[2]) {
+            // **[texto](url)** — bold + link
+            parts.push(
+                <a key={key++} href={match[2]} target="_blank" rel="noopener noreferrer"
+                    className="text-[#1D4ED8] font-bold hover:underline inline-flex items-center gap-1">
+                    {match[1]} →
+                </a>
+            );
+        } else if (match[3] && match[4]) {
+            // [texto](url) — link simples
+            parts.push(
+                <a key={key++} href={match[4]} target="_blank" rel="noopener noreferrer"
+                    className="text-[#1D4ED8] font-semibold hover:underline inline-flex items-center gap-1">
+                    {match[3]} →
+                </a>
+            );
+        } else if (match[5]) {
+            // **texto** — bold simples
+            parts.push(
+                <strong key={key++} className="font-bold text-[#0A1628]">{match[5]}</strong>
+            );
+        }
+
+        lastIndex = regex.lastIndex;
+    }
+
+    // texto restante
+    if (lastIndex < text.length) {
+        parts.push(text.slice(lastIndex));
+    }
+
+    return parts.length === 0 ? text : parts;
 }
 
 function renderContent(content) {
