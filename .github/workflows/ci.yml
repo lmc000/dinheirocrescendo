@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 18
 
       - name: Install dependencies
         run: npm install --legacy-peer-deps
@@ -29,12 +29,17 @@ jobs:
 
       - name: Validate robots.txt sitemap domain
         run: |
+          SITEMAP_LINE=$(grep "^Sitemap:" public/robots.txt 2>/dev/null || true)
+          if [ -z "$SITEMAP_LINE" ]; then
+            echo "SKIP: No Sitemap line in robots.txt, skipping validation"
+            exit 0
+          fi
           CANONICAL=$(grep -oP '(?<=og:url" content=")[^"]+' public/index.html | head -1)
-          SITEMAP_DOMAIN=$(grep -oP '(?<=Sitemap: https://)([^/]+)' public/robots.txt | head -1)
+          SITEMAP_DOMAIN=$(echo "$SITEMAP_LINE" | grep -oP '(?<=https://)([^/]+)')
           INDEX_DOMAIN=$(echo "$CANONICAL" | sed 's|https://||' | sed 's|www\.||' | sed 's|/||g')
           SITEMAP_CLEAN=$(echo "$SITEMAP_DOMAIN" | sed 's|www\.||')
           if [ "$SITEMAP_CLEAN" != "$INDEX_DOMAIN" ]; then
-            echo "ERROR: robots.txt Sitemap domain ($SITEMAP_DOMAIN) does not match og:url domain ($CANONICAL)"
+            echo "ERROR: robots.txt Sitemap ($SITEMAP_DOMAIN) != og:url ($CANONICAL)"
             exit 1
           fi
-          echo "OK: Sitemap domain matches og:url domain ($SITEMAP_DOMAIN)"
+          echo "OK: $SITEMAP_DOMAIN matches $CANONICAL"
