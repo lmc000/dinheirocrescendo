@@ -1,4 +1,5 @@
-﻿import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HelmetProvider } from "react-helmet-async";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Analytics } from "@vercel/analytics/react";
 import Landing from "./pages/Landing";
 import Blog from "./pages/Blog";
@@ -10,6 +11,7 @@ import NotFound from "./pages/NotFound";
 
 export default function App() {
     return (
+        <HelmetProvider>
         <BrowserRouter>
             <Routes>
                 <Route path="/" element={<Landing />} />
@@ -21,5 +23,6 @@ export default function App() {
                 <Route path="*" element={<NotFound />} />
             </Routes>
         </BrowserRouter>
+        </HelmetProvider>
     );
 }
