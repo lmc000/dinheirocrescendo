@@ -1,4 +1,5 @@
-﻿import { useParams, Link } from "react-router-dom";
+﻿import { useEffect } from "react";
+import { useParams, Link } from "react-router-dom";
 import { ArrowLeft, Clock, Calendar, AlertCircle, ExternalLink } from "lucide-react";
 import { Header } from "../components/landing/Header";
 import { FooterSection } from "../components/landing/FooterSection";
@@ -136,6 +137,29 @@ function renderContent(content) {
 export default function Artigo() {
     const { slug } = useParams();
     const artigo = artigos.find((a) => a.slug === slug);
+
+    useEffect(() => {
+        if (!artigo) return;
+        const script = document.createElement('script');
+        script.type = 'application/ld+json';
+        script.setAttribute('data-schema', 'article');
+        script.text = JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": artigo.titulo,
+            "description": artigo.descricao,
+            "datePublished": artigo.data,
+            "url": `https://www.dinheirocrescendo.com.br/blog/${artigo.slug}`,
+            "inLanguage": "pt-BR",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Dinheiro Crescendo",
+                "url": "https://www.dinheirocrescendo.com.br"
+            }
+        });
+        document.head.appendChild(script);
+        return () => { try { document.head.removeChild(script); } catch(e) {} };
+    }, [artigo]);
 
     if (!artigo) {
         return (
