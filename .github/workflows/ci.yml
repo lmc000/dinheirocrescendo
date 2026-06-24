@@ -1,0 +1,45 @@
+﻿name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: yarn
+          cache-dependency-path: frontend/yarn.lock
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Lint
+        run: yarn lint --max-warnings 0
+        continue-on-error: true
+
+      - name: Build
+        run: yarn build
+
+      - name: Validate robots.txt sitemap domain
+        run: |
+          CANONICAL=$(grep -oP '(?<=og:url" content=")[^"]+' public/index.html | head -1)
+          SITEMAP_DOMAIN=$(grep -oP '(?<=Sitemap: https://)([^/]+)' public/robots.txt | head -1)
+          INDEX_DOMAIN=$(echo "$CANONICAL" | sed 's|https://||' | sed 's|/||g')
+          if [ "$SITEMAP_DOMAIN" != "$INDEX_DOMAIN" ]; then
+            echo "ERROR: robots.txt Sitemap domain ($SITEMAP_DOMAIN) does not match og:url domain ($INDEX_DOMAIN)"
+            exit 1
+          fi
+          echo "OK: Sitemap domain matches og:url domain"

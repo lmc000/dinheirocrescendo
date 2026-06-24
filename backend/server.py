@@ -1,4 +1,4 @@
-from fastapi import FastAPI, APIRouter
+﻿from fastapi import FastAPI, APIRouter
 from dotenv import load_dotenv
 from starlette.middleware.cors import CORSMiddleware
 from motor.motor_asyncio import AsyncIOMotorClient
@@ -72,7 +72,7 @@ app.include_router(api_router)
 app.add_middleware(
     CORSMiddleware,
     allow_credentials=True,
-    allow_origins=os.environ.get('CORS_ORIGINS', '*').split(','),
+    allow_origins=os.environ.get('CORS_ORIGINS', 'https://www.dinheirocrescendo.com.br').split(','),
     allow_methods=["*"],
     allow_headers=["*"],
 )
