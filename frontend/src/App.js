@@ -6,6 +6,7 @@ import Blog from "./pages/Blog";
 import Artigo from "./pages/Artigo";
 import Corretoras from "./pages/Corretoras";
 import Ferramentas from "./pages/Ferramentas";
+import Sobre from "../pages/Sobre";
 import Privacidade from "./pages/Privacidade";
 import NotFound from "./pages/NotFound";
 
@@ -19,6 +20,7 @@ export default function App() {
                 <Route path="/blog/:slug" element={<Artigo />} />
                 <Route path="/corretoras" element={<Corretoras />} />
                 <Route path="/ferramentas" element={<Ferramentas />} />
+                <Route path="/sobre" element={<Sobre />} />
                 <Route path="/privacidade" element={<Privacidade />} />
                 <Route path="*" element={<NotFound />} />
             </Routes>
