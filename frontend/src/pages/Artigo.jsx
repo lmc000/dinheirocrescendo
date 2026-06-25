@@ -24,7 +24,7 @@ function parseLine(text) {
             // **[texto](url)** — bold + link
             parts.push(
                 <a key={key++} href={match[2]} target="_blank" rel="sponsored noopener noreferrer"
-                    className="text-[#1D4ED8] font-bold hover:underline inline-flex items-center gap-1">
+                    className="inline-flex items-center gap-2 bg-[#1D4ED8] text-white font-bold px-5 py-2.5 rounded-xl hover:opacity-90 transition-opacity my-2 shadow-sm">
                     {match[1]} →
                 </a>
             );
@@ -32,7 +32,7 @@ function parseLine(text) {
             // [texto](url) — link simples
             parts.push(
                 <a key={key++} href={match[4]} target="_blank" rel="sponsored noopener noreferrer"
-                    className="text-[#1D4ED8] font-semibold hover:underline inline-flex items-center gap-1">
+                    className="inline-flex items-center gap-2 bg-[#1D4ED8] text-white font-bold px-5 py-2.5 rounded-xl hover:opacity-90 transition-opacity my-2 shadow-sm">
                     {match[3]} →
                 </a>
             );
