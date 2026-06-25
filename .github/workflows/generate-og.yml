@@ -1,0 +1,34 @@
+name: Generate OG Images
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'frontend/src/data/artigos.js'
+  workflow_dispatch:
+
+jobs:
+  generate-og:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install Puppeteer
+        run: npm install puppeteer
+
+      - name: Generate OG images
+        run: node generate-og.js
+
+      - name: Commit images
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add frontend/public/images/artigos/
+          git diff --staged --quiet || git commit -m "chore: auto-generate OG images [skip ci]"
+          git push
