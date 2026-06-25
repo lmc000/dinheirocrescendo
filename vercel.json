@@ -1,15 +1,37 @@
 ﻿{
   "builds": [
     {
+      "src": "backend/server.py",
+      "use": "@vercel/python"
+    },
+    {
       "src": "frontend/package.json",
       "use": "@vercel/static-build",
-      "config": { "distDir": "build" }
+      "config": {
+        "distDir": "build"
+      }
     }
   ],
   "routes": [
-    { "src": "/blog(.*)", "dest": "/frontend/index.html" },
-    { "src": "/static/(.*)", "dest": "/frontend/static/$1" },
-    { "src": "/(.*\\.(?:js|css|png|jpg|jpeg|gif|svg|ico|json|txt|xml))", "dest": "/frontend/$1" },
-    { "src": "/(.*)", "dest": "/frontend/index.html" }
+    {
+      "src": "/api/(.*)",
+      "dest": "backend/server.py"
+    },
+    {
+      "src": "/blog(.*)",
+      "dest": "/frontend/index.html"
+    },
+    {
+      "src": "/static/(.*)",
+      "dest": "/frontend/static/$1"
+    },
+    {
+      "src": "/(.*\\.(js|css|png|jpg|jpeg|gif|svg|ico|json|txt|xml))",
+      "dest": "/frontend/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/frontend/index.html"
+    }
   ]
 }
