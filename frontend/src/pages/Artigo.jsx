@@ -164,7 +164,7 @@ export default function Artigo() {
     const artigo = artigos.find((a) => a.slug === slug);
     const toc = artigo ? extractTOC(artigo.conteudo) : [];
     const related = artigo ? artigos.filter(a => a.slug !== artigo.slug && a.categoria === artigo.categoria).slice(0, 3) : [];
-    const shareUrl = artigo ? `https://www.dinheirocrescendo.com.br/blog/$`{artigo.slug}` : '';
+    const shareUrl = artigo ? `https://www.dinheirocrescendo.com.br/blog/${artigo.slug}` : '';
 
     useEffect(() => {
         if (!artigo) return;
