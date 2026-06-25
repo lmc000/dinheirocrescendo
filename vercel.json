@@ -1,4 +1,4 @@
-﻿{
+{
   "builds": [
     {
       "src": "backend/server.py",
