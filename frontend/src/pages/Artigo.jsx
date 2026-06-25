@@ -135,9 +135,36 @@ function renderContent(content) {
     return elements;
 }
 
+function extractTOC(conteudo) {
+    return conteudo.split('\n')
+        .filter(l => l.startsWith('## '))
+        .map(l => l.slice(3).trim())
+        .slice(0, 8);
+}
+
+function extractFAQs(conteudo) {
+    const lines = conteudo.split('\n');
+    const faqs = [];
+    let q = null, a = [];
+    for (const line of lines) {
+        if (line.startsWith('## ')) {
+            if (q && a.length > 0) faqs.push({ q, a: a.join(' ').trim() });
+            q = line.slice(3).trim().replace(/—.*$/, '').trim();
+            if (!q.endsWith('?')) q += '?';
+            a = [];
+        } else if (q && line.trim() && !line.startsWith('#') && !line.startsWith('|') && !line.startsWith('-') && !line.startsWith('>')) {
+            a.push(line.trim());
+        }
+    }
+    if (q && a.length > 0) faqs.push({ q, a: a.join(' ').trim() });
+    return faqs.filter(f => f.a.length > 40).slice(0, 5);
+}
 export default function Artigo() {
     const { slug } = useParams();
     const artigo = artigos.find((a) => a.slug === slug);
+    const toc = artigo ? extractTOC(artigo.conteudo) : [];
+    const related = artigo ? artigos.filter(a => a.slug !== artigo.slug && a.categoria === artigo.categoria).slice(0, 3) : [];
+    const shareUrl = artigo ? `https://www.dinheirocrescendo.com.br/blog/$`{artigo.slug}` : '';
 
     useEffect(() => {
         if (!artigo) return;
@@ -150,6 +177,7 @@ export default function Artigo() {
             "headline": artigo.titulo,
             "description": artigo.descricao,
             "datePublished": artigo.data,
+            "dateModified": artigo.data,
             "image": `https://www.dinheirocrescendo.com.br/images/artigos/${artigo.slug}.jpg`,
             "author": { "@type": "Person", "name": "Luís Costa", "url": "https://www.dinheirocrescendo.com.br/sobre" },
             "url": `https://www.dinheirocrescendo.com.br/blog/${artigo.slug}`,
@@ -162,6 +190,47 @@ export default function Artigo() {
         });
         document.head.appendChild(script);
         return () => { try { document.head.removeChild(script); } catch(e) {} };
+    }, [artigo]);
+    useEffect(() => {
+        if (!artigo) return;
+        const scripts = [];
+
+        // FAQ schema
+        const faqs = extractFAQs(artigo.conteudo);
+        if (faqs.length >= 2) {
+            const fs = document.createElement('script');
+            fs.type = 'application/ld+json';
+            fs.setAttribute('data-schema', 'faq');
+            fs.text = JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": faqs.map(f => ({
+                    "@type": "Question",
+                    "name": f.q,
+                    "acceptedAnswer": { "@type": "Answer", "text": f.a.substring(0, 500) }
+                }))
+            });
+            document.head.appendChild(fs);
+            scripts.push(fs);
+        }
+
+        // BreadcrumbList schema
+        const bs = document.createElement('script');
+        bs.type = 'application/ld+json';
+        bs.setAttribute('data-schema', 'breadcrumb');
+        bs.text = JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://www.dinheirocrescendo.com.br" },
+                { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.dinheirocrescendo.com.br/blog" },
+                { "@type": "ListItem", "position": 3, "name": artigo.titulo, "item": `https://www.dinheirocrescendo.com.br/blog/${artigo.slug}` }
+            ]
+        });
+        document.head.appendChild(bs);
+        scripts.push(bs);
+
+        return () => { scripts.forEach(s => { try { document.head.removeChild(s); } catch(e) {} }); };
     }, [artigo]);
 
     if (!artigo) {
@@ -206,7 +275,48 @@ export default function Artigo() {
                         </p>
                     </div>
 
-                    <div className="prose max-w-none">{renderContent(artigo.conteudo)}</div>
+                    
+                    {toc.length >= 3 && (
+                        <div className="bg-white border border-gray-200 rounded-2xl p-5 mb-6">
+                            <p className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-3">Neste artigo</p>
+                            <ol className="space-y-1.5 list-none">
+                                {toc.map((text, i) => (
+                                    <li key={i} className="text-sm text-gray-600 flex gap-2">
+                                        <span className="font-bold text-gray-300">{i + 1}.</span>
+                                        <span>{text}</span>
+                                    </li>
+                                ))}
+                            </ol>
+                        </div>
+                    )}
+
+                    <div className="flex items-center gap-3 mb-6">
+                        <span className="text-sm text-gray-500 font-medium">Partilhar:</span>
+                        <a href={`https://wa.me/?text=${encodeURIComponent(artigo.titulo + ' ' + shareUrl)}`}
+                            target="_blank" rel="noopener noreferrer"
+                            className="flex items-center gap-1.5 bg-[#25D366] text-white text-xs font-bold px-4 py-2 rounded-full hover:opacity-90 transition-opacity">
+                            WhatsApp
+                        </a>
+                        <a href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(artigo.titulo)}&url=${encodeURIComponent(shareUrl)}`}
+                            target="_blank" rel="noopener noreferrer"
+                            className="flex items-center gap-1.5 bg-black text-white text-xs font-bold px-4 py-2 rounded-full hover:opacity-80 transition-opacity">
+                            𝕏 Twitter
+                        </a>
+                    </div>
+<div className="prose max-w-none">{renderContent(artigo.conteudo)}
+                    {related.length > 0 && (
+                        <div className="mt-12 pt-8 border-t border-gray-200">
+                            <h3 className="text-base font-bold text-gray-700 mb-4">Artigos relacionados</h3>
+                            <div className="grid gap-3 sm:grid-cols-3">
+                                {related.map(a => (
+                                    <Link key={a.slug} to={`/blog/${a.slug}`} className="block p-4 bg-white border border-gray-200 rounded-xl hover:border-gray-300 transition-colors">
+                                        <p className="font-semibold text-gray-800 text-sm leading-snug mb-1">{a.titulo}</p>
+                                        <p className="text-xs text-gray-400">{a.tempoLeitura}</p>
+                                    </Link>
+                                ))}
+                            </div>
+                        </div>
+                    )}</div>
                 </div>
             </main>
             <FooterSection />
