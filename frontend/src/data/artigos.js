@@ -3713,6 +3713,149 @@ Este processo é gratuito e regulado pela B3. Funciona para ações, ETFs e FIIs
 *Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
+  {
+    slug: "juros-compostos-r50-por-mes-quanto-rende",
+    titulo: "R$50 por Mês Parece Pouco? Veja o Que os Juros Compostos Fazem em 30 Anos",
+    descricao: "Você provavelmente gastou R$50 essa semana sem perceber. Descubra por que esse valor pode ser o mais importante da sua vida financeira — e como os juros compostos transformam pequenos aportes em grandes patrimônios.",
+    categoria: "basicos",
+    data: "2026-06-25",
+    tempoLeitura: "9 min",
+    conteudo: `
+[youtube:_PlRAluX9pA]
+
+Você provavelmente gastou R$50 essa semana sem perceber. Um lanche aqui. Um aplicativo ali. Uma compra por impulso que você nem lembra mais.
+
+R$50 somem tão rápido que parecem não ter peso nenhum. Parecem pequenos demais pra fazer diferença em qualquer coisa que importe de verdade.
+
+Mas e se esse número fosse, na verdade, o mais importante da sua vida financeira?
+
+---
+
+## A oitava maravilha do mundo
+
+Existe um conceito que Albert Einstein teria chamado de a oitava maravilha do mundo. Ele se chama **juros compostos**. E a maioria das pessoas passa a vida inteira sem entender o que ele realmente faz com dinheiro ao longo do tempo.
+
+Juros compostos não são juros normais. Juros normais crescem em linha reta. Juros compostos crescem em curva — uma curva que começa devagar, quase invisível, e depois explode de um jeito que parece impossível.
+
+---
+
+## O experimento das duas pessoas
+
+Imagine duas pessoas. As duas têm 25 anos. As duas ganham o mesmo salário. As duas acham que R$50 por mês é pouco.
+
+**A primeira pessoa** decide esperar. Vai começar a investir quando ganhar mais. Quando a vida estiver mais organizada. Quando sobrar dinheiro de verdade.
+
+**A segunda pessoa** começa hoje. R$50 por mês. Todo mês. Sem falta.
+
+Trinta anos depois, quando as duas têm 55 anos:
+
+| | Pessoa 1 | Pessoa 2 |
+|---|---|---|
+| Total investido | R$0 | R$18.000 |
+| Patrimônio acumulado | R$0 | R$113.000–200.000 |
+| De onde veio o extra | — | Do tempo e dos juros compostos |
+
+Esse dinheiro extra não veio do bolso da segunda pessoa. Veio do **tempo** — dos juros rendendo sobre os juros anteriores, mês após mês, em silêncio, enquanto ela dormia.
+
+---
+
+## Por que o cérebro humano sabota seus investimentos
+
+O pesquisador Daniel Kahneman, ganhador do Prêmio Nobel de Economia, descobriu algo chamado de **desconto hiperbólico**: a tendência que o cérebro tem de valorizar o presente de forma desproporcional ao futuro.
+
+Em termos simples: R$50 hoje parece muito mais real e valioso do que R$150.000 daqui a 30 anos. Seu cérebro não consegue sentir o futuro — ele só consegue sentir agora.
+
+Quando você decide gastar R$50 em vez de investir, não é fraqueza de caráter. É o seu sistema nervoso funcionando exatamente como foi programado pela evolução. Seus ancestrais que priorizavam recursos imediatos sobreviveram. O problema é que esse mecanismo, útil na savana africana há 200.000 anos, está destruindo o futuro financeiro de milhões de pessoas hoje.
+
+---
+
+## A solução: automatize e esqueça
+
+O economista comportamental Richard Thaler, também ganhador do Nobel, desenvolveu o conceito de **arquitetura de escolha**: você não precisa ter força de vontade infinita. Você só precisa estruturar o ambiente de um jeito que a decisão certa aconteça automaticamente.
+
+Na prática: **configure uma transferência automática para uma conta de investimento no primeiro dia depois que seu salário cair.** Trate esse dinheiro como se não existisse.
+
+Quando o investimento sai antes de você ver o dinheiro, seu cérebro não registra como perda. Ele simplesmente recalibra o que considera disponível.
+
+---
+
+## Onde investir R$50 — as melhores opções
+
+A poupança rende pouco acima da inflação — em alguns anos, nem isso. Existem alternativas acessíveis e muito superiores:
+
+**Tesouro Direto (Tesouro Selic)**
+Programa do governo federal. O Tesouro Selic acompanha a taxa básica de juros. Quando os juros sobem, seu dinheiro rende mais. É o investimento mais seguro do Brasil — o risco é o próprio governo federal. Valor mínimo: a partir de R$30.
+
+**ETFs (Fundos de Índice)**
+Fundos que replicam automaticamente o desempenho de um índice como o Ibovespa. Em vez de escolher ações individuais, você investe no mercado inteiro de uma vez. Custo baixíssimo, diversificação automática, histórico de longo prazo consistentemente superior à poupança.
+
+**CDBs de bancos digitais**
+Muitos bancos digitais oferecem CDBs que rendem 100% ou mais do CDI, com liquidez diária. Seguros (cobertos pelo FGC até R$250.000), simples e muito superiores à poupança.
+
+Você pode começar em qualquer uma dessas opções pela **[Rico](https://www.rico.com.vc/)** ou **[NuInvest](https://www.nuinvest.com.br/)** — ambas com zero corretagem e abertura 100% online.
+
+---
+
+## Quanto R$50 por mês rende na prática
+
+Simulação com taxa de 10% ao ano (conservadora para o histórico brasileiro de longo prazo):
+
+| Prazo | Total investido | Patrimônio acumulado |
+|---|---|---|
+| 10 anos | R$6.000 | ~R$10.000 |
+| 20 anos | R$12.000 | ~R$38.000 |
+| 30 anos | R$18.000 | ~R$113.000 |
+
+Se aumentar para R$100/mês, esses números dobram. Com R$200/mês durante 30 anos: perto de R$450.000.
+
+Tudo isso começando de um valor que, essa semana, você provavelmente gastou sem perceber.
+
+---
+
+## O erro que destrói a curva dos juros compostos
+
+As pessoas começam. E param.
+
+Um mês difícil. Uma conta inesperada. E o investimento é a primeira coisa a ser cortada — exatamente no momento em que a curva dos juros compostos começa a ganhar velocidade.
+
+**A solução: reserva de emergência primeiro.**
+
+Antes de investir para o longo prazo, construa uma reserva que cubra 3 a 6 meses das suas despesas. Guarde em lugar líquido e seguro (CDB com liquidez diária ou Tesouro Selic). Não toque exceto em emergência real.
+
+Com essa reserva em lugar, seus investimentos de longo prazo ficam protegidos. Você para de precisar resgatar o que plantou antes de crescer.
+
+**A sequência certa:**
+1. Reserva de emergência (3-6 meses de despesas)
+2. Investimento automático mensal (começa com o que tiver — mesmo R$50)
+3. Aumenta o aporte gradualmente com o tempo
+
+---
+
+## 📚 Quer aprender a investir do zero?
+
+O curso **[Aprenda a Investir seu Dinheiro](https://trk.udemy.com/5ky1Wo)** na Udemy cobre exactamente este caminho — renda fixa, ETFs, Tesouro Direto e como montar uma carteira do zero. Mais de 48.000 alunos e nota 4,7.
+
+---
+
+## Conclusão
+
+Duas pessoas. 25 anos. R$50.
+
+Uma esperou. A outra começou.
+
+A diferença entre as duas não foi inteligência, salário ou sorte. Foi uma transferência automática de R$50 configurada numa tarde qualquer.
+
+O maior inimigo da sua riqueza não é a inflação, não é o governo, não é o mercado. É a versão de você que decide que R$50 é pequeno demais para importar.
+
+E a melhor notícia: você pode começar essa tarde. Com exactamente o valor que gastou essa semana sem perceber.
+
+→ **[Abrir conta na Rico](https://www.rico.com.vc/)** ou **[NuInvest](https://www.nuinvest.com.br/)** — zero corretagem, sem depósito mínimo.
+
+---
+
+*Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
+    `
+  },
 ];
 
 export default artigos;
