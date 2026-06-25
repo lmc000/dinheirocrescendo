@@ -7,7 +7,10 @@ import { FooterSection } from "../components/landing/FooterSection";
 import artigos from "../data/artigos";
 
 function parseLine(text) {
-    // Regex que apanha: bold+link **[texto](url)**, link [texto](url), bold **texto**, isoladamente
+    // Regex que apanha em ordem correcta:
+    // 1. **[texto](url)** — bold + link combinados
+    // 2. [texto](url) — link simples
+    // 3. **texto** — bold simples
     const regex = /\*\*\[([^\]]+)\]\(([^)]+)\)\*\*|\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*/g;
     const parts = [];
     let lastIndex = 0;
@@ -15,7 +18,6 @@ function parseLine(text) {
     let key = 0;
 
     while ((match = regex.exec(text)) !== null) {
-        // texto antes do match
         if (match.index > lastIndex) {
             parts.push(text.slice(lastIndex, match.index));
         }
@@ -46,7 +48,6 @@ function parseLine(text) {
         lastIndex = regex.lastIndex;
     }
 
-    // texto restante
     if (lastIndex < text.length) {
         parts.push(text.slice(lastIndex));
     }
@@ -67,6 +68,28 @@ function renderContent(content) {
             if (line.trim() === "---") {
                 elements.push(<hr key={key++} className="border-slate-200 my-8" />);
             }
+            i++;
+            continue;
+        }
+
+        // Embed YouTube [youtube:VIDEO_ID]
+        const youtubeMatch = line.trim().match(/^\[youtube:([a-zA-Z0-9_-]+)\]$/);
+        if (youtubeMatch) {
+            const videoId = youtubeMatch[1];
+            elements.push(
+                <div key={key++} className="my-8 rounded-2xl overflow-hidden shadow-lg" style={{ aspectRatio: "16/9" }}>
+                    <iframe
+                        width="100%"
+                        height="100%"
+                        src={`https://www.youtube.com/embed/${videoId}`}
+                        title="YouTube video"
+                        frameBorder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                        style={{ display: "block" }}
+                    />
+                </div>
+            );
             i++;
             continue;
         }
