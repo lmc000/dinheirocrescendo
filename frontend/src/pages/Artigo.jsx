@@ -150,6 +150,7 @@ export default function Artigo() {
             "headline": artigo.titulo,
             "description": artigo.descricao,
             "datePublished": artigo.data,
+            "image": `https://www.dinheirocrescendo.com.br/images/artigos/${artigo.slug}.jpg`,
             "author": { "@type": "Person", "name": "Luís Costa", "url": "https://www.dinheirocrescendo.com.br/sobre" },
             "url": `https://www.dinheirocrescendo.com.br/blog/${artigo.slug}`,
             "inLanguage": "pt-BR",
