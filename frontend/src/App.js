@@ -6,7 +6,7 @@ import Blog from "./pages/Blog";
 import Artigo from "./pages/Artigo";
 import Corretoras from "./pages/Corretoras";
 import Ferramentas from "./pages/Ferramentas";
-import Sobre from "../pages/Sobre";
+import Sobre from "./pages/Sobre";
 import Privacidade from "./pages/Privacidade";
 import NotFound from "./pages/NotFound";
 
