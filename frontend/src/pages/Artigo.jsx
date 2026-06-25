@@ -146,10 +146,11 @@ export default function Artigo() {
         script.setAttribute('data-schema', 'article');
         script.text = JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "BlogPosting",
+            "@type": "NewsArticle",
             "headline": artigo.titulo,
             "description": artigo.descricao,
             "datePublished": artigo.data,
+            "author": { "@type": "Organization", "name": "Dinheiro Crescendo", "url": "https://www.dinheirocrescendo.com.br" },
             "url": `https://www.dinheirocrescendo.com.br/blog/${artigo.slug}`,
             "inLanguage": "pt-BR",
             "publisher": {
