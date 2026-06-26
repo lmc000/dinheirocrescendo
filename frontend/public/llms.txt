@@ -1,0 +1,32 @@
+# DinheiroCrescendo.com.br
+> Guia independente de finanças pessoais e investimentos no Brasil. Conteúdo educativo, sem recomendações de investimento.
+
+## Sobre
+DinheiroCrescendo.com.br é um site brasileiro de educação financeira. Cobre poupança, investimentos, crédito e independência financeira.
+
+## Artigos
+
+- [O que são Fundos Imobiliários (FIIs)? Guia Completo para Iniciantes 2026](https://www.dinheirocrescendo.com.br/blog/o-que-sao-fundos-imobiliarios-fiis-guia-completo)
+- [CDB, LCI e LCA — Diferenças, Rendimentos e Qual Escolher em 2026](https://www.dinheirocrescendo.com.br/blog/cdb-lci-lca-diferencas-qual-escolher-2026)
+- [Como Montar sua Primeira Carteira de Investimentos no Brasil (2026)](https://www.dinheirocrescendo.com.br/blog/como-montar-carteira-de-investimentos-brasil)
+- [Tesouro Direto em 2026 — Guia Completo para Iniciantes](https://www.dinheirocrescendo.com.br/blog/tesouro-direto-guia-completo-iniciantes-2026)
+- [O que é a Bolsa de Valores e Como Funciona? (Guia para Iniciantes 2026)](https://www.dinheirocrescendo.com.br/blog/o-que-e-a-bolsa-de-valores)
+- [Simulador vs Conta Real — Por Onde Começar a Investir?](https://www.dinheirocrescendo.com.br/blog/conta-demo-vs-conta-real)
+- [Quanto Preciso para Começar a Investir no Brasil? (2026)](https://www.dinheirocrescendo.com.br/blog/quanto-preciso-para-comecar-a-investir)
+- [Como Declarar Investimentos no Imposto de Renda — Guia Prático 2026](https://www.dinheirocrescendo.com.br/blog/imposto-de-renda-investimentos-declarar-brasil-guia)
+- [Como Funcionam os Juros Compostos? Exemplos Práticos para Brasileiros (2026)](https://www.dinheirocrescendo.com.br/blog/juro-composto-funciona-exemplos)
+- [Como Investir em ETFs no Brasil — Guia Completo para Iniciantes (2026)](https://www.dinheirocrescendo.com.br/blog/como-investir-em-etfs-brasil)
+- [Melhor Corretora para Investir no Brasil em 2026](https://www.dinheirocrescendo.com.br/blog/melhor-corretora-brasil-2026)
+- [XP Investimentos — Guia Completo 2026 (Abertura de Conta, Taxas e IR)](https://www.dinheirocrescendo.com.br/blog/xp-investimentos-guia-completo-brasil)
+- [Quanto Devo Poupar por Mês no Brasil? (Guia 2026)](https://www.dinheirocrescendo.com.br/blog/quanto-poupar-por-mes-brasil)
+- [Imposto de Renda sobre Investimentos no Brasil 2026 — Guia Completo](https://www.dinheirocrescendo.com.br/blog/imposto-de-renda-acoes-etfs-brasil-2026)
+- [S&P 500 vs Ibovespa — Onde Investir em 2026? (IVVB11 vs BOVA11)](https://www.dinheirocrescendo.com.br/blog/sp500-vs-ibovespa-brasil)
+- [Previdência Privada Vale a Pena no Brasil em 2026? Análise Honesta](https://www.dinheirocrescendo.com.br/blog/previdencia-privada-vale-a-pena-brasil-2026)
+- [Tesouro Direto vs ETFs — O Que é Melhor para o Seu Dinheiro? (2026)](https://www.dinheirocrescendo.com.br/blog/tesouro-direto-vs-etfs)
+- [Juros Compostos — O Segredo do Investimento de Longo Prazo](https://www.dinheirocrescendo.com.br/blog/juros-compostos-brasil-guia)
+- [Independência Financeira no Brasil — É Possível? Guia FIRE 2026](https://www.dinheirocrescendo.com.br/blog/independencia-financeira-brasil)
+- [Como Diversificar sua Carteira de Investimentos no Brasil (2026)](https://www.dinheirocrescendo.com.br/blog/diversificacao-carteira-brasil)
+- [Como Começar a Investir com R$ 100 no Brasil (2026)](https://www.dinheirocrescendo.com.br/blog/como-comecar-investir-100-reais)
+- [NuInvest (Nubank) em 2026 — Vale a Pena? Guia Honesto](https://www.dinheirocrescendo.com.br/blog/nuinvest-guia-brasil)
+- [Investir em Ouro no Brasil — Vale a Pena em 2026?](https://www.dinheirocrescendo.com.br/blog/ouro-investimento-brasil)
+- [XP vs Rico — Qual a Melhor Corretora para Brasileiros em 2026?](https://www.dinheirocrescendo.com.br/blog/xp-vs-rico-brasil)
