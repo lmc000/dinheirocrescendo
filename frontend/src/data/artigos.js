@@ -3713,6 +3713,592 @@ Este processo é gratuito e regulado pela B3. Funciona para ações, ETFs e FIIs
 *Este artigo é de carácter informativo e não constitui aconselhamento financeiro.*
     `
   },
+  {
+    slug: "como-sair-das-dividas-brasil",
+    titulo: "Como Sair das Dívidas no Brasil — Plano Passo a Passo (2026)",
+    descricao: "Endividado? Antes de investir é preciso eliminar as dívidas caras. Guia prático com estratégias de quitação, negociação com bancos e como evitar recair.",
+    categoria: "basicos",
+    data: "2026-06-26",
+    tempoLeitura: "10 min",
+    conteudo: `
+Mais de 70% das famílias brasileiras têm alguma dívida — cartão de crédito, cheque especial, empréstimo pessoal, financiamento. Antes de pensar em investir, é fundamental eliminar as dívidas com juros altos. Este guia apresenta um plano estruturado para quitar dívidas e reconstruir as finanças.
+
+---
+
+## Por que as dívidas são o maior inimigo dos investimentos
+
+O cartão de crédito rotativo no Brasil cobra em média **430% ao ano** de juros. O cheque especial ultrapassa **150% ao ano**. Nenhum investimento paga isso — nem de perto. Pagar dívidas caras é o melhor "investimento" possível.
+
+**Exemplo concreto:**
+- R$ 5.000 no cartão rotativo durante 12 meses = R$ 26.500 de dívida
+- R$ 5.000 investidos no Tesouro Selic durante 12 meses = R$ 5.550
+
+A matemática é clara: quitar a dívida primeiro.
+
+---
+
+## Passo 1 — Mapear todas as dívidas
+
+Crie uma planilha com:
+- Nome do credor (banco, financeira, loja)
+- Valor total da dívida
+- Taxa de juros mensal
+- Parcela mínima
+- Prazo restante
+
+**Priorize pela taxa de juros** — não pelo valor. As dívidas mais caras primeiro.
+
+Ranking típico de custo no Brasil:
+1. Cartão de crédito rotativo (mais caro)
+2. Cheque especial
+3. Empréstimo pessoal
+4. Crédito consignado
+5. Financiamento imobiliário (mais barato)
+
+---
+
+## Passo 2 — Cortar gastos e gerar receita extra
+
+Para quitar dívidas mais rápido, é preciso liberar dinheiro:
+
+**Cortes imediatos:**
+- Assinaturas que não usa (streaming, academia, apps)
+- Delivery — comer em casa custa 3-5x menos
+- Compras parceladas — cada parcela futura é uma âncora financeira
+
+**Receita extra:**
+- Vender itens parados (Enjoei, OLX, Mercado Livre)
+- Freelance na área de atuação (99freelas, Workana)
+- Serviços locais (aulas particulares, serviços domésticos, entregas)
+
+---
+
+## Passo 3 — Negociar com os credores
+
+Bancos preferem receber menos do que não receber nada. Você tem poder de negociação.
+
+**Como negociar:**
+- Ligue para a central de relacionamento e peça o setor de renegociação
+- Informe que quer quitar mas não consegue pagar o valor integral
+- Peça desconto nos juros ou prazo maior com juros menores
+- Anote o nome do atendente e o número do protocolo
+
+**Plataformas de negociação gratuitas:**
+- **Serasa Limpa Nome** — negocia dívidas diretamente com os credores, frequentemente com descontos de 50-90%
+- **Renegociafacil** — específico para alguns bancos
+
+---
+
+## Passo 4 — Escolher a estratégia de pagamento
+
+### Método Avalanche (matematicamente ótimo)
+Pague o mínimo em todas as dívidas e coloque o dinheiro extra na dívida com **maior taxa de juros**. Quando ela acabar, passe todo o pagamento para a próxima da lista.
+
+**Resultado:** paga menos juros no total.
+
+### Método Bola de Neve (psicologicamente eficaz)
+Pague o mínimo em todas e coloque o dinheiro extra na dívida com **menor saldo**. Quitações rápidas geram motivação para continuar.
+
+**Resultado:** mais difícil de manter no papel, mas mais pessoas completam o plano.
+
+> Escolha o método que você vai realmente seguir — não o "mais correto" no papel.
+
+---
+
+## Passo 5 — Criar uma reserva mínima enquanto paga as dívidas
+
+Paradoxalmente, manter R$ 1.000-2.000 de reserva de emergência enquanto quita dívidas evita voltar a se endividar quando aparece um imprevisto.
+
+Guarde essa reserva numa conta com liquidez imediata (Nubank, PicPay, Tesouro Selic).
+
+---
+
+## Após quitar as dívidas — o que fazer
+
+1. **Nunca mais usar rotativo do cartão** — pague a fatura integral todos os meses
+2. **Construir fundo de emergência** — 3 a 6 meses de despesas em investimento seguro
+3. **Começar a investir** — com a fatura zerada, todo o dinheiro trabalha para você
+
+---
+
+*Nenhuma informação deste artigo constitui aconselhamento financeiro individualizado. Consulte um planejador financeiro certificado CFP para orientação personalizada.*
+    `
+  },
+  {
+    slug: "fundo-emergencia-quanto-guardar-brasil",
+    titulo: "Fundo de Emergência — Quanto Guardar e Onde Aplicar no Brasil (2026)",
+    descricao: "O fundo de emergência é a base de qualquer plano financeiro. Saiba quanto você precisa, onde guardar e por que isso vem antes de qualquer investimento.",
+    categoria: "poupanca",
+    data: "2026-06-26",
+    tempoLeitura: "8 min",
+    conteudo: `
+O fundo de emergência é o alicerce das finanças pessoais. Sem ele, qualquer imprevisto — desemprego, doença, carro quebrado — vira dívida. Com ele, você tem tranquilidade para investir e tomar decisões financeiras sem pressão. Este guia explica exatamente quanto guardar e onde colocar.
+
+---
+
+## Para que serve o fundo de emergência
+
+O fundo de emergência não é para oportunidades nem para férias — é para imprevistos reais:
+- Demissão ou perda de renda
+- Despesa médica inesperada
+- Reparo urgente de veículo ou imóvel
+- Emergência familiar
+
+A regra é simples: **dinheiro do fundo de emergência só sai em emergência**.
+
+---
+
+## Quanto guardar
+
+A recomendação padrão é **3 a 6 meses de despesas mensais**. Mas o valor ideal depende do seu perfil:
+
+| Perfil | Recomendação |
+|--------|-------------|
+| Empregado CLT com estabilidade | 3 meses de despesas |
+| Empregado CLT sem estabilidade | 4-5 meses |
+| Autônomo ou freelancer | 6-12 meses |
+| Empresário / renda variável | 6-12 meses |
+| Com dependentes (filhos, pais) | Aumentar 1-2 meses |
+
+**Como calcular as despesas mensais:**
+Some tudo que você gasta por mês: aluguel/financiamento, alimentação, transporte, saúde, educação, serviços básicos. Não inclua despesas supérfluas — o fundo cobre o essencial.
+
+---
+
+## Onde guardar — os melhores destinos em 2026
+
+O fundo de emergência precisa ter três características: **liquidez imediata**, **segurança** e **rendimento próximo ao CDI**.
+
+### 1. Tesouro Selic
+A opção mais recomendada por planejadores financeiros. Rende próximo à Selic (atualmente acima do CDI), tem liquidez diária e garantia do governo federal.
+
+**Como acessar:** qualquer corretora — XP, Rico, NuInvest, BTG. Investimento mínimo: R$ 30.
+
+### 2. CDB com liquidez diária (100%+ CDI)
+Alguns bancos oferecem CDB com resgate diário rendendo 100%-102% do CDI. Verificar cobertura do FGC (até R$ 250.000 por CPF por instituição).
+
+**Opções conhecidas:** Inter, Nubank, C6 Bank, PagBank.
+
+### 3. Conta remunerada de fintechs
+Nubank, PicPay e outras fintechs remuneram o saldo em conta com 100% do CDI automaticamente — sem precisar aplicar. Conveniente mas verifique o percentual atual.
+
+### Evitar para o fundo de emergência
+- **Poupança** — rende menos do que o CDI, não há razão financeira para usá-la
+- **Ações e ETFs** — preço oscila, pode estar em baixa exatamente quando você precisar
+- **CDB sem liquidez diária** — se não pode resgatar a qualquer momento, não é fundo de emergência
+
+---
+
+## Como construir o fundo do zero
+
+Se você está começando do zero, o objetivo pode parecer distante. Estratégia:
+
+1. **Meta de curto prazo:** R$ 1.000 (proteção mínima contra pequenos imprevistos)
+2. **Meta intermediária:** 1 mês de despesas
+3. **Meta final:** 3-6 meses de despesas
+
+Automatize a poupança: assim que o salário cai, transfira automaticamente um valor fixo para a conta do fundo. O que fica na conta corrente é o que você pode gastar.
+
+---
+
+## Fundo de emergência x Reserva de oportunidade
+
+São coisas diferentes. O fundo de emergência fica guardado para sempre — só sai em crise. A reserva de oportunidade é separada: dinheiro que você pode usar para uma oportunidade de investimento ou compra planejada.
+
+Nunca misture os dois. Quando mistura, acaba usando o fundo de emergência para coisas que não são emergências.
+
+---
+
+*Nenhuma informação deste artigo constitui aconselhamento financeiro individualizado.*
+    `
+  },
+  {
+    slug: "dividendos-brasil-como-investir",
+    titulo: "Dividendos no Brasil — Como Investir e Quais Ações Pagam Mais (2026)",
+    descricao: "Dividendos são a renda passiva mais popular na bolsa brasileira. Entenda como funcionam, quais empresas pagam mais e como montar uma carteira de dividendos.",
+    categoria: "acoes",
+    data: "2026-06-26",
+    tempoLeitura: "10 min",
+    conteudo: `
+Dividendos são parte dos lucros que as empresas distribuem para os acionistas. No Brasil, a cultura de investir em ações pagadoras de dividendos é forte — e tem uma vantagem fiscal importante: **dividendos de ações brasileiras são isentos de imposto de renda para pessoas físicas**.
+
+---
+
+## Como funcionam os dividendos
+
+Quando uma empresa lucra, pode reinvestir o lucro no negócio ou distribuir parte para os acionistas. No Brasil, a lei obriga as empresas de capital aberto a distribuir no mínimo **25% do lucro líquido** como dividendos (salvo exceções previstas no estatuto).
+
+**Proventos = dividendos + juros sobre capital próprio (JCP)**
+
+O JCP funciona de forma similar ao dividendo mas tem tratamento fiscal diferente: sofre **15% de IR na fonte** — inferior ao lucro, mas não isento como os dividendos.
+
+---
+
+## Indicadores essenciais
+
+### Dividend Yield (DY)
+**Dividendos pagos nos últimos 12 meses ÷ preço atual da ação × 100**
+
+Um DY de 8% significa que para cada R$ 100 investidos, a empresa pagou R$ 8 em dividendos no último ano. Comparar o DY com a Selic ajuda a avaliar se o retorno compensa o risco.
+
+> DY alto pode ser sinal positivo ou negativo — se o preço caiu muito, o DY sobe artificialmente. Analise sempre o contexto.
+
+### Payout Ratio
+Percentagem do lucro distribuído como dividendos. Payout de 60% significa que 60% do lucro vai para os acionistas e 40% fica na empresa para reinvestimento.
+
+Payout muito alto (acima de 90%) pode ser insustentável se o lucro cair.
+
+---
+
+## Setores com maior histórico de dividendos no Brasil
+
+| Setor | Exemplos | Característica |
+|-------|----------|---------------|
+| Utilities (energia, saneamento) | EGIE3, SAPR11, CSMG3 | Receita previsível, DY estável |
+| Bancos | BBAS3, ITUB4, BBDC4 | Altos lucros, distribuição consistente |
+| Telecomunicações | VIVT3, TIMS3 | DY elevado, setor maduro |
+| FIIs | MXRF11, XPML11 | Obrigados a distribuir 95% do resultado |
+
+---
+
+## FIIs vs Ações — qual paga mais dividendos?
+
+**Fundos Imobiliários (FIIs)** são obrigados por lei a distribuir 95% do resultado semestral. Na prática, a maioria distribui mensalmente. DY médio dos FIIs está entre 8%-12% ao ano.
+
+**Ações** têm distribuição mais irregular — depende do lucro e da política de cada empresa.
+
+Para quem quer renda passiva mensal, FIIs tendem a ser mais convenientes. Para quem aceita sazonalidade, ações podem oferecer retorno total maior (dividendos + valorização).
+
+---
+
+## Como montar uma carteira de dividendos
+
+### Princípios básicos
+- **Diversificar setores** — não concentrar tudo em bancos ou energia
+- **Preferir empresas com histórico consistente** — pelo menos 5-10 anos de dividendos sem interrupção
+- **Avaliar o negócio, não só o DY** — dividend yield alto com empresa fraca é armadilha
+
+### Carteira simples de exemplo (apenas ilustrativa)
+- 30% FIIs (diversificação entre logística, escritório e shopping)
+- 30% Bancos (BBAS3, ITUB4)
+- 20% Utilities (energia ou saneamento)
+- 20% ETFs de dividendos (DIVO11, DIVD11)
+
+---
+
+## Imposto de renda sobre dividendos
+
+Dividendos de ações brasileiras: **isentos de IR** para pessoa física.
+
+JCP (Juros sobre Capital Próprio): **15% de IR retido na fonte**.
+
+Rendimentos de FIIs: **isentos de IR** para PF desde que o FII tenha mais de 50 cotistas e seja negociado em bolsa.
+
+---
+
+*Este artigo é educacional e não constitui recomendação de investimento. Investimentos em renda variável envolvem risco de perda do capital investido.*
+    `
+  },
+  {
+    slug: "renda-fixa-brasil-2026-guia",
+    titulo: "Renda Fixa no Brasil em 2026 — CDB, LCI, LCA, Debentures e Tesouro Direto",
+    descricao: "Com a Selic alta, a renda fixa brasileira oferece retornos excelentes com baixo risco. Guia completo para escolher os melhores produtos de renda fixa em 2026.",
+    categoria: "basicos",
+    data: "2026-06-26",
+    tempoLeitura: "10 min",
+    conteudo: `
+Com a taxa Selic em patamares elevados, a renda fixa brasileira é uma das mais atrativas do mundo. Mas não basta investir em qualquer produto — é preciso entender as diferenças entre CDB, LCI, LCA, Tesouro Direto e debêntures para escolher o que faz sentido para o seu perfil e prazo.
+
+---
+
+## O que é renda fixa
+
+Renda fixa são investimentos onde você sabe, no momento da aplicação, como o retorno será calculado. Pode ser:
+- **Prefixado:** taxa definida no momento da aplicação (ex: 12% ao ano)
+- **Pós-fixado:** rendimento atrelado a um índice (CDI, Selic, IPCA)
+- **Híbrido:** parte fixa + parte variável (ex: IPCA + 6% ao ano)
+
+---
+
+## Os principais produtos
+
+### Tesouro Direto
+Títulos do governo federal. O investimento mais seguro do Brasil — garantido pelo Tesouro Nacional.
+
+| Título | Tipo | Para quem |
+|--------|------|-----------|
+| Tesouro Selic | Pós-fixado (Selic) | Reserva de emergência, curto prazo |
+| Tesouro IPCA+ | Híbrido (IPCA + spread) | Proteção contra inflação, longo prazo |
+| Tesouro Prefixado | Prefixado | Apostar em queda dos juros |
+
+**Investimento mínimo:** ~R$ 30. **Como acessar:** qualquer corretora, sem taxa de custódia na maioria.
+
+### CDB (Certificado de Depósito Bancário)
+Empréstimo que você faz ao banco. Rendimento geralmente atrelado ao CDI.
+
+- CDB 100% CDI — padrão de mercado
+- CDB 110% CDI — bancos menores oferecem mais para atrair capital
+- Protegido pelo FGC até R$ 250.000 por CPF por instituição
+
+**Atenção ao prazo:** CDB sem liquidez diária prende o dinheiro até o vencimento. Sempre verifique se pode resgatar antes.
+
+### LCI e LCA (Letras de Crédito)
+Semelhantes ao CDB mas **isentas de IR para pessoa física** — esse benefício fiscal torna o rendimento líquido superior.
+
+- **LCI:** lastreada em crédito imobiliário
+- **LCA:** lastreada em crédito do agronegócio
+
+Geralmente têm prazo mínimo de 90 dias. Compare o rendimento líquido (após IR no CDB vs isento no LCI/LCA) antes de escolher.
+
+**Comparação rápida:**
+- CDB 115% CDI com IR ≈ LCI 92% CDI isento (cálculo aproximado para alíquota de 20% de IR)
+
+### Debêntures
+Títulos de dívida de empresas privadas. Risco maior que títulos públicos e bancários, mas retorno potencialmente superior.
+
+- **Debêntures incentivadas:** isentas de IR — emitidas para projetos de infraestrutura
+- **Debêntures comuns:** sujeitas ao IR regressivo
+
+Indicadas para investidores com mais experiência — verifique a classificação de risco (rating) da empresa emissora.
+
+---
+
+## Tabela regressiva de IR na renda fixa
+
+| Prazo da aplicação | Alíquota de IR |
+|-------------------|---------------|
+| Até 180 dias | 22,5% |
+| 181 a 360 dias | 20% |
+| 361 a 720 dias | 17,5% |
+| Acima de 720 dias | 15% |
+
+Quanto mais tempo mantiver o investimento, menos IR paga. Planejamento de prazo é fundamental.
+
+---
+
+## Como escolher entre os produtos
+
+**Para reserva de emergência:** Tesouro Selic ou CDB com liquidez diária.
+
+**Para proteger da inflação (longo prazo):** Tesouro IPCA+ ou LCI/LCA atreladas ao IPCA.
+
+**Para maximizar rendimento no curto prazo:** LCI/LCA isentas com bom percentual do CDI.
+
+**Para diversificar com mais retorno:** Debêntures incentivadas (risco moderado).
+
+---
+
+## FGC — o seguro dos investimentos
+
+O Fundo Garantidor de Créditos (FGC) protege aplicações em CDB, LCI, LCA e outros produtos bancários até **R$ 250.000 por CPF por instituição**, com limite global de R$ 1 milhão por CPF.
+
+Tesouro Direto não precisa do FGC — é garantido diretamente pelo governo federal.
+
+---
+
+*Este artigo é educacional e não constitui recomendação de investimento. Verifique sempre as condições atuais dos produtos antes de aplicar.*
+    `
+  },
+  {
+    slug: "planejamento-financeiro-brasil-como-fazer",
+    titulo: "Como Fazer um Planejamento Financeiro Pessoal no Brasil (2026)",
+    descricao: "Planejamento financeiro não é só para ricos. Veja como organizar seu dinheiro, definir metas realistas e criar um plano que funcione no dia a dia brasileiro.",
+    categoria: "poupanca",
+    data: "2026-06-26",
+    tempoLeitura: "9 min",
+    conteudo: `
+Planejamento financeiro é o mapa do seu dinheiro — onde está, para onde vai e onde você quer chegar. Sem ele, é quase impossível sair do lugar, mesmo com renda boa. Este guia mostra como montar um plano financeiro simples e funcional para a realidade brasileira.
+
+---
+
+## Por que a maioria dos brasileiros não planeja
+
+- **Orçamento visto como restrição**, não como liberdade
+- Falta de educação financeira na escola
+- Inflação e instabilidade econômica tornam o futuro incerto
+- Cultura do consumo imediato e parcelamento
+
+O resultado: 40% dos brasileiros terminam o mês no vermelho, mesmo com emprego estável.
+
+---
+
+## Passo 1 — Diagnóstico financeiro
+
+Antes de qualquer plano, entenda sua situação atual:
+
+**Receitas mensais (some tudo):**
+- Salário líquido
+- Renda extra (freelance, aluguel, etc.)
+- Renda de investimentos
+
+**Despesas mensais (liste todas):**
+- Fixas: aluguel/financiamento, plano de saúde, escola, streaming
+- Variáveis: alimentação, transporte, lazer, roupas
+
+**Saldo mensal = Receitas − Despesas**
+
+Se o saldo é negativo: prioridade é cortar despesas ou aumentar receita.
+Se o saldo é positivo: esse é o dinheiro disponível para investir.
+
+---
+
+## Passo 2 — A regra 50-30-20
+
+Uma das metodologias mais simples e eficazes:
+
+- **50%** da renda líquida para necessidades (moradia, alimentação, saúde, transporte)
+- **30%** para desejos (lazer, restaurante, viagens, roupas)
+- **20%** para poupança e investimentos
+
+**Adaptação à realidade brasileira:** para quem tem dívidas, substitua os 20% por quitação de dívidas até zerá-las. Depois inverta a prioridade para poupança.
+
+---
+
+## Passo 3 — Metas financeiras claras
+
+Metas vagas não funcionam. Use o método SMART:
+
+- **Específica:** "quero ter R$ 30.000 de reserva de emergência"
+- **Mensurável:** valor concreto, não "quero economizar mais"
+- **Atingível:** compatível com sua renda atual
+- **Relevante:** conectada a algo que importa para você
+- **Temporal:** prazo definido ("em 18 meses")
+
+### Categorias de metas por prazo
+
+**Curto prazo (até 1 ano):**
+- Quitar dívidas do cartão
+- Montar fundo de emergência
+- Fazer uma viagem
+
+**Médio prazo (1-5 anos):**
+- Dar entrada em um imóvel
+- Trocar de carro
+- Iniciar negócio próprio
+
+**Longo prazo (5+ anos):**
+- Aposentadoria antecipada
+- Independência financeira
+- Imóvel quitado
+
+---
+
+## Passo 4 — Automatizar para não depender de força de vontade
+
+O maior inimigo do planejamento financeiro é a força de vontade — ela acaba. A solução é automatizar:
+
+1. **Débito automático para investimentos:** assim que o salário cai, transferir automaticamente para conta de investimentos
+2. **Alertas de gastos:** apps como Mobills, Organizze ou Guiabolso notificam quando você ultrapassa limites por categoria
+3. **Cartão de crédito com limite controlado:** define um limite que caiba no orçamento dos 30% de desejos
+
+---
+
+## Ferramentas gratuitas para controlar as finanças
+
+- **Planilha do Google Sheets** — simples e gratuito
+- **Mobills** — app brasileiro de controle financeiro
+- **Organizze** — foco em metas e orçamento por categoria
+- **Minhas Finanças do Banco do Brasil / extrato Nubank** — básico mas funcional
+
+---
+
+## O erro mais comum no planejamento
+
+Fazer um plano perfeito no papel mas não acompanhar mensalmente. O plano financeiro precisa de revisão mensal — 30 minutos por mês para ver o que funcionou e o que não funcionou.
+
+Não se puna pelos meses ruins — apenas ajuste e siga.
+
+---
+
+*Nenhuma informação deste artigo constitui aconselhamento financeiro individualizado.*
+    `
+  },
+  {
+    slug: "investir-no-exterior-brasil-como-fazer",
+    titulo: "Como Investir no Exterior pelo Brasil em 2026 — ETFs, BDRs e Contas Internacionais",
+    descricao: "Diversificar em dólar protege o patrimônio da desvalorização do real. Guia completo sobre ETFs internacionais, BDRs, contas no exterior e declaração de IR.",
+    categoria: "internacional",
+    data: "2026-06-26",
+    tempoLeitura: "11 min",
+    conteudo: `
+Investir no exterior não é mais privilégio de milionários. Com corretoras globais e ETFs internacionais negociados na B3, qualquer brasileiro pode ter parte do patrimônio exposto a dólar, euro e às maiores empresas do mundo. Este guia explica como fazer isso de forma simples e segura.
+
+---
+
+## Por que investir no exterior
+
+- **Proteção cambial:** o real historicamente perde valor frente ao dólar no longo prazo. Ter parte do patrimônio em moeda forte protege
+- **Acesso às maiores empresas do mundo:** Apple, Microsoft, Nvidia, Amazon — difícil investir indiretamente sem exposição internacional
+- **Diversificação real:** a B3 é concentrada em commodities e financeiro — o exterior complementa com tecnologia, saúde, consumo global
+- **Mercados menos voláteis:** economias mais estáveis tendem a ter menor volatilidade política e econômica
+
+---
+
+## Opções disponíveis para o brasileiro
+
+### 1. ETFs internacionais na B3 (mais simples)
+ETFs como IVVB11, SPY, WRLD11 são negociados em reais na B3, mas replicam índices internacionais como o S&P 500 ou MSCI World. Você compra como qualquer ação — pela sua corretora atual.
+
+**Exemplos:**
+- **IVVB11** — replica o S&P 500 (500 maiores empresas dos EUA)
+- **WRLD11** — replica o MSCI World (empresas de países desenvolvidos)
+- **NASD11** — replica o Nasdaq 100 (maior peso em tecnologia)
+
+**Vantagens:** simples, sem burocracia, em reais. **Desvantagem:** taxa de administração dupla (do ETF original + do ETF brasileiro).
+
+### 2. BDRs (Brazilian Depositary Receipts)
+Certificados negociados na B3 que representam ações de empresas estrangeiras. Você compra em reais e recebe dividendos em reais.
+
+**Exemplos:** AAPL34 (Apple), MSFT34 (Microsoft), AMZO34 (Amazon), NVDC34 (Nvidia).
+
+**Vantagens:** acesso direto a ações específicas. **Desvantagem:** menor liquidez que ETFs, custo de conversão cambial.
+
+### 3. Conta em corretora internacional (Avenue, Stake, Interactive Brokers)
+Você envia dólares para uma conta no exterior e investe diretamente em ações e ETFs americanos.
+
+**Vantagens:** acesso a todos os produtos do mercado americano, sem camada extra de custo. **Desvantagens:** remessa de câmbio (IOF de 0,38%), burocracia de abertura de conta, declaração anual ao Banco Central e Receita Federal.
+
+**Avenue:** a corretora internacional mais popular entre brasileiros. Interface em português, sem valor mínimo, suporte em PT-BR.
+
+---
+
+## Tributação no investimento internacional
+
+### ETFs na B3
+- **IR:** 15% sobre ganho de capital em vendas acima de R$ 20.000/mês
+- **DARF:** recolher até o último dia útil do mês seguinte à venda
+
+### Contas no exterior
+- **Variação cambial:** tributada como ganho de capital (15%-22,5%)
+- **Dividendos do exterior:** tributados como rendimentos do trabalho (tabela progressiva)
+- **Declaração anual:** bens no exterior devem ser declarados na ficha "Bens e Direitos" do IR
+
+---
+
+## Quanto alocar no exterior
+
+Não existe resposta universal, mas parâmetros comuns:
+- **Iniciante:** 10-20% do patrimônio em renda variável
+- **Intermediário:** 20-40%
+- **Avançado:** 30-50%
+
+O restante em renda fixa brasileira ou ativos domésticos. O percentual depende do seu objetivo, prazo e tolerância ao risco cambial.
+
+---
+
+## Passo a passo para começar
+
+1. Abra conta em corretora com acesso a ETFs internacionais (XP, BTG, Rico — todas têm IVVB11)
+2. Comece com IVVB11 ou WRLD11 — diversificação automática com um único ETF
+3. Aporte mensalmente, independente do câmbio (custo médio)
+4. Declare na ficha "Renda Variável" do IR anualmente
+
+---
+
+*Este artigo é educacional e não constitui recomendação de investimento. Investimentos em renda variável envolvem risco de perda do capital.*
+    `
+  },
+,
 ];
 
 export default artigos;
