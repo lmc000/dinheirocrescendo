@@ -247,6 +247,23 @@ export default function Artigo() {
     }
 
     return (
+    <>
+      <Helmet>
+        <title>{artigo.titulo} — DinheiroCrescendo</title>
+        <meta name="description" content={artigo.descricao} />
+        <meta property="og:title" content={artigo.titulo} />
+        <meta property="og:description" content={artigo.descricao} />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content={`https://www.dinheirocrescendo.com.br/blog/${artigo.slug}`} />
+        <meta property="og:image" content={`https://www.dinheirocrescendo.com.br/images/artigos/${artigo.slug}.jpg`} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image" content={`https://www.dinheirocrescendo.com.br/images/artigos/${artigo.slug}.jpg`} />
+        <meta name="twitter:title" content={artigo.titulo} />
+        <meta name="twitter:description" content={artigo.descricao} />
+        <link rel="canonical" href={`https://www.dinheirocrescendo.com.br/blog/${artigo.slug}`} />
+      </Helmet>
         <div className="min-h-screen bg-[#F8FAFC]">
             <Header />
             <main className="pt-32 pb-20 px-6 md:px-12 lg:px-24">
@@ -321,5 +338,6 @@ export default function Artigo() {
             </main>
             <FooterSection />
         </div>
+    </>
     );
 }
