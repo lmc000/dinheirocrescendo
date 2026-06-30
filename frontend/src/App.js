@@ -7,6 +7,7 @@ import Artigo from "./pages/Artigo";
 import Corretoras from "./pages/Corretoras";
 import Ferramentas from "./pages/Ferramentas";
 import Sobre from "./pages/Sobre";
+import Contacto from "./pages/Contacto";
 import Privacidade from "./pages/Privacidade";
 import NotFound from "./pages/NotFound";
 
@@ -21,6 +22,7 @@ export default function App() {
                 <Route path="/corretoras" element={<Corretoras />} />
                 <Route path="/ferramentas" element={<Ferramentas />} />
                 <Route path="/sobre" element={<Sobre />} />
+              <Route path="/contacto" element={<Contacto />} />
                 <Route path="/privacidade" element={<Privacidade />} />
                 <Route path="*" element={<NotFound />} />
             </Routes>
