@@ -1,4 +1,4 @@
-const artigos = [
+export default [
   // ─────────────────────────────────────────────
   // FASE 1 — Novos artigos (sem afiliado obrigatório)
   // ─────────────────────────────────────────────
