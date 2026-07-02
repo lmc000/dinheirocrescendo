@@ -4298,7 +4298,102 @@ O restante em renda fixa brasileira ou ativos domésticos. O percentual depende 
 *Este artigo é educacional e não constitui recomendação de investimento. Investimentos em renda variável envolvem risco de perda do capital.*
     `
   },
-,
-];
+  {
+  slug: "criptomoedas-bitcoin-como-investir-brasil-2026",
+  titulo: "Criptomoedas e Bitcoin no Brasil — Como Investir com Segurança em 2026",
+  descricao: "Bitcoin e criptomoedas continuam a atrair investidores brasileiros. Guia objetivo sobre como comprar, onde guardar, impostos e os riscos reais que precisa conhecer.",
+  categoria: "basicos",
+  data: "2026-07-01",
+  tempoLeitura: "9 min",
+  conteudo: `
+O Bitcoin bateu novos recordes em 2024-2025 e o interesse dos brasileiros em criptomoedas nunca foi tão alto. Mas o mercado crypto tem características únicas — alta volatilidade, riscos de custódia e tributação específica — que todo investidor precisa entender antes de comprar.
 
-export default artigos;
+---
+
+## O que são criptomoedas
+
+Criptomoedas são ativos digitais que usam criptografia para garantir transações e controlar a criação de novas unidades, operando em redes descentralizadas (blockchain). O Bitcoin foi o primeiro (2009); hoje existem milhares, mas a grande maioria tem liquidez irrisória.
+
+**As mais relevantes para investidores brasileiros:**
+- **Bitcoin (BTC):** o "ouro digital" — reserva de valor, maior capitalização, maior liquidez
+- **Ethereum (ETH):** plataforma de contratos inteligentes, segunda maior crypto
+- **USDT/USDC:** stablecoins atreladas ao dólar — úteis para guardar dentro do ecossistema crypto sem volatilidade
+
+---
+
+## Onde comprar Bitcoin no Brasil
+
+### Exchanges brasileiras
+- **Mercado Bitcoin:** a maior do Brasil, regulada pelo Banco Central
+- **Foxbit:** foco em Bitcoin, interface simples
+- **BitcoinTrade:** boa para iniciantes
+
+### Exchanges internacionais
+- **Binance:** maior do mundo, mais produtos e criptomoedas
+- **Coinbase:** mais simples, indicada para iniciantes, em inglês
+
+### ETFs de Bitcoin na B3
+A forma mais simples e regulada: comprar cotas de ETFs de Bitcoin diretamente pela sua corretora de valores, como qualquer ação.
+- **BITH11** (Hashdex Bitcoin)
+- **BITI11** (BTG)
+
+Os ETFs são custodiados pela B3 — sem risco de perda por hack de exchange.
+
+---
+
+## Como guardar (custódia)
+
+Este é o ponto mais importante e mais ignorado:
+
+**"Not your keys, not your coins"** — se as suas cryptos estão numa exchange, tecnicamente pertencem à exchange. Se ela falir ou for hackeada, pode perder tudo (como aconteceu com a FTX em 2022).
+
+| Opção | Segurança | Conveniência |
+|---|---|---|
+| Exchange | ★★★ | ★★★★★ |
+| Carteira de software (MetaMask, Trust Wallet) | ★★★★ | ★★★★ |
+| Hardware wallet (Ledger, Trezor) | ★★★★★ | ★★ |
+
+Para valores acima de R$ 5.000, uma hardware wallet é altamente recomendada.
+
+**[Ver hardware wallets na Amazon Brasil →](https://www.amazon.com.br/s?k=ledger+trezor+hardware+wallet&tag=cachorroecia-20)**
+
+---
+
+## Impostos sobre criptomoedas no Brasil
+
+A Receita Federal trata criptomoedas como **bens** — não como moeda — e exige:
+
+- **Declaração no IRPF:** informar todas as cryptos no campo "Bens e Direitos" (código 89)
+- **Ganho de capital:** se vender com lucro, paga imposto sobre o ganho
+  - Vendas até R$ 35.000/mês: **isento**
+  - Acima de R$ 35.000/mês: 15% a 22.5% sobre o lucro
+- **Obrigação acessória:** operações acima de R$ 30.000/mês devem ser declaradas mensalmente via e-CAC
+
+**Atenção:** a isenção de R$ 35.000 é por mês, não por ano, e considera o valor total de vendas (não só o lucro).
+
+---
+
+## Quanto alocar
+
+A recomendação geral de gestores de patrimônio conservadores é:
+- **Máximo 5-10% da carteira** em cryptos para perfil moderado
+- **Máximo 1-5%** para perfil conservador
+
+Cryptos são altamente voláteis — quedas de 50-80% em meses são históricas. Invista apenas o que pode perder sem comprometer os seus objetivos financeiros.
+
+---
+
+## Riscos que precisa conhecer
+
+- **Volatilidade extrema:** queda de 80% do pico em ciclos de baixa é normal
+- **Risco de custódia:** perda da seed phrase = perda permanente das cryptos
+- **Scams e fraudes:** o setor crypto concentra uma quantidade desproporcional de golpes
+- **Risco regulatório:** legislação pode mudar e afetar o mercado
+- **Sem garantia do FGC:** ao contrário de depósitos bancários, não há seguro
+
+---
+
+*Este artigo é de caráter informativo e não constitui recomendação de investimento. Criptomoedas são ativos de alto risco.*
+  `
+  },
+];
