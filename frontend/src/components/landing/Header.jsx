@@ -7,6 +7,7 @@ const NAV_ITEMS = [
     { label: "Artigos", href: "/blog" },
     { label: "Corretoras", href: "/corretoras" },
     { label: "Ferramentas", href: "/ferramentas" },
+    { label: "Calculadoras", href: "/calculadoras/" },
 ];
 
 export const Header = () => {

@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora de Rescisão CLT 2026 — Cálculo Exato e Grátis</title>
+  <meta name="description" content="Calcule sua rescisão CLT 2026 de forma exata e gratuita: saldo de salário, aviso prévio, férias, 13º, multa de 40% do FGTS. Suporta demissão sem justa causa, pedido de demissão, acordo mútuo e mais.">
+  <link rel="canonical" href="https://www.dinheirocrescendo.com.br/calculadoras/rescisao/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
+  <link rel="stylesheet" href="/calculadoras/style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Início", "item": "https://www.dinheirocrescendo.com.br/"},
+      {"@type": "ListItem", "position": 2, "name": "Calculadoras", "item": "https://www.dinheirocrescendo.com.br/calculadoras/"},
+      {"@type": "ListItem", "position": 3, "name": "Calculadora de Rescisão CLT", "item": "https://www.dinheirocrescendo.com.br/calculadoras/rescisao/"}
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Quais verbas entram na rescisão por demissão sem justa causa?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Saldo de salário dos dias trabalhados, aviso prévio indenizado (30 dias + 3 dias por ano), férias vencidas e proporcionais com 1/3, 13º salário proporcional e multa de 40% sobre o saldo do FGTS. O trabalhador também tem direito ao saque integral do FGTS e ao seguro-desemprego."}
+      },
+      {
+        "@type": "Question",
+        "name": "O que muda na rescisão por acordo mútuo (art. 484-A)?",
+        "acceptedAnswer": {"@type": "Answer", "text": "No acordo mútuo, o aviso prévio é reduzido à metade (mínimo 15 dias), a multa do FGTS é de 20% (não 40%) e o trabalhador pode sacar até 80% do saldo do FGTS. Não tem direito ao seguro-desemprego."}
+      },
+      {
+        "@type": "Question",
+        "name": "Qual é o prazo para o empregador pagar a rescisão?",
+        "acceptedAnswer": {"@type": "Answer", "text": "10 dias corridos contados a partir do término do contrato de trabalho. O prazo não muda dependendo da modalidade de rescisão."}
+      },
+      {
+        "@type": "Question",
+        "name": "O cálculo desta calculadora é juridicamente vinculativo?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Não. Esta calculadora é uma estimativa educativa baseada nos valores e regras vigentes em 2026. Para validar os valores da sua rescisão, consulte um advogado trabalhista ou o sindicato da sua categoria."}
+      },
+      {
+        "@type": "Question",
+        "name": "Como funciona o aviso prévio proporcional ao tempo de serviço?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Pela Lei 12.506/2011, o aviso prévio base é de 30 dias. Para cada ano completo de serviço, acrescentam-se 3 dias, até o máximo de 90 dias. Assim, um trabalhador com 10 anos de empresa tem direito a 60 dias de aviso prévio."}
+      },
+      {
+        "@type": "Question",
+        "name": "Há desconto de INSS e IRRF na rescisão?",
+        "acceptedAnswer": {"@type": "Answer", "text": "As verbas de natureza indenizatória (multa FGTS, aviso prévio indenizado em algumas situações) não sofrem desconto de INSS ou IRRF. As verbas salariais (saldo de salário, 13º, férias — com exceção) têm incidência normal de INSS e podem ter IRRF. Esta calculadora apresenta os valores brutos; consulte o departamento pessoal para os valores líquidos finais."}
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+<header class="site-header">
+  <a href="/" class="logo">
+    <span class="logo-icon">📈</span>
+    Dinheiro Crescendo
+  </a>
+  <nav class="site-nav">
+    <a href="/blog">Artigos</a>
+    <a href="/calculadoras/">Calculadoras</a>
+    <a href="/corretoras">Corretoras</a>
+  </nav>
+</header>
+
+<div class="page-wrapper">
+  <nav class="breadcrumb">
+    <a href="/">Início</a><span>›</span>
+    <a href="/calculadoras/">Calculadoras</a><span>›</span>
+    Rescisão CLT
+  </nav>
+
+  <h1 class="page-title">Calculadora de Rescisão CLT 2026</h1>
+  <p class="page-subtitle">Cálculo completo e gratuito — saldo de salário, aviso prévio, férias, 13º e multa FGTS</p>
+
+  <div class="ad-placeholder ad-top">[ Espaço publicitário ]</div>
+
+  <div class="card">
+    <div class="card-title">⚙️ Dados do contrato</div>
+    <div class="form-grid">
+      <div class="form-group">
+        <label class="form-label" for="salario">Salário bruto mensal (R$)</label>
+        <input class="form-input" type="number" id="salario" value="3000" min="0" step="100">
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="modalidade">Modalidade de rescisão</label>
+        <select class="form-input form-select" id="modalidade">
+          <option value="sem-justa-causa">Demissão sem justa causa</option>
+          <option value="acordo-mutuo">Acordo mútuo (art. 484-A)</option>
+          <option value="pedido-demissao">Pedido de demissão</option>
+          <option value="com-justa-causa">Demissão com justa causa</option>
+          <option value="fim-experiencia">Fim de contrato de experiência</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="dataAdmissao">Data de admissão</label>
+        <input class="form-input" type="date" id="dataAdmissao" value="2020-01-01">
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="dataDesligamento">Data de desligamento</label>
+        <input class="form-input" type="date" id="dataDesligamento">
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="saldoFGTS">Saldo do FGTS (R$)</label>
+        <input class="form-input" type="number" id="saldoFGTS" value="0" min="0" step="100">
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="feriasVencidas">Possui férias vencidas?</label>
+        <select class="form-input form-select" id="feriasVencidas">
+          <option value="0">Não</option>
+          <option value="1">Sim</option>
+        </select>
+      </div>
+    </div>
+    <button class="btn-calcular" onclick="calcular()">Calcular rescisão</button>
+
+    <div class="resultado" id="resultado">
+      <div class="resultado-summary" id="summaryCards"></div>
+      <table class="resultado-table" id="tabelaVerbas">
+        <thead><tr><th>Verba rescisória</th><th style="text-align:right">Valor bruto</th></tr></thead>
+        <tbody id="tabelaBody"></tbody>
+      </table>
+      <div style="display:flex;gap:8px;margin-top:12px;flex-wrap:wrap">
+        <button class="btn-copiar" onclick="copiarResultado()">📋 Copiar resultado</button>
+        <a href="/calculadoras/salario-liquido/" class="btn-copiar" style="display:inline-block">→ Calcular salário líquido</a>
+      </div>
+      <p class="privacy-note">🔒 Cálculo realizado 100% no seu navegador. Nenhum dado é enviado para servidores.</p>
+    </div>
+  </div>
+
+  <div class="ad-placeholder ad-mid">[ Espaço publicitário ]</div>
+
+  <div class="content-section">
+    <h2>Como funciona o cálculo de rescisão CLT</h2>
+    <p>A rescisão contratual CLT envolve o pagamento de verbas rescisórias que variam conforme a modalidade de encerramento do contrato. As principais verbas são calculadas da seguinte forma:</p>
+
+    <h3>Saldo de salário</h3>
+    <p>Valor proporcional aos dias trabalhados no mês do desligamento. Fórmula: <strong>salário ÷ dias do mês × dias trabalhados</strong>. Exemplo: salário de R$ 3.000, desligamento no dia 20 de um mês com 30 dias = R$ 3.000 ÷ 30 × 20 = <strong>R$ 2.000,00</strong>.</p>
+
+    <h3>Aviso prévio indenizado</h3>
+    <p>Devido nas demissões sem justa causa. Pela Lei 12.506/2011, o aviso prévio base é de 30 dias, acrescido de 3 dias por ano completo de serviço, até o máximo de 90 dias. Fórmula: <strong>salário ÷ 30 × dias de aviso prévio</strong>.</p>
+
+    <h3>Férias proporcionais + 1/3</h3>
+    <p>Calculadas sobre o período aquisitivo em curso (desde a última aquisição de férias até a data do desligamento). Fórmula: <strong>(salário ÷ 12) × meses do período aquisitivo + 1/3</strong>. As férias vencidas (período já adquirido e não gozado) correspondem a 1 salário + 1/3.</p>
+
+    <h3>13º salário proporcional</h3>
+    <p>Calculado sobre os meses trabalhados no ano corrente. Fórmula: <strong>(salário ÷ 12) × meses trabalhados no ano</strong>. Frações de mês iguais ou superiores a 15 dias contam como mês completo.</p>
+
+    <h3>Multa de 40% do FGTS</h3>
+    <p>Devida nas demissões sem justa causa (40% sobre o saldo total do FGTS) e no acordo mútuo (20% sobre o saldo). Calculada sobre o saldo na data da rescisão, excluída a projeção do aviso prévio indenizado (conforme Tema 255 do TST, consolidado em 2026).</p>
+
+    <h2>Diferenças por modalidade de rescisão</h2>
+    <table class="info-table">
+      <thead><tr><th>Modalidade</th><th>Aviso prévio</th><th>Multa FGTS</th><th>Saque FGTS</th><th>Seguro-desemprego</th></tr></thead>
+      <tbody>
+        <tr><td>Sem justa causa</td><td>30 + 3 dias/ano (máx 90)</td><td>40%</td><td>100%</td><td>Sim</td></tr>
+        <tr><td>Acordo mútuo</td><td>Metade (mín 15 dias)</td><td>20%</td><td>Até 80%</td><td>Não</td></tr>
+        <tr><td>Pedido de demissão</td><td>30 dias (pelo empregado)</td><td>Não</td><td>Não</td><td>Não</td></tr>
+        <tr><td>Com justa causa</td><td>Não</td><td>Não</td><td>Não</td><td>Não</td></tr>
+        <tr><td>Fim de experiência</td><td>Não (salvo antecipação)</td><td>Não</td><td>Sim</td><td>Não</td></tr>
+      </tbody>
+    </table>
+
+    <h3>Dica: o que fazer com o FGTS rescisório?</h3>
+    <p>Ao receber a rescisão, especialmente numa demissão sem justa causa, o FGTS liberado pode representar uma quantia significativa. Uma boa estratégia é colocar esse valor em um investimento de baixo risco enquanto define os próximos passos.</p>
+    <p>→ <a href="/ferramentas">Simule quanto o seu FGTS pode render investido</a></p>
+  </div>
+
+  <div class="faq-section">
+    <h2>Perguntas frequentes sobre rescisão CLT</h2>
+    <div class="faq-item">
+      <div class="faq-question" onclick="toggleFaq(this)">Quais verbas entram na rescisão por demissão sem justa causa? <span>＋</span></div>
+      <div class="faq-answer"><p>Saldo de salário dos dias trabalhados, aviso prévio indenizado (30 dias + 3 dias por ano), férias vencidas e proporcionais com 1/3, 13º salário proporcional e multa de 40% sobre o saldo do FGTS. O trabalhador também tem direito ao saque integral do FGTS e ao seguro-desemprego.</p></div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question" onclick="toggleFaq(this)">O que muda na rescisão por acordo mútuo (art. 484-A)? <span>＋</span></div>
+      <div class="faq-answer"><p>No acordo mútuo, o aviso prévio é reduzido à metade (mínimo 15 dias), a multa do FGTS é de 20% (não 40%) e o trabalhador pode sacar até 80% do saldo do FGTS. Não tem direito ao seguro-desemprego.</p></div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question" onclick="toggleFaq(this)">Qual é o prazo para o empregador pagar a rescisão? <span>＋</span></div>
+      <div class="faq-answer"><p>10 dias corridos contados a partir do término do contrato de trabalho, independentemente da modalidade de rescisão. O não cumprimento do prazo gera multa.</p></div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question" onclick="toggleFaq(this)">Como funciona o aviso prévio proporcional ao tempo de serviço? <span>＋</span></div>
+      <div class="faq-answer"><p>Pela Lei 12.506/2011, o aviso prévio base é de 30 dias. Para cada ano completo de serviço, acrescentam-se 3 dias, até o máximo de 90 dias (com 20 ou mais anos de empresa). Exemplo: 10 anos = 60 dias de aviso prévio.</p></div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question" onclick="toggleFaq(this)">Há desconto de INSS e IRRF na rescisão? <span>＋</span></div>
+      <div class="faq-answer"><p>As verbas indenizatórias (multa FGTS, aviso prévio indenizado) não têm incidência de INSS ou IRRF. As verbas salariais (saldo de salário, 13º proporcional) têm desconto de INSS e podem ter IRRF. Esta calculadora mostra valores brutos.</p></div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question" onclick="toggleFaq(this)">O cálculo desta calculadora é juridicamente vinculativo? <span>＋</span></div>
+      <div class="faq-answer"><p>Não. Esta ferramenta é uma estimativa educativa. Para validar os valores da sua rescisão, consulte um advogado trabalhista ou o sindicato da sua categoria.</p></div>
+    </div>
+  </div>
+
+  <div class="ad-placeholder ad-bottom">[ Espaço publicitário ]</div>
+
+  <h2 style="font-size:1.1rem;font-weight:700;margin-bottom:12px">Outras calculadoras trabalhistas</h2>
+  <div class="related-links">
+    <a href="/calculadoras/salario-liquido/" class="related-link">💰 Salário Líquido</a>
+    <a href="/calculadoras/ferias/" class="related-link">🏖️ Férias</a>
+    <a href="/calculadoras/decimo-terceiro/" class="related-link">🎁 13º Salário</a>
+    <a href="/calculadoras/clt-vs-pj/" class="related-link">⚖️ CLT vs PJ</a>
+    <a href="/ferramentas" class="related-link">📊 Juros Compostos</a>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <p>© 2026 Dinheiro Crescendo · <a href="/privacidade">Privacidade</a> · <a href="/termos">Termos</a> · Conteúdo educativo, não constitui aconselhamento financeiro ou jurídico.</p>
+</footer>
+
+<script>
+// Tabelas 2026
+const SALARIO_MINIMO = 1621;
+const FAIXAS_INSS = [
+  { ate: 1621.00, aliq: 0.075 },
+  { ate: 2902.84, aliq: 0.09  },
+  { ate: 4354.27, aliq: 0.12  },
+  { ate: 8475.55, aliq: 0.14  },
+];
+
+function brl(v) { return v.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' }); }
+
+function calcINSS(salario) {
+  const base = Math.min(salario, 8475.55);
+  let d = 0, ant = 0;
+  for (const f of FAIXAS_INSS) {
+    if (base <= ant) break;
+    d += (Math.min(base, f.ate) - ant) * f.aliq;
+    ant = f.ate;
+  }
+  return Math.round(d * 100) / 100;
+}
+
+function diasAviso(anos) {
+  return Math.min(30 + anos * 3, 90);
+}
+
+function mesesEntre(d1, d2) {
+  return Math.max(0, (d2.getFullYear() - d1.getFullYear()) * 12 + d2.getMonth() - d1.getMonth() + 1);
+}
+
+function calcular() {
+  const salario = parseFloat(document.getElementById('salario').value) || 0;
+  const modalidade = document.getElementById('modalidade').value;
+  const admissao = new Date(document.getElementById('dataAdmissao').value);
+  const desligamento = new Date(document.getElementById('dataDesligamento').value);
+  const saldoFGTS = parseFloat(document.getElementById('saldoFGTS').value) || 0;
+  const feriasVencidas = parseInt(document.getElementById('feriasVencidas').value);
+
+  if (!salario || isNaN(admissao) || isNaN(desligamento)) return;
+
+  const diffAnos = (desligamento - admissao) / (365.25 * 86400000);
+  const anosCompletos = Math.floor(diffAnos);
+  const diasNoMes = new Date(desligamento.getFullYear(), desligamento.getMonth() + 1, 0).getDate();
+  const diasTrabalhados = desligamento.getDate();
+
+  // Meses 13º (ano corrente)
+  const inicioRef = new Date(Math.max(admissao, new Date(desligamento.getFullYear(), 0, 1)));
+  const mes13 = Math.min(12, mesesEntre(inicioRef, desligamento));
+
+  // Meses férias proporcionais
+  const ult = new Date(admissao);
+  while (ult <= desligamento) ult.setFullYear(ult.getFullYear() + 1);
+  ult.setFullYear(ult.getFullYear() - 1);
+  const mesFer = Math.min(12, Math.max(0, mesesEntre(ult, desligamento)));
+
+  const verbas = [];
+  let total = 0;
+  function add(nome, valor, tipo = 'normal') {
+    verbas.push({ nome, valor, tipo });
+    total += valor;
+  }
+
+  // Saldo de salário
+  const saldo = Math.round(salario / diasNoMes * diasTrabalhados * 100) / 100;
+  add('Saldo de salário (' + diasTrabalhados + ' dias)', saldo);
+
+  if (modalidade !== 'com-justa-causa') {
+    // Férias vencidas
+    if (feriasVencidas) {
+      add('Férias vencidas (1 salário + 1/3)', Math.round(salario * (4/3) * 100) / 100);
+    }
+    // Férias proporcionais
+    const fProp = Math.round(salario / 12 * mesFer * 100) / 100;
+    add('Férias proporcionais (' + mesFer + '/12)', fProp);
+    add('1/3 sobre férias proporcionais', Math.round(fProp / 3 * 100) / 100);
+    // 13º
+    add('13º salário proporcional (' + mes13 + '/12)', Math.round(salario / 12 * mes13 * 100) / 100);
+  }
+
+  // Aviso prévio e multa FGTS
+  if (modalidade === 'sem-justa-causa') {
+    const dias = diasAviso(anosCompletos);
+    add('Aviso prévio indenizado (' + dias + ' dias)', Math.round(salario / 30 * dias * 100) / 100);
+    add('Multa FGTS (40%)', Math.round(saldoFGTS * 0.4 * 100) / 100);
+  } else if (modalidade === 'acordo-mutuo') {
+    const dias = Math.ceil(diasAviso(anosCompletos) / 2);
+    add('Aviso prévio indenizado — acordo mútuo (' + dias + ' dias)', Math.round(salario / 30 * dias * 100) / 100);
+    add('Multa FGTS (20% — acordo mútuo)', Math.round(saldoFGTS * 0.2 * 100) / 100);
+  }
+
+  // Render
+  const body = document.getElementById('tabelaBody');
+  body.innerHTML = verbas.map(v =>
+    `<tr><td>${v.nome}</td><td style="text-align:right;font-weight:600;color:#059669">${brl(v.valor)}</td></tr>`
+  ).join('') + `<tr class="total-row"><td><strong>TOTAL BRUTO</strong></td><td style="text-align:right"><strong>${brl(total)}</strong></td></tr>`;
+
+  document.getElementById('summaryCards').innerHTML = `
+    <div class="summary-item"><div class="summary-label">Total bruto</div><div class="summary-value">${brl(total)}</div></div>
+    <div class="summary-item"><div class="summary-label">Tempo de serviço</div><div class="summary-value">${anosCompletos} ano${anosCompletos !== 1 ? 's' : ''}</div></div>
+    ${modalidade === 'sem-justa-causa' || modalidade === 'acordo-mutuo' ? `<div class="summary-item"><div class="summary-label">Multa FGTS</div><div class="summary-value">${brl(saldoFGTS * (modalidade === 'sem-justa-causa' ? 0.4 : 0.2))}</div></div>` : ''}
+  `;
+
+  document.getElementById('resultado').classList.add('visible');
+}
+
+function copiarResultado() {
+  const rows = document.querySelectorAll('#tabelaBody tr');
+  let txt = 'RESCISÃO CLT — CÁLCULO ESTIMADO (dinheirocrescendo.com.br)\n\n';
+  rows.forEach(r => {
+    const cells = r.querySelectorAll('td');
+    txt += cells[0].textContent + ': ' + cells[1].textContent + '\n';
+  });
+  navigator.clipboard.writeText(txt).then(() => {
+    const btn = document.querySelector('.btn-copiar');
+    btn.textContent = '✅ Copiado!';
+    setTimeout(() => btn.textContent = '📋 Copiar resultado', 2000);
+  });
+}
+
+function toggleFaq(el) {
+  const ans = el.nextElementSibling;
+  const icon = el.querySelector('span');
+  ans.classList.toggle('open');
+  icon.textContent = ans.classList.contains('open') ? '－' : '＋';
+}
+
+// Set today as default desligamento date
+document.getElementById('dataDesligamento').value = new Date().toISOString().split('T')[0];
+</script>
+</body>
+</html>

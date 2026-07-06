@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora de 13º Salário 2026 — Integral, Proporcional e Descontos</title>
+  <meta name="description" content="Calcule o 13º salário 2026: valor integral e proporcional, 1ª e 2ª parcela, desconto de INSS e IRRF na 2ª parcela. Cálculo gratuito e atualizado.">
+  <link rel="canonical" href="https://www.dinheirocrescendo.com.br/calculadoras/decimo-terceiro/">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
+  <link rel="stylesheet" href="/calculadoras/style.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://www.dinheirocrescendo.com.br/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://www.dinheirocrescendo.com.br/calculadoras/"},{"@type":"ListItem","position":3,"name":"Calculadora de 13º Salário","item":"https://www.dinheirocrescendo.com.br/calculadoras/decimo-terceiro/"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quando o 13º salário é pago?","acceptedAnswer":{"@type":"Answer","text":"A 1ª parcela deve ser paga entre 1º de fevereiro e 30 de novembro. A 2ª parcela deve ser paga até 20 de dezembro. O empregado pode solicitar adiantamento da 1ª parcela junto com as férias."}},{"@type":"Question","name":"Qual a diferença entre a 1ª e a 2ª parcela do 13º?","acceptedAnswer":{"@type":"Answer","text":"A 1ª parcela equivale a metade do salário bruto, sem desconto de IRRF. A 2ª parcela é calculada sobre o valor integral do 13º, menos a 1ª parcela já paga, com desconto de INSS e IRRF."}},{"@type":"Question","name":"Como é calculado o INSS sobre o 13º?","acceptedAnswer":{"@type":"Answer","text":"O INSS sobre o 13º é calculado sobre o valor total (integral) do décimo terceiro, usando a tabela progressiva de 2026, separadamente do salário mensal."}},{"@type":"Question","name":"Quantos meses conto para o 13º proporcional?","acceptedAnswer":{"@type":"Answer","text":"Conta-se cada mês em que o trabalhador tenha trabalhado pelo menos 15 dias. O mês de admissão e o mês de demissão contam se o trabalho for igual ou superior a 15 dias no mês."}},{"@type":"Question","name":"O 13º entra no cálculo de férias e FGTS?","acceptedAnswer":{"@type":"Answer","text":"Sim. O FGTS é recolhido também sobre o 13º salário (8% do valor bruto). O 13º não entra na base de cálculo das férias."}}]}</script>
+</head>
+<body>
+<header class="site-header">
+  <a href="/" class="logo"><span class="logo-icon">📈</span>Dinheiro Crescendo</a>
+  <nav class="site-nav"><a href="/blog">Artigos</a><a href="/calculadoras/">Calculadoras</a><a href="/corretoras">Corretoras</a></nav>
+</header>
+<div class="page-wrapper">
+  <nav class="breadcrumb"><a href="/">Início</a><span>›</span><a href="/calculadoras/">Calculadoras</a><span>›</span>13º Salário</nav>
+  <h1 class="page-title">Calculadora de 13º Salário 2026</h1>
+  <p class="page-subtitle">Valor integral, proporcional, 1ª e 2ª parcela com descontos de INSS e IRRF</p>
+  <div class="ad-placeholder ad-top">[ Espaço publicitário ]</div>
+  <div class="card">
+    <div class="card-title">🎁 Calcular 13º salário</div>
+    <div class="form-grid">
+      <div class="form-group">
+        <label class="form-label">Salário bruto mensal (R$)</label>
+        <input class="form-input" type="number" id="salario" value="3000" min="0" step="100">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Meses trabalhados no ano (1–12)</label>
+        <input class="form-input" type="number" id="meses" value="12" min="1" max="12">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Dependentes (para IRRF)</label>
+        <input class="form-input" type="number" id="dependentes" value="0" min="0" max="10">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Calcular</label>
+        <select class="form-input form-select" id="parcela">
+          <option value="total">Valor total + parcelas</option>
+          <option value="primeira">Apenas 1ª parcela</option>
+          <option value="segunda">Apenas 2ª parcela</option>
+        </select>
+      </div>
+    </div>
+    <button class="btn-calcular" onclick="calcular()">Calcular 13º salário</button>
+    <div class="resultado" id="resultado">
+      <div class="resultado-summary" id="summaryCards"></div>
+      <table class="resultado-table"><thead><tr><th>Item</th><th style="text-align:right">Valor</th></tr></thead>
+      <tbody id="tabelaBody"></tbody></table>
+      <p class="privacy-note">🔒 Cálculo realizado 100% no seu navegador. Nenhum dado é enviado para servidores.</p>
+    </div>
+  </div>
+  <div class="ad-placeholder ad-mid">[ Espaço publicitário ]</div>
+  <div class="content-section">
+    <h2>Como é calculado o 13º salário</h2>
+    <p>O 13º salário (gratificação natalina) é um direito garantido pela Constituição Federal a todo trabalhador com carteira assinada. Equivale a 1 salário mensal por ano completo de trabalho, ou proporcional ao número de meses trabalhados.</p>
+    <h3>Fórmula do 13º proporcional</h3>
+    <p><strong>13º = (Salário ÷ 12) × meses trabalhados</strong></p>
+    <p>Exemplo: salário de R$ 3.000, 8 meses trabalhados → 13º = R$ 3.000 ÷ 12 × 8 = <strong>R$ 2.000,00</strong></p>
+    <h3>1ª parcela do 13º (antecipação)</h3>
+    <p>A 1ª parcela equivale a <strong>metade do salário bruto</strong> (sem considerar os meses proporcionais ainda, salvo no pagamento final). Não tem desconto de IRRF, mas pode ter INSS dependendo da empresa.</p>
+    <h3>2ª parcela — onde ficam os descontos</h3>
+    <p>A 2ª parcela é calculada sobre o valor <strong>integral do 13º</strong>, descontando a 1ª parcela já paga. Sobre o valor integral do 13º incidem INSS (tabela progressiva) e IRRF (tabela separada do salário mensal).</p>
+    <h3>FGTS sobre o 13º</h3>
+    <p>O empregador também recolhe FGTS de 8% sobre o valor bruto do 13º salário. Esse valor vai para a conta do FGTS do trabalhador.</p>
+  </div>
+  <div class="faq-section">
+    <h2>Perguntas frequentes sobre o 13º salário</h2>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">Quando o 13º é pago? <span>＋</span></div><div class="faq-answer"><p>A 1ª parcela deve ser paga entre 1º de fevereiro e 30 de novembro. A 2ª parcela deve ser paga até 20 de dezembro. O empregado pode solicitar o adiantamento da 1ª parcela junto com as férias.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">Quantos meses conto para o 13º proporcional? <span>＋</span></div><div class="faq-answer"><p>Cada mês em que o trabalhador trabalhou pelo menos 15 dias conta como mês completo. Quem entra no dia 16 ou depois não conta o mês de admissão; quem entra no dia 15 ou antes, conta.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">Como é calculado o INSS sobre o 13º? <span>＋</span></div><div class="faq-answer"><p>O INSS sobre o 13º é calculado separadamente do salário mensal, sobre o valor integral do décimo terceiro, usando a tabela progressiva 2026. Esse cálculo é independente do INSS do salário normal do mês.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">O 13º entra no cálculo de férias e FGTS? <span>＋</span></div><div class="faq-answer"><p>O FGTS é recolhido sobre o 13º (8% do valor bruto). O 13º não entra na base de cálculo das férias (as férias são calculadas sobre o salário mensal).</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">Quem pede demissão recebe o 13º? <span>＋</span></div><div class="faq-answer"><p>Sim. Em qualquer modalidade de rescisão (exceto demissão com justa causa), o trabalhador tem direito ao 13º proporcional aos meses trabalhados no ano corrente.</p></div></div>
+  </div>
+  <div class="ad-placeholder ad-bottom">[ Espaço publicitário ]</div>
+  <h2 style="font-size:1.1rem;font-weight:700;margin-bottom:12px">Outras calculadoras</h2>
+  <div class="related-links">
+    <a href="/calculadoras/rescisao/" class="related-link">📋 Rescisão CLT</a>
+    <a href="/calculadoras/ferias/" class="related-link">🏖️ Férias</a>
+    <a href="/calculadoras/salario-liquido/" class="related-link">💰 Salário Líquido</a>
+    <a href="/calculadoras/clt-vs-pj/" class="related-link">⚖️ CLT vs PJ</a>
+  </div>
+</div>
+<footer class="site-footer"><p>© 2026 Dinheiro Crescendo · <a href="/privacidade">Privacidade</a> · <a href="/termos">Termos</a> · Conteúdo educativo.</p></footer>
+<script>
+const FAIXAS_INSS=[{ate:1621,aliq:.075},{ate:2902.84,aliq:.09},{ate:4354.27,aliq:.12},{ate:8475.55,aliq:.14}];
+const FAIXAS_IRRF=[{ate:2428.80,aliq:0,ded:0},{ate:2826.65,aliq:.075,ded:182.16},{ate:3751.05,aliq:.15,ded:394.16},{ate:4664.68,aliq:.225,ded:675.49},{ate:Infinity,aliq:.275,ded:908.73}];
+function brl(v){return v.toLocaleString('pt-BR',{style:'currency',currency:'BRL'});}
+function calcINSS(s){const b=Math.min(s,8475.55);let d=0,a=0;for(const f of FAIXAS_INSS){if(b<=a)break;d+=(Math.min(b,f.ate)-a)*f.aliq;a=f.ate;}return Math.round(d*100)/100;}
+function calcIRRF(base){let ir=0;for(const f of FAIXAS_IRRF){if(base<=f.ate){ir=Math.max(0,base*f.aliq-f.ded);break;}}if(base<=5000)ir=0;else if(base<=7350)ir=Math.max(0,ir-(978.62-0.133145*base));return Math.round(ir*100)/100;}
+function calcular(){
+  const s=+document.getElementById('salario').value||0;
+  const m=Math.min(12,+document.getElementById('meses').value||12);
+  const dep=+document.getElementById('dependentes').value||0;
+  const parcela=document.getElementById('parcela').value;
+  const integral=Math.round(s/12*m*100)/100;
+  const p1=Math.round(integral/2*100)/100;
+  const inss13=calcINSS(integral);
+  const baseIR=Math.max(0,integral-inss13-dep*189.59);
+  const irrf13=calcIRRF(baseIR);
+  const p2bruto=integral-p1;
+  const p2liquido=Math.max(0,p2bruto-inss13-irrf13);
+  const totalLiquido=p1+p2liquido;
+  let rows=[];
+  if(parcela==='total'||parcela==='primeira'){
+    rows.push(['13º integral bruto',integral]);
+    rows.push(['1ª parcela (bruto, sem IRRF)',p1]);
+  }
+  if(parcela==='total'||parcela==='segunda'){
+    rows.push(['INSS sobre o 13º (total)',-inss13,'neg']);
+    rows.push(['IRRF sobre o 13º',-irrf13,'neg']);
+    rows.push(['2ª parcela líquida',p2liquido]);
+  }
+  if(parcela==='total') rows.push(['Total líquido a receber',totalLiquido,'total']);
+  document.getElementById('tabelaBody').innerHTML=rows.map(([n,v,t])=>
+    t==='total'?`<tr class="total-row"><td><strong>${n}</strong></td><td style="text-align:right"><strong>${brl(Math.abs(v))}</strong></td></tr>`
+    :t==='neg'?`<tr><td>${n}</td><td style="text-align:right;color:#DC2626;font-weight:600">− ${brl(Math.abs(v))}</td></tr>`
+    :`<tr><td>${n}</td><td style="text-align:right;color:#059669;font-weight:600">${brl(v)}</td></tr>`
+  ).join('');
+  document.getElementById('summaryCards').innerHTML=`
+    <div class="summary-item"><div class="summary-label">13º integral</div><div class="summary-value">${brl(integral)}</div></div>
+    <div class="summary-item"><div class="summary-label">INSS</div><div class="summary-value">${brl(inss13)}</div></div>
+    <div class="summary-item"><div class="summary-label">IRRF</div><div class="summary-value">${brl(irrf13)}</div></div>
+    <div class="summary-item"><div class="summary-label">Líquido total</div><div class="summary-value">${brl(totalLiquido)}</div></div>`;
+  document.getElementById('resultado').classList.add('visible');
+}
+function toggleFaq(el){const a=el.nextElementSibling,i=el.querySelector('span');a.classList.toggle('open');i.textContent=a.classList.contains('open')?'－':'＋';}
+</script>
+</body></html>

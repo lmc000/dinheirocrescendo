@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora CLT vs PJ 2026 — Compare Salário CLT com Faturamento PJ</title>
+  <meta name="description" content="Compare salário CLT com faturamento PJ em 2026: calcule o custo real do PJ incluindo Simples Nacional, pró-labore, INSS, contador e benefícios perdidos.">
+  <link rel="canonical" href="https://www.dinheirocrescendo.com.br/calculadoras/clt-vs-pj/">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
+  <link rel="stylesheet" href="/calculadoras/style.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://www.dinheirocrescendo.com.br/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://www.dinheirocrescendo.com.br/calculadoras/"},{"@type":"ListItem","position":3,"name":"Calculadora CLT vs PJ","item":"https://www.dinheirocrescendo.com.br/calculadoras/clt-vs-pj/"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Qual a diferença real entre CLT e PJ?","acceptedAnswer":{"@type":"Answer","text":"Na CLT o empregado tem 13º, férias, FGTS, plano de saúde (muitas vezes) e estabilidade. No PJ, o profissional recebe mais bruto mas arca com impostos (Simples Nacional), contador (~R$200/mês), não tem 13º, férias nem FGTS. Para compensar, o faturamento PJ precisa ser tipicamente 30–40% maior que o salário CLT equivalente."}},{"@type":"Question","name":"O que é o Fator R no Simples Nacional?","acceptedAnswer":{"@type":"Answer","text":"O Fator R é a relação entre a folha de pagamento (pró-labore + empregados) e o faturamento dos últimos 12 meses. Se for igual ou superior a 28%, a empresa enquadra no Anexo III (alíquotas menores). Se for inferior a 28%, enquadra no Anexo V (alíquotas maiores). É crucial para quem fatura serviços de TI, consultoria e áreas afins."}},{"@type":"Question","name":"Qual o imposto mínimo no Simples Nacional Anexo III?","acceptedAnswer":{"@type":"Answer","text":"No Anexo III, a alíquota efetiva começa em 6% para faturamentos até R$ 180.000/ano. Com o Fator R favorável, é possível manter alíquotas baixas mesmo com faturamentos maiores."}},{"@type":"Question","name":"Vale a pena abrir empresa só para trabalhar como PJ?","acceptedAnswer":{"@type":"Answer","text":"Depende. Se o faturamento PJ for pelo menos 30–40% maior que o equivalente CLT e houver estabilidade de contratos, pode valer. Se a diferença for menor, os benefícios CLT (13º, férias, FGTS, seguro-desemprego) tendem a compensar."}},{"@type":"Question","name":"O PJ precisa mesmo de um contador?","acceptedAnswer":{"@type":"Answer","text":"Sim, exceto MEI. Para empresas no Simples Nacional, um contador é obrigatório para emitir notas fiscais, fazer as guias mensais (DAS), a declaração anual e gerenciar o CNPJ. O custo médio é R$ 150–350/mês dependendo da cidade e do volume de notas."}}]}</script>
+</head>
+<body>
+<header class="site-header">
+  <a href="/" class="logo"><span class="logo-icon">📈</span>Dinheiro Crescendo</a>
+  <nav class="site-nav"><a href="/blog">Artigos</a><a href="/calculadoras/">Calculadoras</a><a href="/corretoras">Corretoras</a></nav>
+</header>
+<div class="page-wrapper">
+  <nav class="breadcrumb"><a href="/">Início</a><span>›</span><a href="/calculadoras/">Calculadoras</a><span>›</span>CLT vs PJ</nav>
+  <h1 class="page-title">Calculadora CLT vs PJ 2026</h1>
+  <p class="page-subtitle">Compare o pacote CLT com o faturamento PJ e descubra o ponto de equilíbrio</p>
+  <div class="ad-placeholder ad-top">[ Espaço publicitário ]</div>
+  <div class="card">
+    <div class="card-title">⚖️ Comparar CLT vs PJ</div>
+    <p style="font-size:.85rem;color:#64748B;margin-bottom:16px">Preencha os campos de cada regime e compare o custo real de cada um.</p>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px">
+      <div>
+        <div style="font-weight:700;color:#1D4ED8;margin-bottom:12px;font-size:.95rem">🏢 CLT</div>
+        <div class="form-group" style="margin-bottom:12px">
+          <label class="form-label">Salário bruto mensal (R$)</label>
+          <input class="form-input" type="number" id="cltSalario" value="8000" min="0" step="500">
+        </div>
+        <div class="form-group" style="margin-bottom:12px">
+          <label class="form-label">Vale-refeição/alimentação (R$)</label>
+          <input class="form-input" type="number" id="cltVR" value="800" min="0">
+        </div>
+        <div class="form-group" style="margin-bottom:12px">
+          <label class="form-label">Plano de saúde (R$)</label>
+          <input class="form-input" type="number" id="cltSaude" value="500" min="0">
+        </div>
+        <div class="form-group">
+          <label class="form-label">Outros benefícios (R$)</label>
+          <input class="form-input" type="number" id="cltOutros" value="0" min="0">
+        </div>
+      </div>
+      <div>
+        <div style="font-weight:700;color:#059669;margin-bottom:12px;font-size:.95rem">🧾 PJ (Simples Nacional)</div>
+        <div class="form-group" style="margin-bottom:12px">
+          <label class="form-label">Faturamento mensal bruto (R$)</label>
+          <input class="form-input" type="number" id="pjFaturamento" value="12000" min="0" step="500">
+        </div>
+        <div class="form-group" style="margin-bottom:12px">
+          <label class="form-label">Anexo do Simples</label>
+          <select class="form-input form-select" id="pjAnexo">
+            <option value="III">Anexo III (Fator R ≥ 28%)</option>
+            <option value="V">Anexo V (Fator R &lt; 28%)</option>
+          </select>
+        </div>
+        <div class="form-group" style="margin-bottom:12px">
+          <label class="form-label">Custo contador (R$/mês)</label>
+          <input class="form-input" type="number" id="pjContador" value="250" min="0">
+        </div>
+        <div class="form-group">
+          <label class="form-label">Outros custos PJ (R$/mês)</label>
+          <input class="form-input" type="number" id="pjOutros" value="0" min="0">
+        </div>
+      </div>
+    </div>
+    <button class="btn-calcular" onclick="calcular()">Comparar CLT vs PJ</button>
+    <div class="resultado" id="resultado">
+      <div class="resultado-summary" id="summaryCards"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px">
+        <table class="resultado-table"><thead><tr><th>CLT — Benefícios totais</th><th style="text-align:right">R$/mês</th></tr></thead><tbody id="cltBody"></tbody></table>
+        <table class="resultado-table"><thead><tr><th>PJ — Receita líquida</th><th style="text-align:right">R$/mês</th></tr></thead><tbody id="pjBody"></tbody></table>
+      </div>
+      <p class="privacy-note">🔒 Cálculo realizado 100% no seu navegador. Nenhum dado é enviado para servidores.</p>
+    </div>
+  </div>
+  <div class="ad-placeholder ad-mid">[ Espaço publicitário ]</div>
+  <div class="content-section">
+    <h2>CLT vs PJ — o que comparar além do salário</h2>
+    <p>A comparação entre CLT e PJ vai muito além do valor bruto. Para uma análise justa, é preciso somar todos os benefícios CLT e subtrair todos os custos PJ.</p>
+    <h3>Valor real do pacote CLT</h3>
+    <p>O custo total do empregado CLT para a empresa inclui os encargos patronais (FGTS 8%, INSS patronal 20%, etc.), mas o que interessa ao trabalhador é o que ele efetivamente recebe e consome:</p>
+    <ul>
+      <li>Salário líquido (bruto menos INSS e IRRF)</li>
+      <li>13º salário (equivale a +8,33% ao mês)</li>
+      <li>Férias (equivale a +11,11% ao mês, incluindo o 1/3)</li>
+      <li>FGTS (8% do salário bruto — fica depositado)</li>
+      <li>Benefícios: vale-refeição, plano de saúde, VT</li>
+      <li>Seguro-desemprego em caso de demissão sem justa causa</li>
+    </ul>
+    <h3>Custos reais do PJ</h3>
+    <ul>
+      <li>Simples Nacional (DAS mensal — varia por faturamento e anexo)</li>
+      <li>Contador: R$ 150–350/mês</li>
+      <li>Sem 13º, férias remuneradas, FGTS ou seguro-desemprego</li>
+      <li>Plano de saúde e VR por conta própria</li>
+      <li>Necessidade de reserva para períodos sem contratos</li>
+    </ul>
+    <h3>Tabela Simples Nacional 2026 — Anexo III (serviços com Fator R ≥ 28%)</h3>
+    <table class="info-table">
+      <thead><tr><th>Faturamento anual</th><th>Alíquota nominal</th><th>Alíquota efetiva</th></tr></thead>
+      <tbody>
+        <tr><td>Até R$ 180.000</td><td>6%</td><td>6,00%</td></tr>
+        <tr><td>R$ 180.001 a R$ 360.000</td><td>11,2%</td><td>~8–9%</td></tr>
+        <tr><td>R$ 360.001 a R$ 720.000</td><td>13,5%</td><td>~10–11%</td></tr>
+        <tr><td>R$ 720.001 a R$ 1.800.000</td><td>16%</td><td>~13–14%</td></tr>
+      </tbody>
+    </table>
+    <p>A alíquota efetiva é menor que a nominal porque é calculada deduzindo uma parcela fixa de cada faixa.</p>
+  </div>
+  <div class="faq-section">
+    <h2>Perguntas frequentes — CLT vs PJ</h2>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">Qual a diferença real entre CLT e PJ? <span>＋</span></div><div class="faq-answer"><p>Na CLT o empregado tem 13º, férias, FGTS, plano de saúde (muitas vezes) e estabilidade. No PJ, o profissional recebe mais bruto mas arca com Simples Nacional, contador e não tem 13º, férias nem FGTS. Para compensar, o faturamento PJ precisa ser tipicamente 30–40% maior que o salário CLT equivalente.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">O que é o Fator R no Simples Nacional? <span>＋</span></div><div class="faq-answer"><p>O Fator R é a relação entre a folha de pagamento (pró-labore + funcionários) e o faturamento dos últimos 12 meses. Se ≥ 28%, enquadra no Anexo III (alíquotas menores). Se &lt; 28%, vai para o Anexo V (alíquotas maiores). Para manter o Fator R ≥ 28%, o sócio precisa pagar pró-labore de pelo menos 28% do faturamento.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">Vale a pena abrir empresa só para trabalhar como PJ? <span>＋</span></div><div class="faq-answer"><p>Depende. Se o faturamento PJ for pelo menos 30–40% maior que o equivalente CLT e houver estabilidade de contratos, pode valer. Se a diferença for menor, os benefícios CLT tendem a compensar. Consulte um contador antes de decidir.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">O PJ precisa de um contador? <span>＋</span></div><div class="faq-answer"><p>Sim, exceto MEI. Para empresas no Simples Nacional, um contador é necessário para guias mensais (DAS), declaração anual e gestão do CNPJ. Custo médio: R$ 150–350/mês.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">Posso ser MEI prestando serviço como PJ? <span>＋</span></div><div class="faq-answer"><p>Depende da atividade. Muitas atividades de serviços (TI, consultoria, design) não são permitidas no MEI. Além disso, o MEI tem limite de faturamento de R$ 81.000/ano (R$ 6.750/mês). Acima disso ou para atividades restritas, é necessário abrir uma empresa no Simples Nacional.</p></div></div>
+  </div>
+  <div class="ad-placeholder ad-bottom">[ Espaço publicitário ]</div>
+  <h2 style="font-size:1.1rem;font-weight:700;margin-bottom:12px">Outras calculadoras</h2>
+  <div class="related-links">
+    <a href="/calculadoras/salario-liquido/" class="related-link">💰 Salário Líquido</a>
+    <a href="/calculadoras/rescisao/" class="related-link">📋 Rescisão CLT</a>
+    <a href="/calculadoras/ferias/" class="related-link">🏖️ Férias</a>
+    <a href="/ferramentas" class="related-link">📊 Simular investimento</a>
+  </div>
+</div>
+<footer class="site-footer"><p>© 2026 Dinheiro Crescendo · <a href="/privacidade">Privacidade</a> · <a href="/termos">Termos</a> · Conteúdo educativo, não constitui aconselhamento fiscal.</p></footer>
+<script>
+function brl(v){return v.toLocaleString('pt-BR',{style:'currency',currency:'BRL'});}
+// Simples Nacional alíquotas efetivas simplificadas
+function aliquotaSimples(anual, anexo) {
+  const tabAnexoIII=[[180000,.06,0],[360000,.112,9360],[720000,.135,17640],[1800000,.16,35640],[3600000,.21,125640],[Infinity,.33,648000]];
+  const tabAnexoV=[[180000,.155,0],[360000,.18,4500],[720000,.195,9900],[1800000,.205,17100],[3600000,.23,62100],[Infinity,.305,540000]];
+  const tab=anexo==='III'?tabAnexoIII:tabAnexoV;
+  for(const [lim,aliq,ded] of tab){if(anual<=lim){return(anual*aliq-ded)/anual;}}
+  return tab[tab.length-1][1];
+}
+function calcular(){
+  const cltSal=+document.getElementById('cltSalario').value||0;
+  const cltVR=+document.getElementById('cltVR').value||0;
+  const cltSaude=+document.getElementById('cltSaude').value||0;
+  const cltOut=+document.getElementById('cltOutros').value||0;
+  const pjFat=+document.getElementById('pjFaturamento').value||0;
+  const anexo=document.getElementById('pjAnexo').value;
+  const contador=+document.getElementById('pjContador').value||0;
+  const pjOut=+document.getElementById('pjOutros').value||0;
+
+  // CLT
+  const FAIXAS_INSS=[{ate:1621,aliq:.075},{ate:2902.84,aliq:.09},{ate:4354.27,aliq:.12},{ate:8475.55,aliq:.14}];
+  function calcINSS(s){const b=Math.min(s,8475.55);let d=0,a=0;for(const f of FAIXAS_INSS){if(b<=a)break;d+=(Math.min(b,f.ate)-a)*f.aliq;a=f.ate;}return Math.round(d*100)/100;}
+  const FAIXAS_IRRF=[{ate:2428.80,aliq:0,ded:0},{ate:2826.65,aliq:.075,ded:182.16},{ate:3751.05,aliq:.15,ded:394.16},{ate:4664.68,aliq:.225,ded:675.49},{ate:Infinity,aliq:.275,ded:908.73}];
+  function calcIRRF(base){let ir=0;for(const f of FAIXAS_IRRF){if(base<=f.ate){ir=Math.max(0,base*f.aliq-f.ded);break;}}if(base<=5000)ir=0;else if(base<=7350)ir=Math.max(0,ir-(978.62-0.133145*base));return Math.round(ir*100)/100;}
+  const inss=calcINSS(cltSal);
+  const irrf=calcIRRF(Math.max(0,cltSal-inss));
+  const cltLiquido=cltSal-inss-irrf;
+  const decTer=cltSal/12;
+  const ferias=cltSal/12*(4/3);
+  const fgts=cltSal*0.08;
+  const cltTotal=cltLiquido+decTer+ferias+fgts+cltVR+cltSaude+cltOut;
+
+  // PJ
+  const faturamentoAnual=pjFat*12;
+  const aliqEfetiva=aliquotaSimples(faturamentoAnual, anexo);
+  const das=Math.round(pjFat*aliqEfetiva*100)/100;
+  const pjLiquido=pjFat-das-contador-pjOut;
+
+  const vantagem=pjLiquido-cltTotal;
+
+  document.getElementById('cltBody').innerHTML=`
+    <tr><td>Salário líquido</td><td style="text-align:right">${brl(cltLiquido)}</td></tr>
+    <tr><td>13º (÷12)</td><td style="text-align:right">${brl(decTer)}</td></tr>
+    <tr><td>Férias (÷12 + 1/3)</td><td style="text-align:right">${brl(ferias)}</td></tr>
+    <tr><td>FGTS (8%)</td><td style="text-align:right">${brl(fgts)}</td></tr>
+    ${cltVR?`<tr><td>Vale-refeição/alim.</td><td style="text-align:right">${brl(cltVR)}</td></tr>`:''}
+    ${cltSaude?`<tr><td>Plano de saúde</td><td style="text-align:right">${brl(cltSaude)}</td></tr>`:''}
+    <tr class="total-row"><td><strong>Total CLT</strong></td><td style="text-align:right"><strong>${brl(cltTotal)}</strong></td></tr>`;
+
+  document.getElementById('pjBody').innerHTML=`
+    <tr><td>Faturamento bruto</td><td style="text-align:right">${brl(pjFat)}</td></tr>
+    <tr><td>DAS Simples (${(aliqEfetiva*100).toFixed(1)}%)</td><td style="text-align:right;color:#DC2626">− ${brl(das)}</td></tr>
+    <tr><td>Contador</td><td style="text-align:right;color:#DC2626">− ${brl(contador)}</td></tr>
+    ${pjOut?`<tr><td>Outros custos</td><td style="text-align:right;color:#DC2626">− ${brl(pjOut)}</td></tr>`:''}
+    <tr class="total-row"><td><strong>Líquido PJ</strong></td><td style="text-align:right"><strong>${brl(pjLiquido)}</strong></td></tr>`;
+
+  document.getElementById('summaryCards').innerHTML=`
+    <div class="summary-item"><div class="summary-label">Pacote CLT total</div><div class="summary-value">${brl(cltTotal)}</div></div>
+    <div class="summary-item"><div class="summary-label">Líquido PJ</div><div class="summary-value">${brl(pjLiquido)}</div></div>
+    <div class="summary-item" style="background:${vantagem>=0?'#ECFDF5':'#FEF2F2'}">
+      <div class="summary-label">${vantagem>=0?'Vantagem PJ':'Vantagem CLT'}</div>
+      <div class="summary-value" style="color:${vantagem>=0?'#059669':'#DC2626'}">${brl(Math.abs(vantagem))}/mês</div></div>`;
+  document.getElementById('resultado').classList.add('visible');
+}
+function toggleFaq(el){const a=el.nextElementSibling,i=el.querySelector('span');a.classList.toggle('open');i.textContent=a.classList.contains('open')?'－':'＋';}
+</script>
+</body></html>

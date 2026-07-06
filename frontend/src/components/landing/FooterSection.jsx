@@ -25,6 +25,8 @@ export const FooterSection = () => {
                                 { label: "Artigos", href: "/blog" },
                                 { label: "Corretoras", href: "/corretoras" },
                                 { label: "Ferramentas", href: "/ferramentas" },
+                                { label: "Calculadoras", href: "/calculadoras/" },
+                                { label: "Termos de Uso", href: "/termos/" },
                             ].map((item) => (
                                 <li key={item.label}>
                                     <Link to={item.href} className="text-slate-400 hover:text-white text-sm transition-colors">

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora de Salário Líquido 2026 — Bruto para Líquido com INSS e IRRF</title>
+  <meta name="description" content="Calcule seu salário líquido 2026: desconto de INSS progressivo, IRRF com a nova isenção até R$5.000, VT, plano de saúde e outros descontos. Cálculo gratuito e preciso.">
+  <link rel="canonical" href="https://www.dinheirocrescendo.com.br/calculadoras/salario-liquido/">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
+  <link rel="stylesheet" href="/calculadoras/style.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://www.dinheirocrescendo.com.br/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://www.dinheirocrescendo.com.br/calculadoras/"},{"@type":"ListItem","position":3,"name":"Calculadora de Salário Líquido","item":"https://www.dinheirocrescendo.com.br/calculadoras/salario-liquido/"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Como é calculado o INSS em 2026?","acceptedAnswer":{"@type":"Answer","text":"O INSS 2026 é calculado de forma progressiva por faixas: 7,5% até R$ 1.621, 9% de R$ 1.621,01 a R$ 2.902,84, 12% de R$ 2.902,85 a R$ 4.354,27 e 14% de R$ 4.354,28 até o teto de R$ 8.475,55."}},{"@type":"Question","name":"Quem está isento de IRRF em 2026?","acceptedAnswer":{"@type":"Answer","text":"Pela Lei nº 15.270/2025, quem tem renda tributável mensal até R$ 5.000 está efetivamente isento de IRRF em 2026, graças ao mecanismo de redutor criado pela lei."}},{"@type":"Question","name":"O VT e o plano de saúde desconto no IR?","acceptedAnswer":{"@type":"Answer","text":"O VT não é descontado para fins de IRRF. O plano de saúde custeado pelo empregado pode ser deduzido na declaração anual, mas não na retenção mensal na fonte (salvo situações específicas)."}},{"@type":"Question","name":"Como calcular o salário líquido com dependentes?","acceptedAnswer":{"@type":"Answer","text":"Cada dependente gera uma dedução de R$ 189,59 na base de cálculo do IRRF em 2026. Isso reduz o imposto de renda retido na fonte."}},{"@type":"Question","name":"O 13º salário tem os mesmos descontos que o salário mensal?","acceptedAnswer":{"@type":"Answer","text":"A 1ª parcela do 13º não tem IRRF. A 2ª parcela tem desconto de INSS (sobre o valor total) e IRRF calculado sobre o 13º integral menos o INSS."}}]}</script>
+</head>
+<body>
+<header class="site-header">
+  <a href="/" class="logo"><span class="logo-icon">📈</span>Dinheiro Crescendo</a>
+  <nav class="site-nav"><a href="/blog">Artigos</a><a href="/calculadoras/">Calculadoras</a><a href="/corretoras">Corretoras</a></nav>
+</header>
+<div class="page-wrapper">
+  <nav class="breadcrumb"><a href="/">Início</a><span>›</span><a href="/calculadoras/">Calculadoras</a><span>›</span>Salário Líquido</nav>
+  <h1 class="page-title">Calculadora de Salário Líquido 2026</h1>
+  <p class="page-subtitle">Descubra quanto vai cair na sua conta — INSS, IRRF e outros descontos</p>
+  <div class="ad-placeholder ad-top">[ Espaço publicitário ]</div>
+  <div class="card">
+    <div class="card-title">💰 Calcular salário líquido</div>
+    <div class="form-grid">
+      <div class="form-group">
+        <label class="form-label">Salário bruto mensal (R$)</label>
+        <input class="form-input" type="number" id="bruto" value="5000" min="0" step="100">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Dependentes (para IRRF)</label>
+        <input class="form-input" type="number" id="dependentes" value="0" min="0" max="10">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Vale-transporte a descontar (R$)</label>
+        <input class="form-input" type="number" id="vt" value="0" min="0">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Plano de saúde (R$)</label>
+        <input class="form-input" type="number" id="saude" value="0" min="0">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Pensão alimentícia (R$)</label>
+        <input class="form-input" type="number" id="pensao" value="0" min="0">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Outros descontos (R$)</label>
+        <input class="form-input" type="number" id="outros" value="0" min="0">
+      </div>
+    </div>
+    <button class="btn-calcular" onclick="calcular()">Calcular salário líquido</button>
+    <div class="resultado" id="resultado">
+      <div class="resultado-summary" id="summaryCards"></div>
+      <table class="resultado-table">
+        <thead><tr><th>Item</th><th style="text-align:right">Valor</th></tr></thead>
+        <tbody id="tabelaBody"></tbody>
+      </table>
+      <p class="privacy-note">🔒 Cálculo realizado 100% no seu navegador. Nenhum dado é enviado para servidores.</p>
+    </div>
+  </div>
+  <div class="ad-placeholder ad-mid">[ Espaço publicitário ]</div>
+  <div class="content-section">
+    <h2>Como é calculado o salário líquido em 2026</h2>
+    <p>O salário líquido é o valor que efetivamente cai na conta do trabalhador após todos os descontos obrigatórios. O cálculo segue sempre esta ordem: <strong>Salário Bruto → desconto INSS → base de cálculo do IRRF → desconto IRRF → outros descontos → Salário Líquido</strong>.</p>
+
+    <h3>Tabela INSS 2026 — Contribuição Progressiva</h3>
+    <p>Em 2026, o INSS é calculado de forma progressiva por faixas (como o Imposto de Renda), não sobre o salário total. O teto é R$ 8.475,55.</p>
+    <table class="info-table">
+      <thead><tr><th>Faixa salarial</th><th>Alíquota</th></tr></thead>
+      <tbody>
+        <tr><td>Até R$ 1.621,00</td><td>7,5%</td></tr>
+        <tr><td>R$ 1.621,01 a R$ 2.902,84</td><td>9%</td></tr>
+        <tr><td>R$ 2.902,85 a R$ 4.354,27</td><td>12%</td></tr>
+        <tr><td>R$ 4.354,28 a R$ 8.475,55</td><td>14%</td></tr>
+      </tbody>
+    </table>
+
+    <h3>Isenção de IRRF até R$ 5.000 em 2026</h3>
+    <p>A Lei nº 15.270/2025, sancionada em novembro de 2025 e vigente desde janeiro de 2026, criou um mecanismo de redutor que efetivamente zera o IRRF para quem tem renda tributável mensal (bruto menos INSS e deduções) até R$ 5.000,00. Para rendas entre R$ 5.000,01 e R$ 7.350,00 há uma redução gradual.</p>
+
+    <h3>Exemplo de cálculo — salário de R$ 6.000</h3>
+    <p><strong>1. INSS:</strong> 7,5% × R$ 1.621 + 9% × (R$ 2.902,84 − R$ 1.621) + 12% × (R$ 4.354,27 − R$ 2.902,84) + 14% × (R$ 6.000 − R$ 4.354,27) = R$ 668,50 (aprox.)</p>
+    <p><strong>2. Base IRRF:</strong> R$ 6.000 − R$ 668,50 = R$ 5.331,50</p>
+    <p><strong>3. IRRF pela tabela:</strong> R$ 5.331,50 × 27,5% − R$ 908,73 = R$ 557,40</p>
+    <p><strong>4. Redutor (R$ 5.000,01–R$ 7.350):</strong> R$ 978,62 − (0,133145 × R$ 5.331,50) = R$ 268,96</p>
+    <p><strong>5. IRRF final:</strong> R$ 557,40 − R$ 268,96 = <strong>R$ 288,44</strong></p>
+    <p><strong>6. Salário líquido:</strong> R$ 6.000 − R$ 668,50 − R$ 288,44 = <strong>R$ 5.043,06</strong></p>
+  </div>
+  <div class="faq-section">
+    <h2>Perguntas frequentes</h2>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">Como é calculado o INSS em 2026? <span>＋</span></div><div class="faq-answer"><p>O INSS 2026 é calculado de forma progressiva por faixas: 7,5% até R$ 1.621, 9% de R$ 1.621,01 a R$ 2.902,84, 12% de R$ 2.902,85 a R$ 4.354,27 e 14% de R$ 4.354,28 até o teto de R$ 8.475,55. O cálculo é feito faixa por faixa, não sobre o total.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">Quem está isento de IRRF em 2026? <span>＋</span></div><div class="faq-answer"><p>Pela Lei nº 15.270/2025, quem tem renda tributável mensal até R$ 5.000 está efetivamente isento de IRRF em 2026, graças ao mecanismo de redutor. A tabela progressiva em si tem isenção até R$ 2.428,80, mas o redutor zera o imposto até R$ 5.000.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">VT e plano de saúde descontam no IRRF? <span>＋</span></div><div class="faq-answer"><p>O VT não reduz a base de cálculo do IRRF mensal. O plano de saúde custeado pelo empregado pode ser deduzido na declaração anual (DIRPF), mas não na retenção mensal na fonte.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">Como calcular o salário líquido com dependentes? <span>＋</span></div><div class="faq-answer"><p>Cada dependente gera uma dedução de R$ 189,59 na base de cálculo do IRRF. Isso reduz o imposto de renda retido na fonte mensalmente.</p></div></div>
+    <div class="faq-item"><div class="faq-question" onclick="toggleFaq(this)">O 13º salário tem os mesmos descontos? <span>＋</span></div><div class="faq-answer"><p>A 1ª parcela do 13º (paga até novembro) não tem IRRF. A 2ª parcela (paga até 20 de dezembro) tem desconto de INSS calculado sobre o valor total do 13º e IRRF calculado sobre o 13º integral menos o INSS.</p></div></div>
+  </div>
+  <div class="ad-placeholder ad-bottom">[ Espaço publicitário ]</div>
+  <h2 style="font-size:1.1rem;font-weight:700;margin-bottom:12px">Outras calculadoras</h2>
+  <div class="related-links">
+    <a href="/calculadoras/rescisao/" class="related-link">📋 Rescisão CLT</a>
+    <a href="/calculadoras/clt-vs-pj/" class="related-link">⚖️ CLT vs PJ</a>
+    <a href="/calculadoras/decimo-terceiro/" class="related-link">🎁 13º Salário</a>
+    <a href="/calculadoras/ferias/" class="related-link">🏖️ Férias</a>
+  </div>
+</div>
+<footer class="site-footer"><p>© 2026 Dinheiro Crescendo · <a href="/privacidade">Privacidade</a> · <a href="/termos">Termos</a> · Conteúdo educativo, não constitui aconselhamento financeiro.</p></footer>
+<script>
+const FAIXAS_INSS=[{ate:1621,aliq:.075},{ate:2902.84,aliq:.09},{ate:4354.27,aliq:.12},{ate:8475.55,aliq:.14}];
+const FAIXAS_IRRF=[{ate:2428.80,aliq:0,ded:0},{ate:2826.65,aliq:.075,ded:182.16},{ate:3751.05,aliq:.15,ded:394.16},{ate:4664.68,aliq:.225,ded:675.49},{ate:Infinity,aliq:.275,ded:908.73}];
+function brl(v){return v.toLocaleString('pt-BR',{style:'currency',currency:'BRL'});}
+function calcINSS(s){const b=Math.min(s,8475.55);let d=0,a=0;for(const f of FAIXAS_INSS){if(b<=a)break;d+=(Math.min(b,f.ate)-a)*f.aliq;a=f.ate;}return Math.round(d*100)/100;}
+function calcIRRF(base){let ir=0;for(const f of FAIXAS_IRRF){if(base<=f.ate){ir=Math.max(0,base*f.aliq-f.ded);break;}}if(base<=5000)ir=0;else if(base<=7350)ir=Math.max(0,ir-(978.62-0.133145*base));return Math.round(ir*100)/100;}
+function calcular(){
+  const bruto=+document.getElementById('bruto').value||0;
+  const dep=+document.getElementById('dependentes').value||0;
+  const vt=+document.getElementById('vt').value||0;
+  const saude=+document.getElementById('saude').value||0;
+  const pensao=+document.getElementById('pensao').value||0;
+  const outros=+document.getElementById('outros').value||0;
+  const inss=calcINSS(bruto);
+  const baseIRRF=Math.max(0,bruto-inss-dep*189.59);
+  const irrf=calcIRRF(baseIRRF);
+  const totalDesc=inss+irrf+vt+saude+pensao+outros;
+  const liquido=Math.max(0,bruto-totalDesc);
+  const rows=[
+    ['Salário bruto',bruto,''],
+    ['(−) INSS',inss,'neg'],
+    ['(−) IRRF',irrf,'neg'],
+    vt?['(−) Vale-transporte',vt,'neg']:null,
+    saude?['(−) Plano de saúde',saude,'neg']:null,
+    pensao?['(−) Pensão alimentícia',pensao,'neg']:null,
+    outros?['(−) Outros descontos',outros,'neg']:null,
+    ['= Salário líquido',liquido,'total'],
+  ].filter(Boolean);
+  document.getElementById('tabelaBody').innerHTML=rows.map(([n,v,t])=>
+    t==='total'?`<tr class="total-row"><td><strong>${n}</strong></td><td style="text-align:right"><strong>${brl(v)}</strong></td></tr>`
+    :`<tr><td>${n}</td><td style="text-align:right;color:${t==='neg'?'#DC2626':'#059669'}">${t==='neg'?'− ':'+'}${brl(v)}</td></tr>`
+  ).join('');
+  document.getElementById('summaryCards').innerHTML=`
+    <div class="summary-item"><div class="summary-label">Salário líquido</div><div class="summary-value">${brl(liquido)}</div></div>
+    <div class="summary-item"><div class="summary-label">INSS</div><div class="summary-value">${brl(inss)}</div></div>
+    <div class="summary-item"><div class="summary-label">IRRF</div><div class="summary-value">${brl(irrf)}</div></div>
+    <div class="summary-item"><div class="summary-label">Total descontos</div><div class="summary-value">${brl(totalDesc)}</div></div>`;
+  document.getElementById('resultado').classList.add('visible');
+}
+function toggleFaq(el){const a=el.nextElementSibling,i=el.querySelector('span');a.classList.toggle('open');i.textContent=a.classList.contains('open')?'－':'＋';}
+</script>
+</body></html>

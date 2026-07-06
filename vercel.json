@@ -22,6 +22,34 @@
       "dest": "/frontend/index.html"
     },
     {
+      "src": "/calculadoras/rescisao/?",
+      "dest": "/frontend/calculadoras/rescisao/index.html"
+    },
+    {
+      "src": "/calculadoras/salario-liquido/?",
+      "dest": "/frontend/calculadoras/salario-liquido/index.html"
+    },
+    {
+      "src": "/calculadoras/clt-vs-pj/?",
+      "dest": "/frontend/calculadoras/clt-vs-pj/index.html"
+    },
+    {
+      "src": "/calculadoras/ferias/?",
+      "dest": "/frontend/calculadoras/ferias/index.html"
+    },
+    {
+      "src": "/calculadoras/decimo-terceiro/?",
+      "dest": "/frontend/calculadoras/decimo-terceiro/index.html"
+    },
+    {
+      "src": "/calculadoras/?",
+      "dest": "/frontend/calculadoras/index.html"
+    },
+    {
+      "src": "/termos/?",
+      "dest": "/frontend/termos/index.html"
+    },
+    {
       "src": "/static/(.*)",
       "dest": "/frontend/static/$1"
     },
