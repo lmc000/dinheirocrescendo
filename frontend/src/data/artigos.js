@@ -4396,4 +4396,187 @@ Cryptos são altamente voláteis — quedas de 50-80% em meses são históricas.
 *Este artigo é de caráter informativo e não constitui recomendação de investimento. Criptomoedas são ativos de alto risco.*
   `
   },
+  {
+    slug: "prop-firms-trading-como-funciona-brasil",
+    titulo: "Prop Firms de Trading — Como Funciona e as Melhores para Brasileiros em 2026",
+    descricao: "O que são prop firms, como funciona o desafio, regras de drawdown, divisão de lucros e quais as melhores para traders brasileiros em 2026. Inclui informação sobre regulação no Brasil.",
+    categoria: "trading",
+    tags: ["prop firms", "trading", "funded trader", "desafio", "FTMO", "CTI", "Brasil"],
+    autor: "Equipa DinheiroCrescendo",
+    data: "2026-07-06",
+    imagem: "/images/prop-firms-trading-como-funciona-brasil.jpg",
+    conteudo: `
+As prop firms (empresas de trading proprietário) viraram febre no Brasil nos últimos anos — e por uma boa razão. Em vez de arriscar R$50.000 ou R$100.000 de capital próprio, você paga uma taxa de avaliação (geralmente entre R$300 e R$2.500) para provar que sabe gerenciar risco. Se passar, recebe capital real para operar e fica com 80-90% do lucro.
+
+> **Aviso legal importante:** O mercado de prop firms opera numa zona regulatória cinzenta no Brasil. A CVM (Comissão de Valores Mobiliários) já processou e ganhou contra prop firms brasileiras que operavam como corretoras não licenciadas. Firms internacionais que usam contas simuladas/demo na fase de avaliação ainda não foram alvo de ação direta da CVM, mas a situação regulatória pode mudar. Os ganhos recebidos de prop firms estrangeiras devem ser declarados ao Carnê-Leão mensalmente como rendimento do exterior. Consulte sempre um contador antes de começar.
+
+---
+
+## Como funciona uma prop firm
+
+O modelo padrão tem duas ou três fases:
+
+### 1. Desafio / Challenge (Fase 1)
+Você recebe uma conta com um objetivo de lucro (geralmente 8-10%) dentro de um prazo (geralmente 30 dias). Precisa respeitar limites de perda diária (tipicamente 5%) e perda máxima total (tipicamente 10%).
+
+### 2. Verificação (Fase 2)
+Objetivo de lucro menor (geralmente 5%) com as mesmas regras de risco. Confirma que o resultado da Fase 1 não foi sorte.
+
+### 3. Conta Financiada
+Você passa a operar com capital real da firma. O lucro é partilhado — geralmente 80% para o trader, 20% para a firma. Algumas chegam a 90/10.
+
+---
+
+## Regras fundamentais
+
+| Regra | Valor típico | O que significa |
+|---|---|---|
+| **Meta de lucro** | 8-10% (Fase 1) | Lucro mínimo para passar |
+| **Perda diária máxima** | 5% | Perda máxima em um único dia |
+| **Drawdown máximo** | 10% | Perda máxima total acumulada |
+| **Dias mínimos de operação** | 4-10 dias | Não pode passar em 1-2 dias |
+| **Divisão de lucro** | 80-90% | Percentagem do lucro que fica para o trader |
+
+Violar qualquer uma dessas regras significa reprovar — e pagar novamente pelo desafio.
+
+---
+
+## As melhores prop firms para brasileiros em 2026
+
+### 1. FTMO — A referência global
+
+A FTMO é a prop firm mais conhecida e com maior reputação no mundo. Fundada na República Checa em 2015, já pagou mais de um bilhão de euros a traders ao redor do mundo — incluindo muitos brasileiros.
+
+**Características:**
+- Contas de US$10.000 a US$200.000
+- Divisão de lucro: 80% (até 90% com scaling)
+- Meta de lucro: 10% (Fase 1), 5% (Fase 2)
+- Perda diária: 5% | Drawdown máximo: 10%
+- Suporte em português disponível
+- Sem prazo fixo para completar o challenge
+- Aceita traders brasileiros
+
+**Preço do challenge:** ~R$850 para conta de US$10.000
+
+[Ver FTMO →](https://ftmo.com/pt/)
+
+---
+
+### 2. City Traders Imperium (CTI) — Melhor divisão de lucros
+
+A CTI é uma firma britânica com avaliação em 1 fase (mais rápido) e divisão de lucro que começa em 50% mas sobe até 100% com o programa de scaling.
+
+**Características:**
+- Contas de US$2.500 a US$100.000
+- Divisão de lucro: começa em 50%, chega a 100%
+- 1 fase de avaliação
+- Sem prazo para o challenge
+- Pagamentos mensais
+- Aceita traders do Brasil
+
+**Preço do challenge:** ~R$500 para conta de US$10.000
+
+[Abrir conta na CTI →](https://app.citytradersimperium.com/user-auth/register?referral_code=371f2f&utm_source=client&utm_medium=referral&utm_id=371f2f)
+
+---
+
+### 3. FundedNext — Melhor para iniciantes
+
+A FundedNext se destaca por pagar 15% do lucro gerado *durante o challenge* — mesmo antes de ter conta financiada. Boa opção para quem ainda está aprendendo. Tem foco ativo no mercado brasileiro com suporte em português.
+
+**Características:**
+- Contas de US$6.000 a US$200.000
+- Lucro durante o challenge: 15% do lucro gerado
+- Divisão na conta financiada: até 90%
+- Suporte em português (PT-BR)
+- Uma das firms com maior presença no Brasil
+
+[Ver FundedNext →](https://fundednext.com)
+
+---
+
+### 4. Maven Trading — Opção acessível
+
+A Maven Trading tem desafios a preços mais acessíveis, sendo uma boa opção para começar com conta menor e menos capital em risco.
+
+**Características:**
+- Divisão de lucro: 80%
+- Challenge acessível
+- Processo de aprovação simples
+
+[Ver Maven Trading →](https://maventrading.com?ref=mjexztn)
+
+---
+
+## Quanto custa reprovar?
+
+A realidade é dura: a maioria dos traders reprova. As próprias firms indicam que apenas 10-20% dos candidatos passam no primeiro desafio.
+
+Se reprovar, precisa pagar novamente. Por isso:
+- Nunca compre um challenge sem praticar bastante numa conta demo
+- Comece com contas menores para minimizar o custo de reprovar
+- Algumas firms oferecem desconto de 20-50% em nova tentativa após reprovar
+
+---
+
+## Tributação no Brasil — o que você precisa saber
+
+Os ganhos recebidos de prop firms estrangeiras são rendimentos do exterior e devem ser:
+
+1. **Declarados mensalmente** via Carnê-Leão (Programa da Receita Federal)
+2. **Convertidos para reais** na data do recebimento (cotação do Banco Central)
+3. **Tributados** com alíquota progressiva do IRPF (até 27,5%)
+
+Diferente das ações no Brasil (onde a corretora retém o IR na fonte), você é responsável por declarar e pagar o imposto por conta própria. Um contador que entenda de rendimentos do exterior é essencial.
+
+---
+
+## Vantagens e desvantagens
+
+**Vantagens:**
+- Acesso a capital em dólar sem arriscar capital próprio significativo
+- Perda máxima é a taxa do challenge (não o capital da conta)
+- Divisão de lucros favorável (80-90%)
+- Disciplina forçada pelas regras de risco
+
+**Desvantagens:**
+- A maioria reprova (custo recorrente)
+- Zona regulatória cinzenta no Brasil
+- Burocracia fiscal (Carnê-Leão mensal)
+- Risco de a firma fechar (como aconteceu com True Forex Funds em 2024)
+
+---
+
+## Perguntas frequentes
+
+**Preciso ter experiência em trading para começar?**
+Sim. As prop firms não ensinam trading — elas avaliam se você já sabe. Antes de comprar qualquer challenge, tenha pelo menos 6-12 meses de prática consistente numa conta demo com resultados comprovados.
+
+**Posso operar com prop firms vivendo no Brasil?**
+Sim, todas as firms listadas acima aceitam traders brasileiros. A questão regulatória afeta principalmente firms sediadas no Brasil — não impede brasileiros de participar em firms internacionais.
+
+**Como recebo os pagamentos?**
+A maioria das firms paga via transferência internacional, Wise ou criptomoedas. O Wise é a opção mais popular entre traders brasileiros por ter câmbio melhor que bancos tradicionais.
+
+**O que acontece se a prop firm fechar?**
+Prop firms podem fechar abruptamente — True Forex Funds (2024) e MyFundedFX (2026) são exemplos recentes. Não deixe lucros por sacar por muito tempo. Saque com regularidade.
+
+**Posso ter contas em várias prop firms ao mesmo tempo?**
+Sim, não há restrição. Traders avançados frequentemente operam em 3-5 firms simultaneamente para maximizar o capital disponível.
+
+---
+
+## Conclusão
+
+As prop firms são uma oportunidade real para traders disciplinados acessarem capital significativo. Mas exigem duas coisas: habilidade de trading comprovada e entendimento claro das obrigações fiscais no Brasil.
+
+Se você já tem resultados consistentes em conta demo, FTMO e CTI são os pontos de partida mais seguros. Se ainda está aprendendo, foque na demo por mais tempo — cada challenge reprovado custa dinheiro real.
+
+[Começar na City Traders Imperium →](https://app.citytradersimperium.com/user-auth/register?referral_code=371f2f&utm_source=client&utm_medium=referral&utm_id=371f2f)
+
+---
+
+*Este artigo é informativo e não constitui aconselhamento financeiro ou jurídico. O trading envolve risco de perda. Consulte um profissional qualificado antes de tomar decisões de investimento. A situação regulatória das prop firms no Brasil pode mudar — verifique sempre informações atualizadas. Alguns links neste artigo são links de afiliado.*
+`
+  }
 ];
