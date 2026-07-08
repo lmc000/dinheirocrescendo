@@ -1,4 +1,4 @@
-export default [
+﻿export default [
   // ─────────────────────────────────────────────
   // FASE 1 — Novos artigos (sem afiliado obrigatório)
   // ─────────────────────────────────────────────
@@ -4577,6 +4577,143 @@ Se você já tem resultados consistentes em conta demo, FTMO e CTI são os ponto
 ---
 
 *Este artigo é informativo e não constitui aconselhamento financeiro ou jurídico. O trading envolve risco de perda. Consulte um profissional qualificado antes de tomar decisões de investimento. A situação regulatória das prop firms no Brasil pode mudar — verifique sempre informações atualizadas. Alguns links neste artigo são links de afiliado.*
+`
+  },
+  {
+    slug: "pgbl-vs-vgbl-qual-escolher-brasil-2026",
+    titulo: "PGBL vs VGBL — Qual Previdência Privada Escolher no Brasil? (Guia 2026)",
+    descricao: "Entenda a diferença entre PGBL e VGBL, quando cada um vale a pena, como funcionam os benefícios fiscais e qual previdência privada faz mais sentido para o seu perfil em 2026.",
+    categoria: "impostos",
+    tags: ["PGBL", "VGBL", "previdência privada", "IR", "aposentadoria", "Brasil"],
+    autor: "Equipa DinheiroCrescendo",
+    data: "2026-07-08",
+    imagem: "/images/pgbl-vs-vgbl-qual-escolher-brasil-2026.jpg",
+    conteudo: `
+A previdência privada é um dos produtos financeiros mais vendidos no Brasil — e também um dos mais mal compreendidos. A principal dúvida de quem está a começar é sempre a mesma: **PGBL ou VGBL?** A resposta certa pode representar uma economia de vários milhares de reais no Imposto de Renda ao longo dos anos. A resposta errada pode custar exatamente o mesmo.
+
+Neste guia, vamos explicar as diferenças com exemplos concretos para você decidir com clareza.
+
+---
+
+## O que é PGBL
+
+**PGBL** significa Plano Gerador de Benefício Livre. O nome é complicado, mas o benefício fiscal é simples: as contribuições feitas ao PGBL são **dedutíveis do Imposto de Renda**, limitadas a 12% da renda bruta tributável anual.
+
+Ou seja: se você ganha R$ 10.000 por mês (R$ 120.000 por ano) e contribui com 12% (R$ 14.400) para um PGBL, declara R$ 14.400 a menos na base de cálculo do IR. Dependendo da sua alíquota marginal (27,5%), isso pode significar uma restituição de quase R$ 4.000.
+
+**Porém**: quando você resgata ou recebe os benefícios, o IR incide sobre o valor **total** resgatado — incluindo o principal que já foi deduzido.
+
+---
+
+## O que é VGBL
+
+**VGBL** significa Vida Gerador de Benefício Livre. Aqui **não há dedução** nas contribuições. O benefício aparece apenas no resgate: o IR incide somente sobre os **rendimentos**, não sobre o valor total.
+
+É tecnicamente classificado como um seguro de vida, não como um plano de previdência — e isso tem implicações no tratamento tributário e na herança (o VGBL não entra no inventário).
+
+---
+
+## PGBL ou VGBL: a regra de ouro
+
+A escolha depende quase que exclusivamente de **como você declara o Imposto de Renda**:
+
+| Situação | Recomendação |
+|---|---|
+| Declara IR pelo modelo completo (deduções) | **PGBL** — aproveite a dedução de até 12% |
+| Declara pelo modelo simplificado (20% desconto padrão) | **VGBL** — o PGBL não traz vantagem real |
+| Já investiu R$ acima de 12% da renda em PGBL | **VGBL** para o excedente |
+| É isento de IR ou renda muito baixa | **VGBL** — sem IR a deduzir |
+| Planejamento sucessório | **VGBL** — não entra no inventário |
+
+### Por que o modelo de declaração importa tanto?
+
+Quando você usa o modelo completo, as contribuições ao PGBL reduzem diretamente a base de cálculo do IR. O dinheiro que iria para o leão vai para a sua reserva. É o chamado "efeito de alavancagem fiscal" — o governo financia parte do seu plano.
+
+No modelo simplificado, o fisco já aplica um desconto padrão de 20% sobre a renda (até R$ 16.754,34 em 2026). Neste caso, adicionar deduções via PGBL não reduz o IR, então a vantagem some.
+
+---
+
+## Tabelas de tributação: progressiva ou regressiva?
+
+Tanto o PGBL quanto o VGBL permitem escolher **como o IR será cobrado no resgate**:
+
+### Tabela Progressiva (a mesma do salário)
+- Indicada para resgates de **curto prazo** ou quem espera ter renda baixa na aposentadoria
+- Alíquotas: 0% (até R$ 2.428,80), 7,5%, 15%, 22,5% ou 27,5%
+- Retenção na fonte de 15% com ajuste na declaração anual
+
+### Tabela Regressiva (exclusiva de previdência)
+- Quanto mais tempo o dinheiro fica aplicado, **menor o IR**:
+  - Até 2 anos: 35%
+  - 2 a 4 anos: 30%
+  - 4 a 6 anos: 25%
+  - 6 a 8 anos: 20%
+  - 8 a 10 anos: 15%
+  - Acima de 10 anos: **10%**
+- Ideal para quem pensa a longo prazo (10+ anos) e espera ter renda alta na aposentadoria
+
+**Regra prática:** se o objetivo é aposentadoria e você tem mais de 10 anos pela frente, a tabela regressiva quase sempre ganha. Se quer flexibilidade ou prazo curto, a progressiva pode ser melhor.
+
+---
+
+## Taxas que você precisa conhecer (e negociar)
+
+A previdência privada cobra três tipos de taxas:
+
+### Taxa de Carregamento
+Cobrada sobre cada aporte (entrada) ou resgate (saída). Muitos bancos grandes ainda cobram 1-3% na entrada. **Fuja de planos com carregamento de entrada** — isso corrói o capital antes mesmo de começar a render.
+
+### Taxa de Administração
+Cobrada anualmente sobre o patrimônio. No varejo bancário, é comum encontrar 2-3% ao ano — o que é absurdo. Em seguradoras independentes (XP Seguros, Icatu, Porto Seguro), consegue-se 0,5-1% ao ano. Em fundos exclusivos, abaixo de 0,5%.
+
+### Taxa de Performance
+Cobrada quando o fundo supera o benchmark. Não é necessariamente ruim se a gestão for ativa e qualificada.
+
+**Comparação de impacto**: R$ 500 por mês durante 30 anos, com retorno bruto de 8% ao ano:
+- Com taxa de administração de **0,5%**: patrimônio de R$ 680.000
+- Com taxa de administração de **2,0%**: patrimônio de R$ 495.000
+- **Diferença**: R$ 185.000 só pela taxa
+
+---
+
+## Simulação prática: PGBL vs VGBL vs NTN-B
+
+Para ilustrar, compare três estratégias para um contribuinte na alíquota de 27,5% que investe R$ 1.000/mês por 20 anos com retorno de 7% ao ano real:
+
+| Estratégia | Capital acumulado | IR no resgate | Líquido estimado |
+|---|---|---|---|
+| PGBL + regressiva 10% | R$ 530.000 | ~R$ 53.000 | ~R$ 477.000 |
+| VGBL + regressiva 10% | R$ 530.000 | ~R$ 37.000 (só sobre ganhos) | ~R$ 493.000 |
+| Tesouro IPCA+ direto | R$ 530.000 | 15% sobre ganhos | ~R$ 500.000 |
+
+**Surpresa**: o Tesouro Direto competitivo com a previdência privada? Sim — especialmente quando as taxas da previdência são altas. A vantagem real do PGBL está na restituição anual (que reinvestida faz a diferença) e no planejamento sucessório do VGBL.
+
+---
+
+## Quando a previdência privada **não** vale a pena
+
+- Quando as taxas de administração ultrapassam 1,5% ao ano
+- Quando há carregamento de entrada acima de 0%
+- Quando o prazo é inferior a 5 anos
+- Quando você declara pelo modelo simplificado e o gestor recomenda PGBL
+
+---
+
+## Conclusão: PGBL ou VGBL?
+
+**Escolha PGBL se:**
+- Declara pelo modelo completo do IR
+- Está na alíquota de 22,5% ou 27,5%
+- Tem horizonte de 10+ anos
+- Vai reinvestir a restituição anual
+
+**Escolha VGBL se:**
+- Declara pelo simplificado ou é isento
+- Já aportou os 12% da renda no PGBL
+- Quer planejamento sucessório (herança sem inventário)
+- Prazo é menor que 10 anos
+
+Em qualquer caso, **compare as taxas de administração** antes de qualquer coisa. Um PGBL excelente mal gerido perde para um VGBL eficiente. Use também a nossa [Calculadora de Salário Líquido](/calculadoras/salario-liquido/) para entender qual é a sua alíquota marginal real — isso ajuda a dimensionar o benefício fiscal do PGBL.
 `
   }
 ];
