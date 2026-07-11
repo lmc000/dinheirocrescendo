@@ -4715,5 +4715,143 @@ Para ilustrar, compare três estratégias para um contribuinte na alíquota de 2
 
 Em qualquer caso, **compare as taxas de administração** antes de qualquer coisa. Um PGBL excelente mal gerido perde para um VGBL eficiente. Use também a nossa [Calculadora de Salário Líquido](/calculadoras/salario-liquido/) para entender qual é a sua alíquota marginal real — isso ajuda a dimensionar o benefício fiscal do PGBL.
 `
+  },
+  {
+    slug: "fgts-comprar-casa-2026-guia-completo",
+    titulo: "Como Usar o FGTS para Comprar Casa em 2026 — Regras, Limites e Passo a Passo",
+    descricao: "Guia completo sobre o uso do FGTS na compra de imóvel em 2026: quem pode usar, limites de valor, documentação necessária, modalidades do SFH e SFI e como simular.",
+    categoria: "imoveis",
+    tags: ["FGTS", "casa própria", "financiamento imobiliário", "SFH", "Caixa Econômica", "Brasil"],
+    autor: "Equipa DinheiroCrescendo",
+    data: "2026-07-11",
+    imagem: "/images/fgts-comprar-casa-2026-guia-completo.jpg",
+    conteudo: `
+O FGTS (Fundo de Garantia do Tempo de Serviço) é um dos maiores patrimônios financeiros de muitos brasileiros — e também um dos menos aproveitados. Enquanto o saldo rende apenas TR + 3% ao ano (muito abaixo da inflação), usá-lo estrategicamente na compra da casa própria pode representar uma economia de dezenas de milhares de reais em juros de financiamento.
+
+---
+
+## Quem pode usar o FGTS para comprar imóvel?
+
+Para utilizar o FGTS na aquisição de imóvel, você precisa cumprir **todos** os seguintes requisitos:
+
+- Ter no mínimo **3 anos de trabalho sob regime CLT** (somando todos os vínculos, consecutivos ou não)
+- **Não possuir imóvel residencial** no município onde trabalha ou reside, nem nos municípios limítrofes
+- **Não ter financiamento ativo** no Sistema Financeiro de Habitação (SFH) em qualquer parte do país
+- Não ter usado o FGTS para compra de imóvel nos últimos **3 anos**
+
+**Atenção**: a regra dos 3 anos é sobre o período de trabalho, não sobre o saldo. Você pode ter R$ 200.000 no FGTS mas não poder usá-lo se não tiver 3 anos acumulados.
+
+---
+
+## Para que o FGTS pode ser usado no imóvel
+
+### 1. Entrada (amortização do valor)
+A forma mais comum. O FGTS paga parte do valor do imóvel diretamente, reduzindo o montante financiado e, consequentemente, os juros totais pagos.
+
+### 2. Redução da prestação mensal
+O FGTS pode ser usado para abater parcelas do financiamento — reduzindo a prestação ou o prazo, dependendo do contrato.
+
+### 3. Liquidação total do saldo devedor
+Se o saldo do FGTS for suficiente para quitar o restante do financiamento, é possível usar para amortização total.
+
+### 4. Pagamento de parte das prestações
+É possível usar o FGTS para pagar até 80% da prestação mensal por um período limitado — opção útil em momentos de dificuldade financeira.
+
+---
+
+## Limites de valor do imóvel em 2026
+
+O uso do FGTS está condicionado ao valor do imóvel:
+
+| Modalidade | Limite de valor do imóvel |
+|---|---|
+| SFH (Sistema Financeiro de Habitação) | Até R$ 1.500.000 (em 2026, após reajuste) |
+| Minha Casa Minha Vida (Faixa 1-3) | Conforme faixa de renda e município |
+| SFI (Sistema de Financiamento Imobiliário) | Sem limite, mas FGTS não pode ser usado |
+
+**Importante**: o SFI (imóveis acima do teto) não permite uso do FGTS. Se você quer usar o fundo, o imóvel deve estar dentro do limite do SFH.
+
+---
+
+## Minha Casa Minha Vida (MCMV) e FGTS
+
+O programa Minha Casa Minha Vida combina FGTS com subsídios governamentais. Em 2026, as faixas são:
+
+**Faixa 1** (renda familiar até R$ 2.850/mês): subsídio máximo + juros mínimos (4,5% a 5% a.a.). FGTS pode ser usado além do subsídio.
+
+**Faixa 2** (até R$ 4.700/mês): subsídio parcial + taxas entre 5% e 7% a.a.
+
+**Faixa 3** (até R$ 8.600/mês): sem subsídio direto, mas taxas reduzidas em relação ao mercado (7% a 8% a.a.).
+
+Para todas as faixas, o FGTS pode complementar a entrada e reduzir o valor financiado.
+
+---
+
+## Passo a passo para usar o FGTS na compra
+
+### Passo 1: Verifique o saldo e a situação cadastral
+Acesse o aplicativo **FGTS** (disponível para iOS e Android) ou o site da Caixa Econômica Federal. Confirme o saldo disponível e se há alguma restrição no cadastro.
+
+### Passo 2: Confirme os requisitos
+Solicite na Caixa a **Certidão de Situação de Débito** e a consulta de financiamentos ativos no SFH. Isso pode ser feito online ou em agência.
+
+### Passo 3: Escolha o imóvel e o banco
+O FGTS pode ser usado em financiamentos de qualquer banco (Caixa, Bradesco, Itaú, Santander, etc.), desde que o contrato seja enquadrado no SFH.
+
+### Passo 4: Solicite a autorização de uso do FGTS
+No momento do financiamento, o banco solicitará a autorização junto à Caixa. Você precisará de:
+- Extrato do FGTS dos últimos 3 anos
+- Carteira de trabalho ou CTPS digital
+- Declaração de não possuir imóvel (pode ser declaração própria com reconhecimento de firma)
+- Comprovante de residência e renda
+
+### Passo 5: Assinatura do contrato
+O valor do FGTS é transferido diretamente da conta vinculada para o vendedor ou construtora, sem passar pela sua conta corrente.
+
+---
+
+## Simulação: o impacto do FGTS no financiamento
+
+**Cenário**: imóvel de R$ 400.000, renda de R$ 6.000/mês, FGTS disponível de R$ 40.000.
+
+| | Sem FGTS | Com FGTS |
+|---|---|---|
+| Valor financiado | R$ 320.000 | R$ 280.000 |
+| Prazo | 360 meses | 360 meses |
+| Taxa (estimativa SFH) | 10,5% a.a. | 10,5% a.a. |
+| Prestação inicial | ~R$ 3.070 | ~R$ 2.688 |
+| Total pago em juros | ~R$ 305.000 | ~R$ 267.000 |
+| **Economia total** | — | **~R$ 38.000** |
+
+O FGTS de R$ 40.000 economiza ~R$ 38.000 adicionais em juros ao longo do financiamento — praticamente dobrando o benefício do saldo aplicado.
+
+---
+
+## Erros comuns ao usar o FGTS
+
+**Usar o FGTS para reduzir a prestação em vez de amortizar**: reduzir a prestação é confortável no curto prazo, mas amortizar o principal economiza muito mais em juros ao longo do tempo. Sempre que possível, prefira amortizar.
+
+**Não verificar a situação cadastral com antecedência**: descobrir restrições no dia da assinatura do contrato atrasa tudo. Verifique com pelo menos 60 dias de antecedência.
+
+**Ignorar o saldo conjunto do casal**: cônjuges podem somar os saldos de FGTS de ambas as contas. Em compra conjunta, isso pode representar uma entrada significativamente maior.
+
+---
+
+## FGTS e investimento: vale a pena usar?
+
+Uma dúvida comum: "meu FGTS rende pouco, mas não é melhor investir o dinheiro do que usá-lo para quitar juros de 10%?"
+
+A matemática é clara: o FGTS rende TR + 3% ao ano (em torno de 5-6% brutos em 2026). Um financiamento imobiliário custa 10-11% ao ano. **Usar o FGTS para reduzir o financiamento é equivalente a um investimento garantido de 10-11% ao ano** — melhor do que qualquer renda fixa disponível com a mesma segurança.
+
+A única exceção: se você tiver acesso ao **saque-aniversário** (onde retira parte do FGTS anualmente), perde o direito de usar o saldo para compra de imóvel no período do acordo. Avalie cuidadosamente antes de aderir ao saque-aniversário se a compra de imóvel estiver nos planos.
+
+---
+
+## Conclusão
+
+O FGTS é uma das ferramentas mais poderosas para viabilizar a compra da casa própria no Brasil — e usá-lo estrategicamente pode economizar dezenas de milhares de reais em juros. O segredo está em verificar os requisitos com antecedência, usar o saldo para amortizar o principal (não só para reduzir a prestação) e combinar o FGTS com as melhores condições de financiamento disponíveis.
+
+Use também a nossa [Calculadora de Rescisão CLT](/calculadoras/rescisao/) para saber quanto você vai receber do FGTS em caso de demissão sem justa causa — importante para quem está a planear a compra com o saldo acumulado.
+`
   }
 ];
