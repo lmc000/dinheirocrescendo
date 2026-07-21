@@ -4853,5 +4853,69 @@ O FGTS é uma das ferramentas mais poderosas para viabilizar a compra da casa pr
 
 Use também a nossa [Calculadora de Rescisão CLT](/calculadoras/rescisao/) para saber quanto você vai receber do FGTS em caso de demissão sem justa causa — importante para quem está a planear a compra com o saldo acumulado.
 `
+  },
+  {
+    slug: "tesouro-direto-2026-qual-titulo-escolher-objetivo",
+    titulo: "Tesouro Direto 2026: Qual Título Escolher de Acordo com Seu Objetivo",
+    descricao: "Guia completo do Tesouro Direto em 2026: diferenças entre Selic, IPCA+ e Prefixado, qual escolher para reserva de emergência, aposentadoria ou médio prazo, e como começar.",
+    categoria: "investimentos",
+    tags: ["tesouro direto", "tesouro selic", "IPCA+", "investimentos brasil", "renda fixa 2026"],
+    autor: "Equipa Dinheiro Crescendo",
+    data: "2026-07-21",
+    imagem: "/images/tesouro-direto-2026-qual-titulo-escolher-objetivo.jpg",
+    conteudo: `
+O Tesouro Direto é o investimento de renda fixa mais acessível do Brasil — dá para começar com menos de R$ 50 e comprar diretamente pelo site do Tesouro Nacional ou por qualquer corretora. Mas a dúvida de quase todo iniciante é a mesma: existe mais de um tipo de título, e a escolha errada pode custar rendimento real ou criar problemas de liquidez.
+
+## Os três tipos de título do Tesouro Direto
+
+### Tesouro Selic (LFT)
+Rende de acordo com a taxa Selic, hoje em 14,75% ao ano. A rentabilidade acompanha a Selic diariamente. Liquidez imediata sem risco de perda — você pode resgatar qualquer dia útil e sempre receberá o valor investido mais os juros acumulados. **Ideal para reserva de emergência** e dinheiro que pode precisar no curto prazo.
+
+### Tesouro IPCA+ (NTN-B)
+Rende IPCA (inflação oficial) + uma taxa prefixada. Por exemplo, "IPCA+ 6,12%" ao ano significa que você ganha a inflação + 6,12% de juros reais. Existe em versão simples (paga tudo no vencimento) e com Juros Semestrais (cupons a cada 6 meses).
+
+**Risco importante**: se vender antes do vencimento, o preço pode ser menor que o investido (marcação a mercado). O título é excelente se segurar até o vencimento.
+
+**Para quem**: objetivo de longo prazo — aposentadoria, independência financeira. Vencimentos vão até 2055 e 2060. Em 2026, com IPCA+ acima de 6% ao ano, os títulos estão historicamente atrativos.
+
+### Tesouro Prefixado (LTN e NTN-F)
+Rende uma taxa fixa definida no momento da compra. Você sabe exatamente quanto vai receber se segurar até o vencimento, independente da Selic ou inflação. É o mais especulativo dos três — exige uma aposta direcional sobre os juros.
+
+**Para quem**: investidor que acredita que a Selic vai cair e quer travar a taxa atual. Objetivo de médio prazo (2-5 anos) com data de uso definida.
+
+## Comparativo rápido
+
+| | Tesouro Selic | IPCA+ | Prefixado |
+|---|---|---|---|
+| Rende | Selic (variável) | Inflação + taxa fixa | Taxa fixa |
+| Liquidez | Alta (sem risco) | Baixa antes do vencimento | Baixa antes do vencimento |
+| Melhor para | Reserva de emergência | Longo prazo | Médio prazo (previsível) |
+
+## Qual escolher em 2026?
+
+Com Selic em 14,75% e IPCA+ acima de 6% ao ano, o ambiente é de juros altos — oportunidade histórica nos títulos IPCA+.
+
+**Estratégia conservadora para começar**:
+- 50-60% Tesouro Selic (reserva de emergência e liquidez)
+- 30-40% Tesouro IPCA+ de longo prazo (aposentadoria)
+- 10% Tesouro Prefixado (se acreditar em queda de juros)
+
+**Se você só vai fazer um investimento**: Tesouro Selic enquanto está formando a reserva de emergência; IPCA+ quando a reserva já está completa e quer investir para o longo prazo.
+
+## Como começar
+
+1. Abra conta em uma corretora (XP, Rico, NuInvest, Inter, BTG) — todas sem taxa adicional
+2. Acesse Renda Fixa → Tesouro Direto
+3. Escolha o título conforme o objetivo
+4. Invista o valor desejado (mínimo ~R$ 42 para Tesouro Selic em 2026)
+
+## Tributação
+
+Tabela regressiva do IR: até 180 dias (22,5%), 181-360 dias (20%), 361-720 dias (17,5%), acima de 720 dias (15%). Para investimentos de longo prazo, o imposto é de apenas 15% — incentivo claro ao investidor paciente.
+
+## Conclusão
+
+O Tesouro Direto é a base de qualquer carteira no Brasil — seguro, acessível e com boa rentabilidade na atual conjuntura. A chave é escolher o título certo para o seu objetivo: Selic para o curto prazo, IPCA+ para o longo prazo. O resto é paciência.
+`
   }
 ];
