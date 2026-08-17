@@ -5076,5 +5076,119 @@ Enquanto aplica o método escolhido, trabalhe nos dois lados:
 
 Sair das dívidas não é um sprint — é uma maratona que requer método, consistência e paciência. A escolha entre bola de neve e avalanche importa menos do que escolher um e manter-se fiel a ele. Comece pelo mapa das dívidas hoje, escolha a sua estratégia, e faça o primeiro pagamento extra esta semana. O momentum começa com a primeira ação.
 `
+  },
+  {
+    slug: "fundednext-review-prop-trading-conta-financiada-brasil-2026",
+    titulo: "FundedNext Review: Prop Trading com Conta Financiada Vale a Pena? (2026)",
+    descricao: "Review completa da FundedNext no Brasil: o que é prop trading, como funciona a avaliação, regras de drawdown, divisão de lucros e para quem faz sentido uma conta financiada.",
+    categoria: "investimentos",
+    tags: ["FundedNext", "prop trading", "conta financiada", "trading Brasil", "como ganhar dinheiro trading"],
+    autor: "Equipa Dinheiro Crescendo",
+    data: "2026-07-28",
+    imagem: "/images/fundednext-review-prop-trading-conta-financiada-brasil-2026.jpg",
+    conteudo: `
+O prop trading chegou para ficar — e está mudando a forma como traders brasileiros acessam capital para operar no mercado financeiro. A FundedNext é uma das maiores prop firms do mundo, com traders em mais de 150 países, incluindo o Brasil. Neste artigo, explicamos como funciona, o que esperar e se vale a pena para o seu perfil.
+
+## O que é prop trading e conta financiada?
+
+Prop trading (ou proprietary trading) é quando uma empresa financia um trader com capital próprio para operar no mercado. Em vez de arriscar o seu dinheiro, você opera com o capital da empresa e divide os lucros gerados.
+
+O processo funciona assim:
+1. Você paga uma taxa de avaliação (challenge fee) — geralmente de $50 a $500 dependendo do tamanho da conta
+2. Passa por uma ou duas fases de avaliação, demonstrando consistência e gestão de risco
+3. Ao ser aprovado, recebe uma conta financiada com capital real
+4. Os lucros são divididos — tipicamente 80% a 90% vão para você
+
+Para traders com estratégia comprovada mas capital limitado, é uma das formas mais acessíveis de operar com somas significativas.
+
+## O que é a FundedNext?
+
+Fundada em 2022 e com sede em Dubai, a FundedNext cresceu para se tornar uma das prop firms com melhor reputação globalmente. Já pagou mais de $20 milhões em lucros para traders e tem mais de 200.000 usuários registados. Opera em Forex, índices, metais, energia e Futuros.
+
+[Abrir conta na FundedNext →](https://fundednext.com?fpr=luis-miguel11)
+
+## Tipos de avaliação disponíveis
+
+### Stellar 2-Phase (mais popular)
+- **Fase 1**: atingir 8% de lucro sem violar o drawdown
+- **Fase 2**: atingir 5% de lucro com as mesmas regras
+- Sem prazo mínimo ou máximo para completar
+- Drawdown diário máximo: 5% | Drawdown total máximo: 10%
+
+### Stellar 1-Phase
+- Atingir 10% de lucro em uma única fase
+- Mais ágil, mas objetivo de lucro mais alto
+
+### Express
+Para traders agressivos — objetivos maiores, comissão de até 95% na conta financiada.
+
+### Tamanhos de conta
+$6.000 | $15.000 | $25.000 | $50.000 | $100.000 | $200.000
+
+Uma avaliação Stellar 2-Phase de $25.000 custa cerca de $149 (aproximadamente R$750 na cotação atual).
+
+## Regras fundamentais que você precisa entender
+
+**Drawdown diário (5%)**: a perda máxima permitida em um único dia de trading. Com $25.000, você não pode perder mais de $1.250 num dia.
+
+**Drawdown total (10%)**: a perda acumulada máxima desde o início. O limite é $2.500 numa conta de $25.000. Se atingir, a conta é encerrada.
+
+**Regra de consistência**: o melhor dia de lucro não pode representar mais de 30-50% do lucro total acumulado. Evita estratégias de "tudo ou nada".
+
+**EAs e robôs**: permitidos na maioria dos planos, desde que não utilizem estratégias proibidas (hedging entre contas, arbitragem de latência).
+
+**Trading em notícias**: alguns planos restringem operações durante notícias de alto impacto (NFP, decisões do Fed). Verifique as regras do seu plano.
+
+## Divisão de lucros e pagamentos
+
+**Porcentagem**: 80% dos lucros para você no plano Stellar padrão. Pode ser aumentada até 95% com o plano Express.
+
+**Primeiro pagamento**: após 14 dias de trading na conta financiada — muito mais rápido do que a maioria das prop firms (que exige 30-60 dias).
+
+**Reembolso da taxa**: a taxa de avaliação é reembolsada no primeiro pagamento de lucros.
+
+**Lucros durante a avaliação**: diferencial exclusivo da FundedNext — 15% dos lucros gerados durante as fases de avaliação são pagos, mesmo antes da aprovação.
+
+**Como receber**: Wise, transferência bancária, criptomoedas. Para traders brasileiros, Wise é geralmente o método mais prático para receber em dólar.
+
+## O que distingue a FundedNext?
+
+- Sem prazo mínimo de trading (muitas concorrentes exigem 10-30 dias mínimos)
+- Partilha de 15% dos lucros gerados durante a própria avaliação
+- Dashboard profissional com métricas em tempo real
+- MetaTrader 4 e 5 disponíveis
+- Suporte por chat em directo 24/5
+
+## Para quem vale a pena?
+
+**Faz sentido investir na avaliação se você**:
+- Já opera há pelo menos 6-12 meses com resultados documentados
+- Tem uma estratégia testada em backtesting e em conta demo
+- Entende gestão de risco e opera com stops definidos
+- Busca alavancar resultados consistentes, não aprender a operar
+
+**Não faz sentido se você**:
+- Ainda está aprendendo — a taxa de avaliação será um custo de aprendizado caro
+- Não tem uma estratégia definida e testada
+- Espera resultados rápidos sem consistência comprovada
+
+## A dura realidade das prop firms
+
+Estatísticas de diversas prop firms indicam que apenas 10-25% das avaliações são aprovadas. Isso não é para desanimar — significa que exige preparação séria. Traders que passam geralmente já operam com conta real há algum tempo e têm um histórico de performance positivo. A avaliação não é onde você aprende a fazer trading — é onde você prova que já sabe.
+
+## Como começar
+
+1. Acesse a FundedNext e crie uma conta gratuita
+2. Estude as regras do plano que te interessa
+3. Simule a avaliação em conta demo durante 30-60 dias com as mesmas regras
+4. Documente seus resultados — taxa de acerto, relação risco/retorno, drawdown máximo
+5. Só avance para a avaliação paga quando tiver consistência comprovada
+
+[Começar na FundedNext →](https://fundednext.com?fpr=luis-miguel11)
+
+## Conclusão
+
+A FundedNext é uma prop firm séria, com boa reputação de pagamentos e condições competitivas em 2026. Para traders brasileiros com estratégia comprovada, é uma oportunidade real de operar com capital significativo sem arriscar as próprias economias. Se você ainda está aprendendo, foque em consistência primeiro — a conta financiada é o próximo passo, não o primeiro.
+`
   }
 ];
